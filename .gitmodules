@@ -1,0 +1,3 @@
+[submodule "riodata"]
+	path = riodata
+	url = https://github.com/ropenscilabs/riodata
