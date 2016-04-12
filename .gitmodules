@@ -1,3 +1,6 @@
 [submodule "riodata"]
 	path = riodata
 	url = https://github.com/ropenscilabs/riodata
+[submodule "colorpiler"]
+	path = colorpiler
+	url = https://github.com/ropenscilabs/colorpiler
