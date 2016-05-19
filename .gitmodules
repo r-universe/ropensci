@@ -4,3 +4,6 @@
 [submodule "colorpiler"]
 	path = colorpiler
 	url = https://github.com/ropenscilabs/colorpiler
+[submodule "snowball"]
+	path = snowball
+	url = https://github.com/ropenscilabs/snowball
