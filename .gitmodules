@@ -7,3 +7,6 @@
 [submodule "snowball"]
 	path = snowball
 	url = https://github.com/ropenscilabs/snowball
+[submodule "splister"]
+	path = splister
+	url = https://github.com/ropenscilabs/splister
