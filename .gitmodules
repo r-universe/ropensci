@@ -10,3 +10,6 @@
 [submodule "splister"]
 	path = splister
 	url = https://github.com/ropenscilabs/splister
+[submodule "phyrmeta"]
+	path = phyrmeta
+	url = https://github.com/ropenscilabs/phyrmeta
