@@ -13,3 +13,6 @@
 [submodule "phyrmeta"]
 	path = phyrmeta
 	url = https://github.com/ropenscilabs/phyrmeta
+[submodule "ridb"]
+	path = ridb
+	url = https://github.com/ropenscilabs/ridb
