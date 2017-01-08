@@ -16,3 +16,6 @@
 [submodule "ridb"]
 	path = ridb
 	url = https://github.com/ropenscilabs/ridb
+[submodule "convertr"]
+	path = convertr
+	url = https://github.com/ropenscilabs/convertr
