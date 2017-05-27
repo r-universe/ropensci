@@ -19,3 +19,6 @@
 [submodule "convertr"]
 	path = convertr
 	url = https://github.com/ropenscilabs/convertr
+[submodule "ponyexpress"]
+	path = ponyexpress
+	url = https://github.com/ropenscilabs/ponyexpress
