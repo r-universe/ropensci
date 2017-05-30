@@ -22,3 +22,6 @@
 [submodule "ponyexpress"]
 	path = ponyexpress
 	url = https://github.com/ropenscilabs/ponyexpress
+[submodule "testrmd"]
+	path = testrmd
+	url = https://github.com/ropenscilabs/testrmd
