@@ -25,3 +25,6 @@
 [submodule "testrmd"]
 	path = testrmd
 	url = https://github.com/ropenscilabs/testrmd
+[submodule "notary"]
+	path = notary
+	url = https://github.com/ropenscilabs/notary
