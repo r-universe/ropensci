@@ -28,3 +28,6 @@
 [submodule "notary"]
 	path = notary
 	url = https://github.com/ropenscilabs/notary
+[submodule "ochRe"]
+	path = ochRe
+	url = https://github.com/ropenscilabs/ochRe
