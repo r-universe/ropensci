@@ -31,3 +31,6 @@
 [submodule "ochRe"]
 	path = ochRe
 	url = https://github.com/ropenscilabs/ochRe
+[submodule "changes"]
+	path = changes
+	url = https://github.com/ropenscilabs/changes
