@@ -34,3 +34,6 @@
 [submodule "changes"]
 	path = changes
 	url = https://github.com/ropenscilabs/changes
+[submodule "rrlite"]
+	path = rrlite
+	url = https://github.com/ropensci/rrlite
