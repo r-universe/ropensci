@@ -37,3 +37,6 @@
 [submodule "rrlite"]
 	path = rrlite
 	url = https://github.com/ropensci/rrlite
+[submodule "IEEER"]
+	path = IEEER
+	url = https://github.com/ropensci/IEEER
