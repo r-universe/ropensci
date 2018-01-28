@@ -43,3 +43,6 @@
 [submodule "aspacer"]
 	path = aspacer
 	url = https://github.com/ropenscilabs/aspacer
+[submodule "dissemr"]
+	path = dissemr
+	url = https://github.com/ropenscilabs/dissemr
