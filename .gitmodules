@@ -52,3 +52,6 @@
 [submodule "rftdoi"]
 	path = rftdoi
 	url = https://github.com/ropenscilabs/rftdoi
+[submodule "spplist"]
+	path = spplist
+	url = https://github.com/ropenscilabs/spplist
