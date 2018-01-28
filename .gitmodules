@@ -40,3 +40,6 @@
 [submodule "IEEER"]
 	path = IEEER
 	url = https://github.com/ropensci/IEEER
+[submodule "aspacer"]
+	path = aspacer
+	url = https://github.com/ropenscilabs/aspacer
