@@ -49,3 +49,6 @@
 [submodule "hoasts"]
 	path = hoasts
 	url = https://github.com/ropenscilabs/hoasts
+[submodule "rftdoi"]
+	path = rftdoi
+	url = https://github.com/ropenscilabs/rftdoi
