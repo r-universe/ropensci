@@ -46,3 +46,6 @@
 [submodule "dissemr"]
 	path = dissemr
 	url = https://github.com/ropenscilabs/dissemr
+[submodule "hoasts"]
+	path = hoasts
+	url = https://github.com/ropenscilabs/hoasts
