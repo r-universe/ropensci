@@ -55,3 +55,6 @@
 [submodule "spplist"]
 	path = spplist
 	url = https://github.com/ropenscilabs/spplist
+[submodule "urltemplate"]
+	path = urltemplate
+	url = https://github.com/ropenscilabs/urltemplate
