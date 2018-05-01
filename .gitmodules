@@ -58,3 +58,6 @@
 [submodule "urltemplate"]
 	path = urltemplate
 	url = https://github.com/ropenscilabs/urltemplate
+[submodule "rresync"]
+	path = rresync
+	url = https://github.com/ropenscilabs/rresync
