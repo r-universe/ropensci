@@ -55,3 +55,6 @@
 [submodule "spplist"]
 	path = spplist
 	url = https://github.com/ropenscilabs/spplist
+[submodule "rresync"]
+	path = rresync
+	url = https://github.com/ropenscilabs/rresync
