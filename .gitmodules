@@ -58,3 +58,6 @@
 [submodule "rresync"]
 	path = rresync
 	url = https://github.com/ropenscilabs/rresync
+[submodule "datasauce"]
+	path = datasauce
+	url = https://github.com/ropenscilabs/datasauce
