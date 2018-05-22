@@ -61,3 +61,6 @@
 [submodule "datasauce"]
 	path = datasauce
 	url = https://github.com/ropenscilabs/datasauce
+[submodule "keybase"]
+	path = keybase
+	url = https://github.com/ropenscilabs/keybase
