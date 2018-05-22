@@ -67,3 +67,6 @@
 [submodule "keybase"]
 	path = keybase
 	url = https://github.com/ropenscilabs/keybase
+[submodule "trackmd"]
+	path = trackmd
+	url = https://github.com/ropenscilabs/trackmd
