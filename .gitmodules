@@ -73,3 +73,6 @@
 [submodule "jobstatus"]
 	path = jobstatus
 	url = https://github.com/ropenscilabs/jobstatus
+[submodule "mchtoolbox"]
+	path = mchtoolbox
+	url = https://github.com/ropenscilabs/mchtoolbox
