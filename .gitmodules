@@ -76,3 +76,6 @@
 [submodule "mchtoolbox"]
 	path = mchtoolbox
 	url = https://github.com/ropenscilabs/mchtoolbox
+[submodule "pegax"]
+	path = pegax
+	url = https://github.com/ropenscilabs/pegax
