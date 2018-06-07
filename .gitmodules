@@ -88,3 +88,6 @@
 [submodule "decapitated"]
 	path = decapitated
 	url = https://github.com/ropenscilabs/decapitated
+[submodule "testevil"]
+	path = testevil
+	url = https://github.com/ropenscilabs/testevil
