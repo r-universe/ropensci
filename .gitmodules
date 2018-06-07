@@ -79,3 +79,6 @@
 [submodule "pegax"]
 	path = pegax
 	url = https://github.com/ropenscilabs/pegax
+[submodule "arresteddev"]
+	path = arresteddev
+	url = https://github.com/ropenscilabs/arresteddev
