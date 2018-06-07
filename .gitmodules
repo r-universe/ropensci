@@ -76,3 +76,6 @@
 [submodule "arresteddev"]
 	path = arresteddev
 	url = https://github.com/ropenscilabs/arresteddev
+[submodule "datapkg"]
+	path = datapkg
+	url = https://github.com/ropenscilabs/datapkg
