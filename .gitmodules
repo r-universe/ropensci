@@ -79,3 +79,6 @@
 [submodule "datapkg"]
 	path = datapkg
 	url = https://github.com/ropenscilabs/datapkg
+[submodule "decapitated"]
+	path = decapitated
+	url = https://github.com/ropenscilabs/decapitated
