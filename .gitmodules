@@ -73,3 +73,6 @@
 [submodule "mchtoolbox"]
 	path = mchtoolbox
 	url = https://github.com/ropenscilabs/mchtoolbox
+[submodule "arresteddev"]
+	path = arresteddev
+	url = https://github.com/ropenscilabs/arresteddev
