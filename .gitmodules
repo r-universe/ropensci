@@ -91,3 +91,6 @@
 [submodule "testevil"]
 	path = testevil
 	url = https://github.com/ropenscilabs/testevil
+[submodule "USAboundariesData"]
+	path = USAboundariesData
+	url = https://github.com/ropensci/USAboundariesData
