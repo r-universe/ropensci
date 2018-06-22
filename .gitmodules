@@ -97,3 +97,6 @@
 [submodule "middlechild"]
 	path = middlechild
 	url = https://github.com/ropenscilabs/middlechild
+[submodule "packagemetrics"]
+	path = packagemetrics
+	url = https://github.com/ropenscilabs/packagemetrics
