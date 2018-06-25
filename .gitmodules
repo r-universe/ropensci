@@ -91,3 +91,6 @@
 [submodule "middlechild"]
 	path = middlechild
 	url = https://github.com/ropenscilabs/middlechild
+[submodule "roomba"]
+	path = roomba
+	url = https://github.com/ropenscilabs/roomba
