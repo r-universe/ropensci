@@ -100,3 +100,6 @@
 [submodule "packagemetrics"]
 	path = packagemetrics
 	url = https://github.com/ropenscilabs/packagemetrics
+[submodule "roomba"]
+	path = roomba
+	url = https://github.com/ropenscilabs/roomba
