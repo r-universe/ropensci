@@ -103,3 +103,6 @@
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
+[submodule "dirdf"]
+	path = dirdf
+	url = https://github.com/ropenscilabs/dirdf
