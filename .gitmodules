@@ -1150,3 +1150,6 @@
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/ropensci/rnassqs
+[submodule "MonetDBLite"]
+	path = MonetDBLite
+	url = https://github.com/ropenscilabs/MonetDBLite
