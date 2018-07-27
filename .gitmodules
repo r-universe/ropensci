@@ -97,3 +97,6 @@
 [submodule "dirdf"]
 	path = dirdf
 	url = https://github.com/ropenscilabs/dirdf
+[submodule "MonetDBLite"]
+	path = MonetDBLite
+	url = https://github.com/ropenscilabs/MonetDBLite
