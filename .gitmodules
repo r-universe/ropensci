@@ -106,3 +106,6 @@
 [submodule "dirdf"]
 	path = dirdf
 	url = https://github.com/ropenscilabs/dirdf
+[submodule "pkginspector"]
+	path = pkginspector
+	url = https://github.com/ropenscilabs/pkginspector
