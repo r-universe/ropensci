@@ -1735,6 +1735,10 @@
 	path = archive
 	url = https://github.com/jimhester/archive
 	shallow = true
+[submodule "functionMap"]
+	path = functionMap
+	url = https://github.com/MangoTheCat/functionMap
+	shallow = true
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
@@ -1754,6 +1758,10 @@
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/lorenzwalthert/precommit
+	shallow = true
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/MangoTheCat/remotes
 	shallow = true
 [submodule "rlang"]
 	path = rlang

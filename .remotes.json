@@ -58,6 +58,12 @@
     "from": "tic"
   },
   {
+    "package": "functionMap",
+    "url": "https://github.com/MangoTheCat/functionMap",
+    "via": ["pkginspector"],
+    "from": "pkginspector"
+  },
+  {
     "package": "ggmap",
     "url": "https://github.com/dkahle/ggmap",
     "via": ["refsplitr"],
@@ -104,6 +110,12 @@
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
     "from": "FedData"
+  },
+  {
+    "package": "remotes",
+    "url": "https://github.com/MangoTheCat/remotes",
+    "via": ["pkginspector", "functionMap"],
+    "from": "pkginspector"
   },
   {
     "package": "restez",
