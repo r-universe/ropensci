@@ -100,3 +100,6 @@
 [submodule "MonetDBLite"]
 	path = MonetDBLite
 	url = https://github.com/ropenscilabs/MonetDBLite
+[submodule "pkginspector"]
+	path = pkginspector
+	url = https://github.com/ropenscilabs/pkginspector
