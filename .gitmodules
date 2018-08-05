@@ -103,3 +103,6 @@
 [submodule "pkginspector"]
 	path = pkginspector
 	url = https://github.com/ropenscilabs/pkginspector
+[submodule "rdopa"]
+	path = rdopa
+	url = https://github.com/ropensci/rdopa
