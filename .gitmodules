@@ -112,3 +112,6 @@
 [submodule "reviewer"]
 	path = reviewer
 	url = https://github.com/ropenscilabs/reviewer
+[submodule "rwalkable"]
+	path = rwalkable
+	url = https://github.com/ropenscilabs/rwalkable
