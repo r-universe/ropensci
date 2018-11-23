@@ -109,3 +109,6 @@
 [submodule "ozbabynames"]
 	path = ozbabynames
 	url = https://github.com/ropenscilabs/ozbabynames
+[submodule "reviewer"]
+	path = reviewer
+	url = https://github.com/ropenscilabs/reviewer
