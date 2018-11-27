@@ -121,3 +121,6 @@
 [submodule "rwalkable"]
 	path = rwalkable
 	url = https://github.com/ropenscilabs/rwalkable
+[submodule "bindertools"]
+	path = bindertools
+	url = https://github.com/ropenscilabs/bindertools
