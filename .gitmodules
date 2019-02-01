@@ -124,3 +124,6 @@
 [submodule "blogyaml"]
 	path = blogyaml
 	url = https://github.com/ropenscilabs/blogyaml
+[submodule "sparqldsl"]
+	path = sparqldsl
+	url = https://github.com/ropenscilabs/sparqldsl
