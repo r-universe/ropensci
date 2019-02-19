@@ -130,3 +130,6 @@
 [submodule "datastorr"]
 	path = datastorr
 	url = https://github.com/ropenscilabs/datastorr
+[submodule "geonames"]
+	path = geonames
+	url = https://github.com/ropensci/geonames
