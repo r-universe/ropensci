@@ -133,3 +133,6 @@
 [submodule "sparqldsl"]
 	path = sparqldsl
 	url = https://github.com/ropenscilabs/sparqldsl
+[submodule "datastorr"]
+	path = datastorr
+	url = https://github.com/ropenscilabs/datastorr
