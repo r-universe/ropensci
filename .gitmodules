@@ -139,3 +139,6 @@
 [submodule "geonames"]
 	path = geonames
 	url = https://github.com/ropensci/geonames
+[submodule "geojsonrewind"]
+	path = geojsonrewind
+	url = https://github.com/ropenscilabs/geojsonrewind
