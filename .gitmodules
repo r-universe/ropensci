@@ -142,3 +142,6 @@
 [submodule "geojsonrewind"]
 	path = geojsonrewind
 	url = https://github.com/ropenscilabs/geojsonrewind
+[submodule "tecks"]
+	path = tecks
+	url = https://github.com/ropenscilabs/tecks
