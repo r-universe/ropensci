@@ -133,3 +133,6 @@
 [submodule "geonames"]
 	path = geonames
 	url = https://github.com/ropensci/geonames
+[submodule "tecks"]
+	path = tecks
+	url = https://github.com/ropenscilabs/tecks
