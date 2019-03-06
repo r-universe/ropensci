@@ -148,3 +148,6 @@
 [submodule "apipkgen"]
 	path = apipkgen
 	url = https://github.com/ropenscilabs/apipkgen
+[submodule "oauthlib"]
+	path = oauthlib
+	url = https://github.com/ropenscilabs/oauthlib
