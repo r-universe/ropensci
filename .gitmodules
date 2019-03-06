@@ -145,3 +145,6 @@
 [submodule "tecks"]
 	path = tecks
 	url = https://github.com/ropenscilabs/tecks
+[submodule "apipkgen"]
+	path = apipkgen
+	url = https://github.com/ropenscilabs/apipkgen
