@@ -70,6 +70,12 @@
     "from": "bowerbird"
   },
   {
+    "package": "goodpractice",
+    "url": "https://github.com/MangoTheCat/goodpractice",
+    "via": ["checkers"],
+    "from": "checkers"
+  },
+  {
     "package": "leaflet",
     "url": "https://github.com/rstudio/leaflet",
     "via": ["gtfsr"],

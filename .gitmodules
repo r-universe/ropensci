@@ -1743,6 +1743,10 @@
 	path = glue
 	url = https://github.com/tidyverse/glue
 	shallow = true
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/MangoTheCat/goodpractice
+	shallow = true
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
