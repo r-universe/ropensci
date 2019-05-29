@@ -151,3 +151,6 @@
 [submodule "oauthlib"]
 	path = oauthlib
 	url = https://github.com/ropenscilabs/oauthlib
+[submodule "checkers"]
+	path = checkers
+	url = https://github.com/ropenscilabs/checkers
