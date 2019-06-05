@@ -145,3 +145,6 @@
 [submodule "checkers"]
 	path = checkers
 	url = https://github.com/ropenscilabs/checkers
+[submodule "USAboundaries"]
+	path = USAboundaries
+	url = https://github.com/ropensci/USAboundaries
