@@ -157,3 +157,6 @@
 [submodule "USAboundaries"]
 	path = USAboundaries
 	url = https://github.com/ropensci/USAboundaries
+[submodule "gendercodeR"]
+	path = gendercodeR
+	url = https://github.com/ropenscilabs/gendercodeR
