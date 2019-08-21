@@ -160,3 +160,6 @@
 [submodule "gendercodeR"]
 	path = gendercodeR
 	url = https://github.com/ropenscilabs/gendercodeR
+[submodule "dbhydroR"]
+	path = dbhydroR
+	url = https://github.com/ropensci/dbhydroR
