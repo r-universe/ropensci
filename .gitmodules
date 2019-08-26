@@ -154,3 +154,6 @@
 [submodule "dbhydroR"]
 	path = dbhydroR
 	url = https://github.com/ropensci/dbhydroR
+[submodule "tabulizer"]
+	path = tabulizer
+	url = https://github.com/ropensci/tabulizer
