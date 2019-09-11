@@ -160,3 +160,6 @@
 [submodule "defender"]
 	path = defender
 	url = https://github.com/ropenscilabs/defender
+[submodule "ropsec"]
+	path = ropsec
+	url = https://github.com/ropenscilabs/ropsec
