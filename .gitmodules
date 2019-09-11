@@ -166,3 +166,6 @@
 [submodule "tabulizer"]
 	path = tabulizer
 	url = https://github.com/ropensci/tabulizer
+[submodule "defender"]
+	path = defender
+	url = https://github.com/ropenscilabs/defender
