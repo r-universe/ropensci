@@ -172,3 +172,6 @@
 [submodule "ropsec"]
 	path = ropsec
 	url = https://github.com/ropenscilabs/ropsec
+[submodule "qcoder"]
+	path = qcoder
+	url = https://github.com/ropenscilabs/qcoder
