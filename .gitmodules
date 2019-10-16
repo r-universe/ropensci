@@ -163,3 +163,6 @@
 [submodule "ropsec"]
 	path = ropsec
 	url = https://github.com/ropenscilabs/ropsec
+[submodule "plotdap"]
+	path = plotdap
+	url = https://github.com/ropensci/plotdap
