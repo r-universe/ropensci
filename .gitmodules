@@ -175,3 +175,6 @@
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
+[submodule "plotdap"]
+	path = plotdap
+	url = https://github.com/ropensci/plotdap
