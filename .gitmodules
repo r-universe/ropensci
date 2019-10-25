@@ -178,3 +178,6 @@
 [submodule "plotdap"]
 	path = plotdap
 	url = https://github.com/ropensci/plotdap
+[submodule "pkgreviewr"]
+	path = pkgreviewr
+	url = https://github.com/ropenscilabs/pkgreviewr
