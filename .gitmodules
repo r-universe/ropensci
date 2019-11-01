@@ -169,3 +169,6 @@
 [submodule "pkgreviewr"]
 	path = pkgreviewr
 	url = https://github.com/ropenscilabs/pkgreviewr
+[submodule "workloopR"]
+	path = workloopR
+	url = https://github.com/ropensci/workloopR
