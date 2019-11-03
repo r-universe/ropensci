@@ -172,3 +172,6 @@
 [submodule "workloopR"]
 	path = workloopR
 	url = https://github.com/ropensci/workloopR
+[submodule "rentrez"]
+	path = rentrez
+	url = https://github.com/ropensci/rentrez
