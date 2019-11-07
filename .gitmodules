@@ -175,3 +175,6 @@
 [submodule "rentrez"]
 	path = rentrez
 	url = https://github.com/ropensci/rentrez
+[submodule "antiword"]
+	path = antiword
+	url = https://github.com/ropensci/antiword
