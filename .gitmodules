@@ -190,3 +190,6 @@
 [submodule "antiword"]
 	path = antiword
 	url = https://github.com/ropensci/antiword
+[submodule "popler"]
+	path = popler
+	url = https://github.com/ropensci/popler
