@@ -193,3 +193,6 @@
 [submodule "popler"]
 	path = popler
 	url = https://github.com/ropensci/popler
+[submodule "qpdf"]
+	path = qpdf
+	url = https://github.com/ropensci/qpdf
