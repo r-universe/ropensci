@@ -196,3 +196,6 @@
 [submodule "qpdf"]
 	path = qpdf
 	url = https://github.com/ropensci/qpdf
+[submodule "citesdb"]
+	path = citesdb
+	url = https://github.com/ropensci/citesdb
