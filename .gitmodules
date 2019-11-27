@@ -199,3 +199,6 @@
 [submodule "citesdb"]
 	path = citesdb
 	url = https://github.com/ropensci/citesdb
+[submodule "epubr"]
+	path = epubr
+	url = https://github.com/ropensci/epubr
