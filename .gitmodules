@@ -202,3 +202,6 @@
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/ropensci/epubr
+[submodule "chromer"]
+	path = chromer
+	url = https://github.com/ropensci/chromer
