@@ -205,3 +205,6 @@
 [submodule "chromer"]
 	path = chromer
 	url = https://github.com/ropensci/chromer
+[submodule "NLMR"]
+	path = NLMR
+	url = https://github.com/ropensci/NLMR
