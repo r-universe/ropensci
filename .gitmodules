@@ -226,3 +226,6 @@
 [submodule "simpletextr"]
 	path = simpletextr
 	url = https://github.com/ropenscilabs/simpletextr
+[submodule "tRainspotting"]
+	path = tRainspotting
+	url = https://github.com/ropenscilabs/tRainspotting
