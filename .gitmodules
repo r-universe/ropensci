@@ -223,3 +223,6 @@
 [submodule "rtimicropem"]
 	path = rtimicropem
 	url = https://github.com/ropensci/rtimicropem
+[submodule "simpletextr"]
+	path = simpletextr
+	url = https://github.com/ropenscilabs/simpletextr
