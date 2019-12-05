@@ -199,3 +199,6 @@
 [submodule "gtfsr"]
 	path = gtfsr
 	url = https://github.com/ropensci/gtfsr
+[submodule "infx"]
+	path = infx
+	url = https://github.com/ropensci/infx
