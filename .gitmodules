@@ -208,3 +208,6 @@
 [submodule "rnaturalearth"]
 	path = rnaturalearth
 	url = https://github.com/ropensci/rnaturalearth
+[submodule "rtimicropem"]
+	path = rtimicropem
+	url = https://github.com/ropensci/rtimicropem
