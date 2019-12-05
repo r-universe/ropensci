@@ -217,3 +217,6 @@
 [submodule "monkeylearn"]
 	path = monkeylearn
 	url = https://github.com/ropensci/monkeylearn
+[submodule "rnaturalearth"]
+	path = rnaturalearth
+	url = https://github.com/ropensci/rnaturalearth
