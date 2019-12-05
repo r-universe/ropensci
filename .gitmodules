@@ -214,3 +214,6 @@
 [submodule "infx"]
 	path = infx
 	url = https://github.com/ropensci/infx
+[submodule "monkeylearn"]
+	path = monkeylearn
+	url = https://github.com/ropensci/monkeylearn
