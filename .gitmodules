@@ -1723,6 +1723,10 @@
 	url = https://github.com/ropensci-org/roblog
 	shallow = true
 	branch = master
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/rstudio/leaflet
+	shallow = true
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/lorenzwalthert/precommit

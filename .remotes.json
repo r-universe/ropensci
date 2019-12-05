@@ -14,6 +14,12 @@
     "from": "DoOR.data"
   },
   {
+    "package": "leaflet",
+    "url": "https://github.com/rstudio/leaflet",
+    "via": ["gtfsr"],
+    "from": "gtfsr"
+  },
+  {
     "package": "precommit",
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
