@@ -223,3 +223,6 @@
 [submodule "cld2"]
 	path = cld2
 	url = https://github.com/ropensci/cld2
+[submodule "graphql"]
+	path = graphql
+	url = https://github.com/ropensci/graphql
