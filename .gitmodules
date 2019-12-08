@@ -226,3 +226,6 @@
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/ropensci/graphql
+[submodule "hunspell"]
+	path = hunspell
+	url = https://github.com/ropensci/hunspell
