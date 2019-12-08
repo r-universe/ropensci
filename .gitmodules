@@ -220,3 +220,6 @@
 [submodule "treestartr"]
 	path = treestartr
 	url = https://github.com/ropensci/treestartr
+[submodule "cld2"]
+	path = cld2
+	url = https://github.com/ropensci/cld2
