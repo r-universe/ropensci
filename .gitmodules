@@ -265,3 +265,6 @@
 [submodule "cleanEHR"]
 	path = cleanEHR
 	url = https://github.com/ropensci/cleanEHR
+[submodule "clifro"]
+	path = clifro
+	url = https://github.com/ropensci/clifro
