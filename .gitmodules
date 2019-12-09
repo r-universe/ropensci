@@ -325,3 +325,6 @@
 [submodule "rfigshare"]
 	path = rfigshare
 	url = https://github.com/ropensci/rfigshare
+[submodule "rfisheries"]
+	path = rfisheries
+	url = https://github.com/ropensci/rfisheries
