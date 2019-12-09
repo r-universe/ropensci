@@ -310,3 +310,6 @@
 [submodule "musemeta"]
 	path = musemeta
 	url = https://github.com/ropensci/musemeta
+[submodule "neotoma"]
+	path = neotoma
+	url = https://github.com/ropensci/neotoma
