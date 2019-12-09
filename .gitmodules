@@ -307,3 +307,6 @@
 [submodule "pleiades"]
 	path = pleiades
 	url = https://github.com/ropensci/pleiades
+[submodule "rAltmetric"]
+	path = rAltmetric
+	url = https://github.com/ropensci/rAltmetric
