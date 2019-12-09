@@ -352,3 +352,6 @@
 [submodule "reuropeana"]
 	path = reuropeana
 	url = https://github.com/ropensci/reuropeana
+[submodule "rfigshare"]
+	path = rfigshare
+	url = https://github.com/ropensci/rfigshare
