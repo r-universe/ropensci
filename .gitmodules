@@ -322,3 +322,6 @@
 [submodule "paleobioDB"]
 	path = paleobioDB
 	url = https://github.com/ropensci/paleobioDB
+[submodule "phylogram"]
+	path = phylogram
+	url = https://github.com/ropensci/phylogram
