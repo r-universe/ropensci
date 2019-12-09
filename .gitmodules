@@ -280,3 +280,6 @@
 [submodule "gutenbergr"]
 	path = gutenbergr
 	url = https://github.com/ropensci/gutenbergr
+[submodule "helminthR"]
+	path = helminthR
+	url = https://github.com/ropensci/helminthR
