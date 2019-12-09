@@ -328,3 +328,6 @@
 [submodule "rfisheries"]
 	path = rfisheries
 	url = https://github.com/ropensci/rfisheries
+[submodule "rfna"]
+	path = rfna
+	url = https://github.com/ropensci/rfna
