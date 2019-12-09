@@ -289,3 +289,6 @@
 [submodule "getlandsat"]
 	path = getlandsat
 	url = https://github.com/ropensci/getlandsat
+[submodule "gutenbergr"]
+	path = gutenbergr
+	url = https://github.com/ropensci/gutenbergr
