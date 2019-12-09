@@ -301,3 +301,6 @@
 [submodule "mapr"]
 	path = mapr
 	url = https://github.com/ropensci/mapr
+[submodule "mregions"]
+	path = mregions
+	url = https://github.com/ropensci/mregions
