@@ -319,3 +319,6 @@
 [submodule "rAvis"]
 	path = rAvis
 	url = https://github.com/ropensci/rAvis
+[submodule "refimpact"]
+	path = refimpact
+	url = https://github.com/ropensci/refimpact
