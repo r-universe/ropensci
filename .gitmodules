@@ -313,3 +313,6 @@
 [submodule "neotoma"]
 	path = neotoma
 	url = https://github.com/ropensci/neotoma
+[submodule "opencage"]
+	path = opencage
+	url = https://github.com/ropensci/opencage
