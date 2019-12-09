@@ -247,3 +247,6 @@
 [submodule "camsRad"]
 	path = camsRad
 	url = https://github.com/ropensci/camsRad
+[submodule "ccafs"]
+	path = ccafs
+	url = https://github.com/ropensci/ccafs
