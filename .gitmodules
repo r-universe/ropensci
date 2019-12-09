@@ -373,3 +373,6 @@
 [submodule "wicket"]
 	path = wicket
 	url = https://github.com/ropensci/wicket
+[submodule "zbank"]
+	path = zbank
+	url = https://github.com/ropensci/zbank
