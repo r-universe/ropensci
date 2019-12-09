@@ -379,3 +379,6 @@
 [submodule "rppo"]
 	path = rppo
 	url = https://github.com/ropensci/rppo
+[submodule "rrricanesdata"]
+	path = rrricanesdata
+	url = https://github.com/ropensci/rrricanesdata
