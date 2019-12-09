@@ -283,3 +283,6 @@
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/ropensci/helminthR
+[submodule "historydata"]
+	path = historydata
+	url = https://github.com/ropensci/historydata
