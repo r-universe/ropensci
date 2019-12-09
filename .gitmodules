@@ -292,3 +292,6 @@
 [submodule "MtreeRing"]
 	path = MtreeRing
 	url = https://github.com/ropensci/MtreeRing
+[submodule "neotoma"]
+	path = neotoma
+	url = https://github.com/ropensci/neotoma
