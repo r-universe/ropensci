@@ -346,3 +346,6 @@
 [submodule "reeack"]
 	path = reeack
 	url = https://github.com/ropensci/reeack
+[submodule "refimpact"]
+	path = refimpact
+	url = https://github.com/ropensci/refimpact
