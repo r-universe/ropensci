@@ -286,3 +286,6 @@
 [submodule "geoaxe"]
 	path = geoaxe
 	url = https://github.com/ropensci/geoaxe
+[submodule "getlandsat"]
+	path = getlandsat
+	url = https://github.com/ropensci/getlandsat
