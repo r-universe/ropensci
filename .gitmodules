@@ -355,3 +355,6 @@
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
+[submodule "tidypmc"]
+	path = tidypmc
+	url = https://github.com/ropensci/tidypmc
