@@ -346,3 +346,6 @@
 [submodule "rperseus"]
 	path = rperseus
 	url = https://github.com/ropensci/rperseus
+[submodule "rppo"]
+	path = rppo
+	url = https://github.com/ropensci/rppo
