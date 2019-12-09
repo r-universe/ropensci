@@ -319,3 +319,6 @@
 [submodule "ots"]
 	path = ots
 	url = https://github.com/ropensci/ots
+[submodule "paleobioDB"]
+	path = paleobioDB
+	url = https://github.com/ropensci/paleobioDB
