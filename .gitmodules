@@ -361,3 +361,6 @@
 [submodule "rfna"]
 	path = rfna
 	url = https://github.com/ropensci/rfna
+[submodule "rjsonapi"]
+	path = rjsonapi
+	url = https://github.com/ropensci/rjsonapi
