@@ -274,3 +274,6 @@
 [submodule "DoOR.functions"]
 	path = DoOR.functions
 	url = https://github.com/ropensci/DoOR.functions
+[submodule "ezknitr"]
+	path = ezknitr
+	url = https://github.com/ropensci/ezknitr
