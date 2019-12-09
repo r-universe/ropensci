@@ -310,3 +310,6 @@
 [submodule "rAltmetric"]
 	path = rAltmetric
 	url = https://github.com/ropensci/rAltmetric
+[submodule "ramlegacy"]
+	path = ramlegacy
+	url = https://github.com/ropensci/ramlegacy
