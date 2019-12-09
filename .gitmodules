@@ -286,3 +286,6 @@
 [submodule "historydata"]
 	path = historydata
 	url = https://github.com/ropensci/historydata
+[submodule "mregions"]
+	path = mregions
+	url = https://github.com/ropensci/mregions
