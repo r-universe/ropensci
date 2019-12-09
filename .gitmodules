@@ -307,3 +307,6 @@
 [submodule "MtreeRing"]
 	path = MtreeRing
 	url = https://github.com/ropensci/MtreeRing
+[submodule "musemeta"]
+	path = musemeta
+	url = https://github.com/ropensci/musemeta
