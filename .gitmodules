@@ -370,3 +370,6 @@
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
+[submodule "rnpn"]
+	path = rnpn
+	url = https://github.com/ropensci/rnpn
