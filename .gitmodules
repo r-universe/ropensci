@@ -337,3 +337,6 @@
 [submodule "randgeo"]
 	path = randgeo
 	url = https://github.com/ropensci/randgeo
+[submodule "rAvis"]
+	path = rAvis
+	url = https://github.com/ropensci/rAvis
