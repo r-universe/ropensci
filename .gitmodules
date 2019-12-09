@@ -247,3 +247,6 @@
 [submodule "AntWeb"]
 	path = AntWeb
 	url = https://github.com/ropensci/AntWeb
+[submodule "aRxiv"]
+	path = aRxiv
+	url = https://github.com/ropensci/aRxiv
