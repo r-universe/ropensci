@@ -289,3 +289,6 @@
 [submodule "mregions"]
 	path = mregions
 	url = https://github.com/ropensci/mregions
+[submodule "MtreeRing"]
+	path = MtreeRing
+	url = https://github.com/ropensci/MtreeRing
