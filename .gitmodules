@@ -322,3 +322,6 @@
 [submodule "refimpact"]
 	path = refimpact
 	url = https://github.com/ropensci/refimpact
+[submodule "rfigshare"]
+	path = rfigshare
+	url = https://github.com/ropensci/rfigshare
