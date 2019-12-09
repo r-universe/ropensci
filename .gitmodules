@@ -334,3 +334,6 @@
 [submodule "ramlegacy"]
 	path = ramlegacy
 	url = https://github.com/ropensci/ramlegacy
+[submodule "randgeo"]
+	path = randgeo
+	url = https://github.com/ropensci/randgeo
