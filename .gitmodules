@@ -256,3 +256,6 @@
 [submodule "bittrex"]
 	path = bittrex
 	url = https://github.com/ropensci/bittrex
+[submodule "camsRad"]
+	path = camsRad
+	url = https://github.com/ropensci/camsRad
