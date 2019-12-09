@@ -229,3 +229,6 @@
 [submodule "hunspell"]
 	path = hunspell
 	url = https://github.com/ropensci/hunspell
+[submodule "antanym"]
+	path = antanym
+	url = https://github.com/ropensci/antanym
