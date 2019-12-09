@@ -232,3 +232,6 @@
 [submodule "antanym"]
 	path = antanym
 	url = https://github.com/ropensci/antanym
+[submodule "AntWeb"]
+	path = AntWeb
+	url = https://github.com/ropensci/AntWeb
