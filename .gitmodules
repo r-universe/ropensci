@@ -358,3 +358,6 @@
 [submodule "tidypmc"]
 	path = tidypmc
 	url = https://github.com/ropensci/tidypmc
+[submodule "tif"]
+	path = tif
+	url = https://github.com/ropensci/tif
