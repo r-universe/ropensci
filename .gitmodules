@@ -256,3 +256,6 @@
 [submodule "clifro"]
 	path = clifro
 	url = https://github.com/ropensci/clifro
+[submodule "DoOR.data"]
+	path = DoOR.data
+	url = https://github.com/ropensci/DoOR.data
