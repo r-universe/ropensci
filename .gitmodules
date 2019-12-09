@@ -271,3 +271,6 @@
 [submodule "DoOR.data"]
 	path = DoOR.data
 	url = https://github.com/ropensci/DoOR.data
+[submodule "DoOR.functions"]
+	path = DoOR.functions
+	url = https://github.com/ropensci/DoOR.functions
