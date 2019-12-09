@@ -343,3 +343,6 @@
 [submodule "rdpla"]
 	path = rdpla
 	url = https://github.com/ropensci/rdpla
+[submodule "reeack"]
+	path = reeack
+	url = https://github.com/ropensci/reeack
