@@ -334,3 +334,6 @@
 [submodule "rjsonapi"]
 	path = rjsonapi
 	url = https://github.com/ropensci/rjsonapi
+[submodule "rnaturalearthdata"]
+	path = rnaturalearthdata
+	url = https://github.com/ropensci/rnaturalearthdata
