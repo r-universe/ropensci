@@ -367,3 +367,6 @@
 [submodule "rnaturalearthdata"]
 	path = rnaturalearthdata
 	url = https://github.com/ropensci/rnaturalearthdata
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
