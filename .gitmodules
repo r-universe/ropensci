@@ -388,3 +388,6 @@
 [submodule "taxview"]
 	path = taxview
 	url = https://github.com/ropensci/taxview
+[submodule "tidypmc"]
+	path = tidypmc
+	url = https://github.com/ropensci/tidypmc
