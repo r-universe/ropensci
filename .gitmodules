@@ -385,3 +385,6 @@
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
+[submodule "taxview"]
+	path = taxview
+	url = https://github.com/ropensci/taxview
