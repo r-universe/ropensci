@@ -268,3 +268,6 @@
 [submodule "finch"]
 	path = finch
 	url = https://github.com/ropensci/finch
+[submodule "genderdata"]
+	path = genderdata
+	url = https://github.com/ropensci/genderdata
