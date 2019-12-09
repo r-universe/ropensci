@@ -340,3 +340,6 @@
 [submodule "rAvis"]
 	path = rAvis
 	url = https://github.com/ropensci/rAvis
+[submodule "rdpla"]
+	path = rdpla
+	url = https://github.com/ropensci/rdpla
