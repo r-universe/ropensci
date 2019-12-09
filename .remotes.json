@@ -62,6 +62,13 @@
     "from": "phylotaR"
   },
   {
+    "package": "rrricanes",
+    "url": "https://github.com/ropensci/rrricanes",
+    "via": ["rrricanesdata"],
+    "branch": "develop",
+    "from": "rrricanesdata"
+  },
+  {
     "package": "srr",
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
