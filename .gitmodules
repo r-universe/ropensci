@@ -238,3 +238,6 @@
 [submodule "aRxiv"]
 	path = aRxiv
 	url = https://github.com/ropensci/aRxiv
+[submodule "binman"]
+	path = binman
+	url = https://github.com/ropensci/binman
