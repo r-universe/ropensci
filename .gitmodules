@@ -265,3 +265,6 @@
 [submodule "ezknitr"]
 	path = ezknitr
 	url = https://github.com/ropensci/ezknitr
+[submodule "finch"]
+	path = finch
+	url = https://github.com/ropensci/finch
