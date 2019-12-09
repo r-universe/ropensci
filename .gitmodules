@@ -253,3 +253,6 @@
 [submodule "binman"]
 	path = binman
 	url = https://github.com/ropensci/binman
+[submodule "bittrex"]
+	path = bittrex
+	url = https://github.com/ropensci/bittrex
