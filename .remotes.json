@@ -44,6 +44,13 @@
     "from": "phylotaR"
   },
   {
+    "package": "rrricanes",
+    "url": "https://github.com/ropensci/rrricanes",
+    "via": ["rrricanesdata"],
+    "branch": "develop",
+    "from": "rrricanesdata"
+  },
+  {
     "package": "styler",
     "url": "https://github.com/r-lib/styler",
     "via": ["FedData", "precommit"],
