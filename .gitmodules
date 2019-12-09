@@ -316,3 +316,6 @@
 [submodule "opencage"]
 	path = opencage
 	url = https://github.com/ropensci/opencage
+[submodule "ots"]
+	path = ots
+	url = https://github.com/ropensci/ots
