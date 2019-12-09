@@ -394,3 +394,6 @@
 [submodule "tif"]
 	path = tif
 	url = https://github.com/ropensci/tif
+[submodule "tiler"]
+	path = tiler
+	url = https://github.com/ropensci/tiler
