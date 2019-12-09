@@ -349,3 +349,6 @@
 [submodule "refimpact"]
 	path = refimpact
 	url = https://github.com/ropensci/refimpact
+[submodule "reuropeana"]
+	path = reuropeana
+	url = https://github.com/ropensci/reuropeana
