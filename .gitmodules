@@ -373,3 +373,6 @@
 [submodule "rnpn"]
 	path = rnpn
 	url = https://github.com/ropensci/rnpn
+[submodule "rperseus"]
+	path = rperseus
+	url = https://github.com/ropensci/rperseus
