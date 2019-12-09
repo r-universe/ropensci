@@ -364,3 +364,6 @@
 [submodule "tiler"]
 	path = tiler
 	url = https://github.com/ropensci/tiler
+[submodule "traits"]
+	path = traits
+	url = https://github.com/ropensci/traits
