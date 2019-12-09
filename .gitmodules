@@ -382,3 +382,6 @@
 [submodule "rrricanesdata"]
 	path = rrricanesdata
 	url = https://github.com/ropensci/rrricanesdata
+[submodule "rsnps"]
+	path = rsnps
+	url = https://github.com/ropensci/rsnps
