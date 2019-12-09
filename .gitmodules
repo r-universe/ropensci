@@ -298,3 +298,6 @@
 [submodule "historydata"]
 	path = historydata
 	url = https://github.com/ropensci/historydata
+[submodule "mapr"]
+	path = mapr
+	url = https://github.com/ropensci/mapr
