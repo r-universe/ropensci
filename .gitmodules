@@ -250,3 +250,6 @@
 [submodule "ccafs"]
 	path = ccafs
 	url = https://github.com/ropensci/ccafs
+[submodule "cleanEHR"]
+	path = cleanEHR
+	url = https://github.com/ropensci/cleanEHR
