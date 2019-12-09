@@ -400,3 +400,6 @@
 [submodule "traits"]
 	path = traits
 	url = https://github.com/ropensci/traits
+[submodule "treebase"]
+	path = treebase
+	url = https://github.com/ropensci/treebase
