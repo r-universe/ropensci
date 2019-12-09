@@ -271,3 +271,6 @@
 [submodule "genderdata"]
 	path = genderdata
 	url = https://github.com/ropensci/genderdata
+[submodule "geoaxe"]
+	path = geoaxe
+	url = https://github.com/ropensci/geoaxe
