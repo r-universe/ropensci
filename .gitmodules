@@ -301,3 +301,6 @@
 [submodule "ots"]
 	path = ots
 	url = https://github.com/ropensci/ots
+[submodule "phylogram"]
+	path = phylogram
+	url = https://github.com/ropensci/phylogram
