@@ -412,3 +412,6 @@
 [submodule "ozflights"]
 	path = ozflights
 	url = https://github.com/ropenscilabs/ozflights
+[submodule "rbace"]
+	path = rbace
+	url = https://github.com/ropensci/rbace
