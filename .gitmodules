@@ -415,3 +415,6 @@
 [submodule "rbace"]
 	path = rbace
 	url = https://github.com/ropensci/rbace
+[submodule "assertr"]
+	path = assertr
+	url = https://github.com/ropensci/assertr
