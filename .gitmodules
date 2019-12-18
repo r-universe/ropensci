@@ -379,3 +379,6 @@
 [submodule "ozflights"]
 	path = ozflights
 	url = https://github.com/ropenscilabs/ozflights
+[submodule "assertr"]
+	path = assertr
+	url = https://github.com/ropensci/assertr
