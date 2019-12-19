@@ -382,3 +382,6 @@
 [submodule "assertr"]
 	path = assertr
 	url = https://github.com/ropensci/assertr
+[submodule "rrricanes"]
+	path = rrricanes
+	url = https://github.com/ropensci/rrricanes
