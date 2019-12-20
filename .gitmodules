@@ -421,3 +421,6 @@
 [submodule "rrricanes"]
 	path = rrricanes
 	url = https://github.com/ropensci/rrricanes
+[submodule "visdat"]
+	path = visdat
+	url = https://github.com/ropensci/visdat
