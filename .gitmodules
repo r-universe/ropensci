@@ -388,3 +388,6 @@
 [submodule "visdat"]
 	path = visdat
 	url = https://github.com/ropensci/visdat
+[submodule "phylocomr"]
+	path = phylocomr
+	url = https://github.com/ropensci/phylocomr
