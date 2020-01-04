@@ -391,3 +391,6 @@
 [submodule "phylocomr"]
 	path = phylocomr
 	url = https://github.com/ropensci/phylocomr
+[submodule "colocr"]
+	path = colocr
+	url = https://github.com/ropensci/colocr
