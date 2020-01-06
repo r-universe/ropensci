@@ -430,3 +430,6 @@
 [submodule "colocr"]
 	path = colocr
 	url = https://github.com/ropensci/colocr
+[submodule "rtweet"]
+	path = rtweet
+	url = https://github.com/ropensci/rtweet
