@@ -433,3 +433,6 @@
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/ropensci/rtweet
+[submodule "virtuoso"]
+	path = virtuoso
+	url = https://github.com/ropensci/virtuoso
