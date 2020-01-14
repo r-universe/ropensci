@@ -400,3 +400,6 @@
 [submodule "virtuoso"]
 	path = virtuoso
 	url = https://github.com/ropensci/virtuoso
+[submodule "restez"]
+	path = restez
+	url = https://github.com/ropensci/restez
