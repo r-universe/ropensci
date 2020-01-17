@@ -403,3 +403,6 @@
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez
+[submodule "scientist"]
+	path = scientist
+	url = https://github.com/ropenscilabs/scientist
