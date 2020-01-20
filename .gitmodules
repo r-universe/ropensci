@@ -442,3 +442,6 @@
 [submodule "scientist"]
 	path = scientist
 	url = https://github.com/ropenscilabs/scientist
+[submodule "bomrang"]
+	path = bomrang
+	url = https://github.com/ropensci/bomrang
