@@ -445,3 +445,6 @@
 [submodule "bomrang"]
 	path = bomrang
 	url = https://github.com/ropensci/bomrang
+[submodule "pangaear"]
+	path = pangaear
+	url = https://github.com/ropensci/pangaear
