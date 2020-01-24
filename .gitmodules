@@ -412,3 +412,6 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/ropensci/pangaear
+[submodule "rdflib"]
+	path = rdflib
+	url = https://github.com/ropensci/rdflib
