@@ -415,3 +415,6 @@
 [submodule "rdflib"]
 	path = rdflib
 	url = https://github.com/ropensci/rdflib
+[submodule "microdemic"]
+	path = microdemic
+	url = https://github.com/ropensci/microdemic
