@@ -454,3 +454,6 @@
 [submodule "landscapetools"]
 	path = landscapetools
 	url = https://github.com/ropensci/landscapetools
+[submodule "microdemic"]
+	path = microdemic
+	url = https://github.com/ropensci/microdemic
