@@ -418,3 +418,6 @@
 [submodule "microdemic"]
 	path = microdemic
 	url = https://github.com/ropensci/microdemic
+[submodule "RefManageR"]
+	path = RefManageR
+	url = https://github.com/ropensci/RefManageR
