@@ -421,3 +421,6 @@
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/ropensci/RefManageR
+[submodule "rvertnet"]
+	path = rvertnet
+	url = https://github.com/ropensci/rvertnet
