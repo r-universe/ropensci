@@ -466,3 +466,6 @@
 [submodule "cld3"]
 	path = cld3
 	url = https://github.com/ropensci/cld3
+[submodule "wdman"]
+	path = wdman
+	url = https://github.com/ropensci/wdman
