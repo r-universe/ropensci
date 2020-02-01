@@ -475,3 +475,6 @@
 [submodule "parseids"]
 	path = parseids
 	url = https://github.com/ropenscilabs/parseids
+[submodule "RSelenium"]
+	path = RSelenium
+	url = https://github.com/ropensci/RSelenium
