@@ -430,3 +430,6 @@
 [submodule "wdman"]
 	path = wdman
 	url = https://github.com/ropensci/wdman
+[submodule "isdparser"]
+	path = isdparser
+	url = https://github.com/ropensci/isdparser
