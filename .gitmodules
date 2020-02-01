@@ -433,3 +433,6 @@
 [submodule "isdparser"]
 	path = isdparser
 	url = https://github.com/ropensci/isdparser
+[submodule "RSelenium"]
+	path = RSelenium
+	url = https://github.com/ropensci/RSelenium
