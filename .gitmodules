@@ -478,3 +478,6 @@
 [submodule "RSelenium"]
 	path = RSelenium
 	url = https://github.com/ropensci/RSelenium
+[submodule "spplit"]
+	path = spplit
+	url = https://github.com/ropenscilabs/spplit
