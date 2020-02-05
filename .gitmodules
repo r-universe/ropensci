@@ -481,3 +481,6 @@
 [submodule "spplit"]
 	path = spplit
 	url = https://github.com/ropenscilabs/spplit
+[submodule "circle"]
+	path = circle
+	url = https://github.com/ropenscilabs/circle
