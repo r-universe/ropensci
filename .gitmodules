@@ -439,3 +439,6 @@
 [submodule "circle"]
 	path = circle
 	url = https://github.com/ropenscilabs/circle
+[submodule "tacmagic"]
+	path = tacmagic
+	url = https://github.com/ropensci/tacmagic
