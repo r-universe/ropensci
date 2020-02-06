@@ -445,3 +445,6 @@
 [submodule "cde"]
 	path = cde
 	url = https://github.com/ropensci/cde
+[submodule "rodev"]
+	path = rodev
+	url = https://github.com/ropensci/rodev
