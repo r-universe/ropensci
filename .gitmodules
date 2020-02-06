@@ -442,3 +442,6 @@
 [submodule "tacmagic"]
 	path = tacmagic
 	url = https://github.com/ropensci/tacmagic
+[submodule "cde"]
+	path = cde
+	url = https://github.com/ropensci/cde
