@@ -76,6 +76,18 @@
     "from": "gtfsr"
   },
   {
+    "package": "outsider",
+    "url": "https://github.com/ropensci/outsider",
+    "via": ["outsider.devtools"],
+    "from": "outsider.devtools"
+  },
+  {
+    "package": "outsider.base",
+    "url": "https://github.com/ropensci/outsider.base",
+    "via": ["outsider.devtools"],
+    "from": "outsider.devtools"
+  },
+  {
     "package": "pendulum",
     "url": "https://github.com/ropensci/pendulum",
     "via": ["timefuzz"],
