@@ -448,3 +448,6 @@
 [submodule "rodev"]
 	path = rodev
 	url = https://github.com/ropensci/rodev
+[submodule "outsider.devtools"]
+	path = outsider.devtools
+	url = https://github.com/ropensci/outsider.devtools
