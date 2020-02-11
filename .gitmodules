@@ -496,3 +496,6 @@
 [submodule "outsider.devtools"]
 	path = outsider.devtools
 	url = https://github.com/ropensci/outsider.devtools
+[submodule "gistr"]
+	path = gistr
+	url = https://github.com/ropensci/gistr
