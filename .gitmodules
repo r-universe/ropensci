@@ -451,3 +451,6 @@
 [submodule "outsider.devtools"]
 	path = outsider.devtools
 	url = https://github.com/ropensci/outsider.devtools
+[submodule "chlorpromazineR"]
+	path = chlorpromazineR
+	url = https://github.com/ropensci/chlorpromazineR
