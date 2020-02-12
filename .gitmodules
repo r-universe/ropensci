@@ -499,3 +499,6 @@
 [submodule "gistr"]
 	path = gistr
 	url = https://github.com/ropensci/gistr
+[submodule "chlorpromazineR"]
+	path = chlorpromazineR
+	url = https://github.com/ropensci/chlorpromazineR
