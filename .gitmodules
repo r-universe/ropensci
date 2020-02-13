@@ -1138,3 +1138,6 @@
 [submodule "genbankr"]
 	path = genbankr
 	url = https://git.bioconductor.org/packages/genbankr
+[submodule "rnassqs"]
+	path = rnassqs
+	url = https://github.com/ropensci/rnassqs
