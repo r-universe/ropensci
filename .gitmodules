@@ -502,3 +502,6 @@
 [submodule "chlorpromazineR"]
 	path = chlorpromazineR
 	url = https://github.com/ropensci/chlorpromazineR
+[submodule "geojsonlint"]
+	path = geojsonlint
+	url = https://github.com/ropensci/geojsonlint
