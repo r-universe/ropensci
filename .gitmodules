@@ -457,3 +457,6 @@
 [submodule "geojsonlint"]
 	path = geojsonlint
 	url = https://github.com/ropensci/geojsonlint
+[submodule "bikedata"]
+	path = bikedata
+	url = https://github.com/ropensci/bikedata
