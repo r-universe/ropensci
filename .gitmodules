@@ -1723,6 +1723,10 @@
 	url = https://github.com/ropensci-org/roblog
 	shallow = true
 	branch = master
+[submodule "CodeDepends"]
+	path = CodeDepends
+	url = https://github.com/MKLau/CodeDepends
+	shallow = true
 [submodule "MonetDBLite-R"]
 	path = MonetDBLite-R
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
