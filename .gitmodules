@@ -511,3 +511,6 @@
 [submodule "Rclean"]
 	path = Rclean
 	url = https://github.com/ropensci/Rclean
+[submodule "suppdata"]
+	path = suppdata
+	url = https://github.com/ropensci/suppdata
