@@ -514,3 +514,6 @@
 [submodule "suppdata"]
 	path = suppdata
 	url = https://github.com/ropensci/suppdata
+[submodule "osfr"]
+	path = osfr
+	url = https://github.com/ropensci/osfr
