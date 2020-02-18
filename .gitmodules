@@ -463,3 +463,6 @@
 [submodule "Rclean"]
 	path = Rclean
 	url = https://github.com/ropensci/Rclean
+[submodule "osfr"]
+	path = osfr
+	url = https://github.com/ropensci/osfr
