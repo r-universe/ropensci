@@ -517,3 +517,6 @@
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/ropensci/osfr
+[submodule "ecoengine"]
+	path = ecoengine
+	url = https://github.com/ropensci/ecoengine
