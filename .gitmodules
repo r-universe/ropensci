@@ -469,3 +469,6 @@
 [submodule "ecoengine"]
 	path = ecoengine
 	url = https://github.com/ropensci/ecoengine
+[submodule "osmplotr"]
+	path = osmplotr
+	url = https://github.com/ropensci/osmplotr
