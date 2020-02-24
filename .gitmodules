@@ -472,3 +472,6 @@
 [submodule "osmplotr"]
 	path = osmplotr
 	url = https://github.com/ropensci/osmplotr
+[submodule "seasl"]
+	path = seasl
+	url = https://github.com/ropensci/seasl
