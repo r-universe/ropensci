@@ -526,3 +526,6 @@
 [submodule "seasl"]
 	path = seasl
 	url = https://github.com/ropensci/seasl
+[submodule "ckanr"]
+	path = ckanr
+	url = https://github.com/ropensci/ckanr
