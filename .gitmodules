@@ -475,3 +475,6 @@
 [submodule "seasl"]
 	path = seasl
 	url = https://github.com/ropensci/seasl
+[submodule "git2rdata"]
+	path = git2rdata
+	url = https://github.com/ropensci/git2rdata
