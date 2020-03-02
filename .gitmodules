@@ -529,3 +529,6 @@
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
+[submodule "git2rdata"]
+	path = git2rdata
+	url = https://github.com/ropensci/git2rdata
