@@ -532,3 +532,6 @@
 [submodule "git2rdata"]
 	path = git2rdata
 	url = https://github.com/ropensci/git2rdata
+[submodule "piggyback"]
+	path = piggyback
+	url = https://github.com/ropensci/piggyback
