@@ -38,6 +38,12 @@
     "from": "tic"
   },
   {
+    "package": "ggmap",
+    "url": "https://github.com/dkahle/ggmap",
+    "via": ["refsplitr"],
+    "from": "refsplitr"
+  },
+  {
     "package": "glue",
     "url": "https://github.com/tidyverse/glue",
     "via": ["bowerbird", "archive"],

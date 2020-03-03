@@ -1735,6 +1735,10 @@
 	path = archive
 	url = https://github.com/jimhester/archive
 	shallow = true
+[submodule "ggmap"]
+	path = ggmap
+	url = https://github.com/dkahle/ggmap
+	shallow = true
 [submodule "glue"]
 	path = glue
 	url = https://github.com/tidyverse/glue
