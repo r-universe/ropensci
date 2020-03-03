@@ -481,3 +481,6 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/ropensci/piggyback
+[submodule "refsplitr"]
+	path = refsplitr
+	url = https://github.com/ropensci/refsplitr
