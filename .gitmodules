@@ -538,3 +538,6 @@
 [submodule "refsplitr"]
 	path = refsplitr
 	url = https://github.com/ropensci/refsplitr
+[submodule "ghql"]
+	path = ghql
+	url = https://github.com/ropensci/ghql
