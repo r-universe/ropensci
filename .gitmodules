@@ -487,3 +487,6 @@
 [submodule "PostcodesioR"]
 	path = PostcodesioR
 	url = https://github.com/ropensci/PostcodesioR
+[submodule "rdatacite"]
+	path = rdatacite
+	url = https://github.com/ropensci/rdatacite
