@@ -484,3 +484,6 @@
 [submodule "refsplitr"]
 	path = refsplitr
 	url = https://github.com/ropensci/refsplitr
+[submodule "PostcodesioR"]
+	path = PostcodesioR
+	url = https://github.com/ropensci/PostcodesioR
