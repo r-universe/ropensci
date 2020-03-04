@@ -541,3 +541,6 @@
 [submodule "ghql"]
 	path = ghql
 	url = https://github.com/ropensci/ghql
+[submodule "PostcodesioR"]
+	path = PostcodesioR
+	url = https://github.com/ropensci/PostcodesioR
