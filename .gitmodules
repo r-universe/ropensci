@@ -547,3 +547,6 @@
 [submodule "rdatacite"]
 	path = rdatacite
 	url = https://github.com/ropensci/rdatacite
+[submodule "spenv"]
+	path = spenv
+	url = https://github.com/ropenscilabs/spenv
