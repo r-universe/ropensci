@@ -496,3 +496,6 @@
 [submodule "hydroscoper"]
 	path = hydroscoper
 	url = https://github.com/ropensci/hydroscoper
+[submodule "cyphr"]
+	path = cyphr
+	url = https://github.com/ropensci/cyphr
