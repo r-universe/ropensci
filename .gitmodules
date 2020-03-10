@@ -499,3 +499,6 @@
 [submodule "cyphr"]
 	path = cyphr
 	url = https://github.com/ropensci/cyphr
+[submodule "hoardr"]
+	path = hoardr
+	url = https://github.com/ropensci/hoardr
