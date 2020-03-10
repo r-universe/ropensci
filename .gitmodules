@@ -502,3 +502,6 @@
 [submodule "hoardr"]
 	path = hoardr
 	url = https://github.com/ropensci/hoardr
+[submodule "nbaR"]
+	path = nbaR
+	url = https://github.com/ropensci/nbaR
