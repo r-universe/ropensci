@@ -505,3 +505,6 @@
 [submodule "nbaR"]
 	path = nbaR
 	url = https://github.com/ropensci/nbaR
+[submodule "arkdb"]
+	path = arkdb
+	url = https://github.com/ropensci/arkdb
