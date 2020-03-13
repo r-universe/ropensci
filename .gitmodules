@@ -508,3 +508,6 @@
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/ropensci/arkdb
+[submodule "conditionz"]
+	path = conditionz
+	url = https://github.com/ropenscilabs/conditionz
