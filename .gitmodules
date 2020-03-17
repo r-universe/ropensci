@@ -568,3 +568,6 @@
 [submodule "conditionz"]
 	path = conditionz
 	url = https://github.com/ropenscilabs/conditionz
+[submodule "plater"]
+	path = plater
+	url = https://github.com/ropensci/plater
