@@ -514,3 +514,6 @@
 [submodule "plater"]
 	path = plater
 	url = https://github.com/ropensci/plater
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/ropensci/taxizedb
