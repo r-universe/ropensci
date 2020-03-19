@@ -574,3 +574,6 @@
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/ropensci/taxizedb
+[submodule "rbraries"]
+	path = rbraries
+	url = https://github.com/ropensci/rbraries
