@@ -520,3 +520,6 @@
 [submodule "rbraries"]
 	path = rbraries
 	url = https://github.com/ropensci/rbraries
+[submodule "rdhs"]
+	path = rdhs
+	url = https://github.com/ropensci/rdhs
