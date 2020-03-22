@@ -580,3 +580,6 @@
 [submodule "rdhs"]
 	path = rdhs
 	url = https://github.com/ropensci/rdhs
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/ropensci/getCRUCLdata
