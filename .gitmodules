@@ -523,3 +523,6 @@
 [submodule "rdhs"]
 	path = rdhs
 	url = https://github.com/ropensci/rdhs
+[submodule "rmangal"]
+	path = rmangal
+	url = https://github.com/ropensci/rmangal
