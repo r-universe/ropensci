@@ -526,3 +526,6 @@
 [submodule "rmangal"]
 	path = rmangal
 	url = https://github.com/ropensci/rmangal
+[submodule "wateRinfo"]
+	path = wateRinfo
+	url = https://github.com/ropensci/wateRinfo
