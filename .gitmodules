@@ -583,3 +583,6 @@
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
+[submodule "rmangal"]
+	path = rmangal
+	url = https://github.com/ropensci/rmangal
