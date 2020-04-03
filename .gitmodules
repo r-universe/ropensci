@@ -589,3 +589,6 @@
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
+[submodule "tradestatistics"]
+	path = tradestatistics
+	url = https://github.com/ropensci/tradestatistics
