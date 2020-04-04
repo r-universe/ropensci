@@ -595,3 +595,6 @@
 [submodule "cRegulome"]
 	path = cRegulome
 	url = https://github.com/ropensci/cRegulome
+[submodule "spelling"]
+	path = spelling
+	url = https://github.com/ropensci/spelling
