@@ -532,3 +532,6 @@
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/ropensci/tradestatistics
+[submodule "cRegulome"]
+	path = cRegulome
+	url = https://github.com/ropensci/cRegulome
