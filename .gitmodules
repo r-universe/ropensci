@@ -541,3 +541,6 @@
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
+[submodule "rdefra"]
+	path = rdefra
+	url = https://github.com/ropensci/rdefra
