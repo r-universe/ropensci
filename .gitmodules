@@ -598,3 +598,6 @@
 [submodule "spelling"]
 	path = spelling
 	url = https://github.com/ropensci/spelling
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
