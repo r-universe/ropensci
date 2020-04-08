@@ -544,3 +544,6 @@
 [submodule "rdefra"]
 	path = rdefra
 	url = https://github.com/ropensci/rdefra
+[submodule "scrubr"]
+	path = scrubr
+	url = https://github.com/ropensci/scrubr
