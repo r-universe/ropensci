@@ -604,3 +604,6 @@
 [submodule "rdefra"]
 	path = rdefra
 	url = https://github.com/ropensci/rdefra
+[submodule "geojsonio"]
+	path = geojsonio
+	url = https://github.com/ropensci/geojsonio
