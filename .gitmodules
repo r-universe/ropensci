@@ -607,3 +607,6 @@
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/ropensci/geojsonio
+[submodule "scrubr"]
+	path = scrubr
+	url = https://github.com/ropensci/scrubr
