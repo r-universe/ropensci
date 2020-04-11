@@ -610,3 +610,6 @@
 [submodule "scrubr"]
 	path = scrubr
 	url = https://github.com/ropensci/scrubr
+[submodule "webmiddens"]
+	path = webmiddens
+	url = https://github.com/ropenscilabs/webmiddens
