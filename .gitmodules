@@ -613,3 +613,6 @@
 [submodule "webmiddens"]
 	path = webmiddens
 	url = https://github.com/ropenscilabs/webmiddens
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/ropensci/gitignore
