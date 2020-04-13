@@ -619,3 +619,6 @@
 [submodule "fauxpas"]
 	path = fauxpas
 	url = https://github.com/ropensci/fauxpas
+[submodule "ghrecipes"]
+	path = ghrecipes
+	url = https://github.com/ropenscilabs/ghrecipes
