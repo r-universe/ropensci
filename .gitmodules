@@ -616,3 +616,6 @@
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/ropensci/gitignore
+[submodule "fauxpas"]
+	path = fauxpas
+	url = https://github.com/ropensci/fauxpas
