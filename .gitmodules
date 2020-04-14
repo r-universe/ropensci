@@ -559,3 +559,6 @@
 [submodule "DataPackageR"]
 	path = DataPackageR
 	url = https://github.com/ropensci/DataPackageR
+[submodule "handlr"]
+	path = handlr
+	url = https://github.com/ropensci/handlr
