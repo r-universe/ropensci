@@ -556,3 +556,6 @@
 [submodule "ghrecipes"]
 	path = ghrecipes
 	url = https://github.com/ropenscilabs/ghrecipes
+[submodule "DataPackageR"]
+	path = DataPackageR
+	url = https://github.com/ropensci/DataPackageR
