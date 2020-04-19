@@ -565,3 +565,6 @@
 [submodule "citecorp"]
 	path = citecorp
 	url = https://github.com/ropenscilabs/citecorp
+[submodule "eechidna"]
+	path = eechidna
+	url = https://github.com/ropenscilabs/eechidna
