@@ -568,3 +568,6 @@
 [submodule "eechidna"]
 	path = eechidna
 	url = https://github.com/ropenscilabs/eechidna
+[submodule "googleLanguageR"]
+	path = googleLanguageR
+	url = https://github.com/ropensci/googleLanguageR
