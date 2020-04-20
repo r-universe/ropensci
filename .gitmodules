@@ -571,3 +571,6 @@
 [submodule "googleLanguageR"]
 	path = googleLanguageR
 	url = https://github.com/ropensci/googleLanguageR
+[submodule "MODISTools"]
+	path = MODISTools
+	url = https://github.com/ropensci/MODISTools
