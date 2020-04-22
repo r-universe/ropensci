@@ -574,3 +574,6 @@
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/ropensci/MODISTools
+[submodule "riem"]
+	path = riem
+	url = https://github.com/ropensci/riem
