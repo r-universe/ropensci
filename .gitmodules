@@ -577,3 +577,6 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
+[submodule "solrium"]
+	path = solrium
+	url = https://github.com/ropensci/solrium
