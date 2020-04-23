@@ -583,3 +583,6 @@
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/ropensci/baRcodeR
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropenscilabs/roblog
