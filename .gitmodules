@@ -580,3 +580,6 @@
 [submodule "solrium"]
 	path = solrium
 	url = https://github.com/ropensci/solrium
+[submodule "baRcodeR"]
+	path = baRcodeR
+	url = https://github.com/ropensci/baRcodeR
