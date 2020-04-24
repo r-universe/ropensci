@@ -589,3 +589,6 @@
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/ropensci/rtika
+[submodule "rWBclimate"]
+	path = rWBclimate
+	url = https://github.com/ropensci/rWBclimate
