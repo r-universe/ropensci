@@ -586,3 +586,6 @@
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "rtika"]
+	path = rtika
+	url = https://github.com/ropensci/rtika
