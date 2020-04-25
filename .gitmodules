@@ -592,3 +592,6 @@
 [submodule "rWBclimate"]
 	path = rWBclimate
 	url = https://github.com/ropensci/rWBclimate
+[submodule "nasapower"]
+	path = nasapower
+	url = https://github.com/ropensci/nasapower
