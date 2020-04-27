@@ -604,3 +604,6 @@
 [submodule "lawn"]
 	path = lawn
 	url = https://github.com/ropensci/lawn
+[submodule "photosearcher"]
+	path = photosearcher
+	url = https://github.com/ropensci/photosearcher
