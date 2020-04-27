@@ -664,3 +664,6 @@
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/ropensci/FedData
+[submodule "jqr"]
+	path = jqr
+	url = https://github.com/ropensci/jqr
