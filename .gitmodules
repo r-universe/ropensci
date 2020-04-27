@@ -1135,3 +1135,6 @@
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic
+[submodule "genbankr"]
+	path = genbankr
+	url = https://git.bioconductor.org/packages/genbankr
