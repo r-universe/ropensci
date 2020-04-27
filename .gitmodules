@@ -1144,3 +1144,6 @@
 [submodule "ruODK"]
 	path = ruODK
 	url = https://github.com/ropensci/ruODK
+[submodule "genbankr"]
+	path = genbankr
+	url = https://git.bioconductor.org/packages/genbankr
