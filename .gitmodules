@@ -661,3 +661,6 @@
 [submodule "nasapower"]
 	path = nasapower
 	url = https://github.com/ropensci/nasapower
+[submodule "FedData"]
+	path = FedData
+	url = https://github.com/ropensci/FedData
