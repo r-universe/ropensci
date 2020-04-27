@@ -673,3 +673,6 @@
 [submodule "photosearcher"]
 	path = photosearcher
 	url = https://github.com/ropensci/photosearcher
+[submodule "tracerer"]
+	path = tracerer
+	url = https://github.com/ropensci/tracerer
