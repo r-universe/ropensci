@@ -610,3 +610,6 @@
 [submodule "tracerer"]
 	path = tracerer
 	url = https://github.com/ropensci/tracerer
+[submodule "taxa"]
+	path = taxa
+	url = https://github.com/ropensci/taxa
