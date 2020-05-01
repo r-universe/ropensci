@@ -613,3 +613,6 @@
 [submodule "taxa"]
 	path = taxa
 	url = https://github.com/ropensci/taxa
+[submodule "patentsview"]
+	path = patentsview
+	url = https://github.com/ropensci/patentsview
