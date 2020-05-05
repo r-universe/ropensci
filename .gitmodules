@@ -616,3 +616,6 @@
 [submodule "patentsview"]
 	path = patentsview
 	url = https://github.com/ropensci/patentsview
+[submodule "eia"]
+	path = eia
+	url = https://github.com/ropensci/eia
