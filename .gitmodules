@@ -685,3 +685,6 @@
 [submodule "eia"]
 	path = eia
 	url = https://github.com/ropensci/eia
+[submodule "writexl"]
+	path = writexl
+	url = https://github.com/ropensci/writexl
