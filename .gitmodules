@@ -688,3 +688,6 @@
 [submodule "writexl"]
 	path = writexl
 	url = https://github.com/ropensci/writexl
+[submodule "wellknown"]
+	path = wellknown
+	url = https://github.com/ropensci/wellknown
