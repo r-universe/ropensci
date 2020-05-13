@@ -700,3 +700,6 @@
 [submodule "opencontext"]
 	path = opencontext
 	url = https://github.com/ropensci/opencontext
+[submodule "prism"]
+	path = prism
+	url = https://github.com/ropensci/prism
