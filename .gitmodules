@@ -625,3 +625,6 @@
 [submodule "wellknown"]
 	path = wellknown
 	url = https://github.com/ropensci/wellknown
+[submodule "hathi"]
+	path = hathi
+	url = https://github.com/ropensci/hathi
