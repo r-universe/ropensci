@@ -694,3 +694,6 @@
 [submodule "ropenaq"]
 	path = ropenaq
 	url = https://github.com/ropensci/ropenaq
+[submodule "hathi"]
+	path = hathi
+	url = https://github.com/ropensci/hathi
