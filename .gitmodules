@@ -637,3 +637,6 @@
 [submodule "rebird"]
 	path = rebird
 	url = https://github.com/ropensci/rebird
+[submodule "rglobi"]
+	path = rglobi
+	url = https://github.com/ropensci/rglobi
