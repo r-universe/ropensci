@@ -634,3 +634,6 @@
 [submodule "prism"]
 	path = prism
 	url = https://github.com/ropensci/prism
+[submodule "rebird"]
+	path = rebird
+	url = https://github.com/ropensci/rebird
