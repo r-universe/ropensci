@@ -628,3 +628,6 @@
 [submodule "hathi"]
 	path = hathi
 	url = https://github.com/ropensci/hathi
+[submodule "opencontext"]
+	path = opencontext
+	url = https://github.com/ropensci/opencontext
