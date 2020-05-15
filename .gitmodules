@@ -640,3 +640,6 @@
 [submodule "rglobi"]
 	path = rglobi
 	url = https://github.com/ropensci/rglobi
+[submodule "textreuse"]
+	path = textreuse
+	url = https://github.com/ropensci/textreuse
