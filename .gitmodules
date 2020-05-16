@@ -715,3 +715,6 @@
 [submodule "av"]
 	path = av
 	url = https://github.com/ropensci/av
+[submodule "comtradr"]
+	path = comtradr
+	url = https://github.com/ropensci/comtradr
