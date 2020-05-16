@@ -712,3 +712,6 @@
 [submodule "textreuse"]
 	path = textreuse
 	url = https://github.com/ropensci/textreuse
+[submodule "av"]
+	path = av
+	url = https://github.com/ropensci/av
