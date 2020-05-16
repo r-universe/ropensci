@@ -718,3 +718,6 @@
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/ropensci/comtradr
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/ropensci/opencv
