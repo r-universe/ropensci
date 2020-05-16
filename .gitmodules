@@ -724,3 +724,6 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/ropensci/outcomerate
+[submodule "xslt"]
+	path = xslt
+	url = https://github.com/ropensci/xslt
