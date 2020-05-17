@@ -730,3 +730,6 @@
 [submodule "bowerbird"]
 	path = bowerbird
 	url = https://github.com/ropensci/bowerbird
+[submodule "dataspice"]
+	path = dataspice
+	url = https://github.com/ropenscilabs/dataspice
