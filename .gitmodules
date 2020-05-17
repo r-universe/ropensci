@@ -658,3 +658,6 @@
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/ropensci/xslt
+[submodule "bowerbird"]
+	path = bowerbird
+	url = https://github.com/ropensci/bowerbird
