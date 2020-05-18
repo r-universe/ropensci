@@ -742,3 +742,6 @@
 [submodule "oai"]
 	path = oai
 	url = https://github.com/ropensci/oai
+[submodule "rgpdd"]
+	path = rgpdd
+	url = https://github.com/ropensci/rgpdd
