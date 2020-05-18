@@ -739,3 +739,6 @@
 [submodule "natserv"]
 	path = natserv
 	url = https://github.com/ropensci/natserv
+[submodule "oai"]
+	path = oai
+	url = https://github.com/ropensci/oai
