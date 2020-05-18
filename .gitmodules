@@ -667,3 +667,6 @@
 [submodule "geoops"]
 	path = geoops
 	url = https://github.com/ropensci/geoops
+[submodule "natserv"]
+	path = natserv
+	url = https://github.com/ropensci/natserv
