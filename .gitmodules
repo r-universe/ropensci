@@ -664,3 +664,6 @@
 [submodule "dataspice"]
 	path = dataspice
 	url = https://github.com/ropenscilabs/dataspice
+[submodule "geoops"]
+	path = geoops
+	url = https://github.com/ropensci/geoops
