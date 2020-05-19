@@ -748,3 +748,6 @@
 [submodule "astr"]
 	path = astr
 	url = https://github.com/ropenscilabs/astr
+[submodule "rflybase"]
+	path = rflybase
+	url = https://github.com/ropensci/rflybase
