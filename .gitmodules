@@ -679,3 +679,6 @@
 [submodule "astr"]
 	path = astr
 	url = https://github.com/ropenscilabs/astr
+[submodule "internetarchive"]
+	path = internetarchive
+	url = https://github.com/ropensci/internetarchive
