@@ -754,3 +754,6 @@
 [submodule "internetarchive"]
 	path = internetarchive
 	url = https://github.com/ropensci/internetarchive
+[submodule "travis"]
+	path = travis
+	url = https://github.com/ropenscilabs/travis
