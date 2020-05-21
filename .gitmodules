@@ -757,3 +757,6 @@
 [submodule "travis"]
 	path = travis
 	url = https://github.com/ropenscilabs/travis
+[submodule "unrtf"]
+	path = unrtf
+	url = https://github.com/ropensci/unrtf
