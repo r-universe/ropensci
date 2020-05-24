@@ -766,3 +766,6 @@
 [submodule "rusda"]
 	path = rusda
 	url = https://github.com/ropensci/rusda
+[submodule "smapr"]
+	path = smapr
+	url = https://github.com/ropensci/smapr
