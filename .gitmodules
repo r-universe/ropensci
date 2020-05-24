@@ -697,3 +697,6 @@
 [submodule "smapr"]
 	path = smapr
 	url = https://github.com/ropensci/smapr
+[submodule "tesseract"]
+	path = tesseract
+	url = https://github.com/ropensci/tesseract
