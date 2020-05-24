@@ -691,3 +691,6 @@
 [submodule "essurvey"]
 	path = essurvey
 	url = https://github.com/ropensci/essurvey
+[submodule "rusda"]
+	path = rusda
+	url = https://github.com/ropensci/rusda
