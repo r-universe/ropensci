@@ -688,3 +688,6 @@
 [submodule "unrtf"]
 	path = unrtf
 	url = https://github.com/ropensci/unrtf
+[submodule "essurvey"]
+	path = essurvey
+	url = https://github.com/ropensci/essurvey
