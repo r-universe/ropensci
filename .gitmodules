@@ -772,3 +772,6 @@
 [submodule "tesseract"]
 	path = tesseract
 	url = https://github.com/ropensci/tesseract
+[submodule "hddtools"]
+	path = hddtools
+	url = https://github.com/ropensci/hddtools
