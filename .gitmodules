@@ -706,3 +706,6 @@
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
+[submodule "rotemplate"]
+	path = rotemplate
+	url = https://github.com/ropensci/rotemplate
