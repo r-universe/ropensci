@@ -703,3 +703,6 @@
 [submodule "hddtools"]
 	path = hddtools
 	url = https://github.com/ropensci/hddtools
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
