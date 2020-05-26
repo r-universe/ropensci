@@ -784,3 +784,6 @@
 [submodule "mutant"]
 	path = mutant
 	url = https://github.com/ropensci/mutant
+[submodule "rorcid"]
+	path = rorcid
+	url = https://github.com/ropensci/rorcid
