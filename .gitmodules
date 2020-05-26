@@ -781,3 +781,6 @@
 [submodule "rotemplate"]
 	path = rotemplate
 	url = https://github.com/ropensci/rotemplate
+[submodule "mutant"]
+	path = mutant
+	url = https://github.com/ropensci/mutant
