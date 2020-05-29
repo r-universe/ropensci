@@ -715,3 +715,6 @@
 [submodule "rorcid"]
 	path = rorcid
 	url = https://github.com/ropensci/rorcid
+[submodule "DataSpaceR"]
+	path = DataSpaceR
+	url = https://github.com/ropensci/DataSpaceR
