@@ -718,3 +718,6 @@
 [submodule "DataSpaceR"]
 	path = DataSpaceR
 	url = https://github.com/ropensci/DataSpaceR
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/ropenscilabs/tinkr
