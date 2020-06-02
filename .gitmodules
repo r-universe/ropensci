@@ -799,3 +799,6 @@
 [submodule "charlatan"]
 	path = charlatan
 	url = https://github.com/ropensci/charlatan
+[submodule "rbhl"]
+	path = rbhl
+	url = https://github.com/ropensci/rbhl
