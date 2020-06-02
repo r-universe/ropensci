@@ -802,3 +802,6 @@
 [submodule "rbhl"]
 	path = rbhl
 	url = https://github.com/ropensci/rbhl
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/ropensci/skynet
