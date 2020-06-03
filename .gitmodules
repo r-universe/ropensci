@@ -736,3 +736,6 @@
 [submodule "ftp"]
 	path = ftp
 	url = https://github.com/ropenscilabs/ftp
+[submodule "jsonld"]
+	path = jsonld
+	url = https://github.com/ropensci/jsonld
