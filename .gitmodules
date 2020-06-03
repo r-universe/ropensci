@@ -733,3 +733,6 @@
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/ropensci/skynet
+[submodule "ftp"]
+	path = ftp
+	url = https://github.com/ropenscilabs/ftp
