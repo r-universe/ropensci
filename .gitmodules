@@ -742,3 +742,6 @@
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/ropensci/jstor
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
