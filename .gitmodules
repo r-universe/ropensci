@@ -811,3 +811,6 @@
 [submodule "jsonld"]
 	path = jsonld
 	url = https://github.com/ropensci/jsonld
+[submodule "jstor"]
+	path = jstor
+	url = https://github.com/ropensci/jstor
