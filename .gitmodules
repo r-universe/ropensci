@@ -817,3 +817,6 @@
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
+[submodule "europepmc"]
+	path = europepmc
+	url = https://github.com/ropensci/europepmc
