@@ -820,3 +820,6 @@
 [submodule "europepmc"]
 	path = europepmc
 	url = https://github.com/ropensci/europepmc
+[submodule "fingertipsR"]
+	path = fingertipsR
+	url = https://github.com/ropensci/fingertipsR
