@@ -823,3 +823,6 @@
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
+[submodule "rcrossref"]
+	path = rcrossref
+	url = https://github.com/ropensci/rcrossref
