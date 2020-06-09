@@ -748,3 +748,6 @@
 [submodule "europepmc"]
 	path = europepmc
 	url = https://github.com/ropensci/europepmc
+[submodule "auk"]
+	path = auk
+	url = https://github.com/CornellLabofOrnithology/auk.git
