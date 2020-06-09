@@ -826,3 +826,6 @@
 [submodule "rcrossref"]
 	path = rcrossref
 	url = https://github.com/ropensci/rcrossref
+[submodule "auk"]
+	path = auk
+	url = https://github.com/CornellLabofOrnithology/auk.git
