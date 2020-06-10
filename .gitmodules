@@ -751,3 +751,6 @@
 [submodule "auk"]
 	path = auk
 	url = https://github.com/CornellLabofOrnithology/auk.git
+[submodule "tidyhydat"]
+	path = tidyhydat
+	url = https://github.com/ropensci/tidyhydat
