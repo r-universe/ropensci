@@ -832,3 +832,6 @@
 [submodule "tidyhydat"]
 	path = tidyhydat
 	url = https://github.com/ropensci/tidyhydat
+[submodule "brranching"]
+	path = brranching
+	url = https://github.com/ropensci/brranching
