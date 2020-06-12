@@ -754,3 +754,6 @@
 [submodule "tidyhydat"]
 	path = tidyhydat
 	url = https://github.com/ropensci/tidyhydat
+[submodule "grainchanger"]
+	path = grainchanger
+	url = https://github.com/ropensci/grainchanger
