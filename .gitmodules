@@ -760,3 +760,6 @@
 [submodule "lingtypology"]
 	path = lingtypology
 	url = https://github.com/ropensci/lingtypology
+[submodule "originr"]
+	path = originr
+	url = https://github.com/ropensci/originr
