@@ -757,3 +757,6 @@
 [submodule "grainchanger"]
 	path = grainchanger
 	url = https://github.com/ropensci/grainchanger
+[submodule "lingtypology"]
+	path = lingtypology
+	url = https://github.com/ropensci/lingtypology
