@@ -856,3 +856,6 @@
 [submodule "outsider.base"]
 	path = outsider.base
 	url = https://github.com/ropensci/outsider.base
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
