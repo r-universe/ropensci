@@ -850,3 +850,6 @@
 [submodule "git2r"]
 	path = git2r
 	url = https://github.com/ropensci/git2r
+[submodule "outsider"]
+	path = outsider
+	url = https://github.com/ropensci/outsider
