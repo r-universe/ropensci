@@ -772,3 +772,6 @@
 [submodule "outsider"]
 	path = outsider
 	url = https://github.com/ropensci/outsider
+[submodule "outsider.base"]
+	path = outsider.base
+	url = https://github.com/ropensci/outsider.base
