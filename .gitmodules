@@ -1723,6 +1723,10 @@
 	url = https://github.com/ropensci-org/roblog
 	shallow = true
 	branch = master
+[submodule "MonetDBLite-R"]
+	path = MonetDBLite-R
+	url = https://github.com/hannesmuehleisen/MonetDBLite-R
+	shallow = true
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet

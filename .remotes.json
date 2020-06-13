@@ -14,6 +14,12 @@
     "from": "DoOR.data"
   },
   {
+    "package": "MonetDBLite-R",
+    "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
+    "via": ["phylotaR", "restez"],
+    "from": "phylotaR"
+  },
+  {
     "package": "leaflet",
     "url": "https://github.com/rstudio/leaflet",
     "via": ["gtfsr"],
@@ -24,6 +30,12 @@
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
     "from": "FedData"
+  },
+  {
+    "package": "restez",
+    "url": "https://github.com/ropensci/restez",
+    "via": ["phylotaR"],
+    "from": "phylotaR"
   },
   {
     "package": "styler",
