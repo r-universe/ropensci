@@ -847,3 +847,6 @@
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
+[submodule "git2r"]
+	path = git2r
+	url = https://github.com/ropensci/git2r
