@@ -778,3 +778,6 @@
 [submodule "phylotaR"]
 	path = phylotaR
 	url = https://github.com/ropensci/phylotaR
+[submodule "GSODR"]
+	path = GSODR
+	url = https://github.com/ropensci/GSODR
