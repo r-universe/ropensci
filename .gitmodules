@@ -781,3 +781,6 @@
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/ropensci/GSODR
+[submodule "rzmq"]
+	path = rzmq
+	url = https://github.com/ropensci/rzmq
