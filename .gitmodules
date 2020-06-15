@@ -865,3 +865,6 @@
 [submodule "opentripplanner"]
 	path = opentripplanner
 	url = https://github.com/ropensci/opentripplanner
+[submodule "rzmq"]
+	path = rzmq
+	url = https://github.com/ropensci/rzmq
