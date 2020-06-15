@@ -862,3 +862,6 @@
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/ropensci/GSODR
+[submodule "opentripplanner"]
+	path = opentripplanner
+	url = https://github.com/ropensci/opentripplanner
