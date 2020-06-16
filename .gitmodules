@@ -868,3 +868,6 @@
 [submodule "rzmq"]
 	path = rzmq
 	url = https://github.com/ropensci/rzmq
+[submodule "CoordinateCleaner"]
+	path = CoordinateCleaner
+	url = https://github.com/ropensci/CoordinateCleaner
