@@ -874,3 +874,6 @@
 [submodule "bold"]
 	path = bold
 	url = https://github.com/ropensci/bold
+[submodule "nomisr"]
+	path = nomisr
+	url = https://github.com/ropensci/nomisr
