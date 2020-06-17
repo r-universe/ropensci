@@ -877,3 +877,6 @@
 [submodule "nomisr"]
 	path = nomisr
 	url = https://github.com/ropensci/nomisr
+[submodule "robotstxt"]
+	path = robotstxt
+	url = https://github.com/ropensci/robotstxt
