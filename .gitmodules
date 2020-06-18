@@ -886,3 +886,6 @@
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
