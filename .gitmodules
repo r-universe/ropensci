@@ -793,3 +793,6 @@
 [submodule "nomisr"]
 	path = nomisr
 	url = https://github.com/ropensci/nomisr
+[submodule "nodbi"]
+	path = nodbi
+	url = https://github.com/ropensci/nodbi
