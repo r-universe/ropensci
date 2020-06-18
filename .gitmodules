@@ -880,3 +880,6 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/ropensci/robotstxt
+[submodule "nodbi"]
+	path = nodbi
+	url = https://github.com/ropensci/nodbi
