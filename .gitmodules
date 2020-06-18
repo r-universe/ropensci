@@ -883,3 +883,6 @@
 [submodule "nodbi"]
 	path = nodbi
 	url = https://github.com/ropensci/nodbi
+[submodule "RNeXML"]
+	path = RNeXML
+	url = https://github.com/ropensci/RNeXML
