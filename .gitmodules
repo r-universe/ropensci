@@ -799,3 +799,6 @@
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/ropensci/jenkins
