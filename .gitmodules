@@ -889,3 +889,6 @@
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/ropensci/jenkins
