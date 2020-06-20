@@ -802,3 +802,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/ropensci/jenkins
+[submodule "staypuft"]
+	path = staypuft
+	url = https://github.com/ropensci/staypuft
