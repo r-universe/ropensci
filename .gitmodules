@@ -895,3 +895,6 @@
 [submodule "staypuft"]
 	path = staypuft
 	url = https://github.com/ropensci/staypuft
+[submodule "treeio"]
+	path = treeio
+	url = https://github.com/YuLab-SMU/treeio.git
