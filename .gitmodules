@@ -898,3 +898,6 @@
 [submodule "treeio"]
 	path = treeio
 	url = https://github.com/YuLab-SMU/treeio.git
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/ropensci/elastic
