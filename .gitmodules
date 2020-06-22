@@ -808,3 +808,6 @@
 [submodule "treeio"]
 	path = treeio
 	url = https://github.com/YuLab-SMU/treeio.git
+[submodule "taxadb"]
+	path = taxadb
+	url = https://github.com/ropensci/taxadb
