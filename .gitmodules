@@ -901,3 +901,6 @@
 [submodule "elastic"]
 	path = elastic
 	url = https://github.com/ropensci/elastic
+[submodule "taxadb"]
+	path = taxadb
+	url = https://github.com/ropensci/taxadb
