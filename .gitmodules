@@ -904,3 +904,6 @@
 [submodule "taxadb"]
 	path = taxadb
 	url = https://github.com/ropensci/taxadb
+[submodule "geojson"]
+	path = geojson
+	url = https://github.com/ropensci/geojson
