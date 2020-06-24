@@ -820,3 +820,6 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/ropensci/rdryad
+[submodule "tokenizers"]
+	path = tokenizers
+	url = https://github.com/ropensci/tokenizers
