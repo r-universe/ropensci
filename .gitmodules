@@ -817,3 +817,6 @@
 [submodule "cchecks"]
 	path = cchecks
 	url = https://github.com/ropenscilabs/cchecks
+[submodule "rdryad"]
+	path = rdryad
+	url = https://github.com/ropensci/rdryad
