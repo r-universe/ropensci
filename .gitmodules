@@ -814,3 +814,6 @@
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/ropensci/geojson
+[submodule "cchecks"]
+	path = cchecks
+	url = https://github.com/ropenscilabs/cchecks
