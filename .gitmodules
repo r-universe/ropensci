@@ -823,3 +823,6 @@
 [submodule "tokenizers"]
 	path = tokenizers
 	url = https://github.com/ropensci/tokenizers
+[submodule "nlrx"]
+	path = nlrx
+	url = https://github.com/ropensci/nlrx
