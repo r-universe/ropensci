@@ -829,3 +829,6 @@
 [submodule "babette"]
 	path = babette
 	url = https://github.com/ropensci/babette
+[submodule "mauricer"]
+	path = mauricer
+	url = https://github.com/ropensci/mauricer
