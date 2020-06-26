@@ -928,3 +928,6 @@
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/ropensci/plotly
+[submodule "sofa"]
+	path = sofa
+	url = https://github.com/ropensci/sofa
