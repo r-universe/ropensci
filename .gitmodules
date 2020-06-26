@@ -925,3 +925,6 @@
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/ropensci/plotly
