@@ -826,3 +826,6 @@
 [submodule "nlrx"]
 	path = nlrx
 	url = https://github.com/ropensci/nlrx
+[submodule "babette"]
+	path = babette
+	url = https://github.com/ropensci/babette
