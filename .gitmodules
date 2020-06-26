@@ -832,3 +832,6 @@
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
+[submodule "sofa"]
+	path = sofa
+	url = https://github.com/ropensci/sofa
