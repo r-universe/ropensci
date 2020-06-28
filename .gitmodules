@@ -931,3 +931,6 @@
 [submodule "sofa"]
 	path = sofa
 	url = https://github.com/ropensci/sofa
+[submodule "pubchunks"]
+	path = pubchunks
+	url = https://github.com/ropensci/pubchunks
