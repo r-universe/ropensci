@@ -934,3 +934,6 @@
 [submodule "pubchunks"]
 	path = pubchunks
 	url = https://github.com/ropensci/pubchunks
+[submodule "addressable"]
+	path = addressable
+	url = https://github.com/ropenscilabs/addressable
