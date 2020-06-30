@@ -949,3 +949,6 @@
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/ropensci/tidync
+[submodule "wikitaxa"]
+	path = wikitaxa
+	url = https://github.com/ropensci/wikitaxa
