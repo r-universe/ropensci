@@ -946,3 +946,6 @@
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize
+[submodule "tidync"]
+	path = tidync
+	url = https://github.com/ropensci/tidync
