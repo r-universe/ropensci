@@ -943,3 +943,6 @@
 [submodule "laselva"]
 	path = laselva
 	url = https://github.com/ropenscilabs/laselva
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/ropensci/taxize
