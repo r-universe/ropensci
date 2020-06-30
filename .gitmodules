@@ -937,3 +937,6 @@
 [submodule "addressable"]
 	path = addressable
 	url = https://github.com/ropenscilabs/addressable
+[submodule "crminer"]
+	path = crminer
+	url = https://github.com/ropensci/crminer
