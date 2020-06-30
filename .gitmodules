@@ -847,3 +847,6 @@
 [submodule "laselva"]
 	path = laselva
 	url = https://github.com/ropenscilabs/laselva
+[submodule "tidync"]
+	path = tidync
+	url = https://github.com/ropensci/tidync
