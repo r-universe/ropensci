@@ -844,3 +844,6 @@
 [submodule "crminer"]
 	path = crminer
 	url = https://github.com/ropensci/crminer
+[submodule "laselva"]
+	path = laselva
+	url = https://github.com/ropenscilabs/laselva
