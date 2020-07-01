@@ -955,3 +955,6 @@
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
+[submodule "rcites"]
+	path = rcites
+	url = https://github.com/ropensci/rcites
