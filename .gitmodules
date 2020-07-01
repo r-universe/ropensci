@@ -952,3 +952,6 @@
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/ropensci/wikitaxa
+[submodule "magick"]
+	path = magick
+	url = https://github.com/ropensci/magick
