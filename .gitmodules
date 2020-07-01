@@ -853,3 +853,6 @@
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/ropensci/wikitaxa
+[submodule "rcites"]
+	path = rcites
+	url = https://github.com/ropensci/rcites
