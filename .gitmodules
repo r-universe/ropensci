@@ -967,3 +967,6 @@
 [submodule "fulltext"]
 	path = fulltext
 	url = https://github.com/ropensci/fulltext
+[submodule "jaod"]
+	path = jaod
+	url = https://github.com/ropensci/jaod
