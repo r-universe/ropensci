@@ -856,3 +856,6 @@
 [submodule "rcites"]
 	path = rcites
 	url = https://github.com/ropensci/rcites
+[submodule "bib2df"]
+	path = bib2df
+	url = https://github.com/ropensci/bib2df
