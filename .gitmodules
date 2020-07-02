@@ -862,3 +862,6 @@
 [submodule "datapack"]
 	path = datapack
 	url = https://github.com/ropensci/datapack
+[submodule "fulltext"]
+	path = fulltext
+	url = https://github.com/ropensci/fulltext
