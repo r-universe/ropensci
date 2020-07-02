@@ -859,3 +859,6 @@
 [submodule "bib2df"]
 	path = bib2df
 	url = https://github.com/ropensci/bib2df
+[submodule "datapack"]
+	path = datapack
+	url = https://github.com/ropensci/datapack
