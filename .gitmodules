@@ -868,3 +868,6 @@
 [submodule "jaod"]
 	path = jaod
 	url = https://github.com/ropensci/jaod
+[submodule "biomartr"]
+	path = biomartr
+	url = https://github.com/ropensci/biomartr
