@@ -871,3 +871,6 @@
 [submodule "biomartr"]
 	path = biomartr
 	url = https://github.com/ropensci/biomartr
+[submodule "mapscanner"]
+	path = mapscanner
+	url = https://github.com/ropensci/mapscanner
