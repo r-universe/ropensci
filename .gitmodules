@@ -976,3 +976,6 @@
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/ropensci/ijtiff
+[submodule "mapscanner"]
+	path = mapscanner
+	url = https://github.com/ropensci/mapscanner
