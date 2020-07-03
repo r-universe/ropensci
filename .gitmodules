@@ -973,3 +973,6 @@
 [submodule "biomartr"]
 	path = biomartr
 	url = https://github.com/ropensci/biomartr
+[submodule "ijtiff"]
+	path = ijtiff
+	url = https://github.com/ropensci/ijtiff
