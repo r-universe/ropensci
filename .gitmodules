@@ -874,3 +874,6 @@
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
+[submodule "Rpolyhedra"]
+	path = Rpolyhedra
+	url = https://github.com/ropensci/Rpolyhedra
