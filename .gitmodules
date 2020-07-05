@@ -985,3 +985,6 @@
 [submodule "rromeo"]
 	path = rromeo
 	url = https://github.com/ropensci/rromeo
+[submodule "spatsoc"]
+	path = spatsoc
+	url = https://github.com/ropensci/spatsoc
