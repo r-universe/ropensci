@@ -982,3 +982,6 @@
 [submodule "Rpolyhedra"]
 	path = Rpolyhedra
 	url = https://github.com/ropensci/Rpolyhedra
+[submodule "rromeo"]
+	path = rromeo
+	url = https://github.com/ropensci/rromeo
