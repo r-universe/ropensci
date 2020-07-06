@@ -883,3 +883,6 @@
 [submodule "spatsoc"]
 	path = spatsoc
 	url = https://github.com/ropensci/spatsoc
+[submodule "skimr"]
+	path = skimr
+	url = https://github.com/ropensci/skimr
