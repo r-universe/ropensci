@@ -1000,3 +1000,6 @@
 [submodule "rcoreoa"]
 	path = rcoreoa
 	url = https://github.com/ropensci/rcoreoa
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/ropensci/rnoaa
