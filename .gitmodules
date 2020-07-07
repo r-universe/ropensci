@@ -892,3 +892,6 @@
 [submodule "rcoreoa"]
 	path = rcoreoa
 	url = https://github.com/ropensci/rcoreoa
+[submodule "worrms"]
+	path = worrms
+	url = https://github.com/ropensci/worrms
