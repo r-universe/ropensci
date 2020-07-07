@@ -1003,3 +1003,6 @@
 [submodule "rnoaa"]
 	path = rnoaa
 	url = https://github.com/ropensci/rnoaa
+[submodule "worrms"]
+	path = worrms
+	url = https://github.com/ropensci/worrms
