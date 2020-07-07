@@ -994,3 +994,6 @@
 [submodule "iheatmapr"]
 	path = iheatmapr
 	url = https://github.com/ropensci/iheatmapr
+[submodule "qualtRics"]
+	path = qualtRics
+	url = https://github.com/ropensci/qualtRics
