@@ -886,3 +886,6 @@
 [submodule "skimr"]
 	path = skimr
 	url = https://github.com/ropensci/skimr
+[submodule "qualtRics"]
+	path = qualtRics
+	url = https://github.com/ropensci/qualtRics
