@@ -889,3 +889,6 @@
 [submodule "qualtRics"]
 	path = qualtRics
 	url = https://github.com/ropensci/qualtRics
+[submodule "rcoreoa"]
+	path = rcoreoa
+	url = https://github.com/ropensci/rcoreoa
