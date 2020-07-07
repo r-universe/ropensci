@@ -991,3 +991,6 @@
 [submodule "skimr"]
 	path = skimr
 	url = https://github.com/ropensci/skimr
+[submodule "iheatmapr"]
+	path = iheatmapr
+	url = https://github.com/ropensci/iheatmapr
