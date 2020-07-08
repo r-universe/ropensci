@@ -1006,3 +1006,6 @@
 [submodule "worrms"]
 	path = worrms
 	url = https://github.com/ropensci/worrms
+[submodule "gender"]
+	path = gender
+	url = https://github.com/ropensci/gender
