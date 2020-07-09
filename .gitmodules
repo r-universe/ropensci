@@ -1012,3 +1012,6 @@
 [submodule "c14bazAAR"]
 	path = c14bazAAR
 	url = https://github.com/ropensci/c14bazAAR
+[submodule "stplanr"]
+	path = stplanr
+	url = https://github.com/ropensci/stplanr
