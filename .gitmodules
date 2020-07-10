@@ -1021,3 +1021,6 @@
 [submodule "ritis"]
 	path = ritis
 	url = https://github.com/ropensci/ritis
+[submodule "rotl"]
+	path = rotl
+	url = https://github.com/ropensci/rotl
