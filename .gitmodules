@@ -898,3 +898,6 @@
 [submodule "gender"]
 	path = gender
 	url = https://github.com/ropensci/gender
+[submodule "ritis"]
+	path = ritis
+	url = https://github.com/ropensci/ritis
