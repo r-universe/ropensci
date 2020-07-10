@@ -1015,3 +1015,6 @@
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/ropensci/stplanr
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/ropensci/beautier
