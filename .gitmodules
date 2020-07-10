@@ -1018,3 +1018,6 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
+[submodule "ritis"]
+	path = ritis
+	url = https://github.com/ropensci/ritis
