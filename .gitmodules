@@ -904,3 +904,6 @@
 [submodule "rotl"]
 	path = rotl
 	url = https://github.com/ropensci/rotl
+[submodule "MODIStsp"]
+	path = MODIStsp
+	url = https://github.com/ropensci/MODIStsp
