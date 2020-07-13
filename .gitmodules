@@ -907,3 +907,6 @@
 [submodule "MODIStsp"]
 	path = MODIStsp
 	url = https://github.com/ropensci/MODIStsp
+[submodule "trufflesniffer"]
+	path = trufflesniffer
+	url = https://github.com/ropenscilabs/trufflesniffer
