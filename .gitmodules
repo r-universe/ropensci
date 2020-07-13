@@ -1033,3 +1033,6 @@
 [submodule "MODIStsp"]
 	path = MODIStsp
 	url = https://github.com/ropensci/MODIStsp
+[submodule "tic"]
+	path = tic
+	url = https://github.com/ropensci/tic
