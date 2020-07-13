@@ -1036,3 +1036,6 @@
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic
+[submodule "trufflesniffer"]
+	path = trufflesniffer
+	url = https://github.com/ropenscilabs/trufflesniffer
