@@ -1027,3 +1027,6 @@
 [submodule "beastier"]
 	path = beastier
 	url = https://github.com/ropensci/beastier
+[submodule "crul"]
+	path = crul
+	url = https://github.com/ropensci/crul
