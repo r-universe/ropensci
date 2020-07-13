@@ -1030,3 +1030,6 @@
 [submodule "crul"]
 	path = crul
 	url = https://github.com/ropensci/crul
+[submodule "MODIStsp"]
+	path = MODIStsp
+	url = https://github.com/ropensci/MODIStsp
