@@ -1039,3 +1039,6 @@
 [submodule "trufflesniffer"]
 	path = trufflesniffer
 	url = https://github.com/ropenscilabs/trufflesniffer
+[submodule "chirps"]
+	path = chirps
+	url = https://github.com/ropensci/chirps
