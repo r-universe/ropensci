@@ -1048,3 +1048,6 @@
 [submodule "drake"]
 	path = drake
 	url = https://github.com/ropensci/drake
+[submodule "onekp"]
+	path = onekp
+	url = https://github.com/ropensci/onekp
