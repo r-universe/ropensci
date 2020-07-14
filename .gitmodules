@@ -1153,3 +1153,6 @@
 [submodule "MonetDBLite"]
 	path = MonetDBLite
 	url = https://github.com/ropenscilabs/MonetDBLite
+[submodule "BaseSet"]
+	path = BaseSet
+	url = https://github.com/ropensci/BaseSet
