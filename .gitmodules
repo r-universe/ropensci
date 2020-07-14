@@ -1042,3 +1042,6 @@
 [submodule "chirps"]
 	path = chirps
 	url = https://github.com/ropensci/chirps
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials.git
