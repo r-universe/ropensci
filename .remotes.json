@@ -12,5 +12,11 @@
     "via": ["DoOR.data"],
     "branch": "v2.0.1",
     "from": "DoOR.data"
+  },
+  {
+    "package": "taxizedb",
+    "url": "https://github.com/ropensci/taxizedb",
+    "via": ["onekp"],
+    "from": "onekp"
   }
 ]
