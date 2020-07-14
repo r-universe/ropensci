@@ -916,3 +916,6 @@
 [submodule "onekp"]
 	path = onekp
 	url = https://github.com/ropensci/onekp
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
