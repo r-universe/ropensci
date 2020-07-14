@@ -1045,3 +1045,6 @@
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials.git
+[submodule "drake"]
+	path = drake
+	url = https://github.com/ropensci/drake
