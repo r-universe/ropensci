@@ -81,6 +81,12 @@
     "from": "FedData"
   },
   {
+    "package": "taxizedb",
+    "url": "https://github.com/ropensci/taxizedb",
+    "via": ["onekp"],
+    "from": "onekp"
+  },
+  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "via": ["rbison"],
