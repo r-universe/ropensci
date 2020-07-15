@@ -1057,3 +1057,6 @@
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML
+[submodule "emld"]
+	path = emld
+	url = https://github.com/ropensci/emld
