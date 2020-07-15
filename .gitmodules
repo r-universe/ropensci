@@ -1060,3 +1060,6 @@
 [submodule "emld"]
 	path = emld
 	url = https://github.com/ropensci/emld
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert.git
