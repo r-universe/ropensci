@@ -925,3 +925,6 @@
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/ropensci/parzer
+[submodule "rerddap"]
+	path = rerddap
+	url = https://github.com/ropensci/rerddap
