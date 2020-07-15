@@ -922,3 +922,6 @@
 [submodule "emld"]
 	path = emld
 	url = https://github.com/ropensci/emld
+[submodule "parzer"]
+	path = parzer
+	url = https://github.com/ropensci/parzer
