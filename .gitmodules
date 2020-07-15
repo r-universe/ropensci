@@ -1054,3 +1054,6 @@
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
+[submodule "EML"]
+	path = EML
+	url = https://github.com/ropensci/EML
