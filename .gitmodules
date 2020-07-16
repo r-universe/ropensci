@@ -1075,3 +1075,6 @@
 [submodule "EndoMineR"]
 	path = EndoMineR
 	url = https://github.com/ropensci/EndoMineR
+[submodule "lightr"]
+	path = lightr
+	url = https://github.com/ropensci/lightr
