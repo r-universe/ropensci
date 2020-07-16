@@ -1072,3 +1072,6 @@
 [submodule "clock"]
 	path = clock
 	url = https://github.com/ropenscilabs/clock
+[submodule "EndoMineR"]
+	path = EndoMineR
+	url = https://github.com/ropensci/EndoMineR
