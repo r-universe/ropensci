@@ -1081,3 +1081,6 @@
 [submodule "spocc"]
 	path = spocc
 	url = https://github.com/ropensci/spocc
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/ropensci/ssh
