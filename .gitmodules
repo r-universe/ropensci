@@ -928,3 +928,6 @@
 [submodule "rerddap"]
 	path = rerddap
 	url = https://github.com/ropensci/rerddap
+[submodule "EndoMineR"]
+	path = EndoMineR
+	url = https://github.com/ropensci/EndoMineR
