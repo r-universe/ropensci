@@ -1078,3 +1078,6 @@
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
+[submodule "spocc"]
+	path = spocc
+	url = https://github.com/ropensci/spocc
