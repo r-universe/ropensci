@@ -1111,3 +1111,6 @@
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
+[submodule "taxspell"]
+	path = taxspell
+	url = https://github.com/ropenscilabs/taxspell
