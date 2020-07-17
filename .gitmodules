@@ -940,3 +940,6 @@
 [submodule "rcitoid"]
 	path = rcitoid
 	url = https://github.com/ropenscilabs/rcitoid
+[submodule "rif"]
+	path = rif
+	url = https://github.com/ropensci/rif
