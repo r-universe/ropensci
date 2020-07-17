@@ -1090,3 +1090,6 @@
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
+[submodule "colpluz"]
+	path = colpluz
+	url = https://github.com/ropensci/colpluz
