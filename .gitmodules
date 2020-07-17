@@ -1105,3 +1105,6 @@
 [submodule "rif"]
 	path = rif
 	url = https://github.com/ropensci/rif
+[submodule "rplos"]
+	path = rplos
+	url = https://github.com/ropensci/rplos
