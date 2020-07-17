@@ -1117,3 +1117,6 @@
 [submodule "vcr"]
 	path = vcr
 	url = https://github.com/ropensci/vcr
+[submodule "webmockr"]
+	path = webmockr
+	url = https://github.com/ropensci/webmockr
