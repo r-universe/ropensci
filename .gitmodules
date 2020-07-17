@@ -1087,3 +1087,6 @@
 [submodule "timefuzz"]
 	path = timefuzz
 	url = https://github.com/ropenscilabs/timefuzz
+[submodule "codemetar"]
+	path = codemetar
+	url = https://github.com/ropensci/codemetar
