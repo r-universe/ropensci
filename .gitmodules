@@ -931,3 +931,6 @@
 [submodule "EndoMineR"]
 	path = EndoMineR
 	url = https://github.com/ropensci/EndoMineR
+[submodule "colpluz"]
+	path = colpluz
+	url = https://github.com/ropensci/colpluz
