@@ -949,3 +949,6 @@
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
