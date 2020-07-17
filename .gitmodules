@@ -937,3 +937,6 @@
 [submodule "rbison"]
 	path = rbison
 	url = https://github.com/ropensci/rbison
+[submodule "rcitoid"]
+	path = rcitoid
+	url = https://github.com/ropenscilabs/rcitoid
