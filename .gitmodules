@@ -946,3 +946,6 @@
 [submodule "rplos"]
 	path = rplos
 	url = https://github.com/ropensci/rplos
+[submodule "rredlist"]
+	path = rredlist
+	url = https://github.com/ropensci/rredlist
