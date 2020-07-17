@@ -1102,3 +1102,6 @@
 [submodule "rgbif"]
 	path = rgbif
 	url = https://github.com/ropensci/rgbif
+[submodule "rif"]
+	path = rif
+	url = https://github.com/ropensci/rif
