@@ -934,3 +934,6 @@
 [submodule "colpluz"]
 	path = colpluz
 	url = https://github.com/ropensci/colpluz
+[submodule "rbison"]
+	path = rbison
+	url = https://github.com/ropensci/rbison
