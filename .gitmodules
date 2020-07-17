@@ -1114,3 +1114,6 @@
 [submodule "taxspell"]
 	path = taxspell
 	url = https://github.com/ropenscilabs/taxspell
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
