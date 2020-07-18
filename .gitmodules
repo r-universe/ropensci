@@ -1123,3 +1123,6 @@
 [submodule "cricketdata"]
 	path = cricketdata
 	url = https://github.com/ropenscilabs/cricketdata
+[submodule "dbparser"]
+	path = dbparser
+	url = https://github.com/ropensci/dbparser
