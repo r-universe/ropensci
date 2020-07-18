@@ -1126,3 +1126,6 @@
 [submodule "dbparser"]
 	path = dbparser
 	url = https://github.com/ropensci/dbparser
+[submodule "roadoi"]
+	path = roadoi
+	url = https://github.com/ropensci/roadoi
