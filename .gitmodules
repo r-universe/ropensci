@@ -1120,3 +1120,6 @@
 [submodule "webmockr"]
 	path = webmockr
 	url = https://github.com/ropensci/webmockr
+[submodule "cricketdata"]
+	path = cricketdata
+	url = https://github.com/ropenscilabs/cricketdata
