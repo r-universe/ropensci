@@ -1135,3 +1135,6 @@
 [submodule "rdataretriever"]
 	path = rdataretriever
 	url = https://github.com/ropensci/rdataretriever
+[submodule "UCSCXenaTools"]
+	path = UCSCXenaTools
+	url = https://github.com/ropensci/UCSCXenaTools
