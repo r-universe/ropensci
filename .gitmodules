@@ -1132,3 +1132,6 @@
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/ropensci/dittodb
+[submodule "rdataretriever"]
+	path = rdataretriever
+	url = https://github.com/ropensci/rdataretriever
