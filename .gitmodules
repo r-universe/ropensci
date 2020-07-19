@@ -1129,3 +1129,6 @@
 [submodule "roadoi"]
 	path = roadoi
 	url = https://github.com/ropensci/roadoi
+[submodule "dittodb"]
+	path = dittodb
+	url = https://github.com/ropensci/dittodb
