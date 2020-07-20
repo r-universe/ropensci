@@ -964,3 +964,6 @@
 [submodule "roadoi"]
 	path = roadoi
 	url = https://github.com/ropensci/roadoi
+[submodule "rinat"]
+	path = rinat
+	url = https://github.com/ropensci/rinat
