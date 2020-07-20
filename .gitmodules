@@ -1141,3 +1141,6 @@
 [submodule "rinat"]
 	path = rinat
 	url = https://github.com/ropensci/rinat
+[submodule "ruODK"]
+	path = ruODK
+	url = https://github.com/ropensci/ruODK
