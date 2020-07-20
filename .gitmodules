@@ -1138,3 +1138,6 @@
 [submodule "UCSCXenaTools"]
 	path = UCSCXenaTools
 	url = https://github.com/ropensci/UCSCXenaTools
+[submodule "rinat"]
+	path = rinat
+	url = https://github.com/ropensci/rinat
