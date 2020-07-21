@@ -976,3 +976,6 @@
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials.git
+[submodule "landscapetools"]
+	path = landscapetools
+	url = https://github.com/ropensci/landscapetools
