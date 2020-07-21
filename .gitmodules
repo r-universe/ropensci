@@ -985,3 +985,6 @@
 [submodule "taxview"]
 	path = taxview
 	url = https://github.com/ropensci/taxview
+[submodule "urltemplate"]
+	path = urltemplate
+	url = https://github.com/ropenscilabs/urltemplate
