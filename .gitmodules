@@ -982,3 +982,6 @@
 [submodule "taxspell"]
 	path = taxspell
 	url = https://github.com/ropenscilabs/taxspell
+[submodule "taxview"]
+	path = taxview
+	url = https://github.com/ropensci/taxview
