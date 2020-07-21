@@ -970,3 +970,6 @@
 [submodule "brranching"]
 	path = brranching
 	url = https://github.com/ropensci/brranching
+[submodule "codemetar"]
+	path = codemetar
+	url = https://github.com/ropensci/codemetar
