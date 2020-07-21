@@ -988,3 +988,6 @@
 [submodule "urltemplate"]
 	path = urltemplate
 	url = https://github.com/ropenscilabs/urltemplate
+[submodule "webmiddens"]
+	path = webmiddens
+	url = https://github.com/ropenscilabs/webmiddens
