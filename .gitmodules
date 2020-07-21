@@ -967,3 +967,6 @@
 [submodule "rinat"]
 	path = rinat
 	url = https://github.com/ropensci/rinat
+[submodule "brranching"]
+	path = brranching
+	url = https://github.com/ropensci/brranching
