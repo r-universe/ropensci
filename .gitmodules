@@ -973,3 +973,6 @@
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials.git
