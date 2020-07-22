@@ -991,3 +991,6 @@
 [submodule "webmiddens"]
 	path = webmiddens
 	url = https://github.com/ropenscilabs/webmiddens
+[submodule "c14bazAAR"]
+	path = c14bazAAR
+	url = https://github.com/ropensci/c14bazAAR
