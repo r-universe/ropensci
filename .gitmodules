@@ -997,3 +997,6 @@
 [submodule "ruODK"]
 	path = ruODK
 	url = https://github.com/ropensci/ruODK
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/ropensci/ssh
