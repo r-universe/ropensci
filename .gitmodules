@@ -994,3 +994,6 @@
 [submodule "c14bazAAR"]
 	path = c14bazAAR
 	url = https://github.com/ropensci/c14bazAAR
+[submodule "ruODK"]
+	path = ruODK
+	url = https://github.com/ropensci/ruODK
