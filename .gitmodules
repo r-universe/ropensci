@@ -1000,3 +1000,6 @@
 [submodule "ssh"]
 	path = ssh
 	url = https://github.com/ropensci/ssh
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/ropensci/getCRUCLdata
