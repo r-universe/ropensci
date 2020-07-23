@@ -1003,3 +1003,6 @@
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
+[submodule "rgbif"]
+	path = rgbif
+	url = https://github.com/ropensci/rgbif
