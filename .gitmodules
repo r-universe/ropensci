@@ -1006,3 +1006,6 @@
 [submodule "rgbif"]
 	path = rgbif
 	url = https://github.com/ropensci/rgbif
+[submodule "drake"]
+	path = drake
+	url = https://github.com/ropensci/drake
