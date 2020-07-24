@@ -1009,3 +1009,6 @@
 [submodule "drake"]
 	path = drake
 	url = https://github.com/ropensci/drake
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/ropensci/plotly
