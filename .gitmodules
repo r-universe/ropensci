@@ -1012,3 +1012,6 @@
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/ropensci/plotly
+[submodule "paleobioDB"]
+	path = paleobioDB
+	url = https://github.com/ropensci/paleobioDB
