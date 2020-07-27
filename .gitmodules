@@ -1021,3 +1021,6 @@
 [submodule "musemeta"]
 	path = musemeta
 	url = https://github.com/ropensci/musemeta
+[submodule "opentripplanner"]
+	path = opentripplanner
+	url = https://github.com/ropensci/opentripplanner
