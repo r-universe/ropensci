@@ -1015,3 +1015,6 @@
 [submodule "paleobioDB"]
 	path = paleobioDB
 	url = https://github.com/ropensci/paleobioDB
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/ropensci/elastic
