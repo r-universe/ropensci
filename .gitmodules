@@ -1027,3 +1027,6 @@
 [submodule "rnoaa"]
 	path = rnoaa
 	url = https://github.com/ropensci/rnoaa
+[submodule "stplanr"]
+	path = stplanr
+	url = https://github.com/ropensci/stplanr
