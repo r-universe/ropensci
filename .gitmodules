@@ -1018,3 +1018,6 @@
 [submodule "elastic"]
 	path = elastic
 	url = https://github.com/ropensci/elastic
+[submodule "musemeta"]
+	path = musemeta
+	url = https://github.com/ropensci/musemeta
