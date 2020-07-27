@@ -1024,3 +1024,6 @@
 [submodule "opentripplanner"]
 	path = opentripplanner
 	url = https://github.com/ropensci/opentripplanner
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/ropensci/rnoaa
