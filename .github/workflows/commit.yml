@@ -15,6 +15,7 @@ jobs:
       package: ${{ steps.build.outputs.PACKAGE }}
       version: ${{ steps.build.outputs.VERSION }}
       commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+      java: ${{ steps.build.outputs.NEED_RJAVA }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -74,7 +75,7 @@ jobs:
       CHECK_ARGS: --no-manual --no-build-vignettes
       PACKAGE: ${{needs.source.outputs.package}}
       SOURCEPKG: ${{needs.source.outputs.sourcepkg}}
-      R_PROFILE_USER: .Rprofile    
+      R_PROFILE_USER: .Rprofile
       CRAN: https://cloud.r-project.org
     steps:
       - name: Checkout
@@ -117,7 +118,6 @@ jobs:
         shell: bash
         run: R CMD check ${SOURCEPKG} --install-args="--build" ${CHECK_ARGS}
         env:
-          DISPLAY: ""
           R_BROWSER: echo
           R_PDFVIEWER: echo
           RGL_USE_NULL: TRUE
