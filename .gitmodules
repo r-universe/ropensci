@@ -1030,3 +1030,6 @@
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/ropensci/stplanr
+[submodule "EML"]
+	path = EML
+	url = https://github.com/ropensci/EML
