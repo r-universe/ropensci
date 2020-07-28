@@ -1033,3 +1033,6 @@
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML
+[submodule "qcoder"]
+	path = qcoder
+	url = https://github.com/ropenscilabs/qcoder
