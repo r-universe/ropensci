@@ -1036,3 +1036,6 @@
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
+[submodule "ropenaq"]
+	path = ropenaq
+	url = https://github.com/ropensci/ropenaq
