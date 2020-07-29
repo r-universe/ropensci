@@ -1045,3 +1045,6 @@
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/ropensci/dittodb
+[submodule "ghql"]
+	path = ghql
+	url = https://github.com/ropensci/ghql
