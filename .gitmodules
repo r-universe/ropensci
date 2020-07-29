@@ -1051,3 +1051,6 @@
 [submodule "gistr"]
 	path = gistr
 	url = https://github.com/ropensci/gistr
+[submodule "mapr"]
+	path = mapr
+	url = https://github.com/ropensci/mapr
