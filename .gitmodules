@@ -1042,3 +1042,6 @@
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
+[submodule "dittodb"]
+	path = dittodb
+	url = https://github.com/ropensci/dittodb
