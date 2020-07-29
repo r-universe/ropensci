@@ -1048,3 +1048,6 @@
 [submodule "ghql"]
 	path = ghql
 	url = https://github.com/ropensci/ghql
+[submodule "gistr"]
+	path = gistr
+	url = https://github.com/ropensci/gistr
