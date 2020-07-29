@@ -1039,3 +1039,6 @@
 [submodule "ropenaq"]
 	path = ropenaq
 	url = https://github.com/ropensci/ropenaq
+[submodule "ckanr"]
+	path = ckanr
+	url = https://github.com/ropensci/ckanr
