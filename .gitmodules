@@ -1057,3 +1057,6 @@
 [submodule "clock"]
 	path = clock
 	url = https://github.com/ropenscilabs/clock
+[submodule "crul"]
+	path = crul
+	url = https://github.com/ropensci/crul
