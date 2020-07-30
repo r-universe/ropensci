@@ -1054,3 +1054,6 @@
 [submodule "mapr"]
 	path = mapr
 	url = https://github.com/ropensci/mapr
+[submodule "clock"]
+	path = clock
+	url = https://github.com/ropenscilabs/clock
