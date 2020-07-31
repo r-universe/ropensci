@@ -1072,3 +1072,6 @@
 [submodule "spocc"]
 	path = spocc
 	url = https://github.com/ropensci/spocc
+[submodule "spplit"]
+	path = spplit
+	url = https://github.com/ropenscilabs/spplit
