@@ -1075,3 +1075,6 @@
 [submodule "spplit"]
 	path = spplit
 	url = https://github.com/ropenscilabs/spplit
+[submodule "iheatmapr"]
+	path = iheatmapr
+	url = https://github.com/ropensci/iheatmapr
