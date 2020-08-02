@@ -1078,3 +1078,6 @@
 [submodule "iheatmapr"]
 	path = iheatmapr
 	url = https://github.com/ropensci/iheatmapr
+[submodule "robotstxt"]
+	path = robotstxt
+	url = https://github.com/ropensci/robotstxt
