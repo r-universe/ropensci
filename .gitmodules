@@ -1081,3 +1081,6 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/ropensci/robotstxt
+[submodule "lightr"]
+	path = lightr
+	url = https://github.com/ropensci/lightr
