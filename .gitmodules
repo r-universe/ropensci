@@ -1099,3 +1099,6 @@
 [submodule "rdataretriever"]
 	path = rdataretriever
 	url = https://github.com/ropensci/rdataretriever
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/ropensci/taxize
