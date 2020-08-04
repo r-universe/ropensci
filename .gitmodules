@@ -1093,3 +1093,6 @@
 [submodule "rbace"]
 	path = rbace
 	url = https://github.com/ropensci/rbace
+[submodule "rcrossref"]
+	path = rcrossref
+	url = https://github.com/ropensci/rcrossref
