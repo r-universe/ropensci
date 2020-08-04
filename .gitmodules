@@ -1084,3 +1084,6 @@
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert.git
