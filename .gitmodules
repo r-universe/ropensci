@@ -1156,3 +1156,6 @@
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/ropensci/BaseSet
+[submodule "namext"]
+	path = namext
+	url = https://github.com/ropenscilabs/namext
