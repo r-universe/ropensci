@@ -1087,3 +1087,6 @@
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert.git
+[submodule "namext"]
+	path = namext
+	url = https://github.com/ropenscilabs/namext
