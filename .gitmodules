@@ -1102,3 +1102,6 @@
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
