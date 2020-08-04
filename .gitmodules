@@ -1090,3 +1090,6 @@
 [submodule "namext"]
 	path = namext
 	url = https://github.com/ropenscilabs/namext
+[submodule "rbace"]
+	path = rbace
+	url = https://github.com/ropensci/rbace
