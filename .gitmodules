@@ -1096,3 +1096,6 @@
 [submodule "rcrossref"]
 	path = rcrossref
 	url = https://github.com/ropensci/rcrossref
+[submodule "rdataretriever"]
+	path = rdataretriever
+	url = https://github.com/ropensci/rdataretriever
