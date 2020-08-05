@@ -68,7 +68,7 @@ jobs:
       fail-fast: false
       matrix:
         os: [ windows, macos ]
-        r: [ 'release' ]
+        r: [ 'release', 'oldrel']
     env:
       NOT_CRAN: false
       PKG_CONFIG_PATH: /opt/X11/lib/pkgconfig
