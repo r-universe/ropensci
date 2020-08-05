@@ -1117,3 +1117,6 @@
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
+[submodule "ijtiff"]
+	path = ijtiff
+	url = https://github.com/ropensci/ijtiff
