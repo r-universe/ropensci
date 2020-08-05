@@ -1108,3 +1108,6 @@
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/ropensci/BaseSet
+[submodule "beastier"]
+	path = beastier
+	url = https://github.com/ropensci/beastier
