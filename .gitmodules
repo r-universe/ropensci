@@ -1129,3 +1129,6 @@
 [submodule "rgnparser"]
 	path = rgnparser
 	url = https://github.com/ropensci/rgnparser
+[submodule "UCSCXenaTools"]
+	path = UCSCXenaTools
+	url = https://github.com/ropensci/UCSCXenaTools
