@@ -1114,3 +1114,6 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
+[submodule "fingertipsR"]
+	path = fingertipsR
+	url = https://github.com/ropensci/fingertipsR
