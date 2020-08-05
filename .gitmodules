@@ -1123,3 +1123,6 @@
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
+[submodule "packagemetrics"]
+	path = packagemetrics
+	url = https://github.com/ropenscilabs/packagemetrics
