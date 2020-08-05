@@ -1120,3 +1120,6 @@
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/ropensci/ijtiff
+[submodule "magick"]
+	path = magick
+	url = https://github.com/ropensci/magick
