@@ -1105,3 +1105,6 @@
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
+[submodule "BaseSet"]
+	path = BaseSet
+	url = https://github.com/ropensci/BaseSet
