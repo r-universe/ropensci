@@ -1,0 +1,158 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Build from commit
+
+jobs:
+  source:
+    name: Building source package
+    runs-on: ubuntu-latest
+    outputs:
+      sourcepkg: ${{ steps.build.outputs.SOURCEPKG }}
+      repo_url: ${{ steps.lookup.outputs.REPO_URL }}
+      package: ${{ steps.build.outputs.PACKAGE }}
+      version: ${{ steps.build.outputs.VERSION }}
+      commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+      java: ${{ steps.build.outputs.NEED_RJAVA }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 100
+      - id: lookup
+        name: Find new packages
+        run: |
+          PKG=$(git log --pretty=format: --name-only HEAD^.. | grep "^[^.]")
+          echo "New package: ${PKG}"
+          git submodule init ${PKG}
+          REPO_URL=$(git config --list | grep "submodule.${PKG}.url=" | cut -d'=' -f2)
+          REPO_COMMIT=$(git submodule status $PKG | cut -d" " -f2)
+          echo ::set-output name=REPO_URL::$REPO_URL
+          echo ::set-output name=REPO_COMMIT::$REPO_COMMIT
+      - id: build
+        name: Build source package
+        uses: ropensci/actions/build-source@master
+        with:
+          url: ${{ steps.lookup.outputs.REPO_URL }}
+          ref: ${{ steps.lookup.outputs.REPO_COMMIT }}
+      - name: "Save source package"
+        uses: actions/upload-artifact@v2
+        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        with:
+          name: sourcepkg
+          path: ${{ steps.build.outputs.SOURCEPKG }}
+      - name: Deploy to package server
+        run: ./.github/workflows/deploy.sh
+        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        env:
+          CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+          REPO_URL: ${{ steps.lookup.outputs.REPO_URL }}
+          REPO_COMMIT: ${{ steps.lookup.outputs.REPO_COMMIT }}
+          JOB_STATUS: ${{ job.status }}
+          DISTRO: ${{ steps.build.outputs.DISTRO }}
+          PACKAGE: ${{ steps.build.outputs.PACKAGE }}
+          VERSION: ${{ steps.build.outputs.VERSION }}
+          COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+          SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
+          FILE: ${{ steps.build.outputs.SOURCEPKG }}
+          TARGET: source
+
+  binaries:
+    needs: source
+    if: ${{ always() && needs.source.outputs.sourcepkg }}
+    runs-on: ${{ matrix.os }}-latest
+    name: ${{ matrix.os }} / R-${{ matrix.r }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ windows, macos ]
+        r: [ 'release', 'oldrel']
+    env:
+      NOT_CRAN: false
+      PKG_CONFIG_PATH: /opt/X11/lib/pkgconfig
+      CHECK_ARGS: --no-manual --no-build-vignettes
+      PACKAGE: ${{needs.source.outputs.package}}
+      SOURCEPKG: ${{needs.source.outputs.sourcepkg}}
+      R_PROFILE_USER: .Rprofile
+      CRAN: https://cloud.r-project.org
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+        with:
+          r-version: ${{ matrix.r }}
+      - name: Cleanup MacOS system
+        if: runner.os == 'macos'
+        run: |
+          brew cask install xquartz 2>&1 | sed 's/^Warning/Note/'
+          brew uninstall --force --ignore-dependencies $(brew list) 2>&1 | sed 's/Warning/Note/g'
+          curl -fsSOL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh
+          bash uninstall.sh --force --quiet 2>&1 | sed 's/Warning/Note/g'
+          hash -r && rm uninstall.sh
+      - name: Download source package
+        uses: actions/download-artifact@v2
+        with:
+          name: sourcepkg
+          path: .
+      - name: "Setting up R package library"
+        shell: bash
+        run: |
+          if [ "${R_LIBS_USER}" ]; then mkdir -p $R_LIBS_USER; fi
+          if [ "${CRAN}" ]; then echo "options(repos = c(CRAN = '${CRAN}'))" > $R_PROFILE_USER; fi
+          echo 'options(Ncpus = 2, crayon.enabled = TRUE)' >> $R_PROFILE_USER
+          echo 'utils::setRepositories(ind = 1:4)' >> $R_PROFILE_USER
+          echo 'options(repos = c(rOpenSci = "https://dev.ropensci.org", getOption("repos")))' >> $R_PROFILE_USER
+      - name: Install package dependencies
+        run: |
+          install.packages('remotes')
+          pkg_deps <- remotes::local_package_deps(Sys.getenv("SOURCEPKG"), dependencies = TRUE)
+          installed <- row.names(installed.packages())
+          pkg_deps <- pkg_deps[is.na(match(pkg_deps, installed))]
+          install.packages(pkg_deps)
+        shell: Rscript {0}
+        env:
+          R_COMPILE_AND_INSTALL_PACKAGES: never
+      - name: Build and check package
+        shell: bash
+        run: R CMD check ${SOURCEPKG} --install-args="--build" ${CHECK_ARGS}
+        env:
+          R_BROWSER: echo
+          R_PDFVIEWER: echo
+          RGL_USE_NULL: TRUE
+          R_TEXI2DVICMD: emulation
+          _R_CHECK_FORCE_SUGGESTS_: FALSE
+          _R_CHECK_CRAN_INCOMING_: FALSE
+          _R_CHECK_CRAN_INCOMING_REMOTE_: FALSE
+          NOT_CRAN: FALSE
+      - id: cmdcheck
+        name: Process check output
+        shell: bash
+        run: |
+          BINEXT=$(echo $RUNNER_OS | sed 's/Windows/zip/' | sed 's/macOS/tgz/')
+          BINARYPKG="${SOURCEPKG%tar.gz}${BINEXT}"
+          echo " ===== Printing: ${PACKAGE}.Rcheck/00install.out ====="
+          cat "${PACKAGE}.Rcheck/00install.out"
+          if [ -f "${BINARYPKG}" ]; then
+            echo "Deploying binary $BINARYPKG"
+            echo ::set-output name=binary::$BINARYPKG
+          else
+            echo "No binary package $BINARYPKG found. Skipping deployment."
+          fi
+        if: ${{ always() }}
+      - name: Deploy to package server
+        run: ./.github/workflows/deploy.sh
+        shell: bash
+        if: ${{ always() && steps.cmdcheck.outputs.binary }}
+        env:
+          CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+          REPO_URL: ${{ needs.source.outputs.repo_url }}
+          REPO_COMMIT: ${{ needs.source.outputs.repo_commit }}
+          JOB_STATUS: ${{ job.status }}
+          DISTRO: ${{ matrix.os }}
+          PACKAGE: ${{ needs.source.outputs.package }}
+          VERSION: ${{ needs.source.outputs.version }}
+          COMMIT_TIMESTAMP: ${{ needs.source.outputs.commit_timestamp }}
+          FILE: ${{ steps.cmdcheck.outputs.binary }}
+          TARGET: ${{ matrix.os }}
