@@ -1111,3 +1111,6 @@
 [submodule "beastier"]
 	path = beastier
 	url = https://github.com/ropensci/beastier
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/ropensci/beautier
