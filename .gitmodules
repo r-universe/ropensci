@@ -1132,3 +1132,6 @@
 [submodule "UCSCXenaTools"]
 	path = UCSCXenaTools
 	url = https://github.com/ropensci/UCSCXenaTools
+[submodule "tic"]
+	path = tic
+	url = https://github.com/ropensci/tic
