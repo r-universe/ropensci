@@ -1141,3 +1141,6 @@
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/ropensci/rnassqs
+[submodule "ftdoi"]
+	path = ftdoi
+	url = https://github.com/ropensci/ftdoi
