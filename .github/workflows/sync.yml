@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/sync.yml'
+  schedule:
+    - cron:  '*/60 * * * *'
+
+name: Update submodules
+
+jobs:
+  update:
+    name: Update submodules
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync registry
+        uses: r-universe-org/sync@master
+        with:
+          monorepo_url: https://github.com/${{ github.repository }}
+        env:
+          GITHUB_PAT: ${{ secrets.GHPAT }}

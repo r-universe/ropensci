@@ -1144,3 +1144,7 @@
 [submodule "ftdoi"]
 	path = ftdoi
 	url = https://github.com/ropensci/ftdoi
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/ropensci/roregistry
+
