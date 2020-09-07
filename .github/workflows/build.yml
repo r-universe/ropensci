@@ -7,9 +7,8 @@ on:
       - '.*/**'
 
 name: Build package from commit
-
 env:
-  MY_UNIVERSE: https://dev.ropensci.org
+  MY_UNIVERSE: https://cran.dev/${{ github.event.repository.name }}
 
 jobs:
   prepare:
@@ -20,6 +19,7 @@ jobs:
       repo_url: ${{ steps.lookup.outputs.repo_url }}
       repo_name: ${{ steps.lookup.outputs.repo_name }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
+      maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -28,6 +28,8 @@ jobs:
       - id: lookup
         name: Find changed package
         uses: r-universe-org/find-changes@master
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
 
   docs:
     needs: prepare
@@ -69,6 +71,7 @@ jobs:
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
+          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
           DISTRO: ${{ steps.build.outputs.DISTRO }}
           PACKAGE: ${{ steps.build.outputs.PACKAGE }}
@@ -130,6 +133,7 @@ jobs:
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
+          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
           DISTRO: ${{ matrix.os }}
           PACKAGE: ${{ needs.source.outputs.package }}
@@ -157,5 +161,5 @@ jobs:
       - name: Upload packages to server
         uses: r-universe-org/deploy-packages@master
         env:
-          CRANLIKEURL: https://dev.ropensci.org/packages
+          CRANLIKEURL: https://cran.dev/${{ github.event.repository.name }}/packages
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
