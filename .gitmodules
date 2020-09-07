@@ -1825,3 +1825,6 @@
 [submodule "medrxivr"]
 	path = medrxivr
 	url = https://github.com/ropensci/medrxivr
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/ropensci/treedata.table
