@@ -1227,11 +1227,6 @@
 	url = https://github.com/ropensci/landscapetools
 	shallow = true
 	branch = master
-[submodule "rodev"]
-	path = rodev
-	url = https://github.com/ropensci/rodev
-	shallow = true
-	branch = master
 [submodule "zbank"]
 	path = zbank
 	url = https://github.com/ropensci/zbank
@@ -1512,6 +1507,11 @@
 	url = https://github.com/ropensci/dittodb
 	shallow = true
 	branch = main
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/ropensci/treedata.table
+	shallow = true
+	branch = master
 [submodule "chirps"]
 	path = chirps
 	url = https://github.com/ropensci/chirps
@@ -1520,6 +1520,11 @@
 [submodule "colpluz"]
 	path = colpluz
 	url = https://github.com/ropensci/colpluz
+	shallow = true
+	branch = master
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/ropensci/medrxivr
 	shallow = true
 	branch = master
 [submodule "addressable"]
@@ -1742,11 +1747,6 @@
 	url = https://github.com/ropenscilabs/tinkr
 	shallow = true
 	branch = master
-[submodule "roblog"]
-	path = roblog
-	url = https://github.com/ropenscilabs/roblog
-	shallow = true
-	branch = master
 [submodule "ozbabynames"]
 	path = ozbabynames
 	url = https://github.com/ropenscilabs/ozbabynames
@@ -1822,9 +1822,13 @@
 	url = https://github.com/r-lib/credentials.git
 	shallow = true
 	branch = master
-[submodule "medrxivr"]
-	path = medrxivr
-	url = https://github.com/ropensci/medrxivr
-[submodule "treedata.table"]
-	path = treedata.table
-	url = https://github.com/ropensci/treedata.table
+[submodule "rodev"]
+	path = rodev
+	url = https://github.com/ropensci-org/rodev
+	shallow = true
+	branch = master
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropensci-org/roblog
+	shallow = true
+	branch = master
