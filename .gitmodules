@@ -1822,3 +1822,6 @@
 	url = https://github.com/r-lib/credentials.git
 	shallow = true
 	branch = master
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/ropensci/medrxivr
