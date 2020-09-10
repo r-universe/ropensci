@@ -8,7 +8,7 @@ on:
 
 name: Build package from commit
 env:
-  MY_UNIVERSE: https://cran.dev/${{ github.event.repository.name }}
+  MY_UNIVERSE: https://r-universe.dev/${{ github.event.repository.name }}
 
 jobs:
   prepare:
@@ -166,5 +166,5 @@ jobs:
       - name: Upload packages to server
         uses: r-universe-org/deploy-packages@master
         env:
-          CRANLIKEURL: https://cran.dev/${{ github.event.repository.name }}/packages
+          CRANLIKEURL: https://r-universe.dev/${{ github.event.repository.name }}/packages
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
