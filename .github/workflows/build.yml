@@ -115,9 +115,14 @@ jobs:
         with:
           name: package-source
           path: .
-      - id: cmdcheck
-        name: "Build and check package"
+      - name: "Build and check for MacOS"
         uses: r-universe-org/build-and-check@master
+        if: runner.os != 'windows'
+        with:
+          sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+      - name: "Build and check for Windows"
+        uses: r-universe-org/build-and-check@windows
+        if: runner.os == 'windows'
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
       - id: postcheck
