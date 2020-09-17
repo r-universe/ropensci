@@ -39,6 +39,13 @@
     "from": "cchecks"
   },
   {
+    "package": "addressable",
+    "url": "https://github.com/ropenscilabs/addressable",
+    "via": ["staypuft"],
+    "branch": "main",
+    "from": "staypuft"
+  },
+  {
     "package": "archive",
     "url": "https://github.com/jimhester/archive",
     "via": ["bowerbird"],
