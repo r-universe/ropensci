@@ -87,6 +87,12 @@
     "from": "onekp"
   },
   {
+    "package": "taxizedb",
+    "url": "https://github.com/ropensci/taxizedb",
+    "via": ["taxview"],
+    "from": "taxview"
+  },
+  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "via": ["rbison"],
