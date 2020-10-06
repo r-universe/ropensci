@@ -32,6 +32,13 @@
     "from": "restez"
   },
   {
+    "package": "addressable",
+    "url": "https://github.com/ropensci/addressable",
+    "via": ["cchecks"],
+    "branch": "main",
+    "from": "cchecks"
+  },
+  {
     "package": "archive",
     "url": "https://github.com/jimhester/archive",
     "via": ["bowerbird"],
