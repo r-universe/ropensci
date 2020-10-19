@@ -58,6 +58,12 @@
     "from": "tic"
   },
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["roblog"],
+    "from": "roblog"
+  },
+  {
     "package": "functionMap",
     "url": "https://github.com/MangoTheCat/functionMap",
     "via": ["pkginspector"],
