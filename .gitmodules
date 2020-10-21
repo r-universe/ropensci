@@ -1723,3 +1723,11 @@
 	url = https://github.com/ropensci-org/roblog
 	shallow = true
 	branch = master
+[submodule "precommit"]
+	path = precommit
+	url = https://github.com/lorenzwalthert/precommit
+	shallow = true
+[submodule "styler"]
+	path = styler
+	url = https://github.com/r-lib/styler
+	shallow = true

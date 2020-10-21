@@ -1,5 +1,17 @@
 [
   {
+    "package": "precommit",
+    "url": "https://github.com/lorenzwalthert/precommit",
+    "via": ["FedData"],
+    "from": "FedData"
+  },
+  {
+    "package": "styler",
+    "url": "https://github.com/r-lib/styler",
+    "via": ["FedData", "precommit"],
+    "from": "FedData"
+  },
+  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "via": ["rbison"],
