@@ -1755,6 +1755,10 @@
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
 	shallow = true
+[submodule "pkgapi"]
+	path = pkgapi
+	url = https://github.com/r-lib/pkgapi
+	shallow = true
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/lorenzwalthert/precommit
