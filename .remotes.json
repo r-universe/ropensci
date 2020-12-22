@@ -1,0 +1,15 @@
+[
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["rbison"],
+    "from": "rbison"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["rbison", "vcr"],
+    "branch": "httr-url-redirects",
+    "from": "rbison"
+  }
+]
