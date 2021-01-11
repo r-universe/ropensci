@@ -82,7 +82,7 @@
     "from": "phylotaR"
   },
   {
-    "package": "MonetDBLite-R",
+    "package": "MonetDBLite",
     "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
     "via": ["restez"],
     "from": "restez"

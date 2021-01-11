@@ -2005,8 +2005,3 @@
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
 	registered = false
-[submodule "MonetDBLite-R"]
-	path = MonetDBLite-R
-	url = https://github.com/hannesmuehleisen/MonetDBLite-R
-	shallow = true
-	registered = false
