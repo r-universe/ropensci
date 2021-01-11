@@ -26,6 +26,12 @@
     "from": "phylotaR"
   },
   {
+    "package": "MonetDBLite-R",
+    "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
+    "via": ["restez"],
+    "from": "restez"
+  },
+  {
     "package": "archive",
     "url": "https://github.com/jimhester/archive",
     "via": ["bowerbird"],
