@@ -20,10 +20,22 @@
     "from": "phylotaR"
   },
   {
+    "package": "archive",
+    "url": "https://github.com/jimhester/archive",
+    "via": ["bowerbird"],
+    "from": "bowerbird"
+  },
+  {
     "package": "circle",
     "url": "https://github.com/ropenscilabs/circle",
     "via": ["tic"],
     "from": "tic"
+  },
+  {
+    "package": "glue",
+    "url": "https://github.com/tidyverse/glue",
+    "via": ["bowerbird", "archive"],
+    "from": "bowerbird"
   },
   {
     "package": "leaflet",

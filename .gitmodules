@@ -1727,6 +1727,14 @@
 	path = MonetDBLite-R
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
+[submodule "archive"]
+	path = archive
+	url = https://github.com/jimhester/archive
+	shallow = true
+[submodule "glue"]
+	path = glue
+	url = https://github.com/tidyverse/glue
+	shallow = true
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
