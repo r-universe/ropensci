@@ -125,6 +125,12 @@
     "from": "taxview"
   },
   {
+    "package": "timefuzz",
+    "url": "https://github.com/ropensci/timefuzz",
+    "via": ["pendulum"],
+    "from": "pendulum"
+  },
+  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "via": ["rbison"],
