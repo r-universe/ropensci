@@ -76,6 +76,12 @@
     "from": "gtfsr"
   },
   {
+    "package": "pendulum",
+    "url": "https://github.com/ropensci/pendulum",
+    "via": ["timefuzz"],
+    "from": "timefuzz"
+  },
+  {
     "package": "precommit",
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
