@@ -20,6 +20,12 @@
     "from": "phylotaR"
   },
   {
+    "package": "circle",
+    "url": "https://github.com/ropenscilabs/circle",
+    "via": ["tic"],
+    "from": "tic"
+  },
+  {
     "package": "leaflet",
     "url": "https://github.com/rstudio/leaflet",
     "via": ["gtfsr"],
