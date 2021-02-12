@@ -37,5 +37,12 @@
     "via": ["rbison", "vcr"],
     "branch": "httr-url-redirects",
     "from": "rbison"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["vcr"],
+    "branch": "httr-url-redirects",
+    "from": "vcr"
   }
 ]
