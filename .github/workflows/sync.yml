@@ -1,19 +1,25 @@
 on:
   workflow_dispatch:
   push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/sync.yml'
   schedule:
     - cron: '*/60 * * * *'
 
-name: Update submodules
+name: Sync universe registry
 
 jobs:
   update:
     name: Update submodules
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Sync registry
         uses: r-universe-org/sync@master
         with:
           monorepo_url: https://github.com/${{ github.repository }}
         env:
+          GH_APP_ID: '87942'
+          GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
           GITHUB_PAT: ${{ secrets.GHPAT }}

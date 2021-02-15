@@ -1,0 +1,22 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - '.gitmodules'
+
+name: Cleanup package server
+
+jobs:
+  update:
+    name: Delete removed packages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Find and delete packages
+        uses: r-universe-org/delete-packages@master
+        with:
+          monorepo_url: https://github.com/${{ github.repository }}
+          cranlike_url: https://${{ github.event.repository.name }}.r-universe.dev/packages
+        env:
+          CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}

@@ -1,0 +1,226 @@
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.*'
+      - '.*/**'
+
+name: Build package from commit
+env:
+  MY_UNIVERSE: https://${{ github.event.repository.name }}.r-universe.dev
+  GH_APP_ID: '87942'
+
+jobs:
+  prepare:
+    name: Find changed module
+    runs-on: ubuntu-20.04
+    if: "!contains(github.event.head_commit.message, 'Deleting packages')"
+    outputs:
+      repo_url: ${{ steps.lookup.outputs.repo_url }}
+      repo_name: ${{ steps.lookup.outputs.repo_name }}
+      repo_owner: ${{ steps.lookup.outputs.repo_owner }}
+      repo_commit: ${{ steps.lookup.outputs.repo_commit }}
+      repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
+      universe_app: ${{ steps.lookup.outputs.universe_app }}
+      maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 100
+      - id: lookup
+        name: Find changed package
+        uses: r-universe-org/find-changes@master
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+
+  pendingstatus:
+    name: Set Status to Pending
+    runs-on: ubuntu-20.04
+    needs: [prepare]
+    if: needs.prepare.outputs.universe_app
+    steps:
+      - name: Set upstream commit status
+        uses: r-universe-org/commit-status@master
+        env:
+          GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
+        with:
+          repo: ${{ needs.prepare.outputs.repo_url }}
+          sha: ${{ needs.prepare.outputs.repo_commit }}
+          url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+          universe: ${{ github.event.repository.name }}
+          deployed_packages: 'pending'
+
+  docs:
+    needs: prepare
+    name: Build package documentation
+    runs-on: ubuntu-20.04
+    if: github.event.repository.name == 'ropensci'
+    steps:
+      - name: Build package docs
+        uses: r-universe-org/build-docs@master
+        with:
+          repo_url: ${{ needs.prepare.outputs.repo_url }}
+          deploy_url: https://docs.ropensci.org/${{ needs.prepare.outputs.repo_name }}
+      - name: "Save docs zip"
+        uses: actions/upload-artifact@v2
+        with:
+          name: docs-website
+          path: docs.zip
+
+  source:
+    needs: prepare
+    name: Build source package
+    runs-on: ubuntu-20.04
+    timeout-minutes: 60
+    outputs:
+      commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+      sourcepkg: ${{ steps.build.outputs.SOURCEPKG }}
+      package: ${{ steps.build.outputs.PACKAGE }}
+      version: ${{ steps.build.outputs.VERSION }}
+      java: ${{ steps.build.outputs.NEED_RJAVA }}
+    steps:
+      - id: build
+        name: Build source package
+        uses: r-universe-org/build-source@master
+        with:
+          url: ${{ needs.prepare.outputs.repo_url }}
+          ref: ${{ needs.prepare.outputs.repo_commit }}
+          subdir: ${{ needs.prepare.outputs.repo_subdir }}
+      - name: "Generate pkgdata"
+        uses: r-universe-org/generate-pkgdata@master
+        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        with:
+          REPO_URL: ${{ needs.prepare.outputs.repo_url }}
+          REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
+          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
+          JOB_STATUS: ${{ job.status }}
+          DISTRO: ${{ steps.build.outputs.DISTRO }}
+          PACKAGE: ${{ steps.build.outputs.PACKAGE }}
+          VERSION: ${{ steps.build.outputs.VERSION }}
+          COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+          SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
+          PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
+          VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
+          FILE: ${{ steps.build.outputs.SOURCEPKG }}
+          TARGET: source
+      - name: "Save source package"
+        uses: actions/upload-artifact@v2
+        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        with:
+          name: package-source
+          path: |
+            ${{ steps.build.outputs.SOURCEPKG }}
+            pkgdata.txt
+
+  binaries:
+    needs: [prepare, source]
+    if: ${{ always() && needs.source.outputs.sourcepkg }}
+    runs-on: ${{ matrix.os }}-latest
+    timeout-minutes: 60
+    name: Build for ${{ matrix.os }} / R-${{ matrix.r }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ windows, macos ]
+        r: [ 'release', 'oldrel']
+    steps:
+      - name: Before cache
+        if: runner.os == 'macos'
+        uses: r-universe-org/macos-actions/before-cache@master
+      - name: Cache tools
+        if: runner.os == 'macos'
+        uses: actions/cache@v2
+        with:
+          path: |
+            /opt/X11
+          key: ${{ runner.os }}-${{ matrix.r }}-2
+      - name: Install R
+        uses: r-lib/actions/setup-r@master
+        id: install-r
+        with:
+          r-version: ${{ matrix.r }}
+        env:
+          NOT_CRAN: false
+      - name: Prepare macOS system
+        if: runner.os == 'macos'
+        uses: r-universe-org/macos-actions/prepare-macos@master
+      - name: Download source package
+        uses: actions/download-artifact@v2
+        with:
+          name: package-source
+          path: .
+      - name: "Build and check for MacOS"
+        uses: r-universe-org/build-and-check@master
+        if: runner.os != 'windows'
+        with:
+          sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+      - name: "Build and check for Windows"
+        uses: r-universe-org/build-and-check@windows
+        if: runner.os == 'windows'
+        with:
+          sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+      - id: postcheck
+        name: "Inspect check output"
+        uses: r-universe-org/post-check@master
+        with:
+          package: ${{ needs.source.outputs.package }}
+          sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+        if: always()
+      - name: "Generate pkgdata"
+        uses: r-universe-org/generate-pkgdata@master
+        if: ${{ always() && steps.postcheck.outputs.binarypkg }}
+        with:
+          REPO_URL: ${{ needs.prepare.outputs.repo_url }}
+          REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
+          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
+          JOB_STATUS: ${{ job.status }}
+          DISTRO: ${{ matrix.os }}
+          PACKAGE: ${{ needs.source.outputs.package }}
+          VERSION: ${{ needs.source.outputs.version }}
+          COMMIT_TIMESTAMP: ${{ needs.source.outputs.commit_timestamp }}
+          FILE: ${{ steps.postcheck.outputs.binarypkg }}
+          TARGET: ${{ matrix.os }}
+      - name: "Save binary package"
+        uses: actions/upload-artifact@v2
+        if: ${{ always() && steps.postcheck.outputs.binarypkg }}
+        with:
+          name: package-${{ matrix.os }}-${{ matrix.r }}
+          path: |
+            ${{ steps.postcheck.outputs.binarypkg }}
+            pkgdata.txt
+
+  deploy:
+    name: Deploy to package server
+    runs-on: ubuntu-20.04
+    needs: [source, binaries]
+    if: ${{ always() && needs.source.outputs.sourcepkg }}
+    outputs:
+      deployed_packages: ${{ steps.deployment.outputs.deployed_packages }}
+    steps:
+      - name: Get artifacts for deployment
+        uses: actions/download-artifact@v2
+      - id: deployment
+        name: Upload packages to server
+        uses: r-universe-org/deploy-packages@master
+        env:
+          CRANLIKEURL: https://${{ github.event.repository.name }}.r-universe.dev/packages
+          CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+
+  finalstatus:
+    name: Set Github Status
+    runs-on: ubuntu-20.04
+    needs: [prepare, deploy, pendingstatus]
+    if: always() && needs.prepare.outputs.universe_app
+    steps:
+      - name: Set upstream commit status
+        uses: r-universe-org/commit-status@master
+        env:
+          GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
+        with:
+          repo: ${{ needs.prepare.outputs.repo_url }}
+          sha: ${{ needs.prepare.outputs.repo_commit }}
+          url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+          universe: ${{ github.event.repository.name }}
+          deployed_packages: ${{ needs.deploy.outputs.deployed_packages }}
