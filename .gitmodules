@@ -758,11 +758,6 @@
 	url = https://github.com/ropensci/getCRUCLdata
 	shallow = true
 	branch = master
-[submodule "crminer"]
-	path = crminer
-	url = https://github.com/ropensci/crminer
-	shallow = true
-	branch = master
 [submodule "CoordinateCleaner"]
 	path = CoordinateCleaner
 	url = https://github.com/ropensci/CoordinateCleaner
