@@ -1493,6 +1493,11 @@
 	url = https://github.com/ropensci/rgnparser
 	shallow = true
 	branch = master
+[submodule "terrainr"]
+	path = terrainr
+	url = https://github.com/ropensci/terrainr
+	shallow = true
+	branch = main
 [submodule "pixelclasser"]
 	path = pixelclasser
 	url = https://github.com/ropensci/pixelclasser
