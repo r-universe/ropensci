@@ -1607,7 +1607,7 @@
 	path = dataspice
 	url = https://github.com/ropenscilabs/dataspice
 	shallow = true
-	branch = master
+	branch = main
 [submodule "middlechild"]
 	path = middlechild
 	url = https://github.com/ropenscilabs/middlechild
