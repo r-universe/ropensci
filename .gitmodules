@@ -1672,12 +1672,12 @@
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
 	shallow = true
-	branch = master
+	branch = main
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropenscilabs/autotest
 	shallow = true
-	branch = master
+	branch = main
 [submodule "MonetDBLite"]
 	path = MonetDBLite
 	url = https://github.com/ropenscilabs/MonetDBLite
@@ -1687,7 +1687,7 @@
 	path = srr
 	url = https://github.com/ropenscilabs/srr
 	shallow = true
-	branch = master
+	branch = main
 [submodule "auk"]
 	path = auk
 	url = https://github.com/CornellLabofOrnithology/auk.git
