@@ -752,7 +752,7 @@
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
 	shallow = true
-	branch = master
+	branch = main
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
@@ -1432,7 +1432,7 @@
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
 	shallow = true
-	branch = master
+	branch = main
 [submodule "workloopR"]
 	path = workloopR
 	url = https://github.com/ropensci/workloopR
