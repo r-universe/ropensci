@@ -52,6 +52,12 @@
     "from": "bowerbird"
   },
   {
+    "package": "arkdb",
+    "url": "https://github.com/ropensci/arkdb",
+    "via": ["taxadb"],
+    "from": "taxadb"
+  },
+  {
     "package": "circle",
     "url": "https://github.com/ropenscilabs/circle",
     "via": ["tic"],
