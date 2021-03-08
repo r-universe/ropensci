@@ -5,6 +5,11 @@ on:
     paths-ignore:
       - '.*'
       - '.*/**'
+  workflow_dispatch:
+    inputs:
+      package:
+        description: Which package or commit to build (default is HEAD commit)
+        required: false
 
 name: Build package from commit
 env:
@@ -34,6 +39,7 @@ jobs:
         uses: r-universe-org/find-changes@master
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
+          package: ${{ github.event.inputs.package }}
 
   pendingstatus:
     name: Set Status to Pending
