@@ -927,7 +927,7 @@
 	path = DataSpaceR
 	url = https://github.com/ropensci/DataSpaceR
 	shallow = true
-	branch = master
+	branch = main
 [submodule "bomrang"]
 	path = bomrang
 	url = https://github.com/ropensci/bomrang
