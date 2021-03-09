@@ -1643,9 +1643,9 @@
 	url = https://github.com/ropenscilabs/reviewer
 	shallow = true
 	branch = master
-[submodule "gendercodeR"]
-	path = gendercodeR
-	url = https://github.com/ropenscilabs/gendercodeR
+[submodule "gendercoder"]
+	path = gendercoder
+	url = https://github.com/ropenscilabs/gendercoder
 	shallow = true
 	branch = master
 [submodule "tl"]
