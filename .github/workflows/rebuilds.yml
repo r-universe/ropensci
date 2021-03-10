@@ -1,0 +1,18 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'
+
+name: Trigger rebuilds
+
+jobs:
+  update:
+    name: Rebuilds
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Trigger rebuilds
+        uses: r-universe-org/trigger-rebuilds@master
+        with:
+          repository: ${{ github.repository }}
+        env:
+          GITHUB_PAT: ${{ secrets.GHPAT }}
