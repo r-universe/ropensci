@@ -57,6 +57,7 @@ jobs:
           url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
           universe: ${{ github.event.repository.name }}
           deployed_packages: 'pending'
+        if: github.event.inputs.package == ''
 
   docs:
     needs: prepare
