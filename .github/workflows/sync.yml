@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: '*/60 * * * *'
 
-name: Sync universe registry
+name: Update universe
 
 jobs:
   update:
