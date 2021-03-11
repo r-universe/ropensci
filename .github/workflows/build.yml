@@ -11,7 +11,7 @@ on:
         description: Which package or commit to build (default is HEAD commit)
         required: false
 
-name: Build package
+name: Build package ${{ github.event.inputs.package }}
 env:
   MY_UNIVERSE: https://${{ github.event.repository.name }}.r-universe.dev
   GH_APP_ID: '87942'
