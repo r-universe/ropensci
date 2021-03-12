@@ -892,7 +892,7 @@
 	path = iheatmapr
 	url = https://github.com/ropensci/iheatmapr
 	shallow = true
-	branch = master
+	branch = main
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
