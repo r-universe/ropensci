@@ -1756,6 +1756,10 @@
 	path = goodpractice
 	url = https://github.com/MangoTheCat/goodpractice
 	shallow = true
+[submodule "leafem"]
+	path = leafem
+	url = https://github.com/r-spatial/leafem
+	shallow = true
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
@@ -1779,6 +1783,10 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
+	shallow = true
+[submodule "sf"]
+	path = sf
+	url = https://github.com/r-spatial/sf
 	shallow = true
 [submodule "styler"]
 	path = styler

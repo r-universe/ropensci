@@ -88,6 +88,12 @@
     "from": "checkers"
   },
   {
+    "package": "leafem",
+    "url": "https://github.com/r-spatial/leafem",
+    "via": ["ruODK"],
+    "from": "ruODK"
+  },
+  {
     "package": "leaflet",
     "url": "https://github.com/rstudio/leaflet",
     "via": ["gtfsr"],
@@ -159,6 +165,12 @@
     "via": ["rrricanesdata"],
     "branch": "develop",
     "from": "rrricanesdata"
+  },
+  {
+    "package": "sf",
+    "url": "https://github.com/r-spatial/sf",
+    "via": ["ruODK"],
+    "from": "ruODK"
   },
   {
     "package": "styler",
