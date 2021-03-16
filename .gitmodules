@@ -372,7 +372,7 @@
 	path = DataPackageR
 	url = https://github.com/ropensci/DataPackageR
 	shallow = true
-	branch = master
+	branch = main
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/ropensci/helminthR
