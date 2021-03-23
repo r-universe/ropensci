@@ -632,7 +632,7 @@
 	path = opencage
 	url = https://github.com/ropensci/opencage
 	shallow = true
-	branch = master
+	branch = main
 [submodule "fauxpas"]
 	path = fauxpas
 	url = https://github.com/ropensci/fauxpas
