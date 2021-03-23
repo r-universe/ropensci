@@ -1448,6 +1448,11 @@
 	url = https://github.com/ropensci/osmextract
 	shallow = true
 	branch = master
+[submodule "circle"]
+	path = circle
+	url = https://github.com/ropensci/circle
+	shallow = true
+	branch = main
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/ropensci/dittodb
@@ -1658,11 +1663,6 @@
 	url = https://github.com/ropenscilabs/tl
 	shallow = true
 	branch = master
-[submodule "circle"]
-	path = circle
-	url = https://github.com/ropenscilabs/circle
-	shallow = true
-	branch = main
 [submodule "packgraph"]
 	path = packgraph
 	url = https://github.com/ropenscilabs/packgraph
