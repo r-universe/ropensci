@@ -1667,7 +1667,7 @@
 	path = packgraph
 	url = https://github.com/ropenscilabs/packgraph
 	shallow = true
-	branch = master
+	branch = main
 [submodule "pkgreport"]
 	path = pkgreport
 	url = https://github.com/ropenscilabs/pkgreport
