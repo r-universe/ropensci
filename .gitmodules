@@ -1443,6 +1443,11 @@
 	url = https://github.com/ropensci/targets
 	shallow = true
 	branch = main
+[submodule "dataaimsr"]
+	path = dataaimsr
+	url = https://github.com/ropensci/dataaimsr
+	shallow = true
+	branch = master
 [submodule "osmextract"]
 	path = osmextract
 	url = https://github.com/ropensci/osmextract
