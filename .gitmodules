@@ -932,7 +932,7 @@
 	path = bomrang
 	url = https://github.com/ropensci/bomrang
 	shallow = true
-	branch = master
+	branch = main
 [submodule "googleLanguageR"]
 	path = googleLanguageR
 	url = https://github.com/ropensci/googleLanguageR
