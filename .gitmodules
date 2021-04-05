@@ -1563,11 +1563,6 @@
 	url = https://github.com/ropenscilabs/testrmd
 	shallow = true
 	branch = master
-[submodule "ponyexpress"]
-	path = ponyexpress
-	url = https://github.com/ropenscilabs/ponyexpress
-	shallow = true
-	branch = master
 [submodule "datasauce"]
 	path = datasauce
 	url = https://github.com/ropenscilabs/datasauce
@@ -1608,11 +1603,6 @@
 	url = https://github.com/ropenscilabs/mchtoolbox
 	shallow = true
 	branch = master
-[submodule "testevil"]
-	path = testevil
-	url = https://github.com/ropenscilabs/testevil
-	shallow = true
-	branch = master
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
@@ -1628,19 +1618,9 @@
 	url = https://github.com/ropenscilabs/middlechild
 	shallow = true
 	branch = master
-[submodule "defender"]
-	path = defender
-	url = https://github.com/ropenscilabs/defender
-	shallow = true
-	branch = master
 [submodule "jobstatus"]
 	path = jobstatus
 	url = https://github.com/ropenscilabs/jobstatus
-	shallow = true
-	branch = master
-[submodule "ropsec"]
-	path = ropsec
-	url = https://github.com/ropenscilabs/ropsec
 	shallow = true
 	branch = master
 [submodule "pkginspector"]
