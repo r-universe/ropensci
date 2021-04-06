@@ -1558,11 +1558,6 @@
 	url = https://github.com/ropenscilabs/checkers
 	shallow = true
 	branch = master
-[submodule "testrmd"]
-	path = testrmd
-	url = https://github.com/ropenscilabs/testrmd
-	shallow = true
-	branch = master
 [submodule "datasauce"]
 	path = datasauce
 	url = https://github.com/ropenscilabs/datasauce
