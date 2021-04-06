@@ -1563,11 +1563,6 @@
 	url = https://github.com/ropenscilabs/datasauce
 	shallow = true
 	branch = master
-[submodule "ochRe"]
-	path = ochRe
-	url = https://github.com/ropenscilabs/ochRe
-	shallow = true
-	branch = master
 [submodule "changes"]
 	path = changes
 	url = https://github.com/ropenscilabs/changes
@@ -1591,11 +1586,6 @@
 [submodule "trackmd"]
 	path = trackmd
 	url = https://github.com/ropenscilabs/trackmd
-	shallow = true
-	branch = master
-[submodule "mchtoolbox"]
-	path = mchtoolbox
-	url = https://github.com/ropenscilabs/mchtoolbox
 	shallow = true
 	branch = master
 [submodule "qcoder"]
@@ -1626,11 +1616,6 @@
 [submodule "ozbabynames"]
 	path = ozbabynames
 	url = https://github.com/ropenscilabs/ozbabynames
-	shallow = true
-	branch = master
-[submodule "reviewer"]
-	path = reviewer
-	url = https://github.com/ropenscilabs/reviewer
 	shallow = true
 	branch = master
 [submodule "gendercoder"]
