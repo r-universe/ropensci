@@ -169,7 +169,7 @@ jobs:
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
       - id: postcheck
-        name: "Inspect check output"
+        name: "Package install log"
         uses: r-universe-org/post-check@master
         with:
           package: ${{ needs.source.outputs.package }}
