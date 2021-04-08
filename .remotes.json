@@ -142,6 +142,12 @@
     "from": "pkgreport"
   },
   {
+    "package": "pkgapi",
+    "url": "https://github.com/r-lib/pkgapi",
+    "via": ["pkgreport", "packgraph"],
+    "from": "pkgreport"
+  },
+  {
     "package": "precommit",
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
