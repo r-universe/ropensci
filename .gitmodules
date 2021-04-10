@@ -2035,63 +2035,79 @@
 	path = CodeDepends
 	url = https://github.com/MKLau/CodeDepends
 	shallow = true
+	registered = false
 [submodule "MonetDBLite-R"]
 	path = MonetDBLite-R
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
+	registered = false
 [submodule "archive"]
 	path = archive
 	url = https://github.com/jimhester/archive
 	shallow = true
+	registered = false
 [submodule "functionMap"]
 	path = functionMap
 	url = https://github.com/MangoTheCat/functionMap
 	shallow = true
+	registered = false
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
 	shallow = true
+	registered = false
 [submodule "glue"]
 	path = glue
 	url = https://github.com/tidyverse/glue
 	shallow = true
+	registered = false
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/MangoTheCat/goodpractice
 	shallow = true
+	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
 	shallow = true
+	registered = false
 [submodule "leaflet"]
 	path = leaflet
 	url = https://github.com/rstudio/leaflet
 	shallow = true
+	registered = false
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
 	shallow = true
+	registered = false
 [submodule "pkgapi"]
 	path = pkgapi
 	url = https://github.com/r-lib/pkgapi
 	shallow = true
+	registered = false
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/lorenzwalthert/precommit
 	shallow = true
+	registered = false
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/MangoTheCat/remotes
 	shallow = true
+	registered = false
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	shallow = true
+	registered = false
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
 	shallow = true
+	registered = false
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
 	shallow = true
+	registered = false
