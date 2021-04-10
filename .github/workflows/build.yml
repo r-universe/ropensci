@@ -27,6 +27,7 @@ jobs:
       repo_owner: ${{ steps.lookup.outputs.repo_owner }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
       repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
+      repo_registered: ${{ steps.lookup.outputs.repo_registered }}
       universe_app: ${{ steps.lookup.outputs.universe_app }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
     steps:
@@ -101,6 +102,7 @@ jobs:
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
+          REPO_REGISTERED: ${{ needs.prepare.outputs.repo_registered }}
           MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
           DISTRO: ${{ steps.build.outputs.DISTRO }}
