@@ -58,6 +58,12 @@
     "from": "tic"
   },
   {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
     "package": "crul",
     "url": "https://github.com/ropensci/crul",
     "via": ["roblog"],
@@ -146,6 +152,18 @@
     "url": "https://github.com/r-lib/pkgapi",
     "via": ["pkgreport", "packgraph"],
     "from": "pkgreport"
+  },
+  {
+    "package": "posterior",
+    "url": "https://github.com/stan-dev/posterior",
+    "via": ["stantargets", "cmdstanr"],
+    "from": "stantargets"
+  },
+  {
+    "package": "posterior",
+    "url": "https://github.com/stan-dev/posterior",
+    "via": ["stantargets"],
+    "from": "stantargets"
   },
   {
     "package": "precommit",
