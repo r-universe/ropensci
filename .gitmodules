@@ -1821,6 +1821,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "stantargets"]
+	path = stantargets
+	url = https://github.com/ropensci/stantargets
+	shallow = true
+	branch = main
+	registered = true
 [submodule "convertr"]
 	path = convertr
 	url = https://github.com/ropenscilabs/convertr
@@ -1836,12 +1842,6 @@
 [submodule "dirdf"]
 	path = dirdf
 	url = https://github.com/ropenscilabs/dirdf
-	shallow = true
-	branch = master
-	registered = true
-[submodule "snowball"]
-	path = snowball
-	url = https://github.com/ropenscilabs/snowball
 	shallow = true
 	branch = master
 	registered = true
@@ -1887,12 +1887,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "cricketdata"]
-	path = cricketdata
-	url = https://github.com/ropenscilabs/cricketdata
-	shallow = true
-	branch = master
-	registered = true
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
@@ -1923,21 +1917,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "jobstatus"]
-	path = jobstatus
-	url = https://github.com/ropenscilabs/jobstatus
-	shallow = true
-	branch = master
-	registered = true
 [submodule "pkginspector"]
 	path = pkginspector
 	url = https://github.com/ropenscilabs/pkginspector
-	shallow = true
-	branch = master
-	registered = true
-[submodule "ozbabynames"]
-	path = ozbabynames
-	url = https://github.com/ropenscilabs/ozbabynames
 	shallow = true
 	branch = master
 	registered = true
