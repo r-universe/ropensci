@@ -937,7 +937,7 @@
 	path = tic
 	url = https://github.com/ropensci/tic
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "binman"]
 	path = binman
