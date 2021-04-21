@@ -52,12 +52,6 @@
     "from": "bowerbird"
   },
   {
-    "package": "circle",
-    "url": "https://github.com/ropenscilabs/circle",
-    "via": ["tic"],
-    "from": "tic"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
