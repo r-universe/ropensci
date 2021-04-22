@@ -2092,11 +2092,6 @@
 	url = https://github.com/MangoTheCat/remotes
 	shallow = true
 	registered = false
-[submodule "rlang"]
-	path = rlang
-	url = https://github.com/r-lib/rlang
-	shallow = true
-	registered = false
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf

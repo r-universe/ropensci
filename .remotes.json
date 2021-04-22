@@ -190,12 +190,6 @@
     "from": "phylotaR"
   },
   {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["EndoMineR"],
-    "from": "EndoMineR"
-  },
-  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["rrricanesdata"],
