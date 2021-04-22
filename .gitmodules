@@ -1881,12 +1881,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "ozflights"]
-	path = ozflights
-	url = https://github.com/ropenscilabs/ozflights
-	shallow = true
-	branch = master
-	registered = true
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
