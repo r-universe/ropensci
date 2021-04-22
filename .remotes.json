@@ -52,6 +52,12 @@
     "from": "bowerbird"
   },
   {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgreport", "pkgstats"],
+    "from": "pkgreport"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
@@ -148,6 +154,12 @@
     "from": "pkgreport"
   },
   {
+    "package": "pkgstats",
+    "url": "https://github.com/mpadge/pkgstats",
+    "via": ["pkgreport"],
+    "from": "pkgreport"
+  },
+  {
     "package": "posterior",
     "url": "https://github.com/stan-dev/posterior",
     "via": ["stantargets", "cmdstanr"],
@@ -195,6 +207,12 @@
     "url": "https://github.com/r-spatial/sf",
     "via": ["ruODK"],
     "from": "ruODK"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropenscilabs/srr",
+    "via": ["pkgreport"],
+    "from": "pkgreport"
   },
   {
     "package": "styler",

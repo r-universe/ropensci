@@ -2022,6 +2022,11 @@
 	url = https://github.com/jimhester/archive
 	shallow = true
 	registered = false
+[submodule "cloc"]
+	path = cloc
+	url = https://github.com/hrbrmstr/cloc
+	shallow = true
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -2065,6 +2070,11 @@
 [submodule "pkgapi"]
 	path = pkgapi
 	url = https://github.com/r-lib/pkgapi
+	shallow = true
+	registered = false
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/mpadge/pkgstats
 	shallow = true
 	registered = false
 [submodule "posterior"]
