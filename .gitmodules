@@ -1951,7 +1951,7 @@
 	path = pkgreport
 	url = https://github.com/ropenscilabs/pkgreport
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "allcontributors"]
 	path = allcontributors
