@@ -138,12 +138,6 @@
   {
     "package": "pkgapi",
     "url": "https://github.com/r-lib/pkgapi",
-    "via": ["packgraph"],
-    "from": "packgraph"
-  },
-  {
-    "package": "pkgapi",
-    "url": "https://github.com/r-lib/pkgapi",
     "via": ["pkgreport"],
     "from": "pkgreport"
   },
