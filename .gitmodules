@@ -2079,11 +2079,6 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
-[submodule "packgraph"]
-	path = packgraph
-	url = https://github.com/ropenscilabs/packgraph
-	shallow = true
-	registered = false
 [submodule "pkgapi"]
 	path = pkgapi
 	url = https://github.com/r-lib/pkgapi
