@@ -58,6 +58,12 @@
     "from": "pkgreport"
   },
   {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgstats"],
+    "from": "pkgstats"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
