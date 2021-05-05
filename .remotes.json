@@ -54,6 +54,12 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgreport"],
+    "from": "pkgreport"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["pkgreport", "pkgstats"],
     "from": "pkgreport"
   },
