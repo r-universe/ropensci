@@ -136,12 +136,6 @@
     "from": "timefuzz"
   },
   {
-    "package": "pkgapi",
-    "url": "https://github.com/r-lib/pkgapi",
-    "via": ["pkgreport"],
-    "from": "pkgreport"
-  },
-  {
     "package": "pkgstats",
     "url": "https://github.com/mpadge/pkgstats",
     "via": ["pkgreport"],
