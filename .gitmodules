@@ -1695,6 +1695,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "exoplanets"]
+	path = exoplanets
+	url = https://github.com/ropensci/exoplanets
+	shallow = true
+	branch = master
+	registered = true
 [submodule "SymbiotaR2"]
 	path = SymbiotaR2
 	url = https://github.com/ropensci/SymbiotaR2
