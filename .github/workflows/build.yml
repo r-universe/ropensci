@@ -146,7 +146,7 @@ jobs:
             /opt/X11
           key: ${{ runner.os }}-${{ matrix.r }}-2
       - name: Install R
-        uses: r-lib/actions/setup-r@master
+        uses: r-universe-org/actions/setup-r@master
         id: install-r
         with:
           r-version: ${{ matrix.r }}
