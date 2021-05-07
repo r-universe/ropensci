@@ -66,18 +66,6 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["pkgreport"],
-    "from": "pkgreport"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["pkgreport", "pkgstats"],
-    "from": "pkgreport"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["pkgstats"],
     "from": "pkgstats"
   },
@@ -160,12 +148,6 @@
     "from": "pkgcheck"
   },
   {
-    "package": "pkgstats",
-    "url": "https://github.com/mpadge/pkgstats",
-    "via": ["pkgreport"],
-    "from": "pkgreport"
-  },
-  {
     "package": "posterior",
     "url": "https://github.com/stan-dev/posterior",
     "via": ["stantargets", "cmdstanr"],
@@ -213,12 +195,6 @@
     "url": "https://github.com/ropenscilabs/srr",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
-  },
-  {
-    "package": "srr",
-    "url": "https://github.com/ropenscilabs/srr",
-    "via": ["pkgreport"],
-    "from": "pkgreport"
   },
   {
     "package": "styler",
