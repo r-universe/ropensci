@@ -54,6 +54,18 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgcheck", "pkgstats"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["pkgreport"],
     "from": "pkgreport"
   },
@@ -144,6 +156,12 @@
   {
     "package": "pkgstats",
     "url": "https://github.com/mpadge/pkgstats",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/mpadge/pkgstats",
     "via": ["pkgreport"],
     "from": "pkgreport"
   },
@@ -189,6 +207,12 @@
     "url": "https://github.com/r-spatial/sf",
     "via": ["ruODK"],
     "from": "ruODK"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropenscilabs/srr",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
   },
   {
     "package": "srr",
