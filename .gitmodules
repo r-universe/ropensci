@@ -1839,12 +1839,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "censo2017-cartografias"]
-	path = censo2017-cartografias
-	url = https://github.com/ropensci/censo2017-cartografias
-	shallow = true
-	branch = main
-	registered = true
 [submodule "convertr"]
 	path = convertr
 	url = https://github.com/ropenscilabs/convertr
