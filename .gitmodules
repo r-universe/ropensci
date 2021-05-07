@@ -1941,9 +1941,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "pkgreport"]
-	path = pkgreport
-	url = https://github.com/ropenscilabs/pkgreport
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropenscilabs/pkgcheck
 	shallow = true
 	branch = main
 	registered = true
