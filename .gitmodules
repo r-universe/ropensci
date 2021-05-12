@@ -1207,7 +1207,7 @@
 	path = tidyhydat
 	url = https://github.com/ropensci/tidyhydat
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "spelling"]
 	path = spelling
