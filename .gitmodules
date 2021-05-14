@@ -1839,12 +1839,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "convertr"]
-	path = convertr
-	url = https://github.com/ropenscilabs/convertr
-	shallow = true
-	branch = master
-	registered = true
 [submodule "datastorr"]
 	path = datastorr
 	url = https://github.com/ropenscilabs/datastorr
