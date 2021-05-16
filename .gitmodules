@@ -1425,6 +1425,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "dataspice"]
+	path = dataspice
+	url = https://github.com/ropensci/dataspice
+	shallow = true
+	branch = main
+	registered = true
 [submodule "opencv"]
 	path = opencv
 	url = https://github.com/ropensci/opencv
@@ -1904,12 +1910,6 @@
 	url = https://github.com/ropenscilabs/qcoder
 	shallow = true
 	branch = master
-	registered = true
-[submodule "dataspice"]
-	path = dataspice
-	url = https://github.com/ropenscilabs/dataspice
-	shallow = true
-	branch = main
 	registered = true
 [submodule "middlechild"]
 	path = middlechild

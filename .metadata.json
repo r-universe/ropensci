@@ -901,6 +901,10 @@
     "oncran": true
   },
   {
+    "package": "dataspice",
+    "oncran": false
+  },
+  {
     "package": "opencv",
     "oncran": true
   },
@@ -1190,10 +1194,6 @@
   },
   {
     "package": "qcoder"
-  },
-  {
-    "package": "dataspice",
-    "oncran": true
   },
   {
     "package": "middlechild"
