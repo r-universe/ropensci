@@ -902,7 +902,7 @@
   },
   {
     "package": "dataspice",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "opencv",
