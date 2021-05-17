@@ -1971,6 +1971,16 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "CodeDepends"]
+	path = CodeDepends
+	url = https://github.com/MKLau/CodeDepends
+	shallow = true
+	registered = false
+[submodule "MonetDBLite-R"]
+	path = MonetDBLite-R
+	url = https://github.com/hannesmuehleisen/MonetDBLite-R
+	shallow = true
+	registered = false
 [submodule "archive"]
 	path = archive
 	url = https://github.com/jimhester/archive
@@ -1984,11 +1994,6 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
-	registered = false
-[submodule "CodeDepends"]
-	path = CodeDepends
-	url = https://github.com/MKLau/CodeDepends
 	shallow = true
 	registered = false
 [submodule "functionMap"]
@@ -2024,11 +2029,6 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
-	shallow = true
-	registered = false
-[submodule "MonetDBLite-R"]
-	path = MonetDBLite-R
-	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
 	registered = false
 [submodule "posterior"]
