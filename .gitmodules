@@ -1857,21 +1857,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "keybase"]
-	path = keybase
-	url = https://github.com/ropenscilabs/keybase
-	shallow = true
-	branch = master
-	registered = true
 [submodule "notary"]
 	path = notary
 	url = https://github.com/ropenscilabs/notary
-	shallow = true
-	branch = master
-	registered = true
-[submodule "decapitated"]
-	path = decapitated
-	url = https://github.com/ropenscilabs/decapitated
 	shallow = true
 	branch = master
 	registered = true
@@ -1881,39 +1869,15 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "datasauce"]
-	path = datasauce
-	url = https://github.com/ropenscilabs/datasauce
-	shallow = true
-	branch = master
-	registered = true
-[submodule "changes"]
-	path = changes
-	url = https://github.com/ropenscilabs/changes
-	shallow = true
-	branch = master
-	registered = true
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/ropenscilabs/roomba
 	shallow = true
 	branch = master
 	registered = true
-[submodule "trackmd"]
-	path = trackmd
-	url = https://github.com/ropenscilabs/trackmd
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
-	shallow = true
-	branch = master
-	registered = true
-[submodule "middlechild"]
-	path = middlechild
-	url = https://github.com/ropenscilabs/middlechild
 	shallow = true
 	branch = master
 	registered = true
@@ -1926,12 +1890,6 @@
 [submodule "gendercoder"]
 	path = gendercoder
 	url = https://github.com/ropenscilabs/gendercoder
-	shallow = true
-	branch = master
-	registered = true
-[submodule "tl"]
-	path = tl
-	url = https://github.com/ropenscilabs/tl
 	shallow = true
 	branch = master
 	registered = true

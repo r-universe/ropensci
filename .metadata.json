@@ -1169,43 +1169,22 @@
     "package": "dirdf"
   },
   {
-    "package": "keybase"
-  },
-  {
     "package": "notary"
-  },
-  {
-    "package": "decapitated"
   },
   {
     "package": "checkers"
   },
   {
-    "package": "datasauce"
-  },
-  {
-    "package": "changes"
-  },
-  {
     "package": "roomba"
   },
   {
-    "package": "trackmd"
-  },
-  {
     "package": "qcoder"
-  },
-  {
-    "package": "middlechild"
   },
   {
     "package": "pkginspector"
   },
   {
     "package": "gendercoder"
-  },
-  {
-    "package": "tl"
   },
   {
     "package": "pkgcheck"
