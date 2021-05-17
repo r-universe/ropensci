@@ -1851,12 +1851,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "dirdf"]
-	path = dirdf
-	url = https://github.com/ropenscilabs/dirdf
-	shallow = true
-	branch = master
-	registered = true
 [submodule "checkers"]
 	path = checkers
 	url = https://github.com/ropenscilabs/checkers
