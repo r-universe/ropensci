@@ -1857,12 +1857,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "notary"]
-	path = notary
-	url = https://github.com/ropenscilabs/notary
-	shallow = true
-	branch = master
-	registered = true
 [submodule "checkers"]
 	path = checkers
 	url = https://github.com/ropenscilabs/checkers
