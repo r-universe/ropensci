@@ -1869,12 +1869,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "pkginspector"]
-	path = pkginspector
-	url = https://github.com/ropenscilabs/pkginspector
-	shallow = true
-	branch = master
-	registered = true
 [submodule "gendercoder"]
 	path = gendercoder
 	url = https://github.com/ropenscilabs/gendercoder
