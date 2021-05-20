@@ -1984,11 +1984,6 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
-[submodule "functionMap"]
-	path = functionMap
-	url = https://github.com/MangoTheCat/functionMap
-	shallow = true
-	registered = false
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
@@ -2027,11 +2022,6 @@
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/lorenzwalthert/precommit
-	shallow = true
-	registered = false
-[submodule "remotes"]
-	path = remotes
-	url = https://github.com/MangoTheCat/remotes
 	shallow = true
 	registered = false
 [submodule "sf"]
