@@ -2029,8 +2029,3 @@
 	url = https://github.com/r-spatial/sf
 	shallow = true
 	registered = false
-[submodule "styler"]
-	path = styler
-	url = https://github.com/r-lib/styler
-	shallow = true
-	registered = false

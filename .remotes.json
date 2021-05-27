@@ -233,12 +233,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "styler",
-    "url": "https://github.com/r-lib/styler",
-    "via": ["FedData", "precommit"],
-    "from": "FedData"
-  },
-  {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
