@@ -1187,9 +1187,6 @@
     "package": "autotest"
   },
   {
-    "package": "MonetDBLite"
-  },
-  {
     "package": "srr"
   },
   {

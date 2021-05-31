@@ -1893,12 +1893,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "MonetDBLite"]
-	path = MonetDBLite
-	url = https://github.com/ropenscilabs/MonetDBLite
-	shallow = true
-	branch = master
-	registered = true
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropenscilabs/srr
