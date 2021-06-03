@@ -925,8 +925,7 @@
     "oncran": true
   },
   {
-    "package": "nlrx",
-    "oncran": true
+    "package": "nlrx"
   },
   {
     "package": "treestartr",
