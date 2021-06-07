@@ -221,7 +221,7 @@ jobs:
   finalstatus:
     name: Set Github Status
     runs-on: ubuntu-20.04
-    needs: [prepare, deploy, pendingstatus]
+    needs: [prepare, source, deploy, pendingstatus]
     if: always() && needs.prepare.outputs.universe_app
     steps:
       - name: Set upstream commit status
@@ -234,3 +234,4 @@ jobs:
           url: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
           universe: ${{ github.event.repository.name }}
           deployed_packages: ${{ needs.deploy.outputs.deployed_packages }}
+          source_status: ${{ needs.source.result }}
