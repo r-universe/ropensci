@@ -1953,6 +1953,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "pkgreviewr"]
+	path = pkgreviewr
+	url = https://github.com/ropensci-org/pkgreviewr
+	shallow = true
+	branch = master
+	registered = true
 [submodule "CodeDepends"]
 	path = CodeDepends
 	url = https://github.com/MKLau/CodeDepends

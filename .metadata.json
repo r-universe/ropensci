@@ -1218,5 +1218,8 @@
   },
   {
     "package": "roblog"
+  },
+  {
+    "package": "pkgreviewr"
   }
 ]
