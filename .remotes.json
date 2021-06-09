@@ -54,6 +54,18 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgcheck", "pkgstats"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["pkgstats"],
     "from": "pkgstats"
   },
@@ -130,6 +142,12 @@
     "from": "timefuzz"
   },
   {
+    "package": "pkgstats",
+    "url": "https://github.com/mpadge/pkgstats",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
     "package": "posterior",
     "url": "https://github.com/stan-dev/posterior",
     "via": ["stantargets", "cmdstanr"],
@@ -165,6 +183,12 @@
     "url": "https://github.com/r-spatial/sf",
     "via": ["ruODK"],
     "from": "ruODK"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
   },
   {
     "package": "taxizedb",
