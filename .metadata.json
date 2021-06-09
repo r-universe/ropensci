@@ -1177,23 +1177,8 @@
     "package": "gendercoder"
   },
   {
-    "package": "pkgcheck"
-  },
-  {
     "package": "allcontributors",
     "oncran": true
-  },
-  {
-    "package": "autotest"
-  },
-  {
-    "package": "srr"
-  },
-  {
-    "package": "pkgstats"
-  },
-  {
-    "package": "roreviewapi"
   },
   {
     "package": "auk",

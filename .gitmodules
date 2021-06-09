@@ -1875,39 +1875,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "pkgcheck"]
-	path = pkgcheck
-	url = https://github.com/ropenscilabs/pkgcheck
-	shallow = true
-	branch = main
-	registered = true
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
-	shallow = true
-	branch = main
-	registered = true
-[submodule "autotest"]
-	path = autotest
-	url = https://github.com/ropenscilabs/autotest
-	shallow = true
-	branch = main
-	registered = true
-[submodule "srr"]
-	path = srr
-	url = https://github.com/ropenscilabs/srr
-	shallow = true
-	branch = main
-	registered = true
-[submodule "pkgstats"]
-	path = pkgstats
-	url = https://github.com/ropenscilabs/pkgstats
-	shallow = true
-	branch = main
-	registered = true
-[submodule "roreviewapi"]
-	path = roreviewapi
-	url = https://github.com/ropenscilabs/roreviewapi
 	shallow = true
 	branch = main
 	registered = true
@@ -2014,6 +1984,16 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
+	shallow = true
+	registered = false
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/mpadge/pkgstats
+	shallow = true
+	registered = false
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior
@@ -2027,5 +2007,10 @@
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
+	shallow = true
+	registered = false
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropensci-review-tools/srr
 	shallow = true
 	registered = false
