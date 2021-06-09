@@ -70,6 +70,24 @@
     "from": "pkgstats"
   },
   {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["roreviewapi", "pkgstats"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["roreviewapi", "pkgcheck", "pkgstats"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
@@ -142,10 +160,28 @@
     "from": "timefuzz"
   },
   {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/mpadge/pkgstats",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/mpadge/pkgstats",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/mpadge/pkgstats",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
   },
   {
     "package": "posterior",
@@ -189,6 +225,18 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
   },
   {
     "package": "taxizedb",
