@@ -27,6 +27,7 @@ jobs:
       repo_owner: ${{ steps.lookup.outputs.repo_owner }}
       repo_commit: ${{ steps.lookup.outputs.repo_commit }}
       repo_subdir: ${{ steps.lookup.outputs.repo_subdir }}
+      repo_branch: ${{ steps.lookup.outputs.repo_branch }}
       repo_registered: ${{ steps.lookup.outputs.repo_registered }}
       universe_app: ${{ steps.lookup.outputs.universe_app }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
@@ -96,6 +97,7 @@ jobs:
           url: ${{ needs.prepare.outputs.repo_url }}
           ref: ${{ needs.prepare.outputs.repo_commit }}
           subdir: ${{ needs.prepare.outputs.repo_subdir }}
+          branch: ${{ needs.prepare.outputs.repo_branch }}
       - name: "Generate pkgdata"
         uses: r-universe-org/generate-pkgdata@master
         if: ${{ always() && steps.build.outputs.SOURCEPKG }}
