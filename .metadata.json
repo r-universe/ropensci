@@ -857,8 +857,7 @@
     "oncran": true
   },
   {
-    "package": "rppo",
-    "oncran": true
+    "package": "rppo"
   },
   {
     "package": "rmangal"
