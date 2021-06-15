@@ -1857,12 +1857,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "roomba"]
-	path = roomba
-	url = https://github.com/ropenscilabs/roomba
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
