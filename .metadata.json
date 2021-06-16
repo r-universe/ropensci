@@ -1201,5 +1201,20 @@
   },
   {
     "package": "pkgreviewr"
+  },
+  {
+    "package": "autotest"
+  },
+  {
+    "package": "pkgstats"
+  },
+  {
+    "package": "pkgcheck"
+  },
+  {
+    "package": "srr"
+  },
+  {
+    "package": "roreviewapi"
   }
 ]

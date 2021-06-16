@@ -1923,6 +1923,36 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/ropensci-review-tools/autotest
+	shallow = true
+	branch = main
+	registered = true
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/ropensci-review-tools/pkgstats
+	shallow = true
+	branch = main
+	registered = true
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
+	shallow = true
+	branch = main
+	registered = true
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropensci-review-tools/srr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "roreviewapi"]
+	path = roreviewapi
+	url = https://github.com/ropensci-review-tools/roreviewapi
+	shallow = true
+	branch = main
+	registered = true
 [submodule "CodeDepends"]
 	path = CodeDepends
 	url = https://github.com/MKLau/CodeDepends
