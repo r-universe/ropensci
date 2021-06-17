@@ -239,6 +239,18 @@
     "from": "roreviewapi"
   },
   {
+    "package": "tarchetypes",
+    "url": "https://github.com/ropensci/tarchetypes",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
+    "package": "targets",
+    "url": "https://github.com/ropensci/targets",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
