@@ -425,9 +425,6 @@
     "package": "rnaturalearthhires"
   },
   {
-    "package": "rtimicropem"
-  },
-  {
     "package": "pdftools",
     "oncran": true
   },

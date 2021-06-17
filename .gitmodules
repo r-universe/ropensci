@@ -663,12 +663,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rtimicropem"]
-	path = rtimicropem
-	url = https://github.com/ropensci/rtimicropem
-	shallow = true
-	branch = master
-	registered = true
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
