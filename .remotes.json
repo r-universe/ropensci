@@ -66,19 +66,13 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgstats"],
-    "from": "roreviewapi"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgcheck"],
-    "from": "roreviewapi"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["roreviewapi", "pkgcheck", "pkgstats"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["roreviewapi", "pkgstats"],
     "from": "roreviewapi"
   },
   {
@@ -167,14 +161,14 @@
   },
   {
     "package": "pkgstats",
-    "url": "https://github.com/mpadge/pkgstats",
-    "via": ["roreviewapi"],
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
   },
   {
     "package": "pkgstats",
-    "url": "https://github.com/mpadge/pkgstats",
-    "via": ["roreviewapi", "pkgcheck"],
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["roreviewapi"],
     "from": "roreviewapi"
   },
   {
