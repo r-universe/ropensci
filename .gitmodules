@@ -1839,6 +1839,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "awardFindR"]
+	path = awardFindR
+	url = https://github.com/ropensci/awardFindR
+	shallow = true
+	branch = master
+	registered = true
 [submodule "datastorr"]
 	path = datastorr
 	url = https://github.com/ropenscilabs/datastorr
