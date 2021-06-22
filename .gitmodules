@@ -1851,12 +1851,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "checkers"]
-	path = checkers
-	url = https://github.com/ropenscilabs/checkers
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
