@@ -1982,11 +1982,6 @@
 	url = https://github.com/tidyverse/glue
 	shallow = true
 	registered = false
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/MangoTheCat/goodpractice
-	shallow = true
-	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem

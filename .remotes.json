@@ -106,12 +106,6 @@
     "from": "bowerbird"
   },
   {
-    "package": "goodpractice",
-    "url": "https://github.com/MangoTheCat/goodpractice",
-    "via": ["checkers"],
-    "from": "checkers"
-  },
-  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
