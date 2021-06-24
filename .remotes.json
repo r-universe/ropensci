@@ -60,12 +60,6 @@
   {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["pkgstats"],
-    "from": "pkgstats"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
     "via": ["roreviewapi", "pkgcheck", "pkgstats"],
     "from": "roreviewapi"
   },
