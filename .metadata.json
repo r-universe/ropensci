@@ -543,7 +543,7 @@
   },
   {
     "package": "camsRad",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "jaod",
