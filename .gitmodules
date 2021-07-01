@@ -1845,6 +1845,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "katex"]
+	path = katex
+	url = https://github.com/ropensci/katex
+	shallow = true
+	branch = master
+	registered = true
 [submodule "datastorr"]
 	path = datastorr
 	url = https://github.com/ropenscilabs/datastorr

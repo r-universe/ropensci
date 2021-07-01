@@ -1160,6 +1160,9 @@
     "package": "awardFindR"
   },
   {
+    "package": "katex"
+  },
+  {
     "package": "datastorr"
   },
   {
