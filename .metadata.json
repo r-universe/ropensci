@@ -1159,7 +1159,8 @@
     "package": "awardFindR"
   },
   {
-    "package": "katex"
+    "package": "katex",
+    "oncran": false
   },
   {
     "package": "datastorr"
