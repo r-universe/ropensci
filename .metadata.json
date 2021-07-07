@@ -1160,7 +1160,7 @@
   },
   {
     "package": "katex",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "datastorr"
