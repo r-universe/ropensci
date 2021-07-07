@@ -1851,12 +1851,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "datastorr"]
-	path = datastorr
-	url = https://github.com/ropenscilabs/datastorr
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder

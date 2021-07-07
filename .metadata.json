@@ -1163,9 +1163,6 @@
     "oncran": true
   },
   {
-    "package": "datastorr"
-  },
-  {
     "package": "qcoder"
   },
   {
