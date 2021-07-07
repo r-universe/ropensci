@@ -58,18 +58,6 @@
     "from": "pkgcheck"
   },
   {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgcheck", "pkgstats"],
-    "from": "roreviewapi"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgstats"],
-    "from": "roreviewapi"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
