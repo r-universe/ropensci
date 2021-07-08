@@ -46,12 +46,6 @@
     "from": "staypuft"
   },
   {
-    "package": "archive",
-    "url": "https://github.com/jimhester/archive",
-    "via": ["bowerbird"],
-    "from": "bowerbird"
-  },
-  {
     "package": "cloc",
     "url": "https://github.com/hrbrmstr/cloc",
     "via": ["pkgcheck", "pkgstats"],
@@ -80,12 +74,6 @@
     "url": "https://github.com/ropensci/git2r",
     "via": ["pkgreviewr"],
     "from": "pkgreviewr"
-  },
-  {
-    "package": "glue",
-    "url": "https://github.com/tidyverse/glue",
-    "via": ["bowerbird", "archive"],
-    "from": "bowerbird"
   },
   {
     "package": "leafem",

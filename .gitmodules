@@ -1957,11 +1957,6 @@
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
 	registered = false
-[submodule "archive"]
-	path = archive
-	url = https://github.com/jimhester/archive
-	shallow = true
-	registered = false
 [submodule "cloc"]
 	path = cloc
 	url = https://github.com/hrbrmstr/cloc
@@ -1975,11 +1970,6 @@
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
-	shallow = true
-	registered = false
-[submodule "glue"]
-	path = glue
-	url = https://github.com/tidyverse/glue
 	shallow = true
 	registered = false
 [submodule "leafem"]
