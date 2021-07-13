@@ -440,8 +440,7 @@
     "oncran": true
   },
   {
-    "package": "beautier",
-    "oncran": true
+    "package": "beautier"
   },
   {
     "package": "hunspell",
@@ -825,8 +824,7 @@
     "oncran": true
   },
   {
-    "package": "beastier",
-    "oncran": true
+    "package": "beastier"
   },
   {
     "package": "baRcodeR",
@@ -844,8 +842,7 @@
     "oncran": true
   },
   {
-    "package": "babette",
-    "oncran": false
+    "package": "babette"
   },
   {
     "package": "rdhs",
@@ -950,8 +947,7 @@
     "oncran": true
   },
   {
-    "package": "mauricer",
-    "oncran": true
+    "package": "mauricer"
   },
   {
     "package": "tinkr"
@@ -985,8 +981,7 @@
     "oncran": true
   },
   {
-    "package": "mcbette",
-    "oncran": true
+    "package": "mcbette"
   },
   {
     "package": "BaseSet",
