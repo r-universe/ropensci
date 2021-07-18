@@ -18,7 +18,7 @@ env:
 
 jobs:
   prepare:
-    name: Find changed module
+    name: Determine package to build
     runs-on: ubuntu-20.04
     if: "!contains(github.event.head_commit.message, 'Deleting packages')"
     outputs:
@@ -172,6 +172,7 @@ jobs:
         if: runner.os == 'windows'
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+          java: ${{ needs.source.outputs.java }}
       - id: postcheck
         name: "Package install log"
         uses: r-universe-org/post-check@master
