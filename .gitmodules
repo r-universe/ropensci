@@ -1957,11 +1957,6 @@
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
 	registered = false
-[submodule "cloc"]
-	path = cloc
-	url = https://github.com/hrbrmstr/cloc
-	shallow = true
-	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr

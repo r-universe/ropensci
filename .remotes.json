@@ -46,12 +46,6 @@
     "from": "staypuft"
   },
   {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["pkgcheck", "pkgstats"],
-    "from": "pkgcheck"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
