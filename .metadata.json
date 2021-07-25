@@ -440,7 +440,8 @@
     "oncran": true
   },
   {
-    "package": "beautier"
+    "package": "beautier",
+    "oncran": false
   },
   {
     "package": "hunspell",
