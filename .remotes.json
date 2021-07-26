@@ -132,12 +132,6 @@
   {
     "package": "posterior",
     "url": "https://github.com/stan-dev/posterior",
-    "via": ["stantargets", "cmdstanr"],
-    "from": "stantargets"
-  },
-  {
-    "package": "posterior",
-    "url": "https://github.com/stan-dev/posterior",
     "via": ["stantargets"],
     "from": "stantargets"
   },
