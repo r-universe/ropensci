@@ -441,7 +441,7 @@
   },
   {
     "package": "beautier",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "hunspell",
