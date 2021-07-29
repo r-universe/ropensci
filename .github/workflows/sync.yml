@@ -6,7 +6,7 @@ on:
     paths:
       - '.github/workflows/sync.yml'
   schedule:
-    - cron: '*/60 * * * *'
+    - cron:  '0 */4 * * *'
 
 name: Update universe
 
@@ -14,6 +14,7 @@ jobs:
   update:
     name: Update submodules
     runs-on: ubuntu-20.04
+    timeout-minutes: 10
     steps:
       - name: Sync registry
         uses: r-universe-org/sync@master
