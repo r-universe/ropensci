@@ -681,8 +681,7 @@
     "oncran": true
   },
   {
-    "package": "codemetar",
-    "oncran": true
+    "package": "codemetar"
   },
   {
     "package": "skynet",
