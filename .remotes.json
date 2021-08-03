@@ -130,12 +130,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "posterior",
-    "url": "https://github.com/stan-dev/posterior",
-    "via": ["stantargets"],
-    "from": "stantargets"
-  },
-  {
     "package": "precommit",
     "url": "https://github.com/lorenzwalthert/precommit",
     "via": ["FedData"],
@@ -177,18 +171,6 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["roreviewapi"],
     "from": "roreviewapi"
-  },
-  {
-    "package": "tarchetypes",
-    "url": "https://github.com/ropensci/tarchetypes",
-    "via": ["stantargets"],
-    "from": "stantargets"
-  },
-  {
-    "package": "targets",
-    "url": "https://github.com/ropensci/targets",
-    "via": ["stantargets"],
-    "from": "stantargets"
   },
   {
     "package": "taxizedb",
