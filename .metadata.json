@@ -813,8 +813,7 @@
     "oncran": true
   },
   {
-    "package": "jstor",
-    "oncran": true
+    "package": "jstor"
   },
   {
     "package": "refsplitr"
