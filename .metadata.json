@@ -835,7 +835,7 @@
   },
   {
     "package": "rtika",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nomisr",
