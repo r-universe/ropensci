@@ -6,7 +6,7 @@ on:
     paths:
       - '.github/workflows/sync.yml'
   schedule:
-    - cron:  '0 */4 * * *'
+    - cron: '*/60 * * * *'
 
 name: Update universe
 
