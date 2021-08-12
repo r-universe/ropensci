@@ -1962,6 +1962,11 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	shallow = true
+	registered = false
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
