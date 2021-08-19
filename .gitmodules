@@ -1992,8 +1992,3 @@
 	url = https://github.com/lorenzwalthert/precommit
 	shallow = true
 	registered = false
-[submodule "sf"]
-	path = sf
-	url = https://github.com/r-spatial/sf
-	shallow = true
-	registered = false

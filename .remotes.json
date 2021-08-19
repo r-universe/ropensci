@@ -149,12 +149,6 @@
     "from": "rrricanesdata"
   },
   {
-    "package": "sf",
-    "url": "https://github.com/r-spatial/sf",
-    "via": ["ruODK"],
-    "from": "ruODK"
-  },
-  {
     "package": "srr",
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
