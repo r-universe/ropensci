@@ -824,7 +824,7 @@
   },
   {
     "package": "beastier",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "baRcodeR",
