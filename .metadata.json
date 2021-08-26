@@ -1168,6 +1168,9 @@
     "oncran": true
   },
   {
+    "package": "readthedocs"
+  },
+  {
     "package": "auk",
     "oncran": true
   },

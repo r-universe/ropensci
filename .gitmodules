@@ -1869,6 +1869,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "readthedocs"]
+	path = readthedocs
+	url = https://github.com/ropenscilabs/readthedocs
+	shallow = true
+	branch = main
+	registered = true
 [submodule "auk"]
 	path = auk
 	url = https://github.com/CornellLabofOrnithology/auk.git
