@@ -82,7 +82,7 @@ jobs:
   deploydocs:
     name: Deploy to docs server
     runs-on: ubuntu-20.04
-    needs: [docs]
+    needs: docs
     steps:
       - name: Get artifacts for deployment
         uses: actions/download-artifact@v2
@@ -93,7 +93,6 @@ jobs:
         uses: r-universe-org/deploy-docs@master
         env:
           BUILDLOG: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
-          GHA_RESULT: ${{ needs.docs.result }}
           GITHUB_PAT: ${{ secrets.GHPAT }}
 
   source:
@@ -242,7 +241,7 @@ jobs:
   finalstatus:
     name: Set Github Status
     runs-on: ubuntu-20.04
-    needs: [prepare, source, deploy, pendingstatus, docs]
+    needs: [prepare, docs, source, deploy, pendingstatus]
     if: always() && needs.prepare.outputs.universe_app
     steps:
       - name: Set upstream commit status
