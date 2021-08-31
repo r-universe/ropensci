@@ -65,6 +65,7 @@ jobs:
     needs: prepare
     name: Build package documentation
     runs-on: ubuntu-20.04
+    timeout-minutes: 60
     if: github.event.repository.name == 'ropensci'
     steps:
       - name: Build package docs
@@ -82,7 +83,6 @@ jobs:
     name: Deploy to docs server
     runs-on: ubuntu-20.04
     needs: [docs]
-    if: github.event.repository.name == 'ropensci'
     steps:
       - name: Get artifacts for deployment
         uses: actions/download-artifact@v2
@@ -94,7 +94,6 @@ jobs:
         env:
           BUILDLOG: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
           GHA_RESULT: ${{ needs.docs.result }}
-          GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
           GITHUB_PAT: ${{ secrets.GHPAT }}
 
   source:
@@ -243,7 +242,7 @@ jobs:
   finalstatus:
     name: Set Github Status
     runs-on: ubuntu-20.04
-    needs: [prepare, source, deploy, pendingstatus]
+    needs: [prepare, source, deploy, pendingstatus, docs]
     if: always() && needs.prepare.outputs.universe_app
     steps:
       - name: Set upstream commit status
@@ -257,3 +256,4 @@ jobs:
           universe: ${{ github.event.repository.name }}
           deployed_packages: ${{ needs.deploy.outputs.deployed_packages }}
           source_status: ${{ needs.source.result }}
+          docs_status: ${{ needs.docs.result }}
