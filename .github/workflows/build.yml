@@ -82,7 +82,7 @@ jobs:
     name: Deploy to docs server
     runs-on: ubuntu-20.04
     needs: [docs]
-    if: always()
+    if: github.event.repository.name == 'ropensci'
     steps:
       - name: Get artifacts for deployment
         uses: actions/download-artifact@v2
