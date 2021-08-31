@@ -78,6 +78,25 @@ jobs:
           name: docs-website
           path: docs.zip
 
+  deploydocs:
+    name: Deploy to docs server
+    runs-on: ubuntu-20.04
+    needs: [docs]
+    if: always()
+    steps:
+      - name: Get artifacts for deployment
+        uses: actions/download-artifact@v2
+        with:
+          name: docs-website
+      - id: deployment
+        name: Upload docs to server
+        uses: r-universe-org/deploy-docs@master
+        env:
+          BUILDLOG: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+          GHA_RESULT: ${{ needs.docs.result }}
+          GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
+          GITHUB_PAT: ${{ secrets.GHPAT }}
+
   source:
     needs: prepare
     name: Build source package
