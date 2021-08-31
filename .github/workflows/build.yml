@@ -224,7 +224,7 @@ jobs:
   deploy:
     name: Deploy to package server
     runs-on: ubuntu-20.04
-    needs: [source, binaries]
+    needs: [source, binaries, deploydocs]
     if: ${{ always() && needs.source.outputs.sourcepkg }}
     outputs:
       deployed_packages: ${{ steps.deployment.outputs.deployed_packages }}
@@ -237,6 +237,7 @@ jobs:
         env:
           CRANLIKEURL: https://${{ github.event.repository.name }}.r-universe.dev/packages
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+          PKGDOCS: ${{ needs.deploydocs.result }}
 
   finalstatus:
     name: Set Github Status
