@@ -31,6 +31,7 @@ jobs:
       repo_registered: ${{ steps.lookup.outputs.repo_registered }}
       universe_app: ${{ steps.lookup.outputs.universe_app }}
       maintainer_login: ${{ steps.lookup.outputs.maintainer_login }}
+      build_docs: ${{ steps.lookup.outputs.build_docs }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -66,7 +67,7 @@ jobs:
     name: Build package documentation
     runs-on: ubuntu-20.04
     timeout-minutes: 60
-    if: github.event.repository.name == 'ropensci' && needs.prepare.outputs.repo_registered
+    if: needs.prepare.outputs.build_docs
     steps:
       - name: Build package docs
         uses: r-universe-org/build-docs@master
