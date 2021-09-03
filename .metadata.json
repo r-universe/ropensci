@@ -777,8 +777,7 @@
     "oncran": true
   },
   {
-    "package": "Rpolyhedra",
-    "oncran": true
+    "package": "Rpolyhedra"
   },
   {
     "package": "wateRinfo"
