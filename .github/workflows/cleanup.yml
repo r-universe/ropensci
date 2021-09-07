@@ -20,3 +20,4 @@ jobs:
           cranlike_url: https://${{ github.event.repository.name }}.r-universe.dev/packages
         env:
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+          GITHUB_PAT: ${{ secrets.GHPAT }}
