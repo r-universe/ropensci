@@ -130,12 +130,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "precommit",
-    "url": "https://github.com/lorenzwalthert/precommit",
-    "via": ["FedData"],
-    "from": "FedData"
-  },
-  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],

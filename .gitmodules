@@ -1993,8 +1993,3 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
-[submodule "precommit"]
-	path = precommit
-	url = https://github.com/lorenzwalthert/precommit
-	shallow = true
-	registered = false
