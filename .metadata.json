@@ -946,7 +946,7 @@
   },
   {
     "package": "mauricer",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tinkr"
