@@ -380,8 +380,7 @@
     "oncran": true
   },
   {
-    "package": "scrubr",
-    "oncran": true
+    "package": "scrubr"
   },
   {
     "package": "getlandsat",
@@ -946,7 +945,8 @@
     "oncran": true
   },
   {
-    "package": "mauricer"
+    "package": "mauricer",
+    "oncran": false
   },
   {
     "package": "tinkr"
