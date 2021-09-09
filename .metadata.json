@@ -574,8 +574,7 @@
     "oncran": true
   },
   {
-    "package": "getCRUCLdata",
-    "oncran": true
+    "package": "getCRUCLdata"
   },
   {
     "package": "CoordinateCleaner",
