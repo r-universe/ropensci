@@ -116,6 +116,7 @@ jobs:
           ref: ${{ needs.prepare.outputs.repo_commit }}
           subdir: ${{ needs.prepare.outputs.repo_subdir }}
           branch: ${{ needs.prepare.outputs.repo_branch }}
+          articles: ${{ needs.prepare.outputs.repo_registered }}
       - name: "Generate pkgdata"
         uses: r-universe-org/generate-pkgdata@master
         if: ${{ always() && steps.build.outputs.SOURCEPKG }}
