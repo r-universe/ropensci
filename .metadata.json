@@ -16,8 +16,7 @@
     "oncran": true
   },
   {
-    "package": "rnpn",
-    "oncran": true
+    "package": "rnpn"
   },
   {
     "package": "rgbif",
