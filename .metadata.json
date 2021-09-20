@@ -913,7 +913,8 @@
     "oncran": true
   },
   {
-    "package": "nlrx"
+    "package": "nlrx",
+    "oncran": false
   },
   {
     "package": "treestartr",
