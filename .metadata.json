@@ -741,7 +741,8 @@
     "package": "c14bazAAR"
   },
   {
-    "package": "NLMR"
+    "package": "NLMR",
+    "oncran": false
   },
   {
     "package": "rdflib",
