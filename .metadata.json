@@ -742,7 +742,7 @@
   },
   {
     "package": "NLMR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rdflib",
@@ -914,7 +914,7 @@
   },
   {
     "package": "nlrx",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "treestartr",
