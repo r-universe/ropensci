@@ -1851,6 +1851,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "jagstargets"]
+	path = jagstargets
+	url = https://github.com/ropensci/jagstargets
+	shallow = true
+	branch = main
+	registered = true
 [submodule "katex"]
 	path = katex
 	url = https://github.com/ropensci/katex

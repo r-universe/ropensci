@@ -1157,6 +1157,9 @@
     "package": "awardFindR"
   },
   {
+    "package": "jagstargets"
+  },
+  {
     "package": "katex",
     "oncran": true
   },
