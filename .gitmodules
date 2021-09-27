@@ -1785,6 +1785,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "slopes"]
+	path = slopes
+	url = https://github.com/ropensci/slopes
+	shallow = true
+	branch = master
+	registered = true
 [submodule "addressable"]
 	path = addressable
 	url = https://github.com/ropensci/addressable
