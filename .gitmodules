@@ -231,12 +231,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "plotly"]
-	path = plotly
-	url = https://github.com/ropensci/plotly
-	shallow = true
-	branch = master
-	registered = true
 [submodule "AntWeb"]
 	path = AntWeb
 	url = https://github.com/ropensci/AntWeb

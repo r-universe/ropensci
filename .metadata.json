@@ -149,10 +149,6 @@
     "oncran": true
   },
   {
-    "package": "plotly",
-    "oncran": true
-  },
-  {
     "package": "AntWeb",
     "oncran": true
   },
