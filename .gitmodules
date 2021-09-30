@@ -1227,6 +1227,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "allodb"]
+	path = allodb
+	url = https://github.com/ropensci/allodb
+	shallow = true
+	branch = master
+	registered = true
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
