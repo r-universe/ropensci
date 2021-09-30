@@ -119,7 +119,7 @@ jobs:
           articles: ${{ needs.prepare.outputs.repo_registered }}
       - name: "Generate pkgdata"
         uses: r-universe-org/generate-pkgdata@master
-        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        if: ${{ always() && steps.build.outputs.PACKAGE }}
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
@@ -130,14 +130,15 @@ jobs:
           PACKAGE: ${{ steps.build.outputs.PACKAGE }}
           VERSION: ${{ steps.build.outputs.VERSION }}
           COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+          MAINTAINER: ${{ steps.build.outputs.MAINTAINER }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
           FILE: ${{ steps.build.outputs.SOURCEPKG }}
-          TARGET: source
+          TARGET: ${{ steps.build.outputs.SOURCEPKG && 'source' || 'failure' }}
       - name: "Save source package"
         uses: actions/upload-artifact@v2
-        if: ${{ always() && steps.build.outputs.SOURCEPKG }}
+        if: ${{ always() && steps.build.outputs.PACKAGE }}
         with:
           name: package-source
           path: |
@@ -231,7 +232,7 @@ jobs:
     name: Deploy to package server
     runs-on: ubuntu-20.04
     needs: [source, binaries, docs]
-    if: ${{ always() && needs.source.outputs.sourcepkg }}
+    if: ${{ always() && needs.source.outputs.package }}
     outputs:
       deployed_packages: ${{ steps.deployment.outputs.deployed_packages }}
     steps:
