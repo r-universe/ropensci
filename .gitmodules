@@ -1970,6 +1970,11 @@
 	url = https://github.com/MKLau/CodeDepends
 	shallow = true
 	registered = false
+[submodule "MonetDBLite-R"]
+	path = MonetDBLite-R
+	url = https://github.com/hannesmuehleisen/MonetDBLite-R
+	shallow = true
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
