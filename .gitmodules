@@ -801,12 +801,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "phylotaR"]
-	path = phylotaR
-	url = https://github.com/ropensci/phylotaR
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rtweet"]
 	path = rtweet
 	url = https://github.com/ropensci/rtweet
@@ -1380,12 +1374,6 @@
 [submodule "zbank"]
 	path = zbank
 	url = https://github.com/ropensci/zbank
-	shallow = true
-	branch = master
-	registered = true
-[submodule "restez"]
-	path = restez
-	url = https://github.com/ropensci/restez
 	shallow = true
 	branch = master
 	registered = true
