@@ -1803,6 +1803,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rsat"]
+	path = rsat
+	url = https://github.com/ropensci/rsat
+	shallow = true
+	branch = master
+	registered = true
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
