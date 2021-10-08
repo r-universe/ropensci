@@ -379,7 +379,7 @@
 	path = USAboundaries
 	url = https://github.com/ropensci/USAboundaries
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "IEEER"]
 	path = IEEER
@@ -565,7 +565,7 @@
 	path = USAboundariesData
 	url = https://github.com/ropensci/USAboundariesData
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "suppdata"]
 	path = suppdata
