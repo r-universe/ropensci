@@ -153,6 +153,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rbison"]
+	path = rbison
+	url = https://github.com/ropensci/rbison
+	shallow = true
+	branch = master
+	registered = true
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML
@@ -402,6 +408,18 @@
 [submodule "chromer"]
 	path = chromer
 	url = https://github.com/ropensci/chromer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "DoOR.data"]
+	path = DoOR.data
+	url = https://github.com/ropensci/DoOR.data
+	shallow = true
+	branch = master
+	registered = true
+[submodule "DoOR.functions"]
+	path = DoOR.functions
+	url = https://github.com/ropensci/DoOR.functions
 	shallow = true
 	branch = master
 	registered = true
@@ -699,6 +717,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "gtfsr"]
+	path = gtfsr
+	url = https://github.com/ropensci/gtfsr
+	shallow = true
+	branch = master
+	registered = true
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
@@ -774,6 +798,12 @@
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
+	shallow = true
+	branch = master
+	registered = true
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
 	shallow = true
 	branch = master
 	registered = true
@@ -1089,6 +1119,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rrricanesdata"]
+	path = rrricanesdata
+	url = https://github.com/ropensci/rrricanesdata
+	shallow = true
+	branch = master
+	registered = true
 [submodule "cde"]
 	path = cde
 	url = https://github.com/ropensci/cde
@@ -1167,6 +1203,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "Rclean"]
+	path = Rclean
+	url = https://github.com/ropensci/Rclean
+	shallow = true
+	branch = master
+	registered = true
 [submodule "EndoMineR"]
 	path = EndoMineR
 	url = https://github.com/ropensci/EndoMineR
@@ -1221,6 +1263,18 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "onekp"]
+	path = onekp
+	url = https://github.com/ropensci/onekp
+	shallow = true
+	branch = master
+	registered = true
+[submodule "taxview"]
+	path = taxview
+	url = https://github.com/ropensci/taxview
+	shallow = true
+	branch = master
+	registered = true
 [submodule "rcites"]
 	path = rcites
 	url = https://github.com/ropensci/rcites
@@ -1236,6 +1290,12 @@
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/ropensci/jstor
+	shallow = true
+	branch = master
+	registered = true
+[submodule "refsplitr"]
+	path = refsplitr
+	url = https://github.com/ropensci/refsplitr
 	shallow = true
 	branch = master
 	registered = true
@@ -1323,6 +1383,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "restez"]
+	path = restez
+	url = https://github.com/ropensci/restez
+	shallow = true
+	branch = master
+	registered = true
 [submodule "taxadb"]
 	path = taxadb
 	url = https://github.com/ropensci/taxadb
@@ -1338,6 +1404,12 @@
 [submodule "tacmagic"]
 	path = tacmagic
 	url = https://github.com/ropensci/tacmagic
+	shallow = true
+	branch = master
+	registered = true
+[submodule "cchecks"]
+	path = cchecks
+	url = https://github.com/ropensci/cchecks
 	shallow = true
 	branch = master
 	registered = true
@@ -1503,6 +1575,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "staypuft"]
+	path = staypuft
+	url = https://github.com/ropensci/staypuft
+	shallow = true
+	branch = master
+	registered = true
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/ropensci/tradestatistics
@@ -1533,6 +1611,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "timefuzz"]
+	path = timefuzz
+	url = https://github.com/ropensci/timefuzz
+	shallow = true
+	branch = master
+	registered = true
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/ropensci/parzer
@@ -1548,6 +1632,12 @@
 [submodule "MtreeRing"]
 	path = MtreeRing
 	url = https://github.com/ropensci/MtreeRing
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pendulum"]
+	path = pendulum
+	url = https://github.com/ropensci/pendulum
 	shallow = true
 	branch = master
 	registered = true
@@ -1575,6 +1665,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "outsider.devtools"]
+	path = outsider.devtools
+	url = https://github.com/ropensci/outsider.devtools
+	shallow = true
+	branch = master
+	registered = true
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/ropensci/gitignore
@@ -1592,6 +1688,12 @@
 	url = https://github.com/ropensci/jenkins
 	shallow = true
 	branch = master
+	registered = true
+[submodule "ruODK"]
+	path = ruODK
+	url = https://github.com/ropensci/ruODK
+	shallow = true
+	branch = main
 	registered = true
 [submodule "exoplanets"]
 	path = exoplanets
@@ -1743,6 +1845,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "stantargets"]
+	path = stantargets
+	url = https://github.com/ropensci/stantargets
+	shallow = true
+	branch = main
+	registered = true
 [submodule "awardFindR"]
 	path = awardFindR
 	url = https://github.com/ropensci/awardFindR
@@ -1821,6 +1929,18 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropensci-org/roblog
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pkgreviewr"]
+	path = pkgreviewr
+	url = https://github.com/ropensci-org/pkgreviewr
+	shallow = true
+	branch = master
+	registered = true
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
@@ -1833,9 +1953,21 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
+	shallow = true
+	branch = main
+	registered = true
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "roreviewapi"]
+	path = roreviewapi
+	url = https://github.com/ropensci-review-tools/roreviewapi
 	shallow = true
 	branch = main
 	registered = true
