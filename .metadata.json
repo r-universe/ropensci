@@ -186,7 +186,7 @@
   },
   {
     "package": "rglobi",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "geonames",
