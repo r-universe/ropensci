@@ -572,8 +572,7 @@
     "package": "getCRUCLdata"
   },
   {
-    "package": "CoordinateCleaner",
-    "oncran": true
+    "package": "CoordinateCleaner"
   },
   {
     "package": "roadoi",
