@@ -1144,7 +1144,8 @@
     "oncran": true
   },
   {
-    "package": "pixelclasser"
+    "package": "pixelclasser",
+    "oncran": false
   },
   {
     "package": "censo2017",
