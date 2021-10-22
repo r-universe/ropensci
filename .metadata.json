@@ -299,8 +299,7 @@
     "package": "seasl"
   },
   {
-    "package": "stplanr",
-    "oncran": true
+    "package": "stplanr"
   },
   {
     "package": "brranching",
