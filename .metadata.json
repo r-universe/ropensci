@@ -573,7 +573,7 @@
   },
   {
     "package": "CoordinateCleaner",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "roadoi",
@@ -1146,7 +1146,7 @@
   },
   {
     "package": "pixelclasser",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "censo2017",
