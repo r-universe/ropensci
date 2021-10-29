@@ -967,7 +967,7 @@
 	path = bikedata
 	url = https://github.com/ropensci/bikedata
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "xslt"]
 	path = xslt
