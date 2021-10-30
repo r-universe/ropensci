@@ -1163,6 +1163,9 @@
     "package": "jagstargets"
   },
   {
+    "package": "mctq"
+  },
+  {
     "package": "katex",
     "oncran": true
   },

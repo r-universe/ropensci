@@ -1863,6 +1863,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "mctq"]
+	path = mctq
+	url = https://github.com/ropensci/mctq
+	shallow = true
+	branch = main
+	registered = true
 [submodule "katex"]
 	path = katex
 	url = https://github.com/ropensci/katex
