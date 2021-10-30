@@ -956,7 +956,8 @@
     "oncran": true
   },
   {
-    "package": "stats19"
+    "package": "stats19",
+    "oncran": false
   },
   {
     "package": "rromeo",
