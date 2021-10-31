@@ -489,8 +489,7 @@
     "oncran": true
   },
   {
-    "package": "tabulizer",
-    "oncran": true
+    "package": "tabulizer"
   },
   {
     "package": "smapr",
