@@ -213,8 +213,7 @@
     "oncran": true
   },
   {
-    "package": "hddtools",
-    "oncran": true
+    "package": "hddtools"
   },
   {
     "package": "biomartr",
