@@ -299,7 +299,8 @@
     "package": "seasl"
   },
   {
-    "package": "stplanr"
+    "package": "stplanr",
+    "oncran": false
   },
   {
     "package": "brranching",
