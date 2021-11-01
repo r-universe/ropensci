@@ -1169,6 +1169,9 @@
     "oncran": true
   },
   {
+    "package": "cffr"
+  },
+  {
     "package": "qcoder"
   },
   {

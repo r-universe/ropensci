@@ -1875,6 +1875,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "cffr"]
+	path = cffr
+	url = https://github.com/ropensci/cffr
+	shallow = true
+	branch = main
+	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
