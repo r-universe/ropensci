@@ -300,7 +300,7 @@
   },
   {
     "package": "stplanr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "brranching",
