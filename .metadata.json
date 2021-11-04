@@ -1165,6 +1165,9 @@
     "package": "mctq"
   },
   {
+    "package": "excluder"
+  },
+  {
     "package": "katex",
     "oncran": true
   },

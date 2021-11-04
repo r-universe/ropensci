@@ -1869,6 +1869,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "excluder"]
+	path = excluder
+	url = https://github.com/ropensci/excluder
+	shallow = true
+	branch = main
+	registered = true
 [submodule "katex"]
 	path = katex
 	url = https://github.com/ropensci/katex
