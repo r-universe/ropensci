@@ -1162,7 +1162,8 @@
     "package": "jagstargets"
   },
   {
-    "package": "mctq"
+    "package": "mctq",
+    "oncran": false
   },
   {
     "package": "excluder"
