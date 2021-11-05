@@ -1173,7 +1173,7 @@
   },
   {
     "package": "cffr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "qcoder"
