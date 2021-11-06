@@ -1163,7 +1163,7 @@
   },
   {
     "package": "mctq",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "excluder"
