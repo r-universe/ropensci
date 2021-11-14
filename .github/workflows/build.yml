@@ -123,7 +123,6 @@ jobs:
         if: ${{ always() && steps.build.outputs.PACKAGE }}
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
-          REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
           REPO_REGISTERED: ${{ needs.prepare.outputs.repo_registered }}
           MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
@@ -211,7 +210,6 @@ jobs:
         if: ${{ always() && steps.postcheck.outputs.binarypkg }}
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
-          REPO_COMMIT: ${{ needs.prepare.outputs.repo_commit }}
           REPO_REGISTERED: ${{ needs.prepare.outputs.repo_registered }}
           MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
