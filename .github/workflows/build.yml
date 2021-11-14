@@ -103,6 +103,7 @@ jobs:
     timeout-minutes: 60
     outputs:
       commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+      commitinfo: ${{ steps.build.outputs.COMMITINFO }}
       sourcepkg: ${{ steps.build.outputs.SOURCEPKG }}
       package: ${{ steps.build.outputs.PACKAGE }}
       version: ${{ steps.build.outputs.VERSION }}
@@ -130,6 +131,7 @@ jobs:
           PACKAGE: ${{ steps.build.outputs.PACKAGE }}
           VERSION: ${{ steps.build.outputs.VERSION }}
           COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
+          COMMITINFO: ${{ steps.build.outputs.COMMITINFO }}
           MAINTAINER: ${{ steps.build.outputs.MAINTAINER }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
@@ -217,6 +219,7 @@ jobs:
           PACKAGE: ${{ needs.source.outputs.package }}
           VERSION: ${{ needs.source.outputs.version }}
           COMMIT_TIMESTAMP: ${{ needs.source.outputs.commit_timestamp }}
+          COMMITINFO: ${{ needs.source.outputs.commitinfo }}
           FILE: ${{ steps.postcheck.outputs.binarypkg }}
           TARGET: ${{ matrix.os }}
       - name: "Save binary package"
