@@ -1357,7 +1357,7 @@
 	path = rmangal
 	url = https://github.com/ropensci/rmangal
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "nbaR"]
 	path = nbaR
