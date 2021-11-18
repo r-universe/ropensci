@@ -1167,7 +1167,8 @@
     "oncran": true
   },
   {
-    "package": "excluder"
+    "package": "excluder",
+    "oncran": false
   },
   {
     "package": "katex",
