@@ -1076,7 +1076,7 @@
   },
   {
     "package": "mapscanner",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "workloopR",
@@ -1168,7 +1168,7 @@
   },
   {
     "package": "excluder",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "katex",
