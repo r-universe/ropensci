@@ -1075,7 +1075,8 @@
     "oncran": true
   },
   {
-    "package": "mapscanner"
+    "package": "mapscanner",
+    "oncran": false
   },
   {
     "package": "workloopR",
@@ -1175,6 +1176,9 @@
   {
     "package": "cffr",
     "oncran": true
+  },
+  {
+    "package": "blabla"
   },
   {
     "package": "qcoder"
