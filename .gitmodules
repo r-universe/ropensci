@@ -1915,7 +1915,7 @@
 	path = auk
 	url = https://github.com/CornellLabofOrnithology/auk.git
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "genbankr"]
 	path = genbankr
