@@ -847,7 +847,8 @@
     "package": "rppo"
   },
   {
-    "package": "rmangal"
+    "package": "rmangal",
+    "oncran": false
   },
   {
     "package": "nbaR"
