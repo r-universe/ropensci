@@ -848,7 +848,7 @@
   },
   {
     "package": "rmangal",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "nbaR"
