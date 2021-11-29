@@ -104,6 +104,7 @@ jobs:
     outputs:
       commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
       commitinfo: ${{ steps.build.outputs.COMMITINFO }}
+      maintainerinfo: ${{ steps.build.outputs.MAINTAINERINFO }}
       sourcepkg: ${{ steps.build.outputs.SOURCEPKG }}
       package: ${{ steps.build.outputs.PACKAGE }}
       version: ${{ steps.build.outputs.VERSION }}
@@ -112,6 +113,8 @@ jobs:
       - id: build
         name: Build source package
         uses: r-universe-org/build-source@master
+        env:
+          MAINTAINERLOGIN: ${{ needs.prepare.outputs.maintainer_login }}
         with:
           url: ${{ needs.prepare.outputs.repo_url }}
           ref: ${{ needs.prepare.outputs.repo_commit }}
@@ -131,7 +134,7 @@ jobs:
           VERSION: ${{ steps.build.outputs.VERSION }}
           COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
           COMMITINFO: ${{ steps.build.outputs.COMMITINFO }}
-          MAINTAINER: ${{ steps.build.outputs.MAINTAINER }}
+          MAINTAINERINFO: ${{ steps.build.outputs.MAINTAINERINFO }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
@@ -218,6 +221,7 @@ jobs:
           VERSION: ${{ needs.source.outputs.version }}
           COMMIT_TIMESTAMP: ${{ needs.source.outputs.commit_timestamp }}
           COMMITINFO: ${{ needs.source.outputs.commitinfo }}
+          MAINTAINERINFO: ${{ needs.source.outputs.maintainerinfo }}
           FILE: ${{ steps.postcheck.outputs.binarypkg }}
           TARGET: ${{ matrix.os }}
       - name: "Save binary package"
