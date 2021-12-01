@@ -127,7 +127,6 @@ jobs:
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_REGISTERED: ${{ needs.prepare.outputs.repo_registered }}
-          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
           DISTRO: ${{ steps.build.outputs.DISTRO }}
           PACKAGE: ${{ steps.build.outputs.PACKAGE }}
@@ -214,7 +213,6 @@ jobs:
         with:
           REPO_URL: ${{ needs.prepare.outputs.repo_url }}
           REPO_REGISTERED: ${{ needs.prepare.outputs.repo_registered }}
-          MAINTAINER_LOGIN: ${{ needs.prepare.outputs.maintainer_login }}
           JOB_STATUS: ${{ job.status }}
           DISTRO: ${{ matrix.os }}
           PACKAGE: ${{ needs.source.outputs.package }}
