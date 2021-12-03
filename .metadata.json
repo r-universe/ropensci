@@ -1130,7 +1130,7 @@
   },
   {
     "package": "rsat",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tarchetypes",
