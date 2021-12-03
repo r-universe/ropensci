@@ -1162,7 +1162,8 @@
     "package": "awardFindR"
   },
   {
-    "package": "jagstargets"
+    "package": "jagstargets",
+    "oncran": false
   },
   {
     "package": "mctq",
