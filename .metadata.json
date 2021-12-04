@@ -1163,7 +1163,7 @@
   },
   {
     "package": "jagstargets",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mctq",
