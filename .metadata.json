@@ -609,9 +609,6 @@
     "oncran": true
   },
   {
-    "package": "wicket"
-  },
-  {
     "package": "bikedata"
   },
   {
