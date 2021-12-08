@@ -805,7 +805,8 @@
     "oncran": true
   },
   {
-    "package": "jstor"
+    "package": "jstor",
+    "oncran": false
   },
   {
     "package": "refsplitr"
