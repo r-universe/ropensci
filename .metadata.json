@@ -1220,6 +1220,9 @@
     "package": "pkgreviewr"
   },
   {
+    "package": "rotemplate"
+  },
+  {
     "package": "autotest"
   },
   {

@@ -1953,6 +1953,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rotemplate"]
+	path = rotemplate
+	url = https://github.com/ropensci-org/rotemplate
+	shallow = true
+	branch = master
+	registered = true
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
