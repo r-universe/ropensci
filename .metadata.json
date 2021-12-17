@@ -246,9 +246,6 @@
     "oncran": true
   },
   {
-    "package": "IEEER"
-  },
-  {
     "package": "ckanr",
     "oncran": true
   },

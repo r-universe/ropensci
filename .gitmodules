@@ -381,12 +381,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "IEEER"]
-	path = IEEER
-	url = https://github.com/ropensci/IEEER
-	shallow = true
-	branch = master
-	registered = true
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
