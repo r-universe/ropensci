@@ -913,7 +913,7 @@
 	path = crul
 	url = https://github.com/ropensci/crul
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "isdparser"]
 	path = isdparser
