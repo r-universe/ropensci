@@ -889,7 +889,7 @@
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "CoordinateCleaner"]
 	path = CoordinateCleaner
