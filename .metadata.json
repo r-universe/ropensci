@@ -492,8 +492,7 @@
     "oncran": true
   },
   {
-    "package": "weathercan",
-    "oncran": true
+    "package": "weathercan"
   },
   {
     "package": "wikitaxa",
