@@ -1875,6 +1875,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "climatrends"]
+	path = climatrends
+	url = https://github.com/ropensci/climatrends
+	shallow = true
+	branch = master
+	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder

@@ -1176,6 +1176,10 @@
     "oncran": true
   },
   {
+    "package": "climatrends",
+    "oncran": false
+  },
+  {
     "package": "qcoder"
   },
   {
