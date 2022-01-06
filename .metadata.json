@@ -1176,8 +1176,7 @@
     "oncran": true
   },
   {
-    "package": "climatrends",
-    "oncran": false
+    "package": "climatrends"
   },
   {
     "package": "qcoder"
