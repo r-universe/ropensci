@@ -817,10 +817,6 @@
     "oncran": true
   },
   {
-    "package": "baRcodeR",
-    "oncran": true
-  },
-  {
     "package": "pubchunks",
     "oncran": true
   },
@@ -1176,9 +1172,6 @@
     "oncran": true
   },
   {
-    "package": "climatrends"
-  },
-  {
     "package": "qcoder"
   },
   {
@@ -1235,5 +1228,12 @@
   },
   {
     "package": "roreviewapi"
+  },
+  {
+    "package": "baRcodeR",
+    "oncran": true
+  },
+  {
+    "package": "redland-bindings"
   }
 ]

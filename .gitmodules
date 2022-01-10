@@ -1299,12 +1299,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "baRcodeR"]
-	path = baRcodeR
-	url = https://github.com/ropensci/baRcodeR
-	shallow = true
-	branch = master
-	registered = true
 [submodule "pubchunks"]
 	path = pubchunks
 	url = https://github.com/ropensci/pubchunks
@@ -1875,12 +1869,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "climatrends"]
-	path = climatrends
-	url = https://github.com/ropensci/climatrends
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
@@ -1988,6 +1976,18 @@
 	url = https://github.com/ropensci-review-tools/roreviewapi
 	shallow = true
 	branch = main
+	registered = true
+[submodule "baRcodeR"]
+	path = baRcodeR
+	url = https://github.com/ropensci/baRcodeR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "redland-bindings"]
+	path = redland-bindings
+	url = https://github.com/ropensci/redland-bindings
+	shallow = true
+	branch = master
 	registered = true
 [submodule "CodeDepends"]
 	path = CodeDepends
