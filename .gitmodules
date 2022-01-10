@@ -2019,6 +2019,11 @@
 	url = https://github.com/dkahle/ggmap
 	shallow = true
 	registered = false
+[submodule "googleCloudStorageR"]
+	path = googleCloudStorageR
+	url = https://github.com/MarkEdmondson1234/googleCloudStorageR
+	shallow = true
+	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem

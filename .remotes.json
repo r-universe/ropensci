@@ -76,6 +76,12 @@
     "from": "refsplitr"
   },
   {
+    "package": "googleCloudStorageR",
+    "url": "https://github.com/MarkEdmondson1234/googleCloudStorageR",
+    "via": ["targets"],
+    "from": "targets"
+  },
+  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
