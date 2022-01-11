@@ -1234,6 +1234,7 @@
     "oncran": true
   },
   {
-    "package": "redland-bindings"
+    "package": "redland",
+    "oncran": true
   }
 ]

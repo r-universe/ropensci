@@ -1983,11 +1983,12 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "redland-bindings"]
-	path = redland-bindings
+[submodule "redland"]
+	path = redland
 	url = https://github.com/ropensci/redland-bindings
 	shallow = true
 	branch = master
+	subdir = R/redland
 	registered = true
 [submodule "CodeDepends"]
 	path = CodeDepends
