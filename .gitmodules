@@ -1869,6 +1869,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "gittargets"]
+	path = gittargets
+	url = https://github.com/ropensci/gittargets
+	shallow = true
+	branch = main
+	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
