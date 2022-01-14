@@ -1173,7 +1173,7 @@
   },
   {
     "package": "gittargets",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "qcoder"
