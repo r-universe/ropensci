@@ -603,12 +603,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "ropenaq"]
-	path = ropenaq
-	url = https://github.com/ropensci/ropenaq
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
