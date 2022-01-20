@@ -153,12 +153,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rbison"]
-	path = rbison
-	url = https://github.com/ropensci/rbison
-	shallow = true
-	branch = master
-	registered = true
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML

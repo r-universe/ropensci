@@ -100,10 +100,6 @@
     "oncran": true
   },
   {
-    "package": "rbison",
-    "oncran": true
-  },
-  {
     "package": "EML",
     "oncran": true
   },
