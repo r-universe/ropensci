@@ -825,12 +825,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "jaod"]
-	path = jaod
-	url = https://github.com/ropensci/jaod
-	shallow = true
-	branch = master
-	registered = true
 [submodule "natserv"]
 	path = natserv
 	url = https://github.com/ropensci/natserv

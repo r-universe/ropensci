@@ -527,10 +527,6 @@
     "oncran": true
   },
   {
-    "package": "jaod",
-    "oncran": true
-  },
-  {
     "package": "natserv",
     "oncran": true
   },
