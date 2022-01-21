@@ -201,9 +201,6 @@
     "package": "fulltext"
   },
   {
-    "package": "rdopa"
-  },
-  {
     "package": "MODIStsp",
     "oncran": true
   },

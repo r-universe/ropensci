@@ -309,12 +309,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rdopa"]
-	path = rdopa
-	url = https://github.com/ropensci/rdopa
-	shallow = true
-	branch = master
-	registered = true
 [submodule "MODIStsp"]
 	path = MODIStsp
 	url = https://github.com/ropensci/MODIStsp
