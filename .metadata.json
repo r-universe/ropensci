@@ -1158,6 +1158,9 @@
     "oncran": true
   },
   {
+    "package": "rfema"
+  },
+  {
     "package": "gittargets",
     "oncran": true
   },

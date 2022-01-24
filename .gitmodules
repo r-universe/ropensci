@@ -1845,6 +1845,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "rfema"]
+	path = rfema
+	url = https://github.com/ropensci/rfema
+	shallow = true
+	branch = main
+	registered = true
 [submodule "gittargets"]
 	path = gittargets
 	url = https://github.com/ropensci/gittargets
