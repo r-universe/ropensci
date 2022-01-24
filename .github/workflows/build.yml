@@ -248,6 +248,7 @@ jobs:
         env:
           CRANLIKEURL: https://${{ github.event.repository.name }}.r-universe.dev/packages
           CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+          SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
           PKGDOCS: ${{ needs.docs.result }}
 
   finalstatus:
