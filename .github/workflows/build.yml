@@ -73,7 +73,8 @@ jobs:
         uses: r-universe-org/build-docs@master
         with:
           repo_url: ${{ needs.prepare.outputs.repo_url }}
-          deploy_url: https://docs.ropensci.org/${{ needs.prepare.outputs.repo_name }}
+          subdir: ${{ needs.prepare.outputs.repo_subdir }}
+          registry: ${{ github.event.repository.name }}
       - name: "Save docs zip"
         uses: actions/upload-artifact@v2
         with:
