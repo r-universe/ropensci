@@ -1,0 +1,9 @@
+[
+  {
+    "package": "DoOR.functions",
+    "url": "https://github.com/Dahaniel/DoOR.functions",
+    "via": ["DoOR.data"],
+    "branch": "v2.0.1",
+    "from": "DoOR.data"
+  }
+]
