@@ -1006,6 +1006,9 @@
     "package": "pendulum"
   },
   {
+    "package": "tidytags"
+  },
+  {
     "package": "photosearcher"
   },
   {

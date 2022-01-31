@@ -1599,6 +1599,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "tidytags"]
+	path = tidytags
+	url = https://github.com/ropensci/tidytags
+	shallow = true
+	branch = main
+	registered = true
 [submodule "photosearcher"]
 	path = photosearcher
 	url = https://github.com/ropensci/photosearcher
