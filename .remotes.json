@@ -20,6 +20,12 @@
     "from": "pkgreviewr"
   },
   {
+    "package": "ggmap",
+    "url": "https://github.com/dkahle/ggmap",
+    "via": ["refsplitr"],
+    "from": "refsplitr"
+  },
+  {
     "package": "goodpractice",
     "url": "https://github.com/mangoTheCat/goodpractice",
     "via": ["pkgreviewr"],

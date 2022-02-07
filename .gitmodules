@@ -1832,6 +1832,11 @@
 	url = https://github.com/hadley/emo
 	shallow = true
 	registered = false
+[submodule "ggmap"]
+	path = ggmap
+	url = https://github.com/dkahle/ggmap
+	shallow = true
+	registered = false
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/mangoTheCat/goodpractice
