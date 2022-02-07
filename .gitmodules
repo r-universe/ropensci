@@ -1215,12 +1215,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "infx"]
-	path = infx
-	url = https://github.com/ropensci/infx
-	shallow = true
-	branch = master
-	registered = true
 [submodule "nasapower"]
 	path = nasapower
 	url = https://github.com/ropensci/nasapower

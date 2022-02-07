@@ -767,9 +767,6 @@
     "oncran": true
   },
   {
-    "package": "infx"
-  },
-  {
     "package": "nasapower",
     "oncran": true
   },
