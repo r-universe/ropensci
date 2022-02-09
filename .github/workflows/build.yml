@@ -132,12 +132,12 @@ jobs:
           DISTRO: ${{ steps.build.outputs.DISTRO }}
           PACKAGE: ${{ steps.build.outputs.PACKAGE }}
           VERSION: ${{ steps.build.outputs.VERSION }}
-          COMMIT_TIMESTAMP: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
           COMMITINFO: ${{ steps.build.outputs.COMMITINFO }}
           MAINTAINERINFO: ${{ steps.build.outputs.MAINTAINERINFO }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
+          GITSTATS: ${{ steps.build.outputs.GITSTATS }}
           FILE: ${{ steps.build.outputs.SOURCEPKG }}
           TARGET: ${{ steps.build.outputs.SOURCEPKG && 'source' || 'failure' }}
       - name: "Save source package"
@@ -218,7 +218,6 @@ jobs:
           DISTRO: ${{ matrix.os }}
           PACKAGE: ${{ needs.source.outputs.package }}
           VERSION: ${{ needs.source.outputs.version }}
-          COMMIT_TIMESTAMP: ${{ needs.source.outputs.commit_timestamp }}
           COMMITINFO: ${{ needs.source.outputs.commitinfo }}
           MAINTAINERINFO: ${{ needs.source.outputs.maintainerinfo }}
           FILE: ${{ steps.postcheck.outputs.binarypkg }}
