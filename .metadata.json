@@ -1,148 +1,19 @@
 [
   {
-    "package": "taxize",
+    "package": "addressable"
+  },
+  {
+    "package": "allcontributors",
     "oncran": true
   },
   {
-    "package": "rplos",
-    "oncran": true
+    "package": "allodb"
   },
   {
-    "package": "bold",
-    "oncran": true
+    "package": "antanym"
   },
   {
-    "package": "rbhl",
-    "oncran": true
-  },
-  {
-    "package": "rnpn",
-    "oncran": true
-  },
-  {
-    "package": "rgbif",
-    "oncran": true
-  },
-  {
-    "package": "rvertnet",
-    "oncran": true
-  },
-  {
-    "package": "rzmq",
-    "oncran": true
-  },
-  {
-    "package": "rdatacite",
-    "oncran": true
-  },
-  {
-    "package": "rfisheries",
-    "oncran": true
-  },
-  {
-    "package": "ritis",
-    "oncran": true
-  },
-  {
-    "package": "rfishbase",
-    "oncran": true
-  },
-  {
-    "package": "treebase",
-    "oncran": true
-  },
-  {
-    "package": "rsnps",
-    "oncran": true
-  },
-  {
-    "package": "rebird",
-    "oncran": true
-  },
-  {
-    "package": "rentrez",
-    "oncran": true
-  },
-  {
-    "package": "rdryad",
-    "oncran": true
-  },
-  {
-    "package": "rfigshare",
-    "oncran": true
-  },
-  {
-    "package": "RSelenium",
-    "oncran": true
-  },
-  {
-    "package": "rAltmetric",
-    "oncran": true
-  },
-  {
-    "package": "rorcid",
-    "oncran": true
-  },
-  {
-    "package": "neotoma",
-    "oncran": true
-  },
-  {
-    "package": "rWBclimate",
-    "oncran": true
-  },
-  {
-    "package": "europepmc",
-    "oncran": true
-  },
-  {
-    "package": "sofa",
-    "oncran": true
-  },
-  {
-    "package": "EML",
-    "oncran": true
-  },
-  {
-    "package": "rnoaa",
-    "oncran": true
-  },
-  {
-    "package": "ecoengine"
-  },
-  {
-    "package": "RNeXML",
-    "oncran": true
-  },
-  {
-    "package": "spocc",
-    "oncran": true
-  },
-  {
-    "package": "rgpdd"
-  },
-  {
-    "package": "rcrossref",
-    "oncran": true
-  },
-  {
-    "package": "rinat",
-    "oncran": true
-  },
-  {
-    "package": "RefManageR",
-    "oncran": true
-  },
-  {
-    "package": "bibtex",
-    "oncran": true
-  },
-  {
-    "package": "rAvis",
-    "oncran": true
-  },
-  {
-    "package": "elastic",
+    "package": "antiword",
     "oncran": true
   },
   {
@@ -150,15 +21,7 @@
     "oncran": true
   },
   {
-    "package": "solrium",
-    "oncran": true
-  },
-  {
-    "package": "git2r",
-    "oncran": true
-  },
-  {
-    "package": "paleobioDB",
+    "package": "arkdb",
     "oncran": true
   },
   {
@@ -166,257 +29,37 @@
     "oncran": true
   },
   {
-    "package": "prism",
-    "oncran": true
-  },
-  {
-    "package": "rdataretriever",
-    "oncran": true
-  },
-  {
-    "package": "geojsonio",
-    "oncran": true
-  },
-  {
-    "package": "traits",
-    "oncran": true
-  },
-  {
-    "package": "rglobi",
-    "oncran": true
-  },
-  {
-    "package": "geonames",
-    "oncran": true
-  },
-  {
-    "package": "clifro",
-    "oncran": true
-  },
-  {
-    "package": "gistr",
-    "oncran": true
-  },
-  {
-    "package": "fulltext"
-  },
-  {
-    "package": "MODIStsp",
-    "oncran": true
-  },
-  {
-    "package": "hddtools"
-  },
-  {
-    "package": "biomartr",
-    "oncran": true
-  },
-  {
-    "package": "pangaear",
-    "oncran": true
-  },
-  {
-    "package": "datapack",
-    "oncran": true
-  },
-  {
-    "package": "FedData",
-    "oncran": true
-  },
-  {
-    "package": "rotl",
-    "oncran": true
-  },
-  {
-    "package": "historydata",
-    "oncran": true
-  },
-  {
-    "package": "ots"
-  },
-  {
-    "package": "USAboundaries",
-    "oncran": true
-  },
-  {
-    "package": "ckanr",
-    "oncran": true
-  },
-  {
-    "package": "webmockr",
-    "oncran": true
-  },
-  {
-    "package": "rerddap",
-    "oncran": true
-  },
-  {
-    "package": "chromer",
-    "oncran": true
-  },
-  {
-    "package": "DoOR.data"
-  },
-  {
-    "package": "DoOR.functions"
-  },
-  {
-    "package": "vcr",
-    "oncran": true
-  },
-  {
-    "package": "finch",
-    "oncran": true
-  },
-  {
-    "package": "DataPackageR",
-    "oncran": true
-  },
-  {
-    "package": "helminthR",
-    "oncran": true
-  },
-  {
     "package": "assertr",
     "oncran": true
   },
   {
-    "package": "wellknown",
+    "package": "auk",
     "oncran": true
   },
   {
-    "package": "seasl"
+    "package": "autotest"
   },
   {
-    "package": "stplanr",
+    "package": "av",
     "oncran": true
   },
   {
-    "package": "brranching",
+    "package": "awardFindR"
+  },
+  {
+    "package": "babette",
     "oncran": true
   },
   {
-    "package": "internetarchive"
-  },
-  {
-    "package": "jqr",
+    "package": "baRcodeR",
     "oncran": true
   },
   {
-    "package": "rrlite"
-  },
-  {
-    "package": "webchem",
+    "package": "BaseSet",
     "oncran": true
   },
   {
-    "package": "textreuse",
-    "oncran": true
-  },
-  {
-    "package": "GSODR",
-    "oncran": true
-  },
-  {
-    "package": "opencontext"
-  },
-  {
-    "package": "plater",
-    "oncran": true
-  },
-  {
-    "package": "nodbi",
-    "oncran": true
-  },
-  {
-    "package": "ezknitr",
-    "oncran": true
-  },
-  {
-    "package": "rnassqs",
-    "oncran": true
-  },
-  {
-    "package": "oai",
-    "oncran": true
-  },
-  {
-    "package": "rnaturalearth",
-    "oncran": true
-  },
-  {
-    "package": "mapr",
-    "oncran": true
-  },
-  {
-    "package": "USAboundariesData"
-  },
-  {
-    "package": "suppdata",
-    "oncran": true
-  },
-  {
-    "package": "rusda",
-    "oncran": false
-  },
-  {
-    "package": "osfr",
-    "oncran": true
-  },
-  {
-    "package": "scrubr"
-  },
-  {
-    "package": "getlandsat",
-    "oncran": true
-  },
-  {
-    "package": "cyphr",
-    "oncran": true
-  },
-  {
-    "package": "robotstxt",
-    "oncran": true
-  },
-  {
-    "package": "mregions",
-    "oncran": true
-  },
-  {
-    "package": "rredlist",
-    "oncran": true
-  },
-  {
-    "package": "osmplotr",
-    "oncran": true
-  },
-  {
-    "package": "cleanEHR"
-  },
-  {
-    "package": "visdat",
-    "oncran": true
-  },
-  {
-    "package": "rnaturalearthdata",
-    "oncran": true
-  },
-  {
-    "package": "rnaturalearthhires"
-  },
-  {
-    "package": "pdftools",
-    "oncran": true
-  },
-  {
-    "package": "rdefra"
-  },
-  {
-    "package": "tesseract",
-    "oncran": true
-  },
-  {
-    "package": "rcoreoa",
+    "package": "beastier",
     "oncran": true
   },
   {
@@ -424,177 +67,60 @@
     "oncran": true
   },
   {
-    "package": "hunspell",
-    "oncran": true
-  },
-  {
-    "package": "taxa",
-    "oncran": true
-  },
-  {
-    "package": "taxizedb",
-    "oncran": true
-  },
-  {
-    "package": "tokenizers",
-    "oncran": true
-  },
-  {
-    "package": "taxlist",
-    "oncran": true
-  },
-  {
-    "package": "gtfsr"
-  },
-  {
-    "package": "jsonvalidate",
-    "oncran": true
-  },
-  {
-    "package": "geojson",
-    "oncran": true
-  },
-  {
-    "package": "geojsonlint",
-    "oncran": true
-  },
-  {
-    "package": "opencage",
-    "oncran": true
-  },
-  {
-    "package": "fauxpas",
-    "oncran": true
-  },
-  {
-    "package": "riem",
-    "oncran": true
-  },
-  {
-    "package": "gutenbergr",
-    "oncran": true
-  },
-  {
-    "package": "tabulizer"
-  },
-  {
-    "package": "smapr",
-    "oncran": true
-  },
-  {
-    "package": "weathercan"
-  },
-  {
-    "package": "wikitaxa",
-    "oncran": true
-  },
-  {
-    "package": "lingtypology",
-    "oncran": true
-  },
-  {
-    "package": "magick",
-    "oncran": true
-  },
-  {
-    "package": "phylotaR"
-  },
-  {
-    "package": "rtweet",
-    "oncran": true
-  },
-  {
-    "package": "PostcodesioR",
-    "oncran": true
-  },
-  {
-    "package": "dbhydroR",
-    "oncran": true
-  },
-  {
     "package": "bib2df",
     "oncran": true
   },
   {
-    "package": "coder",
-    "oncran": true
-  },
-  {
-    "package": "camsRad",
-    "oncran": true
-  },
-  {
-    "package": "natserv",
-    "oncran": true
-  },
-  {
-    "package": "popler"
-  },
-  {
-    "package": "graphql",
-    "oncran": true
-  },
-  {
-    "package": "ghql",
-    "oncran": true
-  },
-  {
-    "package": "refimpact"
-  },
-  {
-    "package": "qualtRics",
-    "oncran": true
-  },
-  {
-    "package": "osmdata",
-    "oncran": true
-  },
-  {
-    "package": "getCRUCLdata"
-  },
-  {
-    "package": "CoordinateCleaner",
-    "oncran": true
-  },
-  {
-    "package": "roadoi",
-    "oncran": true
-  },
-  {
-    "package": "crul",
-    "oncran": true
-  },
-  {
-    "package": "isdparser",
-    "oncran": true
-  },
-  {
-    "package": "tic"
-  },
-  {
-    "package": "binman",
-    "oncran": true
-  },
-  {
-    "package": "rbace",
-    "oncran": true
-  },
-  {
-    "package": "rrricanes"
-  },
-  {
-    "package": "phylocomr",
-    "oncran": true
-  },
-  {
-    "package": "jsonld",
+    "package": "bibtex",
     "oncran": true
   },
   {
     "package": "bikedata"
   },
   {
-    "package": "xslt",
+    "package": "binman",
+    "oncran": true
+  },
+  {
+    "package": "biomartr",
+    "oncran": true
+  },
+  {
+    "package": "bittrex"
+  },
+  {
+    "package": "bold",
+    "oncran": true
+  },
+  {
+    "package": "bomrang"
+  },
+  {
+    "package": "bowerbird"
+  },
+  {
+    "package": "brranching",
+    "oncran": true
+  },
+  {
+    "package": "c14bazAAR"
+  },
+  {
+    "package": "camsRad",
+    "oncran": true
+  },
+  {
+    "package": "cchecks"
+  },
+  {
+    "package": "cde"
+  },
+  {
+    "package": "censo2017",
+    "oncran": true
+  },
+  {
+    "package": "cffr",
     "oncran": true
   },
   {
@@ -602,99 +128,30 @@
     "oncran": true
   },
   {
-    "package": "worrms",
+    "package": "chirps",
     "oncran": true
   },
   {
-    "package": "wdman",
+    "package": "chlorpromazineR",
     "oncran": true
   },
   {
-    "package": "hoardr",
+    "package": "chromer",
     "oncran": true
   },
   {
-    "package": "phylogram",
+    "package": "circle",
     "oncran": true
   },
   {
-    "package": "randgeo",
+    "package": "citecorp",
     "oncran": true
   },
   {
-    "package": "comtradr",
-    "oncran": true
+    "package": "citesdb"
   },
   {
-    "package": "microdemic",
-    "oncran": true
-  },
-  {
-    "package": "patentsview",
-    "oncran": true
-  },
-  {
-    "package": "drake",
-    "oncran": true
-  },
-  {
-    "package": "rperseus"
-  },
-  {
-    "package": "ssh",
-    "oncran": true
-  },
-  {
-    "package": "antanym"
-  },
-  {
-    "package": "iheatmapr",
-    "oncran": true
-  },
-  {
-    "package": "codemetar",
-    "oncran": true
-  },
-  {
-    "package": "skynet",
-    "oncran": true
-  },
-  {
-    "package": "fingertipsR"
-  },
-  {
-    "package": "bittrex"
-  },
-  {
-    "package": "antiword",
-    "oncran": true
-  },
-  {
-    "package": "tif"
-  },
-  {
-    "package": "DataSpaceR",
-    "oncran": true
-  },
-  {
-    "package": "bomrang"
-  },
-  {
-    "package": "googleLanguageR",
-    "oncran": true
-  },
-  {
-    "package": "skimr",
-    "oncran": true
-  },
-  {
-    "package": "rrricanesdata"
-  },
-  {
-    "package": "cde"
-  },
-  {
-    "package": "tidync",
+    "package": "ckanr",
     "oncran": true
   },
   {
@@ -706,196 +163,18 @@
     "oncran": true
   },
   {
-    "package": "unrtf",
+    "package": "cleanEHR"
+  },
+  {
+    "package": "clifro",
     "oncran": true
   },
   {
-    "package": "bowerbird"
-  },
-  {
-    "package": "c14bazAAR"
-  },
-  {
-    "package": "NLMR",
+    "package": "codemetar",
     "oncran": true
   },
   {
-    "package": "rdflib",
-    "oncran": true
-  },
-  {
-    "package": "writexl",
-    "oncran": true
-  },
-  {
-    "package": "cRegulome",
-    "oncran": true
-  },
-  {
-    "package": "tidyhydat",
-    "oncran": true
-  },
-  {
-    "package": "spelling",
-    "oncran": true
-  },
-  {
-    "package": "Rclean"
-  },
-  {
-    "package": "EndoMineR"
-  },
-  {
-    "package": "grainchanger",
-    "oncran": true
-  },
-  {
-    "package": "Rpolyhedra"
-  },
-  {
-    "package": "allodb"
-  },
-  {
-    "package": "wateRinfo"
-  },
-  {
-    "package": "essurvey",
-    "oncran": true
-  },
-  {
-    "package": "emld",
-    "oncran": true
-  },
-  {
-    "package": "nasapower",
-    "oncran": true
-  },
-  {
-    "package": "onekp"
-  },
-  {
-    "package": "taxview"
-  },
-  {
-    "package": "rcites",
-    "oncran": true
-  },
-  {
-    "package": "hydroscoper",
-    "oncran": true
-  },
-  {
-    "package": "jstor",
-    "oncran": true
-  },
-  {
-    "package": "refsplitr"
-  },
-  {
-    "package": "tracerer",
-    "oncran": true
-  },
-  {
-    "package": "beastier",
-    "oncran": true
-  },
-  {
-    "package": "pubchunks",
-    "oncran": true
-  },
-  {
-    "package": "rtika"
-  },
-  {
-    "package": "nomisr",
-    "oncran": true
-  },
-  {
-    "package": "babette",
-    "oncran": true
-  },
-  {
-    "package": "rdhs",
-    "oncran": true
-  },
-  {
-    "package": "rppo"
-  },
-  {
-    "package": "rmangal",
-    "oncran": true
-  },
-  {
-    "package": "nbaR"
-  },
-  {
-    "package": "ijtiff",
-    "oncran": true
-  },
-  {
-    "package": "landscapetools",
-    "oncran": true
-  },
-  {
-    "package": "zbank",
-    "oncran": true
-  },
-  {
-    "package": "restez"
-  },
-  {
-    "package": "taxadb",
-    "oncran": true
-  },
-  {
-    "package": "outcomerate",
-    "oncran": true
-  },
-  {
-    "package": "tacmagic",
-    "oncran": true
-  },
-  {
-    "package": "cchecks"
-  },
-  {
-    "package": "piggyback",
-    "oncran": true
-  },
-  {
-    "package": "dataspice",
-    "oncran": true
-  },
-  {
-    "package": "opencv",
-    "oncran": true
-  },
-  {
-    "package": "epubr",
-    "oncran": true
-  },
-  {
-    "package": "tiler",
-    "oncran": true
-  },
-  {
-    "package": "MODISTools",
-    "oncran": true
-  },
-  {
-    "package": "arkdb",
-    "oncran": true
-  },
-  {
-    "package": "nlrx",
-    "oncran": true
-  },
-  {
-    "package": "treestartr",
-    "oncran": true
-  },
-  {
-    "package": "spatsoc",
+    "package": "coder",
     "oncran": true
   },
   {
@@ -903,61 +182,7 @@
     "oncran": true
   },
   {
-    "package": "outsider",
-    "oncran": true
-  },
-  {
-    "package": "av",
-    "oncran": true
-  },
-  {
-    "package": "ramlegacy",
-    "oncran": true
-  },
-  {
-    "package": "git2rdata",
-    "oncran": true
-  },
-  {
-    "package": "mauricer",
-    "oncran": true
-  },
-  {
-    "package": "tinkr"
-  },
-  {
-    "package": "dbparser",
-    "oncran": true
-  },
-  {
-    "package": "stats19",
-    "oncran": true
-  },
-  {
-    "package": "rromeo",
-    "oncran": true
-  },
-  {
-    "package": "opentripplanner",
-    "oncran": true
-  },
-  {
-    "package": "handlr",
-    "oncran": true
-  },
-  {
-    "package": "virtuoso",
-    "oncran": true
-  },
-  {
-    "package": "lightr",
-    "oncran": true
-  },
-  {
-    "package": "mcbette"
-  },
-  {
-    "package": "BaseSet",
+    "package": "comtradr",
     "oncran": true
   },
   {
@@ -965,230 +190,7 @@
     "oncran": true
   },
   {
-    "package": "staypuft"
-  },
-  {
-    "package": "tradestatistics"
-  },
-  {
-    "package": "trufflesniffer"
-  },
-  {
-    "package": "citecorp",
-    "oncran": true
-  },
-  {
-    "package": "rcitoid",
-    "oncran": true
-  },
-  {
-    "package": "qpdf",
-    "oncran": true
-  },
-  {
-    "package": "timefuzz"
-  },
-  {
-    "package": "parzer",
-    "oncran": true
-  },
-  {
-    "package": "citesdb"
-  },
-  {
-    "package": "MtreeRing",
-    "oncran": true
-  },
-  {
-    "package": "pendulum"
-  },
-  {
-    "package": "tidytags"
-  },
-  {
-    "package": "photosearcher"
-  },
-  {
-    "package": "chlorpromazineR",
-    "oncran": true
-  },
-  {
-    "package": "tidypmc",
-    "oncran": true
-  },
-  {
-    "package": "UCSCXenaTools",
-    "oncran": true
-  },
-  {
-    "package": "outsider.devtools"
-  },
-  {
-    "package": "gitignore",
-    "oncran": true
-  },
-  {
-    "package": "outsider.base",
-    "oncran": true
-  },
-  {
-    "package": "jenkins"
-  },
-  {
-    "package": "ruODK"
-  },
-  {
-    "package": "exoplanets",
-    "oncran": true
-  },
-  {
-    "package": "SymbiotaR2"
-  },
-  {
-    "package": "eia",
-    "oncran": true
-  },
-  {
-    "package": "phonfieldwork",
-    "oncran": true
-  },
-  {
-    "package": "mapscanner",
-    "oncran": true
-  },
-  {
-    "package": "workloopR",
-    "oncran": true
-  },
-  {
-    "package": "targets",
-    "oncran": true
-  },
-  {
-    "package": "dataaimsr"
-  },
-  {
-    "package": "osmextract",
-    "oncran": true
-  },
-  {
-    "package": "circle",
-    "oncran": true
-  },
-  {
-    "package": "dittodb",
-    "oncran": true
-  },
-  {
-    "package": "treedata.table",
-    "oncran": true
-  },
-  {
-    "package": "chirps",
-    "oncran": true
-  },
-  {
-    "package": "rcol",
-    "oncran": true
-  },
-  {
-    "package": "medrxivr",
-    "oncran": true
-  },
-  {
-    "package": "slopes"
-  },
-  {
-    "package": "addressable"
-  },
-  {
-    "package": "pathviewr",
-    "oncran": true
-  },
-  {
-    "package": "rsat"
-  },
-  {
-    "package": "tarchetypes",
-    "oncran": true
-  },
-  {
-    "package": "namext"
-  },
-  {
-    "package": "rgnparser",
-    "oncran": true
-  },
-  {
-    "package": "terrainr",
-    "oncran": true
-  },
-  {
-    "package": "pixelclasser",
-    "oncran": true
-  },
-  {
-    "package": "censo2017",
-    "oncran": true
-  },
-  {
-    "package": "stantargets"
-  },
-  {
-    "package": "awardFindR"
-  },
-  {
-    "package": "jagstargets",
-    "oncran": true
-  },
-  {
-    "package": "mctq",
-    "oncran": true
-  },
-  {
-    "package": "excluder",
-    "oncran": true
-  },
-  {
-    "package": "katex",
-    "oncran": true
-  },
-  {
-    "package": "cffr",
-    "oncran": true
-  },
-  {
-    "package": "rfema"
-  },
-  {
-    "package": "gittargets",
-    "oncran": true
-  },
-  {
-    "package": "qcoder"
-  },
-  {
-    "package": "gendercoder"
-  },
-  {
-    "package": "allcontributors",
-    "oncran": true
-  },
-  {
-    "package": "r2readthedocs"
-  },
-  {
-    "package": "auk",
-    "oncran": true
-  },
-  {
-    "package": "genbankr"
-  },
-  {
-    "package": "treeio"
-  },
-  {
-    "package": "gert",
+    "package": "CoordinateCleaner",
     "oncran": true
   },
   {
@@ -1196,38 +198,1036 @@
     "oncran": true
   },
   {
-    "package": "rodev"
+    "package": "cRegulome",
+    "oncran": true
   },
   {
-    "package": "roblog"
+    "package": "crul",
+    "oncran": true
   },
   {
-    "package": "pkgreviewr"
+    "package": "cyphr",
+    "oncran": true
   },
   {
-    "package": "rotemplate"
+    "package": "dataaimsr"
   },
   {
-    "package": "autotest"
+    "package": "datapack",
+    "oncran": true
   },
   {
-    "package": "pkgstats"
+    "package": "DataPackageR",
+    "oncran": true
+  },
+  {
+    "package": "DataSpaceR",
+    "oncran": true
+  },
+  {
+    "package": "dataspice",
+    "oncran": true
+  },
+  {
+    "package": "dbhydroR",
+    "oncran": true
+  },
+  {
+    "package": "dbparser",
+    "oncran": true
+  },
+  {
+    "package": "dittodb",
+    "oncran": true
+  },
+  {
+    "package": "DoOR.data"
+  },
+  {
+    "package": "DoOR.functions"
+  },
+  {
+    "package": "drake",
+    "oncran": true
+  },
+  {
+    "package": "ecoengine"
+  },
+  {
+    "package": "eia",
+    "oncran": true
+  },
+  {
+    "package": "elastic",
+    "oncran": true
+  },
+  {
+    "package": "EML",
+    "oncran": true
+  },
+  {
+    "package": "emld",
+    "oncran": true
+  },
+  {
+    "package": "EndoMineR"
+  },
+  {
+    "package": "epubr",
+    "oncran": true
+  },
+  {
+    "package": "essurvey",
+    "oncran": true
+  },
+  {
+    "package": "europepmc",
+    "oncran": true
+  },
+  {
+    "package": "excluder",
+    "oncran": true
+  },
+  {
+    "package": "exoplanets",
+    "oncran": true
+  },
+  {
+    "package": "ezknitr",
+    "oncran": true
+  },
+  {
+    "package": "fauxpas",
+    "oncran": true
+  },
+  {
+    "package": "FedData",
+    "oncran": true
+  },
+  {
+    "package": "finch",
+    "oncran": true
+  },
+  {
+    "package": "fingertipsR"
+  },
+  {
+    "package": "fulltext"
+  },
+  {
+    "package": "genbankr"
+  },
+  {
+    "package": "gendercoder"
+  },
+  {
+    "package": "geojson",
+    "oncran": true
+  },
+  {
+    "package": "geojsonio",
+    "oncran": true
+  },
+  {
+    "package": "geojsonlint",
+    "oncran": true
+  },
+  {
+    "package": "geonames",
+    "oncran": true
+  },
+  {
+    "package": "gert",
+    "oncran": true
+  },
+  {
+    "package": "getCRUCLdata"
+  },
+  {
+    "package": "getlandsat",
+    "oncran": true
+  },
+  {
+    "package": "ghql",
+    "oncran": true
+  },
+  {
+    "package": "gistr",
+    "oncran": true
+  },
+  {
+    "package": "git2r",
+    "oncran": true
+  },
+  {
+    "package": "git2rdata",
+    "oncran": true
+  },
+  {
+    "package": "gitignore",
+    "oncran": true
+  },
+  {
+    "package": "gittargets",
+    "oncran": true
+  },
+  {
+    "package": "googleLanguageR",
+    "oncran": true
+  },
+  {
+    "package": "grainchanger",
+    "oncran": true
+  },
+  {
+    "package": "graphql",
+    "oncran": true
+  },
+  {
+    "package": "GSODR",
+    "oncran": true
+  },
+  {
+    "package": "gtfsr"
+  },
+  {
+    "package": "gutenbergr",
+    "oncran": true
+  },
+  {
+    "package": "handlr",
+    "oncran": true
+  },
+  {
+    "package": "hddtools"
+  },
+  {
+    "package": "helminthR",
+    "oncran": true
+  },
+  {
+    "package": "historydata",
+    "oncran": true
+  },
+  {
+    "package": "hoardr",
+    "oncran": true
+  },
+  {
+    "package": "hunspell",
+    "oncran": true
+  },
+  {
+    "package": "hydroscoper",
+    "oncran": true
+  },
+  {
+    "package": "iheatmapr",
+    "oncran": true
+  },
+  {
+    "package": "ijtiff",
+    "oncran": true
+  },
+  {
+    "package": "internetarchive"
+  },
+  {
+    "package": "isdparser",
+    "oncran": true
+  },
+  {
+    "package": "jagstargets",
+    "oncran": true
+  },
+  {
+    "package": "jenkins"
+  },
+  {
+    "package": "jqr",
+    "oncran": true
+  },
+  {
+    "package": "jsonld",
+    "oncran": true
+  },
+  {
+    "package": "jsonvalidate",
+    "oncran": true
+  },
+  {
+    "package": "jstor",
+    "oncran": true
+  },
+  {
+    "package": "katex",
+    "oncran": true
+  },
+  {
+    "package": "landscapetools",
+    "oncran": true
+  },
+  {
+    "package": "lightr",
+    "oncran": true
+  },
+  {
+    "package": "lingtypology",
+    "oncran": true
+  },
+  {
+    "package": "magick",
+    "oncran": true
+  },
+  {
+    "package": "mapr",
+    "oncran": true
+  },
+  {
+    "package": "mapscanner",
+    "oncran": true
+  },
+  {
+    "package": "mauricer",
+    "oncran": true
+  },
+  {
+    "package": "mcbette"
+  },
+  {
+    "package": "mctq",
+    "oncran": true
+  },
+  {
+    "package": "medrxivr",
+    "oncran": true
+  },
+  {
+    "package": "microdemic",
+    "oncran": true
+  },
+  {
+    "package": "MODISTools",
+    "oncran": true
+  },
+  {
+    "package": "MODIStsp",
+    "oncran": true
+  },
+  {
+    "package": "mregions",
+    "oncran": true
+  },
+  {
+    "package": "MtreeRing",
+    "oncran": true
+  },
+  {
+    "package": "namext"
+  },
+  {
+    "package": "nasapower",
+    "oncran": true
+  },
+  {
+    "package": "natserv",
+    "oncran": true
+  },
+  {
+    "package": "nbaR"
+  },
+  {
+    "package": "neotoma",
+    "oncran": true
+  },
+  {
+    "package": "NLMR",
+    "oncran": true
+  },
+  {
+    "package": "nlrx",
+    "oncran": true
+  },
+  {
+    "package": "nodbi",
+    "oncran": true
+  },
+  {
+    "package": "nomisr",
+    "oncran": true
+  },
+  {
+    "package": "oai",
+    "oncran": true
+  },
+  {
+    "package": "onekp"
+  },
+  {
+    "package": "opencage",
+    "oncran": true
+  },
+  {
+    "package": "opencontext"
+  },
+  {
+    "package": "opencv",
+    "oncran": true
+  },
+  {
+    "package": "opentripplanner",
+    "oncran": true
+  },
+  {
+    "package": "osfr",
+    "oncran": true
+  },
+  {
+    "package": "osmdata",
+    "oncran": true
+  },
+  {
+    "package": "osmextract",
+    "oncran": true
+  },
+  {
+    "package": "osmplotr",
+    "oncran": true
+  },
+  {
+    "package": "ots"
+  },
+  {
+    "package": "outcomerate",
+    "oncran": true
+  },
+  {
+    "package": "outsider",
+    "oncran": true
+  },
+  {
+    "package": "outsider.base",
+    "oncran": true
+  },
+  {
+    "package": "outsider.devtools"
+  },
+  {
+    "package": "paleobioDB",
+    "oncran": true
+  },
+  {
+    "package": "pangaear",
+    "oncran": true
+  },
+  {
+    "package": "parzer",
+    "oncran": true
+  },
+  {
+    "package": "patentsview",
+    "oncran": true
+  },
+  {
+    "package": "pathviewr",
+    "oncran": true
+  },
+  {
+    "package": "pdftools",
+    "oncran": true
+  },
+  {
+    "package": "pendulum"
+  },
+  {
+    "package": "phonfieldwork",
+    "oncran": true
+  },
+  {
+    "package": "photosearcher"
+  },
+  {
+    "package": "phylocomr",
+    "oncran": true
+  },
+  {
+    "package": "phylogram",
+    "oncran": true
+  },
+  {
+    "package": "phylotaR"
+  },
+  {
+    "package": "piggyback",
+    "oncran": true
+  },
+  {
+    "package": "pixelclasser",
+    "oncran": true
   },
   {
     "package": "pkgcheck"
   },
   {
-    "package": "srr"
+    "package": "pkgreviewr"
+  },
+  {
+    "package": "pkgstats"
+  },
+  {
+    "package": "plater",
+    "oncran": true
+  },
+  {
+    "package": "popler"
+  },
+  {
+    "package": "PostcodesioR",
+    "oncran": true
+  },
+  {
+    "package": "prism",
+    "oncran": true
+  },
+  {
+    "package": "pubchunks",
+    "oncran": true
+  },
+  {
+    "package": "qcoder"
+  },
+  {
+    "package": "qpdf",
+    "oncran": true
+  },
+  {
+    "package": "qualtRics",
+    "oncran": true
+  },
+  {
+    "package": "r2readthedocs"
+  },
+  {
+    "package": "rAltmetric",
+    "oncran": true
+  },
+  {
+    "package": "ramlegacy",
+    "oncran": true
+  },
+  {
+    "package": "randgeo",
+    "oncran": true
+  },
+  {
+    "package": "rAvis",
+    "oncran": true
+  },
+  {
+    "package": "rbace",
+    "oncran": true
+  },
+  {
+    "package": "rbhl",
+    "oncran": true
+  },
+  {
+    "package": "rcites",
+    "oncran": true
+  },
+  {
+    "package": "rcitoid",
+    "oncran": true
+  },
+  {
+    "package": "Rclean"
+  },
+  {
+    "package": "rcol",
+    "oncran": true
+  },
+  {
+    "package": "rcoreoa",
+    "oncran": true
+  },
+  {
+    "package": "rcrossref",
+    "oncran": true
+  },
+  {
+    "package": "rdatacite",
+    "oncran": true
+  },
+  {
+    "package": "rdataretriever",
+    "oncran": true
+  },
+  {
+    "package": "rdefra"
+  },
+  {
+    "package": "rdflib",
+    "oncran": true
+  },
+  {
+    "package": "rdhs",
+    "oncran": true
+  },
+  {
+    "package": "rdryad",
+    "oncran": true
+  },
+  {
+    "package": "rebird",
+    "oncran": true
+  },
+  {
+    "package": "redland",
+    "oncran": true
+  },
+  {
+    "package": "refimpact"
+  },
+  {
+    "package": "RefManageR",
+    "oncran": true
+  },
+  {
+    "package": "refsplitr"
+  },
+  {
+    "package": "rentrez",
+    "oncran": true
+  },
+  {
+    "package": "rerddap",
+    "oncran": true
+  },
+  {
+    "package": "restez"
+  },
+  {
+    "package": "rfema"
+  },
+  {
+    "package": "rfigshare",
+    "oncran": true
+  },
+  {
+    "package": "rfishbase",
+    "oncran": true
+  },
+  {
+    "package": "rfisheries",
+    "oncran": true
+  },
+  {
+    "package": "rgbif",
+    "oncran": true
+  },
+  {
+    "package": "rglobi",
+    "oncran": true
+  },
+  {
+    "package": "rgnparser",
+    "oncran": true
+  },
+  {
+    "package": "rgpdd"
+  },
+  {
+    "package": "riem",
+    "oncran": true
+  },
+  {
+    "package": "rinat",
+    "oncran": true
+  },
+  {
+    "package": "ritis",
+    "oncran": true
+  },
+  {
+    "package": "rmangal",
+    "oncran": true
+  },
+  {
+    "package": "rnassqs",
+    "oncran": true
+  },
+  {
+    "package": "rnaturalearth",
+    "oncran": true
+  },
+  {
+    "package": "rnaturalearthdata",
+    "oncran": true
+  },
+  {
+    "package": "rnaturalearthhires"
+  },
+  {
+    "package": "RNeXML",
+    "oncran": true
+  },
+  {
+    "package": "rnoaa",
+    "oncran": true
+  },
+  {
+    "package": "rnpn",
+    "oncran": true
+  },
+  {
+    "package": "roadoi",
+    "oncran": true
+  },
+  {
+    "package": "roblog"
+  },
+  {
+    "package": "robotstxt",
+    "oncran": true
+  },
+  {
+    "package": "rodev"
+  },
+  {
+    "package": "rorcid",
+    "oncran": true
   },
   {
     "package": "roreviewapi"
   },
   {
-    "package": "baRcodeR",
+    "package": "rotemplate"
+  },
+  {
+    "package": "rotl",
     "oncran": true
   },
   {
-    "package": "redland",
+    "package": "rperseus"
+  },
+  {
+    "package": "rplos",
+    "oncran": true
+  },
+  {
+    "package": "Rpolyhedra"
+  },
+  {
+    "package": "rppo"
+  },
+  {
+    "package": "rredlist",
+    "oncran": true
+  },
+  {
+    "package": "rrlite"
+  },
+  {
+    "package": "rromeo",
+    "oncran": true
+  },
+  {
+    "package": "rrricanes"
+  },
+  {
+    "package": "rrricanesdata"
+  },
+  {
+    "package": "rsat"
+  },
+  {
+    "package": "RSelenium",
+    "oncran": true
+  },
+  {
+    "package": "rsnps",
+    "oncran": true
+  },
+  {
+    "package": "rtika"
+  },
+  {
+    "package": "rtweet",
+    "oncran": true
+  },
+  {
+    "package": "ruODK"
+  },
+  {
+    "package": "rusda",
+    "oncran": false
+  },
+  {
+    "package": "rvertnet",
+    "oncran": true
+  },
+  {
+    "package": "rWBclimate",
+    "oncran": true
+  },
+  {
+    "package": "rzmq",
+    "oncran": true
+  },
+  {
+    "package": "scrubr"
+  },
+  {
+    "package": "seasl"
+  },
+  {
+    "package": "skimr",
+    "oncran": true
+  },
+  {
+    "package": "skynet",
+    "oncran": true
+  },
+  {
+    "package": "slopes"
+  },
+  {
+    "package": "smapr",
+    "oncran": true
+  },
+  {
+    "package": "sofa",
+    "oncran": true
+  },
+  {
+    "package": "solrium",
+    "oncran": true
+  },
+  {
+    "package": "spatsoc",
+    "oncran": true
+  },
+  {
+    "package": "spelling",
+    "oncran": true
+  },
+  {
+    "package": "spocc",
+    "oncran": true
+  },
+  {
+    "package": "srr"
+  },
+  {
+    "package": "ssh",
+    "oncran": true
+  },
+  {
+    "package": "stantargets"
+  },
+  {
+    "package": "stats19",
+    "oncran": true
+  },
+  {
+    "package": "staypuft"
+  },
+  {
+    "package": "stplanr",
+    "oncran": true
+  },
+  {
+    "package": "suppdata",
+    "oncran": true
+  },
+  {
+    "package": "SymbiotaR2"
+  },
+  {
+    "package": "tabulizer"
+  },
+  {
+    "package": "tacmagic",
+    "oncran": true
+  },
+  {
+    "package": "tarchetypes",
+    "oncran": true
+  },
+  {
+    "package": "targets",
+    "oncran": true
+  },
+  {
+    "package": "taxa",
+    "oncran": true
+  },
+  {
+    "package": "taxadb",
+    "oncran": true
+  },
+  {
+    "package": "taxize",
+    "oncran": true
+  },
+  {
+    "package": "taxizedb",
+    "oncran": true
+  },
+  {
+    "package": "taxlist",
+    "oncran": true
+  },
+  {
+    "package": "taxview"
+  },
+  {
+    "package": "terrainr",
+    "oncran": true
+  },
+  {
+    "package": "tesseract",
+    "oncran": true
+  },
+  {
+    "package": "textreuse",
+    "oncran": true
+  },
+  {
+    "package": "tic"
+  },
+  {
+    "package": "tidyhydat",
+    "oncran": true
+  },
+  {
+    "package": "tidync",
+    "oncran": true
+  },
+  {
+    "package": "tidypmc",
+    "oncran": true
+  },
+  {
+    "package": "tidytags"
+  },
+  {
+    "package": "tif"
+  },
+  {
+    "package": "tiler",
+    "oncran": true
+  },
+  {
+    "package": "timefuzz"
+  },
+  {
+    "package": "tinkr"
+  },
+  {
+    "package": "tokenizers",
+    "oncran": true
+  },
+  {
+    "package": "tracerer",
+    "oncran": true
+  },
+  {
+    "package": "tradestatistics"
+  },
+  {
+    "package": "traits",
+    "oncran": true
+  },
+  {
+    "package": "treebase",
+    "oncran": true
+  },
+  {
+    "package": "treedata.table",
+    "oncran": true
+  },
+  {
+    "package": "treeio"
+  },
+  {
+    "package": "treestartr",
+    "oncran": true
+  },
+  {
+    "package": "trufflesniffer"
+  },
+  {
+    "package": "UCSCXenaTools",
+    "oncran": true
+  },
+  {
+    "package": "unrtf",
+    "oncran": true
+  },
+  {
+    "package": "USAboundaries",
+    "oncran": true
+  },
+  {
+    "package": "USAboundariesData"
+  },
+  {
+    "package": "vcr",
+    "oncran": true
+  },
+  {
+    "package": "virtuoso",
+    "oncran": true
+  },
+  {
+    "package": "visdat",
+    "oncran": true
+  },
+  {
+    "package": "wateRinfo"
+  },
+  {
+    "package": "wdman",
+    "oncran": true
+  },
+  {
+    "package": "weathercan"
+  },
+  {
+    "package": "webchem",
+    "oncran": true
+  },
+  {
+    "package": "webmockr",
+    "oncran": true
+  },
+  {
+    "package": "wellknown",
+    "oncran": true
+  },
+  {
+    "package": "wikitaxa",
+    "oncran": true
+  },
+  {
+    "package": "workloopR",
+    "oncran": true
+  },
+  {
+    "package": "worrms",
+    "oncran": true
+  },
+  {
+    "package": "writexl",
+    "oncran": true
+  },
+  {
+    "package": "xslt",
+    "oncran": true
+  },
+  {
+    "package": "zbank",
     "oncran": true
   }
 ]
