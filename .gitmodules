@@ -62,14 +62,12 @@
 	url = https://github.com/CornellLabofOrnithology/auk.git
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "av"]
 	path = av
@@ -94,7 +92,6 @@
 	url = https://github.com/ropensci/baRcodeR
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "BaseSet"]
 	path = BaseSet
@@ -323,7 +320,6 @@
 	url = https://github.com/r-lib/credentials.git
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "cRegulome"]
 	path = cRegulome
@@ -515,8 +511,6 @@
 	path = genbankr
 	url = https://git.bioconductor.org/packages/genbankr
 	shallow = true
-	branch = master
-	subdir = 
 	registered = true
 [submodule "gendercoder"]
 	path = gendercoder
@@ -553,7 +547,6 @@
 	url = https://github.com/r-lib/gert.git
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "getCRUCLdata"]
 	path = getCRUCLdata
@@ -1070,21 +1063,18 @@
 	url = https://github.com/ropensci-review-tools/pkgcheck
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "pkgreviewr"]
 	path = pkgreviewr
 	url = https://github.com/ropensci-org/pkgreviewr
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "plater"]
 	path = plater
@@ -1422,7 +1412,6 @@
 	url = https://github.com/ropensci-org/roblog
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "robotstxt"]
 	path = robotstxt
@@ -1435,7 +1424,6 @@
 	url = https://github.com/ropensci-org/rodev
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "rorcid"]
 	path = rorcid
@@ -1448,14 +1436,12 @@
 	url = https://github.com/ropensci-review-tools/roreviewapi
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "rotemplate"]
 	path = rotemplate
 	url = https://github.com/ropensci-org/rotemplate
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "rotl"]
 	path = rotl
@@ -1648,7 +1634,6 @@
 	url = https://github.com/ropensci-review-tools/srr
 	shallow = true
 	branch = main
-	subdir = 
 	registered = true
 [submodule "ssh"]
 	path = ssh
@@ -1865,7 +1850,6 @@
 	url = https://github.com/YuLab-SMU/treeio.git
 	shallow = true
 	branch = master
-	subdir = 
 	registered = true
 [submodule "treestartr"]
 	path = treestartr
