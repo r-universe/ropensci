@@ -59,7 +59,7 @@
 	registered = true
 [submodule "auk"]
 	path = auk
-	url = https://github.com/CornellLabofOrnithology/auk.git
+	url = https://github.com/CornellLabofOrnithology/auk
 	shallow = true
 	branch = main
 	registered = true
@@ -317,7 +317,7 @@
 	registered = true
 [submodule "credentials"]
 	path = credentials
-	url = https://github.com/r-lib/credentials.git
+	url = https://github.com/r-lib/credentials
 	shallow = true
 	branch = main
 	registered = true
@@ -544,7 +544,7 @@
 	registered = true
 [submodule "gert"]
 	path = gert
-	url = https://github.com/r-lib/gert.git
+	url = https://github.com/r-lib/gert
 	shallow = true
 	branch = main
 	registered = true
@@ -1847,7 +1847,7 @@
 	registered = true
 [submodule "treeio"]
 	path = treeio
-	url = https://github.com/YuLab-SMU/treeio.git
+	url = https://github.com/YuLab-SMU/treeio
 	shallow = true
 	branch = master
 	registered = true
