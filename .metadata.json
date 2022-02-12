@@ -759,8 +759,7 @@
     "oncran": true
   },
   {
-    "package": "rdataretriever",
-    "oncran": true
+    "package": "rdataretriever"
   },
   {
     "package": "rdefra"
