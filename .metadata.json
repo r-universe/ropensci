@@ -1,5 +1,102 @@
 [
   {
+    "package": "AntWeb",
+    "oncran": true
+  },
+  {
+    "package": "BaseSet",
+    "oncran": true
+  },
+  {
+    "package": "CoordinateCleaner",
+    "oncran": true
+  },
+  {
+    "package": "DataPackageR",
+    "oncran": true
+  },
+  {
+    "package": "DataSpaceR",
+    "oncran": true
+  },
+  {
+    "package": "DoOR.data"
+  },
+  {
+    "package": "DoOR.functions"
+  },
+  {
+    "package": "EML",
+    "oncran": true
+  },
+  {
+    "package": "EndoMineR"
+  },
+  {
+    "package": "FedData",
+    "oncran": true
+  },
+  {
+    "package": "GSODR",
+    "oncran": true
+  },
+  {
+    "package": "MODISTools",
+    "oncran": true
+  },
+  {
+    "package": "MODIStsp",
+    "oncran": true
+  },
+  {
+    "package": "MtreeRing",
+    "oncran": true
+  },
+  {
+    "package": "NLMR",
+    "oncran": true
+  },
+  {
+    "package": "PostcodesioR",
+    "oncran": true
+  },
+  {
+    "package": "RNeXML",
+    "oncran": true
+  },
+  {
+    "package": "RSelenium",
+    "oncran": true
+  },
+  {
+    "package": "Rclean"
+  },
+  {
+    "package": "RefManageR",
+    "oncran": true
+  },
+  {
+    "package": "Rpolyhedra"
+  },
+  {
+    "package": "SymbiotaR2"
+  },
+  {
+    "package": "UCSCXenaTools",
+    "oncran": true
+  },
+  {
+    "package": "USAboundaries",
+    "oncran": true
+  },
+  {
+    "package": "USAboundariesData"
+  },
+  {
+    "package": "aRxiv",
+    "oncran": true
+  },
+  {
     "package": "addressable"
   },
   {
@@ -17,15 +114,7 @@
     "oncran": true
   },
   {
-    "package": "AntWeb",
-    "oncran": true
-  },
-  {
     "package": "arkdb",
-    "oncran": true
-  },
-  {
-    "package": "aRxiv",
     "oncran": true
   },
   {
@@ -47,15 +136,11 @@
     "package": "awardFindR"
   },
   {
-    "package": "babette",
-    "oncran": true
-  },
-  {
     "package": "baRcodeR",
     "oncran": true
   },
   {
-    "package": "BaseSet",
+    "package": "babette",
     "oncran": true
   },
   {
@@ -104,6 +189,10 @@
   },
   {
     "package": "c14bazAAR"
+  },
+  {
+    "package": "cRegulome",
+    "oncran": true
   },
   {
     "package": "camsRad",
@@ -190,15 +279,7 @@
     "oncran": true
   },
   {
-    "package": "CoordinateCleaner",
-    "oncran": true
-  },
-  {
     "package": "credentials",
-    "oncran": true
-  },
-  {
-    "package": "cRegulome",
     "oncran": true
   },
   {
@@ -214,14 +295,6 @@
   },
   {
     "package": "datapack",
-    "oncran": true
-  },
-  {
-    "package": "DataPackageR",
-    "oncran": true
-  },
-  {
-    "package": "DataSpaceR",
     "oncran": true
   },
   {
@@ -241,12 +314,6 @@
     "oncran": true
   },
   {
-    "package": "DoOR.data"
-  },
-  {
-    "package": "DoOR.functions"
-  },
-  {
     "package": "drake",
     "oncran": true
   },
@@ -262,15 +329,8 @@
     "oncran": true
   },
   {
-    "package": "EML",
-    "oncran": true
-  },
-  {
     "package": "emld",
     "oncran": true
-  },
-  {
-    "package": "EndoMineR"
   },
   {
     "package": "epubr",
@@ -298,10 +358,6 @@
   },
   {
     "package": "fauxpas",
-    "oncran": true
-  },
-  {
-    "package": "FedData",
     "oncran": true
   },
   {
@@ -381,10 +437,6 @@
   },
   {
     "package": "graphql",
-    "oncran": true
-  },
-  {
-    "package": "GSODR",
     "oncran": true
   },
   {
@@ -507,19 +559,7 @@
     "oncran": true
   },
   {
-    "package": "MODISTools",
-    "oncran": true
-  },
-  {
-    "package": "MODIStsp",
-    "oncran": true
-  },
-  {
     "package": "mregions",
-    "oncran": true
-  },
-  {
-    "package": "MtreeRing",
     "oncran": true
   },
   {
@@ -538,10 +578,6 @@
   },
   {
     "package": "neotoma",
-    "oncran": true
-  },
-  {
-    "package": "NLMR",
     "oncran": true
   },
   {
@@ -682,10 +718,6 @@
     "package": "popler"
   },
   {
-    "package": "PostcodesioR",
-    "oncran": true
-  },
-  {
     "package": "prism",
     "oncran": true
   },
@@ -712,15 +744,19 @@
     "oncran": true
   },
   {
+    "package": "rAvis",
+    "oncran": true
+  },
+  {
+    "package": "rWBclimate",
+    "oncran": true
+  },
+  {
     "package": "ramlegacy",
     "oncran": true
   },
   {
     "package": "randgeo",
-    "oncran": true
-  },
-  {
-    "package": "rAvis",
     "oncran": true
   },
   {
@@ -738,9 +774,6 @@
   {
     "package": "rcitoid",
     "oncran": true
-  },
-  {
-    "package": "Rclean"
   },
   {
     "package": "rcol",
@@ -782,10 +815,6 @@
   },
   {
     "package": "redland",
-    "oncran": true
-  },
-  {
-    "package": "RefManageR",
     "oncran": true
   },
   {
@@ -864,10 +893,6 @@
     "package": "rnaturalearthhires"
   },
   {
-    "package": "RNeXML",
-    "oncran": true
-  },
-  {
     "package": "rnoaa",
     "oncran": true
   },
@@ -911,9 +936,6 @@
     "oncran": true
   },
   {
-    "package": "Rpolyhedra"
-  },
-  {
     "package": "rppo"
   },
   {
@@ -937,10 +959,6 @@
     "package": "rsat"
   },
   {
-    "package": "RSelenium",
-    "oncran": true
-  },
-  {
     "package": "rsnps",
     "oncran": true
   },
@@ -960,10 +978,6 @@
   },
   {
     "package": "rvertnet",
-    "oncran": true
-  },
-  {
-    "package": "rWBclimate",
     "oncran": true
   },
   {
@@ -1035,9 +1049,6 @@
   {
     "package": "suppdata",
     "oncran": true
-  },
-  {
-    "package": "SymbiotaR2"
   },
   {
     "package": "tabulizer"
@@ -1154,19 +1165,8 @@
     "package": "trufflesniffer"
   },
   {
-    "package": "UCSCXenaTools",
-    "oncran": true
-  },
-  {
     "package": "unrtf",
     "oncran": true
-  },
-  {
-    "package": "USAboundaries",
-    "oncran": true
-  },
-  {
-    "package": "USAboundariesData"
   },
   {
     "package": "vcr",
