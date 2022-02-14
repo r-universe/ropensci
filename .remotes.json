@@ -1,5 +1,12 @@
 [
   {
+    "package": "DoOR.data",
+    "url": "https://github.com/Dahaniel/DoOR.data",
+    "via": ["DoOR.functions"],
+    "branch": "v2.0.1",
+    "from": "DoOR.functions"
+  },
+  {
     "package": "DoOR.functions",
     "url": "https://github.com/Dahaniel/DoOR.functions",
     "via": ["DoOR.data"],
