@@ -785,9 +785,6 @@
     "oncran": true
   },
   {
-    "package": "refimpact"
-  },
-  {
     "package": "RefManageR",
     "oncran": true
   },

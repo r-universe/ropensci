@@ -1251,12 +1251,6 @@
 	branch = master
 	subdir = R/redland
 	registered = true
-[submodule "refimpact"]
-	path = refimpact
-	url = https://github.com/ropensci/refimpact
-	shallow = true
-	branch = master
-	registered = true
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/ropensci/RefManageR
