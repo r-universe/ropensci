@@ -591,6 +591,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "frictionless"]
+	path = frictionless
+	url = https://github.com/frictionlessdata/frictionless-r
+	shallow = true
+	branch = main
+	registered = true
 [submodule "fulltext"]
 	path = fulltext
 	url = https://github.com/ropensci/fulltext
