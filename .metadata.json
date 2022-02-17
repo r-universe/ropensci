@@ -369,7 +369,7 @@
   },
   {
     "package": "frictionless",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "fulltext"
