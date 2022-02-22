@@ -501,6 +501,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	shallow = true
+	branch = main
+	registered = true
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/ropensci/dittodb

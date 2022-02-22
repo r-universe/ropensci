@@ -310,6 +310,9 @@
     "oncran": true
   },
   {
+    "package": "deposits"
+  },
+  {
     "package": "dittodb",
     "oncran": true
   },
