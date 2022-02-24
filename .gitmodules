@@ -1993,6 +1993,11 @@
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
 	shallow = true
 	registered = false
+[submodule "Rcompression"]
+	path = Rcompression
+	url = https://github.com/omegahat/Rcompression
+	shallow = true
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr

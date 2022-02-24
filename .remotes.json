@@ -32,6 +32,12 @@
     "from": "restez"
   },
   {
+    "package": "Rcompression",
+    "url": "https://github.com/omegahat/Rcompression",
+    "via": ["RSelenium"],
+    "from": "RSelenium"
+  },
+  {
     "package": "addressable",
     "url": "https://github.com/ropensci/addressable",
     "via": ["cchecks"],
@@ -44,6 +50,18 @@
     "via": ["staypuft"],
     "branch": "main",
     "from": "staypuft"
+  },
+  {
+    "package": "binman",
+    "url": "https://github.com/ropensci/binman",
+    "via": ["RSelenium"],
+    "from": "RSelenium"
+  },
+  {
+    "package": "binman",
+    "url": "https://github.com/ropensci/binman",
+    "via": ["RSelenium", "wdman"],
+    "from": "RSelenium"
   },
   {
     "package": "binman",
@@ -201,5 +219,11 @@
     "url": "https://github.com/ropensci/timefuzz",
     "via": ["pendulum"],
     "from": "pendulum"
+  },
+  {
+    "package": "wdman",
+    "url": "https://github.com/ropensci/wdman",
+    "via": ["RSelenium"],
+    "from": "RSelenium"
   }
 ]
