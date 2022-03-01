@@ -1146,7 +1146,8 @@
     "oncran": true
   },
   {
-    "package": "tradestatistics"
+    "package": "tradestatistics",
+    "oncran": false
   },
   {
     "package": "traits",
