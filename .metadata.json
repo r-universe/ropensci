@@ -783,8 +783,7 @@
     "oncran": true
   },
   {
-    "package": "rcol",
-    "oncran": true
+    "package": "rcol"
   },
   {
     "package": "rcoreoa",
