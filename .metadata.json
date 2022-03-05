@@ -53,8 +53,7 @@
     "oncran": true
   },
   {
-    "package": "NLMR",
-    "oncran": true
+    "package": "NLMR"
   },
   {
     "package": "PostcodesioR",
