@@ -1077,7 +1077,7 @@
   },
   {
     "package": "taxadb",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "taxize",
