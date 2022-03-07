@@ -1443,12 +1443,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rnpn"]
-	path = rnpn
-	url = https://github.com/ropensci/rnpn
-	shallow = true
-	branch = master
-	registered = true
 [submodule "roadoi"]
 	path = roadoi
 	url = https://github.com/ropensci/roadoi
