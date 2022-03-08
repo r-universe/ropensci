@@ -902,6 +902,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "monthly"]
+	path = monthly
+	url = https://github.com/ropensci/monthly
+	shallow = true
+	branch = gh-pages
+	registered = true
 [submodule "mregions"]
 	path = mregions
 	url = https://github.com/ropensci/mregions

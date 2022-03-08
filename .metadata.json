@@ -565,6 +565,9 @@
     "oncran": true
   },
   {
+    "package": "monthly"
+  },
+  {
     "package": "mregions",
     "oncran": true
   },
