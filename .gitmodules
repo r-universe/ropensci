@@ -1881,6 +1881,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "universe"]
+	path = universe
+	url = https://github.com/ropensci/universe
+	shallow = true
+	branch = master
+	registered = true
 [submodule "unrtf"]
 	path = unrtf
 	url = https://github.com/ropensci/unrtf

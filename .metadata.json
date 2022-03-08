@@ -1168,6 +1168,9 @@
     "package": "trufflesniffer"
   },
   {
+    "package": "universe"
+  },
+  {
     "package": "unrtf",
     "oncran": true
   },
