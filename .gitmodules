@@ -441,6 +441,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+	shallow = true
+	branch = main
+	registered = true
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/ropensci/comtradr

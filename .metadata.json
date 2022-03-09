@@ -270,6 +270,10 @@
     "oncran": true
   },
   {
+    "package": "commonmark",
+    "oncran": true
+  },
+  {
     "package": "comtradr",
     "oncran": true
   },
