@@ -160,6 +160,9 @@ jobs:
       matrix:
         os: [ windows, macos ]
         r: [ 'release', 'oldrel']
+        include:
+          - os: 'windows'
+            r: 'devel'
     steps:
       - name: Before cache
         if: runner.os == 'macos'
