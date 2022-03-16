@@ -607,6 +607,10 @@
     "oncran": true
   },
   {
+    "package": "occCite",
+    "oncran": false
+  },
+  {
     "package": "onekp"
   },
   {

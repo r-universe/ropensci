@@ -968,6 +968,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "occCite"]
+	path = occCite
+	url = https://github.com/ropensci/occCite
+	shallow = true
+	branch = main
+	registered = true
 [submodule "onekp"]
 	path = onekp
 	url = https://github.com/ropensci/onekp
