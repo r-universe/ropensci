@@ -1543,7 +1543,7 @@
 	path = rrricanes
 	url = https://github.com/ropensci/rrricanes
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "rrricanesdata"]
 	path = rrricanesdata
