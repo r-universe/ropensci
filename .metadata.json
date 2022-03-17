@@ -608,7 +608,7 @@
   },
   {
     "package": "occCite",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "onekp"
