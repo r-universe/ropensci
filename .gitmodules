@@ -622,7 +622,7 @@
 	registered = true
 [submodule "gendercoder"]
 	path = gendercoder
-	url = https://github.com/ropenscilabs/gendercoder
+	url = https://github.com/ropensci/gendercoder
 	shallow = true
 	branch = master
 	registered = true
