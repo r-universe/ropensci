@@ -1196,6 +1196,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "qualR"]
+	path = qualR
+	url = https://github.com/ropensci/qualR
+	shallow = true
+	branch = master
+	registered = true
 [submodule "qualtRics"]
 	path = qualtRics
 	url = https://github.com/ropensci/qualtRics

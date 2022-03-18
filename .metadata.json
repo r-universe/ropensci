@@ -747,6 +747,9 @@
     "oncran": true
   },
   {
+    "package": "qualR"
+  },
+  {
     "package": "qualtRics",
     "oncran": true
   },
