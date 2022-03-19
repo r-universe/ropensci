@@ -1365,12 +1365,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "rfigshare"]
-	path = rfigshare
-	url = https://github.com/ropensci/rfigshare
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase

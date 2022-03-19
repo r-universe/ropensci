@@ -851,10 +851,6 @@
     "package": "rfema"
   },
   {
-    "package": "rfigshare",
-    "oncran": true
-  },
-  {
     "package": "rfishbase",
     "oncran": true
   },
