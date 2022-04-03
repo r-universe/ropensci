@@ -159,10 +159,7 @@ jobs:
       fail-fast: false
       matrix:
         os: [ windows, macos ]
-        r: [ 'release', 'oldrel']
-        include:
-          - os: 'windows'
-            r: 'devel'
+        r: [ 'devel', 'release', 'oldrel']
     steps:
       - name: Before cache
         if: runner.os == 'macos'
