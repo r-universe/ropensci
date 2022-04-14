@@ -76,7 +76,7 @@
   },
   {
     "package": "Rpolyhedra",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "SymbiotaR2"
@@ -973,7 +973,7 @@
   },
   {
     "package": "rsvg",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rtika"
