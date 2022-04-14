@@ -1563,6 +1563,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rsvg"]
+	path = rsvg
+	url = https://github.com/ropensci/rsvg
+	shallow = true
+	branch = master
+	registered = true
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/ropensci/rtika
