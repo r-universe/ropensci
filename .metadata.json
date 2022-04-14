@@ -75,7 +75,8 @@
     "oncran": true
   },
   {
-    "package": "Rpolyhedra"
+    "package": "Rpolyhedra",
+    "oncran": false
   },
   {
     "package": "SymbiotaR2"
