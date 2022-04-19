@@ -615,6 +615,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "gbifdb"]
+	path = gbifdb
+	url = https://github.com/ropensci/gbifdb
+	shallow = true
+	branch = main
+	registered = true
 [submodule "genbankr"]
 	path = genbankr
 	url = https://git.bioconductor.org/packages/genbankr
