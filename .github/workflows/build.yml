@@ -110,6 +110,7 @@ jobs:
       package: ${{ steps.build.outputs.PACKAGE }}
       version: ${{ steps.build.outputs.VERSION }}
       java: ${{ steps.build.outputs.NEED_RJAVA }}
+      jags: ${{ steps.build.outputs.NEED_JAGS }}
     steps:
       - id: build
         name: Build source package
@@ -193,6 +194,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.PUBLIC_PAT }}
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
+          jags: ${{ needs.source.outputs.jags }}
       - name: "Build and check for Windows"
         uses: r-universe-org/build-and-check@windows
         if: runner.os == 'windows'
@@ -201,6 +203,7 @@ jobs:
         with:
           sourcepkg: ${{ needs.source.outputs.sourcepkg }}
           java: ${{ needs.source.outputs.java }}
+          jags: ${{ needs.source.outputs.jags }}
       - id: postcheck
         name: "Package install log"
         uses: r-universe-org/post-check@master
