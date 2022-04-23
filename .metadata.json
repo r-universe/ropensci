@@ -26,6 +26,9 @@
     "package": "DoOR.functions"
   },
   {
+    "package": "EDIutils"
+  },
+  {
     "package": "EML",
     "oncran": true
   },

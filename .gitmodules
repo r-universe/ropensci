@@ -45,6 +45,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "EDIutils"]
+	path = EDIutils
+	url = https://github.com/ropensci/EDIutils
+	shallow = true
+	branch = main
+	registered = true
 [submodule "EML"]
 	path = EML
 	url = https://github.com/ropensci/EML
