@@ -135,7 +135,7 @@ jobs:
           VERSION: ${{ steps.build.outputs.VERSION }}
           COMMITINFO: ${{ steps.build.outputs.COMMITINFO }}
           MAINTAINERINFO: ${{ steps.build.outputs.MAINTAINERINFO }}
-          HARDDEPS: ${{ steps.build.outputs.HARDDEPS }}
+          RUNDEPS: ${{ steps.build.outputs.RUNDEPS }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
