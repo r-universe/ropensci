@@ -123,6 +123,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "ReLTER"]
+	path = ReLTER
+	url = https://github.com/ropensci/ReLTER
+	shallow = true
+	branch = main
+	registered = true
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/ropensci/RefManageR

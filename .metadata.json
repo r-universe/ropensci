@@ -74,6 +74,9 @@
     "package": "Rclean"
   },
   {
+    "package": "ReLTER"
+  },
+  {
     "package": "RefManageR",
     "oncran": true
   },
