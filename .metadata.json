@@ -1,7 +1,6 @@
 [
   {
-    "package": "AntWeb",
-    "oncran": true
+    "package": "AntWeb"
   },
   {
     "package": "BaseSet",
