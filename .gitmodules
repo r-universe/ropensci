@@ -1238,12 +1238,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rAvis"]
-	path = rAvis
-	url = https://github.com/ropensci/rAvis
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rWBclimate"]
 	path = rWBclimate
 	url = https://github.com/ropensci/rWBclimate

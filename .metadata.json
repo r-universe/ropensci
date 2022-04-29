@@ -771,9 +771,6 @@
     "oncran": true
   },
   {
-    "package": "rAvis"
-  },
-  {
     "package": "rWBclimate",
     "oncran": true
   },
