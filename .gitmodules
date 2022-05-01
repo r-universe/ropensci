@@ -1911,6 +1911,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "unifir"]
+	path = unifir
+	url = https://github.com/ropensci/unifir
+	shallow = true
+	branch = main
+	registered = true
 [submodule "universe"]
 	path = universe
 	url = https://github.com/ropensci/universe
