@@ -2054,6 +2054,11 @@
 	url = https://github.com/dkahle/ggmap
 	shallow = true
 	registered = false
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangoTheCat/goodpractice
+	shallow = true
+	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
