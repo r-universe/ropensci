@@ -140,6 +140,7 @@ jobs:
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
           GITSTATS: ${{ steps.build.outputs.GITSTATS }}
+          ASSETS: ${{ steps.build.outputs.ASSETS }}
           FILE: ${{ steps.build.outputs.SOURCEPKG }}
           TARGET: ${{ steps.build.outputs.SOURCEPKG && 'source' || 'failure' }}
       - name: "Save source package"
