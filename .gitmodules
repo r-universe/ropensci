@@ -710,6 +710,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "gitcellar"]
+	path = gitcellar
+	url = https://github.com/ropensci-org/gitcellar
+	shallow = true
+	branch = main
+	registered = true
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/ropensci/gitignore

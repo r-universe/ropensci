@@ -439,6 +439,9 @@
     "oncran": true
   },
   {
+    "package": "gitcellar"
+  },
+  {
     "package": "gitignore",
     "oncran": true
   },
