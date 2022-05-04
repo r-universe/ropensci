@@ -1186,7 +1186,8 @@
     "package": "trufflesniffer"
   },
   {
-    "package": "unifir"
+    "package": "unifir",
+    "oncran": false
   },
   {
     "package": "universe"
