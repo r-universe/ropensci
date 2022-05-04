@@ -725,7 +725,7 @@
   },
   {
     "package": "pixelclasser",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "pkgcheck"
