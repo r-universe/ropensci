@@ -138,6 +138,7 @@ jobs:
           RUNDEPS: ${{ steps.build.outputs.RUNDEPS }}
           SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
           PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
+          README: ${{ steps.build.outputs.README }}
           VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
           GITSTATS: ${{ steps.build.outputs.GITSTATS }}
           ASSETS: ${{ steps.build.outputs.ASSETS }}
