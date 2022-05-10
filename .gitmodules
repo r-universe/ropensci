@@ -1491,12 +1491,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rodev"]
-	path = rodev
-	url = https://github.com/ropensci-org/rodev
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rorcid"]
 	path = rorcid
 	url = https://github.com/ropensci/rorcid

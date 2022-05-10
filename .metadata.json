@@ -928,9 +928,6 @@
     "oncran": true
   },
   {
-    "package": "rodev"
-  },
-  {
     "package": "rorcid",
     "oncran": true
   },
