@@ -2056,7 +2056,7 @@
 	registered = false
 [submodule "goodpractice"]
 	path = goodpractice
-	url = https://github.com/mangoTheCat/goodpractice
+	url = https://github.com/MangoTheCat/goodpractice
 	shallow = true
 	registered = false
 [submodule "leafem"]
