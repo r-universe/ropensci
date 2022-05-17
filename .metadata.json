@@ -11,8 +11,7 @@
     "oncran": true
   },
   {
-    "package": "DataPackageR",
-    "oncran": true
+    "package": "DataPackageR"
   },
   {
     "package": "DataSpaceR",
