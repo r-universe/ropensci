@@ -52,6 +52,12 @@
     "from": "staypuft"
   },
   {
+    "package": "atom4R",
+    "url": "https://github.com/eblondel/atom4R",
+    "via": ["deposits"],
+    "from": "deposits"
+  },
+  {
     "package": "binman",
     "url": "https://github.com/ropensci/binman",
     "via": ["RSelenium"],

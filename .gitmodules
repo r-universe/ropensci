@@ -2034,6 +2034,11 @@
 	url = https://github.com/omegahat/Rcompression
 	shallow = true
 	registered = false
+[submodule "atom4R"]
+	path = atom4R
+	url = https://github.com/eblondel/atom4R
+	shallow = true
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
