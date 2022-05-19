@@ -816,7 +816,7 @@
   },
   {
     "package": "rdataretriever",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rdefra"
