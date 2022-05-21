@@ -386,7 +386,8 @@
     "package": "fulltext"
   },
   {
-    "package": "gbifdb"
+    "package": "gbifdb",
+    "oncran": false
   },
   {
     "package": "genbankr"
