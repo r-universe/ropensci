@@ -387,7 +387,7 @@
   },
   {
     "package": "gbifdb",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "genbankr"
