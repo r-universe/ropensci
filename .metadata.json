@@ -840,7 +840,7 @@
   },
   {
     "package": "redland",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "refsplitr"
