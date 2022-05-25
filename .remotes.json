@@ -184,6 +184,12 @@
     "from": "roreviewapi"
   },
   {
+    "package": "rdflib",
+    "url": "https://github.com/mpadge/rdflib",
+    "via": ["deposits"],
+    "from": "deposits"
+  },
+  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],
