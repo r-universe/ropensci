@@ -496,6 +496,9 @@
     "oncran": true
   },
   {
+    "package": "icepalace"
+  },
+  {
     "package": "iheatmapr",
     "oncran": true
   },

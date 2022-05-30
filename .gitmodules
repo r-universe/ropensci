@@ -800,6 +800,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "icepalace"]
+	path = icepalace
+	url = https://github.com/ropenscilabs/icepalace
+	shallow = true
+	branch = main
+	registered = true
 [submodule "iheatmapr"]
 	path = iheatmapr
 	url = https://github.com/ropensci/iheatmapr
