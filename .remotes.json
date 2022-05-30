@@ -185,7 +185,7 @@
   },
   {
     "package": "rdflib",
-    "url": "https://github.com/mpadge/rdflib",
+    "url": "https://github.com/ropensci/rdflib",
     "via": ["deposits"],
     "from": "deposits"
   },
