@@ -960,10 +960,6 @@
     "package": "rrlite"
   },
   {
-    "package": "rromeo",
-    "oncran": true
-  },
-  {
     "package": "rrricanes"
   },
   {
