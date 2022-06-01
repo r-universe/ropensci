@@ -773,10 +773,6 @@
     "package": "r2readthedocs"
   },
   {
-    "package": "rAltmetric",
-    "oncran": true
-  },
-  {
     "package": "rWBclimate",
     "oncran": true
   },

@@ -1244,12 +1244,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "rAltmetric"]
-	path = rAltmetric
-	url = https://github.com/ropensci/rAltmetric
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rWBclimate"]
 	path = rWBclimate
 	url = https://github.com/ropensci/rWBclimate
