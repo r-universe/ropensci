@@ -1010,7 +1010,8 @@
     "oncran": true
   },
   {
-    "package": "skynet"
+    "package": "skynet",
+    "oncran": false
   },
   {
     "package": "slopes"
