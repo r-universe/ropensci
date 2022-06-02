@@ -25,7 +25,7 @@
   },
   {
     "package": "EDIutils",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "EML",
