@@ -1011,7 +1011,7 @@
   },
   {
     "package": "skynet",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "slopes"
