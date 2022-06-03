@@ -634,9 +634,6 @@
     "oncran": true
   },
   {
-    "package": "opencontext"
-  },
-  {
     "package": "opencv",
     "oncran": true
   },

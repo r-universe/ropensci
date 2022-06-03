@@ -1016,12 +1016,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "opencontext"]
-	path = opencontext
-	url = https://github.com/ropensci/opencontext
-	shallow = true
-	branch = master
-	registered = true
 [submodule "opencv"]
 	path = opencv
 	url = https://github.com/ropensci/opencv
