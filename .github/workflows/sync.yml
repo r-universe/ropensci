@@ -10,11 +10,14 @@ on:
 
 name: Update universe
 
+# Do not launch new job before the old one is done
+concurrency: ${{ github.workflow }}
+
 jobs:
   update:
     name: Update submodules
     runs-on: ubuntu-20.04
-    timeout-minutes: 15
+    timeout-minutes: 60
     steps:
       - name: Sync registry
         uses: r-universe-org/sync@master
