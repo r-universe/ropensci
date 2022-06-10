@@ -746,12 +746,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "gtfsr"]
-	path = gtfsr
-	url = https://github.com/ropensci/gtfsr
-	shallow = true
-	branch = master
-	registered = true
 [submodule "gutenbergr"]
 	path = gutenbergr
 	url = https://github.com/ropensci/gutenbergr

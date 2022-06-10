@@ -463,9 +463,6 @@
     "oncran": true
   },
   {
-    "package": "gtfsr"
-  },
-  {
     "package": "gutenbergr",
     "oncran": true
   },
