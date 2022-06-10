@@ -130,12 +130,6 @@
     "from": "ruODK"
   },
   {
-    "package": "leaflet",
-    "url": "https://github.com/rstudio/leaflet",
-    "via": ["gtfsr"],
-    "from": "gtfsr"
-  },
-  {
     "package": "mapview",
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
