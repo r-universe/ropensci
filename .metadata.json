@@ -1015,6 +1015,10 @@
     "oncran": true
   },
   {
+    "package": "sodium",
+    "oncran": false
+  },
+  {
     "package": "sofa",
     "oncran": true
   },

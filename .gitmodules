@@ -1635,6 +1635,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+	shallow = true
+	branch = master
+	registered = true
 [submodule "sofa"]
 	path = sofa
 	url = https://github.com/ropensci/sofa
