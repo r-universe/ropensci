@@ -1815,6 +1815,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "tidyqpcr"]
+	path = tidyqpcr
+	url = https://github.com/ropensci/tidyqpcr
+	shallow = true
+	branch = main
+	registered = true
 [submodule "tidytags"]
 	path = tidytags
 	url = https://github.com/ropensci/tidytags
