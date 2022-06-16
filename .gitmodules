@@ -1639,7 +1639,7 @@
 	path = sodium
 	url = https://github.com/r-lib/sodium
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "sofa"]
 	path = sofa
