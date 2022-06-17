@@ -721,7 +721,8 @@
     "package": "pkgreviewr"
   },
   {
-    "package": "pkgstats"
+    "package": "pkgstats",
+    "oncran": false
   },
   {
     "package": "plater",
