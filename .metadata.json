@@ -662,17 +662,6 @@
     "oncran": true
   },
   {
-    "package": "outsider",
-    "oncran": true
-  },
-  {
-    "package": "outsider.base",
-    "oncran": true
-  },
-  {
-    "package": "outsider.devtools"
-  },
-  {
     "package": "paleobioDB",
     "oncran": true
   },
