@@ -157,14 +157,12 @@
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["roreviewapi", "pkgcheck"],
-    "branch": "ctags-fix",
     "from": "roreviewapi"
   },
   {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["roreviewapi"],
-    "branch": "ctags-fix",
     "from": "roreviewapi"
   },
   {
