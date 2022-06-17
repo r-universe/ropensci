@@ -151,6 +151,7 @@
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
+    "branch": "ctags-fix",
     "from": "pkgcheck"
   },
   {
