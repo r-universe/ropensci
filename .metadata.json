@@ -757,8 +757,7 @@
     "package": "r2readthedocs"
   },
   {
-    "package": "rWBclimate",
-    "oncran": true
+    "package": "rWBclimate"
   },
   {
     "package": "ramlegacy",
