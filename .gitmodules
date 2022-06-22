@@ -1989,6 +1989,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "yfR"]
+	path = yfR
+	url = https://github.com/ropensci/yfR
+	shallow = true
+	branch = main
+	registered = true
 [submodule "zbank"]
 	path = zbank
 	url = https://github.com/ropensci/zbank
