@@ -1310,6 +1310,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "readODS"]
+	path = readODS
+	url = https://github.com/ropensci/readODS
+	shallow = true
+	branch = master
+	registered = true
 [submodule "rebird"]
 	path = rebird
 	url = https://github.com/ropensci/rebird

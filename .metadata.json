@@ -817,6 +817,10 @@
     "oncran": true
   },
   {
+    "package": "readODS",
+    "oncran": false
+  },
+  {
     "package": "rebird",
     "oncran": true
   },
