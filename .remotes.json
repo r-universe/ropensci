@@ -160,12 +160,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "pkgstats",
-    "url": "https://github.com/ropensci-review-tools/pkgstats",
-    "via": ["roreviewapi"],
-    "from": "roreviewapi"
-  },
-  {
     "package": "rdflib",
     "url": "https://github.com/ropensci/rdflib",
     "via": ["deposits"],
