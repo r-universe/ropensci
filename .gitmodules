@@ -291,12 +291,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "bittrex"]
-	path = bittrex
-	url = https://github.com/ropensci/bittrex
-	shallow = true
-	branch = master
-	registered = true
 [submodule "bold"]
 	path = bold
 	url = https://github.com/ropensci/bold
