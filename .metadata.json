@@ -1237,7 +1237,7 @@
   },
   {
     "package": "yfR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "zbank",
