@@ -26,12 +26,6 @@
     "from": "phylotaR"
   },
   {
-    "package": "MonetDBLite",
-    "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
-    "via": ["restez"],
-    "from": "restez"
-  },
-  {
     "package": "Rcompression",
     "url": "https://github.com/omegahat/Rcompression",
     "via": ["RSelenium"],
