@@ -1927,7 +1927,7 @@
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "wdman"]
 	path = wdman
