@@ -20,12 +20,6 @@
     "from": "DoOR.data"
   },
   {
-    "package": "MonetDBLite",
-    "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
-    "via": ["phylotaR", "restez"],
-    "from": "phylotaR"
-  },
-  {
     "package": "Rcompression",
     "url": "https://github.com/omegahat/Rcompression",
     "via": ["RSelenium"],

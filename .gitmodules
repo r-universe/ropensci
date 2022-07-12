@@ -2006,11 +2006,6 @@
 	url = https://github.com/MKLau/CodeDepends
 	shallow = true
 	registered = false
-[submodule "MonetDBLite"]
-	path = MonetDBLite
-	url = https://github.com/hannesmuehleisen/MonetDBLite-R
-	shallow = true
-	registered = false
 [submodule "Rcompression"]
 	path = Rcompression
 	url = https://github.com/omegahat/Rcompression
