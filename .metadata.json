@@ -162,7 +162,7 @@
   },
   {
     "package": "bibtex",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "bikedata"
@@ -198,7 +198,7 @@
   },
   {
     "package": "camsRad",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "cchecks"
@@ -235,7 +235,7 @@
   },
   {
     "package": "citecorp",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "citesdb"
@@ -281,7 +281,7 @@
   },
   {
     "package": "conditionz",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "credentials",
@@ -362,7 +362,7 @@
   },
   {
     "package": "ezknitr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "fauxpas",
@@ -777,7 +777,7 @@
   },
   {
     "package": "rcitoid",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rcol"
@@ -887,11 +887,11 @@
   },
   {
     "package": "rnaturalearth",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rnaturalearthdata",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rnaturalearthhires"
@@ -1241,6 +1241,6 @@
   },
   {
     "package": "zbank",
-    "oncran": false
+    "oncran": true
   }
 ]
