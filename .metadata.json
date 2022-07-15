@@ -949,8 +949,7 @@
     "package": "rrricanesdata"
   },
   {
-    "package": "rsat",
-    "oncran": true
+    "package": "rsat"
   },
   {
     "package": "rsnps",
