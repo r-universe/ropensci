@@ -501,6 +501,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "datefixR"]
+	path = datefixR
+	url = https://github.com/ropensci/datefixR
+	shallow = true
+	branch = main
+	registered = true
 [submodule "dbhydroR"]
 	path = dbhydroR
 	url = https://github.com/ropensci/dbhydroR
