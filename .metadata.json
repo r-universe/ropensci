@@ -308,7 +308,7 @@
   },
   {
     "package": "datefixR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "dbhydroR",
