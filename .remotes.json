@@ -70,12 +70,6 @@
     "from": "stantargets"
   },
   {
-    "package": "crul",
-    "url": "https://github.com/ropensci/crul",
-    "via": ["roblog"],
-    "from": "roblog"
-  },
-  {
     "package": "desc",
     "url": "https://github.com/r-lib/desc",
     "via": ["autotest"],
