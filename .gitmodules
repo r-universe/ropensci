@@ -561,6 +561,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "epair"]
+	path = epair
+	url = https://github.com/ropensci/epair
+	shallow = true
+	branch = master
+	registered = true
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/ropensci/epubr

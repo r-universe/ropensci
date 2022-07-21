@@ -345,6 +345,9 @@
     "oncran": true
   },
   {
+    "package": "epair"
+  },
+  {
     "package": "epubr",
     "oncran": true
   },
