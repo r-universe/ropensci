@@ -145,16 +145,13 @@
     "oncran": true
   },
   {
-    "package": "babette",
-    "oncran": true
+    "package": "babette"
   },
   {
-    "package": "beastier",
-    "oncran": true
+    "package": "beastier"
   },
   {
-    "package": "beautier",
-    "oncran": true
+    "package": "beautier"
   },
   {
     "package": "bib2df",
@@ -566,8 +563,7 @@
     "oncran": true
   },
   {
-    "package": "mauricer",
-    "oncran": true
+    "package": "mauricer"
   },
   {
     "package": "mcbette"
