@@ -148,7 +148,8 @@
     "package": "babette"
   },
   {
-    "package": "beastier"
+    "package": "beastier",
+    "oncran": false
   },
   {
     "package": "beautier",
