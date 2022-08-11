@@ -151,7 +151,8 @@
     "package": "beastier"
   },
   {
-    "package": "beautier"
+    "package": "beautier",
+    "oncran": false
   },
   {
     "package": "bib2df",
