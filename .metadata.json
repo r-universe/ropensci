@@ -149,11 +149,11 @@
   },
   {
     "package": "beastier",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "beautier",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "bib2df",
