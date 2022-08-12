@@ -145,7 +145,8 @@
     "oncran": true
   },
   {
-    "package": "babette"
+    "package": "babette",
+    "oncran": false
   },
   {
     "package": "beastier",
