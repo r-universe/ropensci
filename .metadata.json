@@ -565,7 +565,8 @@
     "oncran": true
   },
   {
-    "package": "mauricer"
+    "package": "mauricer",
+    "oncran": false
   },
   {
     "package": "mcbette"
