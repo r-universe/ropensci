@@ -146,7 +146,7 @@
   },
   {
     "package": "babette",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "beastier",
@@ -567,7 +567,7 @@
   },
   {
     "package": "mauricer",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "mcbette"
