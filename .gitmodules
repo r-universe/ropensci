@@ -1659,6 +1659,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "spiro"]
+	path = spiro
+	url = https://github.com/ropensci/spiro
+	shallow = true
+	branch = main
+	registered = true
 [submodule "spocc"]
 	path = spocc
 	url = https://github.com/ropensci/spocc

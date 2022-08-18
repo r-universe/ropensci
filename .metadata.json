@@ -1030,6 +1030,9 @@
     "oncran": true
   },
   {
+    "package": "spiro"
+  },
+  {
     "package": "spocc",
     "oncran": true
   },
