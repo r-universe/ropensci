@@ -417,12 +417,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "cleanEHR"]
-	path = cleanEHR
-	url = https://github.com/ropensci/cleanEHR
-	shallow = true
-	branch = master
-	registered = true
 [submodule "clifro"]
 	path = clifro
 	url = https://github.com/ropensci/clifro
