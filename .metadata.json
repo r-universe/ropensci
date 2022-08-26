@@ -1027,7 +1027,8 @@
     "oncran": true
   },
   {
-    "package": "spiro"
+    "package": "spiro",
+    "oncran": false
   },
   {
     "package": "spocc",
