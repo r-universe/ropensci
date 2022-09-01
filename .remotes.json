@@ -40,12 +40,6 @@
     "from": "deposits"
   },
   {
-    "package": "binman",
-    "url": "https://github.com/ropensci/binman",
-    "via": ["wdman"],
-    "from": "wdman"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
