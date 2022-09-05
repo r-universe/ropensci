@@ -842,7 +842,8 @@
     "oncran": true
   },
   {
-    "package": "restez"
+    "package": "restez",
+    "oncran": false
   },
   {
     "package": "rfema"
