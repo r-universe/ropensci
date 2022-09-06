@@ -2053,16 +2053,6 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
-[submodule "outsider"]
-	path = outsider
-	url = https://github.com/ropensci-archive/outsider
-	shallow = true
-	registered = false
-[submodule "outsider.base"]
-	path = outsider.base
-	url = https://github.com/ropensci-archive/outsider.base
-	shallow = true
-	registered = false
 [submodule "tabulizerjars"]
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars
