@@ -1853,6 +1853,11 @@
 	url = https://github.com/jeroen/openssl
 	shallow = true
 	registered = false
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	shallow = true
+	registered = false
 [submodule "tabulizerjars"]
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars
