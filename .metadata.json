@@ -843,7 +843,7 @@
   },
   {
     "package": "restez",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rfema"
