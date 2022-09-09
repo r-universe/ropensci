@@ -1010,12 +1010,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "pendulum"]
-	path = pendulum
-	url = https://github.com/ropensci/pendulum
-	shallow = true
-	branch = master
-	registered = true
 [submodule "phonfieldwork"]
 	path = phonfieldwork
 	url = https://github.com/ropensci/phonfieldwork
@@ -1094,12 +1088,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "pubchunks"]
-	path = pubchunks
-	url = https://github.com/ropensci/pubchunks
-	shallow = true
-	branch = master
-	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
@@ -1142,47 +1130,11 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "randgeo"]
-	path = randgeo
-	url = https://github.com/ropensci/randgeo
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rbace"]
-	path = rbace
-	url = https://github.com/ropensci/rbace
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rbhl"]
-	path = rbhl
-	url = https://github.com/ropensci/rbhl
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rcites"]
 	path = rcites
 	url = https://github.com/ropensci/rcites
 	shallow = true
 	branch = main
-	registered = true
-[submodule "rcitoid"]
-	path = rcitoid
-	url = https://github.com/ropensci/rcitoid
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rcol"]
-	path = rcol
-	url = https://github.com/ropensci/rcol
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rcoreoa"]
-	path = rcoreoa
-	url = https://github.com/ropensci/rcoreoa
-	shallow = true
-	branch = master
 	registered = true
 [submodule "rcrossref"]
 	path = rcrossref
@@ -1380,12 +1332,6 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/ropensci/robotstxt
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rorcid"]
-	path = rorcid
-	url = https://github.com/ropensci/rorcid
 	shallow = true
 	branch = master
 	registered = true
@@ -1973,6 +1919,11 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
+	shallow = true
+	registered = false
+[submodule "pendulum"]
+	path = pendulum
+	url = https://github.com/ropensci/pendulum
 	shallow = true
 	registered = false
 [submodule "tabulizerjars"]

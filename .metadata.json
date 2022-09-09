@@ -636,9 +636,6 @@
     "oncran": true
   },
   {
-    "package": "pendulum"
-  },
-  {
     "package": "phonfieldwork",
     "oncran": true
   },
@@ -686,10 +683,6 @@
     "oncran": true
   },
   {
-    "package": "pubchunks",
-    "oncran": true
-  },
-  {
     "package": "qcoder"
   },
   {
@@ -714,30 +707,7 @@
     "oncran": true
   },
   {
-    "package": "randgeo",
-    "oncran": true
-  },
-  {
-    "package": "rbace",
-    "oncran": true
-  },
-  {
-    "package": "rbhl",
-    "oncran": true
-  },
-  {
     "package": "rcites",
-    "oncran": true
-  },
-  {
-    "package": "rcitoid",
-    "oncran": true
-  },
-  {
-    "package": "rcol"
-  },
-  {
-    "package": "rcoreoa",
     "oncran": true
   },
   {
@@ -864,10 +834,6 @@
   },
   {
     "package": "robotstxt",
-    "oncran": true
-  },
-  {
-    "package": "rorcid",
     "oncran": true
   },
   {
