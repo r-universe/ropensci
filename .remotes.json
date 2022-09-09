@@ -127,5 +127,11 @@
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
     "from": "onekp"
+  },
+  {
+    "package": "treeman",
+    "url": "https://github.com/dombennett/treeman",
+    "via": ["phylotaR"],
+    "from": "phylotaR"
   }
 ]
