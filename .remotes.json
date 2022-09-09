@@ -21,13 +21,6 @@
   },
   {
     "package": "addressable",
-    "url": "https://github.com/ropensci/addressable",
-    "via": ["cchecks"],
-    "branch": "main",
-    "from": "cchecks"
-  },
-  {
-    "package": "addressable",
     "url": "https://github.com/ropenscilabs/addressable",
     "via": ["staypuft"],
     "branch": "main",

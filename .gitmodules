@@ -1990,7 +1990,7 @@
 	registered = false
 [submodule "addressable"]
 	path = addressable
-	url = https://github.com/ropensci/addressable
+	url = https://github.com/ropenscilabs/addressable
 	shallow = true
 	branch = main
 	registered = false
