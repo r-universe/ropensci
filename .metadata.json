@@ -471,10 +471,6 @@
     "package": "internetarchive"
   },
   {
-    "package": "isdparser",
-    "oncran": true
-  },
-  {
     "package": "jagstargets",
     "oncran": true
   },
@@ -535,10 +531,6 @@
   },
   {
     "package": "medrxivr",
-    "oncran": true
-  },
-  {
-    "package": "microdemic",
     "oncran": true
   },
   {
@@ -850,10 +842,6 @@
     "package": "rperseus"
   },
   {
-    "package": "rplos",
-    "oncran": true
-  },
-  {
     "package": "rppo"
   },
   {
@@ -895,18 +883,8 @@
     "oncran": false
   },
   {
-    "package": "rvertnet",
-    "oncran": true
-  },
-  {
     "package": "rzmq",
     "oncran": true
-  },
-  {
-    "package": "scrubr"
-  },
-  {
-    "package": "seasl"
   },
   {
     "package": "skimr",
@@ -925,14 +903,6 @@
   },
   {
     "package": "sodium",
-    "oncran": true
-  },
-  {
-    "package": "sofa",
-    "oncran": true
-  },
-  {
-    "package": "solrium",
     "oncran": true
   },
   {
@@ -964,9 +934,6 @@
   {
     "package": "stats19",
     "oncran": true
-  },
-  {
-    "package": "staypuft"
   },
   {
     "package": "stplanr",
@@ -1004,15 +971,8 @@
     "oncran": true
   },
   {
-    "package": "taxizedb",
-    "oncran": true
-  },
-  {
     "package": "taxlist",
     "oncran": true
-  },
-  {
-    "package": "taxview"
   },
   {
     "package": "terrainr",
@@ -1055,9 +1015,6 @@
     "oncran": true
   },
   {
-    "package": "timefuzz"
-  },
-  {
     "package": "tinkr",
     "oncran": true
   },
@@ -1074,10 +1031,6 @@
     "oncran": true
   },
   {
-    "package": "traits",
-    "oncran": true
-  },
-  {
     "package": "treebase",
     "oncran": true
   },
@@ -1091,9 +1044,6 @@
   {
     "package": "treestartr",
     "oncran": true
-  },
-  {
-    "package": "trufflesniffer"
   },
   {
     "package": "unifir",

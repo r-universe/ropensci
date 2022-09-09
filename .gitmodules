@@ -758,12 +758,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "isdparser"]
-	path = isdparser
-	url = https://github.com/ropensci/isdparser
-	shallow = true
-	branch = master
-	registered = true
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
@@ -857,12 +851,6 @@
 [submodule "medrxivr"]
 	path = medrxivr
 	url = https://github.com/ropensci/medrxivr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "microdemic"]
-	path = microdemic
-	url = https://github.com/ropensci/microdemic
 	shallow = true
 	branch = master
 	registered = true
@@ -1359,12 +1347,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rplos"]
-	path = rplos
-	url = https://github.com/ropensci/rplos
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rppo"]
 	path = rppo
 	url = https://github.com/ropensci/rppo
@@ -1437,27 +1419,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "rvertnet"]
-	path = rvertnet
-	url = https://github.com/ropensci/rvertnet
-	shallow = true
-	branch = master
-	registered = true
 [submodule "rzmq"]
 	path = rzmq
 	url = https://github.com/ropensci/rzmq
-	shallow = true
-	branch = master
-	registered = true
-[submodule "scrubr"]
-	path = scrubr
-	url = https://github.com/ropensci/scrubr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "seasl"]
-	path = seasl
-	url = https://github.com/ropensci/seasl
 	shallow = true
 	branch = master
 	registered = true
@@ -1490,18 +1454,6 @@
 	url = https://github.com/r-lib/sodium
 	shallow = true
 	branch = main
-	registered = true
-[submodule "sofa"]
-	path = sofa
-	url = https://github.com/ropensci/sofa
-	shallow = true
-	branch = master
-	registered = true
-[submodule "solrium"]
-	path = solrium
-	url = https://github.com/ropensci/solrium
-	shallow = true
-	branch = master
 	registered = true
 [submodule "spatsoc"]
 	path = spatsoc
@@ -1548,12 +1500,6 @@
 [submodule "stats19"]
 	path = stats19
 	url = https://github.com/ropensci/stats19
-	shallow = true
-	branch = master
-	registered = true
-[submodule "staypuft"]
-	path = staypuft
-	url = https://github.com/ropensci/staypuft
 	shallow = true
 	branch = master
 	registered = true
@@ -1611,21 +1557,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "taxizedb"]
-	path = taxizedb
-	url = https://github.com/ropensci/taxizedb
-	shallow = true
-	branch = master
-	registered = true
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/ropensci/taxlist
-	shallow = true
-	branch = master
-	registered = true
-[submodule "taxview"]
-	path = taxview
-	url = https://github.com/ropensci/taxview
 	shallow = true
 	branch = master
 	registered = true
@@ -1695,12 +1629,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "timefuzz"]
-	path = timefuzz
-	url = https://github.com/ropensci/timefuzz
-	shallow = true
-	branch = master
-	registered = true
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
@@ -1725,12 +1653,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "traits"]
-	path = traits
-	url = https://github.com/ropensci/traits
-	shallow = true
-	branch = master
-	registered = true
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/ropensci/treebase
@@ -1752,12 +1674,6 @@
 [submodule "treestartr"]
 	path = treestartr
 	url = https://github.com/ropensci/treestartr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "trufflesniffer"]
-	path = trufflesniffer
-	url = https://github.com/ropensci/trufflesniffer
 	shallow = true
 	branch = master
 	registered = true
@@ -1923,5 +1839,10 @@
 [submodule "tabulizerjars"]
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars
+	shallow = true
+	registered = false
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/ropensci/taxizedb
 	shallow = true
 	registered = false
