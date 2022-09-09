@@ -971,6 +971,10 @@
     "oncran": true
   },
   {
+    "package": "taxizedb",
+    "oncran": true
+  },
+  {
     "package": "taxlist",
     "oncran": true
   },

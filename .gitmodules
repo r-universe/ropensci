@@ -1557,6 +1557,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/ropensci/taxizedb
+	shallow = true
+	branch = master
+	registered = true
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/ropensci/taxlist
@@ -1828,10 +1834,5 @@
 [submodule "tabulizerjars"]
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars
-	shallow = true
-	registered = false
-[submodule "taxizedb"]
-	path = taxizedb
-	url = https://github.com/ropensci/taxizedb
 	shallow = true
 	registered = false
