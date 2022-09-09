@@ -146,11 +146,5 @@
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["taxview"],
     "from": "taxview"
-  },
-  {
-    "package": "timefuzz",
-    "url": "https://github.com/ropensci/timefuzz",
-    "via": ["pendulum"],
-    "from": "pendulum"
   }
 ]
