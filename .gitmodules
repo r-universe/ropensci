@@ -171,12 +171,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "addressable"]
-	path = addressable
-	url = https://github.com/ropensci/addressable
-	shallow = true
-	branch = main
-	registered = true
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropenscilabs/allcontributors
@@ -2017,6 +2011,12 @@
 	path = CodeDepends
 	url = https://github.com/MKLau/CodeDepends
 	shallow = true
+	registered = false
+[submodule "addressable"]
+	path = addressable
+	url = https://github.com/ropensci/addressable
+	shallow = true
+	branch = main
 	registered = false
 [submodule "atom4R"]
 	path = atom4R

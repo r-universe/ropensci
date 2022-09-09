@@ -102,9 +102,6 @@
     "oncran": true
   },
   {
-    "package": "addressable"
-  },
-  {
     "package": "allcontributors",
     "oncran": true
   },
