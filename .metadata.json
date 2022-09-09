@@ -198,9 +198,6 @@
     "oncran": true
   },
   {
-    "package": "cchecks"
-  },
-  {
     "package": "cde"
   },
   {
@@ -271,10 +268,6 @@
   },
   {
     "package": "comtradr",
-    "oncran": true
-  },
-  {
-    "package": "conditionz",
     "oncran": true
   },
   {
@@ -363,14 +356,6 @@
   },
   {
     "package": "ezknitr",
-    "oncran": true
-  },
-  {
-    "package": "fauxpas",
-    "oncran": true
-  },
-  {
-    "package": "finch",
     "oncran": true
   },
   {

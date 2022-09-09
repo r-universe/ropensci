@@ -327,12 +327,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "cchecks"]
-	path = cchecks
-	url = https://github.com/ropensci/cchecks
-	shallow = true
-	branch = master
-	registered = true
 [submodule "cde"]
 	path = cde
 	url = https://github.com/ropensci/cde
@@ -444,12 +438,6 @@
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/ropensci/comtradr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "conditionz"]
-	path = conditionz
-	url = https://github.com/ropensci/conditionz
 	shallow = true
 	branch = master
 	registered = true
@@ -588,18 +576,6 @@
 [submodule "ezknitr"]
 	path = ezknitr
 	url = https://github.com/ropensci/ezknitr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "fauxpas"]
-	path = fauxpas
-	url = https://github.com/ropensci/fauxpas
-	shallow = true
-	branch = master
-	registered = true
-[submodule "finch"]
-	path = finch
-	url = https://github.com/ropensci/finch
 	shallow = true
 	branch = master
 	registered = true
