@@ -1869,12 +1869,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "zbank"]
-	path = zbank
-	url = https://github.com/ropensci/zbank
-	shallow = true
-	branch = master
-	registered = true
 [submodule "CodeDepends"]
 	path = CodeDepends
 	url = https://github.com/MKLau/CodeDepends

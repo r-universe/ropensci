@@ -1163,9 +1163,5 @@
   {
     "package": "yfR",
     "oncran": true
-  },
-  {
-    "package": "zbank",
-    "oncran": true
   }
 ]
