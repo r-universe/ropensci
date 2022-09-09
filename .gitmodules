@@ -1790,12 +1790,6 @@
 	url = https://github.com/MKLau/CodeDepends
 	shallow = true
 	registered = false
-[submodule "addressable"]
-	path = addressable
-	url = https://github.com/ropenscilabs/addressable
-	shallow = true
-	branch = main
-	registered = false
 [submodule "atom4R"]
 	path = atom4R
 	url = https://github.com/eblondel/atom4R
@@ -1829,11 +1823,6 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
-	shallow = true
-	registered = false
-[submodule "pendulum"]
-	path = pendulum
-	url = https://github.com/ropensci/pendulum
 	shallow = true
 	registered = false
 [submodule "tabulizerjars"]

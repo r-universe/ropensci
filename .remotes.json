@@ -20,13 +20,6 @@
     "from": "DoOR.data"
   },
   {
-    "package": "addressable",
-    "url": "https://github.com/ropenscilabs/addressable",
-    "via": ["staypuft"],
-    "branch": "main",
-    "from": "staypuft"
-  },
-  {
     "package": "atom4R",
     "url": "https://github.com/eblondel/atom4R",
     "via": ["deposits"],
@@ -67,12 +60,6 @@
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
     "from": "ruODK"
-  },
-  {
-    "package": "pendulum",
-    "url": "https://github.com/ropensci/pendulum",
-    "via": ["timefuzz"],
-    "from": "timefuzz"
   },
   {
     "package": "pkgcheck",
@@ -140,11 +127,5 @@
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
     "from": "onekp"
-  },
-  {
-    "package": "taxizedb",
-    "url": "https://github.com/ropensci/taxizedb",
-    "via": ["taxview"],
-    "from": "taxview"
   }
 ]
