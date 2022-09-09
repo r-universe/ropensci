@@ -366,9 +366,6 @@
     "oncran": true
   },
   {
-    "package": "fulltext"
-  },
-  {
     "package": "gbifdb",
     "oncran": true
   },
@@ -379,15 +376,7 @@
     "package": "gendercoder"
   },
   {
-    "package": "geojson",
-    "oncran": true
-  },
-  {
     "package": "geojsonio",
-    "oncran": true
-  },
-  {
-    "package": "geojsonlint",
     "oncran": true
   },
   {
@@ -400,10 +389,6 @@
   },
   {
     "package": "getCRUCLdata"
-  },
-  {
-    "package": "getlandsat",
-    "oncran": true
   },
   {
     "package": "ghql",
@@ -461,10 +446,6 @@
   },
   {
     "package": "historydata",
-    "oncran": true
-  },
-  {
-    "package": "hoardr",
     "oncran": true
   },
   {
@@ -537,10 +518,6 @@
     "oncran": true
   },
   {
-    "package": "mapr",
-    "oncran": true
-  },
-  {
     "package": "mapscanner",
     "oncran": true
   },
@@ -569,14 +546,7 @@
     "oncran": true
   },
   {
-    "package": "namext"
-  },
-  {
     "package": "nasapower",
-    "oncran": true
-  },
-  {
-    "package": "natserv",
     "oncran": true
   },
   {
@@ -636,9 +606,6 @@
   {
     "package": "osmplotr",
     "oncran": true
-  },
-  {
-    "package": "ots"
   },
   {
     "package": "outcomerate",

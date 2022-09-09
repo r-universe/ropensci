@@ -591,12 +591,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "fulltext"]
-	path = fulltext
-	url = https://github.com/ropensci/fulltext
-	shallow = true
-	branch = master
-	registered = true
 [submodule "gbifdb"]
 	path = gbifdb
 	url = https://github.com/ropensci/gbifdb
@@ -614,21 +608,9 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "geojson"]
-	path = geojson
-	url = https://github.com/ropensci/geojson
-	shallow = true
-	branch = master
-	registered = true
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/ropensci/geojsonio
-	shallow = true
-	branch = master
-	registered = true
-[submodule "geojsonlint"]
-	path = geojsonlint
-	url = https://github.com/ropensci/geojsonlint
 	shallow = true
 	branch = master
 	registered = true
@@ -649,12 +631,6 @@
 	url = https://github.com/ropensci/getCRUCLdata
 	shallow = true
 	branch = main
-	registered = true
-[submodule "getlandsat"]
-	path = getlandsat
-	url = https://github.com/ropensci/getlandsat
-	shallow = true
-	branch = master
 	registered = true
 [submodule "ghql"]
 	path = ghql
@@ -743,12 +719,6 @@
 [submodule "historydata"]
 	path = historydata
 	url = https://github.com/ropensci/historydata
-	shallow = true
-	branch = master
-	registered = true
-[submodule "hoardr"]
-	path = hoardr
-	url = https://github.com/ropensci/hoardr
 	shallow = true
 	branch = master
 	registered = true
@@ -860,12 +830,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "mapr"]
-	path = mapr
-	url = https://github.com/ropensci/mapr
-	shallow = true
-	branch = master
-	registered = true
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
@@ -908,23 +872,11 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "namext"]
-	path = namext
-	url = https://github.com/ropensci/namext
-	shallow = true
-	branch = master
-	registered = true
 [submodule "nasapower"]
 	path = nasapower
 	url = https://github.com/ropensci/nasapower
 	shallow = true
 	branch = main
-	registered = true
-[submodule "natserv"]
-	path = natserv
-	url = https://github.com/ropensci/natserv
-	shallow = true
-	branch = master
 	registered = true
 [submodule "nbaR"]
 	path = nbaR
@@ -1013,12 +965,6 @@
 [submodule "osmplotr"]
 	path = osmplotr
 	url = https://github.com/ropensci/osmplotr
-	shallow = true
-	branch = master
-	registered = true
-[submodule "ots"]
-	path = ots
-	url = https://github.com/ropensci/ots
 	shallow = true
 	branch = master
 	registered = true
