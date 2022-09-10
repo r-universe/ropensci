@@ -1826,6 +1826,11 @@
 	url = https://github.com/r-spatial/leafem
 	shallow = true
 	registered = false
+[submodule "leafletR"]
+	path = leafletR
+	url = https://github.com/chgrl/leafletR
+	shallow = true
+	registered = false
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
