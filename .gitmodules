@@ -1659,6 +1659,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "traits"]
+	path = traits
+	url = https://github.com/ropensci/traits
+	shallow = true
+	branch = master
+	registered = true
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/ropensci/treebase

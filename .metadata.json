@@ -1035,6 +1035,10 @@
     "oncran": true
   },
   {
+    "package": "traits",
+    "oncran": false
+  },
+  {
     "package": "treebase",
     "oncran": true
   },
