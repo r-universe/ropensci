@@ -198,6 +198,9 @@
     "oncran": true
   },
   {
+    "package": "canaper"
+  },
+  {
     "package": "cde"
   },
   {

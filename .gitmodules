@@ -327,6 +327,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "canaper"]
+	path = canaper
+	url = https://github.com/ropensci/canaper
+	shallow = true
+	branch = main
+	registered = true
 [submodule "cde"]
 	path = cde
 	url = https://github.com/ropensci/cde
