@@ -68,12 +68,6 @@
     "from": "ruODK"
   },
   {
-    "package": "openssl",
-    "url": "https://github.com/jeroen/openssl",
-    "via": ["gert"],
-    "from": "gert"
-  },
-  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],
