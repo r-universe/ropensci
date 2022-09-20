@@ -860,6 +860,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "melt"]
+	path = melt
+	url = https://github.com/ropensci/melt
+	shallow = true
+	branch = master
+	registered = true
 [submodule "mregions"]
 	path = mregions
 	url = https://github.com/ropensci/mregions

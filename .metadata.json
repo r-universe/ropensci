@@ -537,6 +537,10 @@
     "oncran": true
   },
   {
+    "package": "melt",
+    "oncran": false
+  },
+  {
     "package": "mregions",
     "oncran": true
   },
