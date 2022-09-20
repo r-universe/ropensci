@@ -960,7 +960,7 @@
 	path = osmplotr
 	url = https://github.com/ropensci/osmplotr
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "outcomerate"]
 	path = outcomerate
