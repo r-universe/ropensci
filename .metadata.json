@@ -317,9 +317,6 @@
     "oncran": true
   },
   {
-    "package": "ecoengine"
-  },
-  {
     "package": "eia",
     "oncran": true
   },

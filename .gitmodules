@@ -513,12 +513,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "ecoengine"]
-	path = ecoengine
-	url = https://github.com/ropensci/ecoengine
-	shallow = true
-	branch = master
-	registered = true
 [submodule "eia"]
 	path = eia
 	url = https://github.com/ropensci/eia
@@ -1631,7 +1625,7 @@
 	registered = true
 [submodule "tif"]
 	path = tif
-	url = https://github.com/ropensci/tif
+	url = https://github.com/ropenscilabs/tif
 	shallow = true
 	branch = master
 	registered = true
