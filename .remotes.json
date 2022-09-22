@@ -56,12 +56,6 @@
     "from": "ruODK"
   },
   {
-    "package": "leafletR",
-    "url": "https://github.com/chgrl/leafletR",
-    "via": ["AntWeb"],
-    "from": "AntWeb"
-  },
-  {
     "package": "mapview",
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
