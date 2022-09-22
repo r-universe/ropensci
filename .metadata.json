@@ -113,6 +113,10 @@
     "oncran": true
   },
   {
+    "package": "aorsf",
+    "oncran": false
+  },
+  {
     "package": "arkdb",
     "oncran": true
   },

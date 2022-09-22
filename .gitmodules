@@ -189,6 +189,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/ropensci/aorsf
+	shallow = true
+	branch = main
+	registered = true
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/ropensci/arkdb
