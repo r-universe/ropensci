@@ -3,12 +3,6 @@
 	url = https://github.com/ropensci/roregistry
 	shallow = true
 	branch = HEAD
-[submodule "AntWeb"]
-	path = AntWeb
-	url = https://github.com/ropensci/AntWeb
-	shallow = true
-	branch = master
-	registered = true
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/ropensci/BaseSet
