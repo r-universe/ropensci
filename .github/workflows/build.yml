@@ -103,7 +103,6 @@ jobs:
     runs-on: ubuntu-20.04
     timeout-minutes: 60
     outputs:
-      commit_timestamp: ${{ steps.build.outputs.COMMIT_TIMESTAMP }}
       commitinfo: ${{ steps.build.outputs.COMMITINFO }}
       maintainerinfo: ${{ steps.build.outputs.MAINTAINERINFO }}
       sourcepkg: ${{ steps.build.outputs.SOURCEPKG }}
@@ -135,13 +134,6 @@ jobs:
           VERSION: ${{ steps.build.outputs.VERSION }}
           COMMITINFO: ${{ steps.build.outputs.COMMITINFO }}
           MAINTAINERINFO: ${{ steps.build.outputs.MAINTAINERINFO }}
-          RUNDEPS: ${{ steps.build.outputs.RUNDEPS }}
-          SYSDEPS: ${{ steps.build.outputs.SYSDEPS }}
-          PKGLOGO: ${{ steps.build.outputs.PKGLOGO }}
-          README: ${{ steps.build.outputs.README }}
-          VIGNETTES: ${{ steps.build.outputs.VIGNETTES }}
-          GITSTATS: ${{ steps.build.outputs.GITSTATS }}
-          ASSETS: ${{ steps.build.outputs.ASSETS }}
           FILE: ${{ steps.build.outputs.SOURCEPKG }}
           TARGET: ${{ steps.build.outputs.SOURCEPKG && 'source' || 'failure' }}
       - name: "Save source package"
