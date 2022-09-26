@@ -874,7 +874,8 @@
     "oncran": true
   },
   {
-    "package": "rtika"
+    "package": "rtika",
+    "oncran": false
   },
   {
     "package": "rtweet",
