@@ -92,12 +92,6 @@
     "from": "phylotaR"
   },
   {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["canaper"],
-    "from": "canaper"
-  },
-  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["rrricanesdata"],
