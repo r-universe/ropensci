@@ -12,6 +12,7 @@ on:
         required: false
 
 name: Build package
+run-name: ${{ inputs.package && format('Rebuild {0}', inputs.package) || github.event.head_commit.message }}
 env:
   MY_UNIVERSE: https://${{ github.event.repository.name }}.r-universe.dev
   GH_APP_ID: '87942'
