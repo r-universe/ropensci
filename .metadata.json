@@ -454,8 +454,7 @@
     "oncran": true
   },
   {
-    "package": "hydroscoper",
-    "oncran": true
+    "package": "hydroscoper"
   },
   {
     "package": "icepalace"
