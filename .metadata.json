@@ -352,8 +352,7 @@
     "oncran": true
   },
   {
-    "package": "exoplanets",
-    "oncran": true
+    "package": "exoplanets"
   },
   {
     "package": "ezknitr",
@@ -423,16 +422,14 @@
     "oncran": true
   },
   {
-    "package": "grainchanger",
-    "oncran": true
+    "package": "grainchanger"
   },
   {
     "package": "graphql",
     "oncran": true
   },
   {
-    "package": "gutenbergr",
-    "oncran": true
+    "package": "gutenbergr"
   },
   {
     "package": "handlr",
@@ -549,8 +546,7 @@
     "package": "nbaR"
   },
   {
-    "package": "neotoma",
-    "oncran": true
+    "package": "neotoma"
   },
   {
     "package": "nlrx",
