@@ -200,7 +200,7 @@
   },
   {
     "package": "canaper",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "cde"
