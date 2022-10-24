@@ -146,6 +146,7 @@ jobs:
             ${{ steps.build.outputs.SOURCEPKG }}
             pkgdata.txt
       - name: "Update pkgdata for linux binary package"
+        if: ${{ always() && steps.build.outputs.BINARYPKG }}
         run: |
           echo "TARGET=linux" >> pkgdata.txt
           echo "FILE=${{steps.build.outputs.BINARYPKG }}" >> pkgdata.txt
