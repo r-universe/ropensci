@@ -226,7 +226,8 @@
     "oncran": true
   },
   {
-    "package": "chromer"
+    "package": "chromer",
+    "oncran": false
   },
   {
     "package": "circle",
