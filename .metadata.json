@@ -227,7 +227,7 @@
   },
   {
     "package": "chromer",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "circle",
