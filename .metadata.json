@@ -364,8 +364,7 @@
     "package": "fingertipsR"
   },
   {
-    "package": "frictionless",
-    "oncran": true
+    "package": "frictionless"
   },
   {
     "package": "gbifdb",
