@@ -289,6 +289,9 @@
     "oncran": true
   },
   {
+    "package": "daiquiri"
+  },
+  {
     "package": "dataaimsr"
   },
   {

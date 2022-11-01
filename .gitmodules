@@ -465,6 +465,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "daiquiri"]
+	path = daiquiri
+	url = https://github.com/ropensci/daiquiri
+	shallow = true
+	branch = master
+	registered = true
 [submodule "dataaimsr"]
 	path = dataaimsr
 	url = https://github.com/ropensci/dataaimsr
