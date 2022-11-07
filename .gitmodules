@@ -1867,6 +1867,11 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
+[submodule "tabulizerjars"]
+	path = tabulizerjars
+	url = https://github.com/ropensci/tabulizerjars
+	shallow = true
+	registered = false
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman

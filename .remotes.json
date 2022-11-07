@@ -111,6 +111,12 @@
     "from": "roreviewapi"
   },
   {
+    "package": "tabulizerjars",
+    "url": "https://github.com/ropensci/tabulizerjars",
+    "via": ["tabulizer"],
+    "from": "tabulizer"
+  },
+  {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
