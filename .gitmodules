@@ -1531,7 +1531,7 @@
 	path = tabulizer
 	url = https://github.com/ropensci/tabulizer
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "tacmagic"]
 	path = tacmagic
