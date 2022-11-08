@@ -908,6 +908,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "npi"]
+	path = npi
+	url = https://github.com/ropensci/npi
+	shallow = true
+	branch = master
+	registered = true
 [submodule "oai"]
 	path = oai
 	url = https://github.com/ropensci/oai
