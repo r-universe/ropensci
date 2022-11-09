@@ -1146,7 +1146,7 @@
 	path = rcrossref
 	url = https://github.com/ropensci/rcrossref
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "rdatacite"]
 	path = rdatacite
