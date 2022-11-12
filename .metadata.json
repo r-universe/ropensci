@@ -290,7 +290,7 @@
   },
   {
     "package": "daiquiri",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "dataaimsr"
