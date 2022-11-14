@@ -566,7 +566,8 @@
     "oncran": true
   },
   {
-    "package": "npi"
+    "package": "npi",
+    "oncran": false
   },
   {
     "package": "oai",
