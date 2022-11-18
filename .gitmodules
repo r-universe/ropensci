@@ -1094,6 +1094,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "prismjs"]
+	path = prismjs
+	url = https://github.com/ropensci/prismjs
+	shallow = true
+	branch = master
+	registered = true
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
