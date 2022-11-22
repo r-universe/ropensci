@@ -1092,7 +1092,7 @@
 	path = postdoc
 	url = https://github.com/ropensci/postdoc
 	shallow = true
-	branch = main
+	branch = master
 	registered = true
 [submodule "prism"]
 	path = prism
