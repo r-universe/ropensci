@@ -702,7 +702,7 @@
 	path = gutenbergr
 	url = https://github.com/ropensci/gutenbergr
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "handlr"]
 	path = handlr
