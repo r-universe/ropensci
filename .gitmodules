@@ -1088,6 +1088,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "postdoc"]
+	path = postdoc
+	url = https://github.com/ropensci/postdoc
+	shallow = true
+	branch = main
+	registered = true
 [submodule "prism"]
 	path = prism
 	url = https://github.com/ropensci/prism
