@@ -680,7 +680,8 @@
     "package": "popler"
   },
   {
-    "package": "postdoc"
+    "package": "postdoc",
+    "oncran": false
   },
   {
     "package": "prism",
