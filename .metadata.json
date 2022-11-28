@@ -681,7 +681,7 @@
   },
   {
     "package": "postdoc",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "prism",
