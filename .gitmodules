@@ -1842,6 +1842,11 @@
 	url = https://github.com/mangoTheCat/goodpractice
 	shallow = true
 	registered = false
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	shallow = true
+	registered = false
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman

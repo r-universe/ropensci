@@ -32,6 +32,12 @@
     "from": "pkgreviewr"
   },
   {
+    "package": "lubridate",
+    "url": "https://github.com/tidyverse/lubridate",
+    "via": ["riem"],
+    "from": "riem"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
