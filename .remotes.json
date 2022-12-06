@@ -1,11 +1,5 @@
 [
   {
-    "package": "CodeDepends",
-    "url": "https://github.com/MKLau/CodeDepends",
-    "via": ["Rclean"],
-    "from": "Rclean"
-  },
-  {
     "package": "DoOR.data",
     "url": "https://github.com/Dahaniel/DoOR.data",
     "via": ["DoOR.functions"],
