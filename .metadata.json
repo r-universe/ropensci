@@ -67,9 +67,6 @@
     "oncran": true
   },
   {
-    "package": "Rclean"
-  },
-  {
     "package": "ReLTER"
   },
   {
@@ -790,10 +787,6 @@
   },
   {
     "package": "rglobi",
-    "oncran": true
-  },
-  {
-    "package": "rgnparser",
     "oncran": true
   },
   {

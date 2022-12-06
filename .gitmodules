@@ -111,12 +111,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "Rclean"]
-	path = Rclean
-	url = https://github.com/ropensci/Rclean
-	shallow = true
-	branch = master
-	registered = true
 [submodule "ReLTER"]
 	path = ReLTER
 	url = https://github.com/ropensci/ReLTER
@@ -1268,12 +1262,6 @@
 	url = https://github.com/ropensci/rglobi
 	shallow = true
 	branch = main
-	registered = true
-[submodule "rgnparser"]
-	path = rgnparser
-	url = https://github.com/ropensci/rgnparser
-	shallow = true
-	branch = master
 	registered = true
 [submodule "rgpdd"]
 	path = rgpdd
