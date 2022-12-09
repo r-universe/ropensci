@@ -1263,6 +1263,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "rgnparser"]
+	path = rgnparser
+	url = https://github.com/ropensci/rgnparser
+	shallow = true
+	branch = master
+	registered = true
 [submodule "rgpdd"]
 	path = rgpdd
 	url = https://github.com/ropensci/rgpdd

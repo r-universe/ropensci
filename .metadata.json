@@ -790,6 +790,10 @@
     "oncran": true
   },
   {
+    "package": "rgnparser",
+    "oncran": false
+  },
+  {
     "package": "rgpdd"
   },
   {
