@@ -791,7 +791,7 @@
   },
   {
     "package": "rgnparser",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rgpdd"
