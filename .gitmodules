@@ -519,6 +519,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "dynamite"]
+	path = dynamite
+	url = https://github.com/ropensci/dynamite
+	shallow = true
+	branch = main
+	registered = true
 [submodule "eia"]
 	path = eia
 	url = https://github.com/ropensci/eia
