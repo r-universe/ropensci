@@ -435,7 +435,7 @@
   },
   {
     "package": "gutenbergr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "handlr",
