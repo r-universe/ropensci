@@ -525,7 +525,8 @@
     "oncran": true
   },
   {
-    "package": "mcbette"
+    "package": "mcbette",
+    "oncran": false
   },
   {
     "package": "mctq",
