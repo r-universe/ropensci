@@ -1827,6 +1827,11 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "SBC"]
+	path = SBC
+	url = https://github.com/hyunjimoon/SBC
+	shallow = true
+	registered = false
 [submodule "atom4R"]
 	path = atom4R
 	url = https://github.com/eblondel/atom4R

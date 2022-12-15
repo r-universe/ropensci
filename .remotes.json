@@ -14,6 +14,12 @@
     "from": "DoOR.data"
   },
   {
+    "package": "SBC",
+    "url": "https://github.com/hyunjimoon/SBC",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
     "package": "atom4R",
     "url": "https://github.com/eblondel/atom4R",
     "via": ["deposits"],
