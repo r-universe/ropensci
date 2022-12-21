@@ -1842,11 +1842,6 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
-[submodule "data.table"]
-	path = data.table
-	url = https://github.com/rdatatable/data.table
-	shallow = true
-	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo

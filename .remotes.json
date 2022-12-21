@@ -32,12 +32,6 @@
     "from": "stantargets"
   },
   {
-    "package": "data.table",
-    "url": "https://github.com/rdatatable/data.table",
-    "via": ["dynamite"],
-    "from": "dynamite"
-  },
-  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
