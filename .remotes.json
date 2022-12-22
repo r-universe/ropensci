@@ -20,12 +20,6 @@
     "from": "stantargets"
   },
   {
-    "package": "atom4R",
-    "url": "https://github.com/eblondel/atom4R",
-    "via": ["deposits"],
-    "from": "deposits"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
@@ -84,12 +78,6 @@
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
-  },
-  {
-    "package": "rdflib",
-    "url": "https://github.com/ropensci/rdflib",
-    "via": ["deposits"],
-    "from": "deposits"
   },
   {
     "package": "restez",
