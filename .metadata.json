@@ -323,7 +323,8 @@
     "oncran": true
   },
   {
-    "package": "dynamite"
+    "package": "dynamite",
+    "oncran": true
   },
   {
     "package": "eia",
