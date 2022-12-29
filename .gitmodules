@@ -1200,7 +1200,7 @@
 	path = readODS
 	url = https://github.com/ropensci/readODS
 	shallow = true
-	branch = master
+	branch = v1.7
 	registered = true
 [submodule "rebird"]
 	path = rebird
