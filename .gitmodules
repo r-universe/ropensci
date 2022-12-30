@@ -1028,6 +1028,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "phruta"]
+	path = phruta
+	url = https://github.com/ropensci/phruta
+	shallow = true
+	branch = main
+	registered = true
 [submodule "phylocomr"]
 	path = phylocomr
 	url = https://github.com/ropensci/phylocomr

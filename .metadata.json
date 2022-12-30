@@ -645,6 +645,9 @@
     "package": "photosearcher"
   },
   {
+    "package": "phruta"
+  },
+  {
     "package": "phylocomr",
     "oncran": true
   },
