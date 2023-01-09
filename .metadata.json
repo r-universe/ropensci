@@ -41,7 +41,7 @@
   },
   {
     "package": "MODISTools",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "MODIStsp",
