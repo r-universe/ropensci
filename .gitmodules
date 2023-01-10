@@ -1267,7 +1267,7 @@
 	path = rgnparser
 	url = https://github.com/ropensci/rgnparser
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "rgpdd"]
 	path = rgpdd
