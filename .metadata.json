@@ -40,10 +40,6 @@
     "oncran": true
   },
   {
-    "package": "MODISTools",
-    "oncran": false
-  },
-  {
     "package": "MODIStsp",
     "oncran": true
   },
@@ -173,9 +169,6 @@
   {
     "package": "bold",
     "oncran": true
-  },
-  {
-    "package": "bomrang"
   },
   {
     "package": "bowerbird"

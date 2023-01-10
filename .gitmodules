@@ -69,12 +69,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "MODISTools"]
-	path = MODISTools
-	url = https://github.com/ropensci/MODISTools
-	shallow = true
-	branch = master
-	registered = true
 [submodule "MODIStsp"]
 	path = MODIStsp
 	url = https://github.com/ropensci/MODIStsp
@@ -284,12 +278,6 @@
 	url = https://github.com/ropensci/bold
 	shallow = true
 	branch = master
-	registered = true
-[submodule "bomrang"]
-	path = bomrang
-	url = https://github.com/ropensci/bomrang
-	shallow = true
-	branch = main
 	registered = true
 [submodule "bowerbird"]
 	path = bowerbird
