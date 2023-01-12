@@ -38,10 +38,22 @@
     "from": "riem"
   },
   {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
   },
   {
     "package": "restez",
@@ -54,6 +66,18 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["roreviewapi"],
+    "from": "roreviewapi"
   },
   {
     "package": "taxizedb",
