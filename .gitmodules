@@ -1765,7 +1765,7 @@
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "webchem"]
 	path = webchem
