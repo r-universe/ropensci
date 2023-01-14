@@ -86,6 +86,12 @@
     "from": "phylotaR"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["rnaturalearth"],
+    "from": "rnaturalearth"
+  },
+  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["rrricanesdata"],
