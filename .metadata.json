@@ -107,7 +107,7 @@
   },
   {
     "package": "aorsf",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "arkdb",
