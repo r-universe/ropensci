@@ -447,6 +447,10 @@
     "oncran": true
   },
   {
+    "package": "hoardr",
+    "oncran": false
+  },
+  {
     "package": "hunspell",
     "oncran": true
   },

@@ -716,6 +716,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "hoardr"]
+	path = hoardr
+	url = https://github.com/ropensci/hoardr
+	shallow = true
+	branch = master
+	registered = true
 [submodule "hunspell"]
 	path = hunspell
 	url = https://github.com/ropensci/hunspell
