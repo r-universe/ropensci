@@ -14,10 +14,22 @@
     "from": "DoOR.data"
   },
   {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],
     "from": "phylotaR"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
   },
   {
     "package": "taxizedb",
