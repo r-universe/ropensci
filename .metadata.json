@@ -749,7 +749,7 @@
   },
   {
     "package": "readODS",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rebird",
