@@ -1827,6 +1827,16 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "SBC"]
+	path = SBC
+	url = https://github.com/hyunjimoon/SBC
+	shallow = true
+	registered = false
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	shallow = true
+	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo

@@ -14,6 +14,18 @@
     "from": "DoOR.data"
   },
   {
+    "package": "SBC",
+    "url": "https://github.com/hyunjimoon/SBC",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["stantargets"],
+    "from": "stantargets"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
