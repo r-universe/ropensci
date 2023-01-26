@@ -14,6 +14,18 @@
     "from": "DoOR.data"
   },
   {
+    "package": "emo",
+    "url": "https://github.com/hadley/emo",
+    "via": ["pkgreviewr"],
+    "from": "pkgreviewr"
+  },
+  {
+    "package": "goodpractice",
+    "url": "https://github.com/mangoTheCat/goodpractice",
+    "via": ["pkgreviewr"],
+    "from": "pkgreviewr"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],

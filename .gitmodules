@@ -1827,6 +1827,16 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	shallow = true
+	registered = false
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangoTheCat/goodpractice
+	shallow = true
+	registered = false
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman
