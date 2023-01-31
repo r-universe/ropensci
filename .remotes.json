@@ -32,10 +32,22 @@
     "from": "pkgreviewr"
   },
   {
+    "package": "leafem",
+    "url": "https://github.com/r-spatial/leafem",
+    "via": ["ruODK"],
+    "from": "ruODK"
+  },
+  {
     "package": "lubridate",
     "url": "https://github.com/tidyverse/lubridate",
     "via": ["riem"],
     "from": "riem"
+  },
+  {
+    "package": "mapview",
+    "url": "https://github.com/r-spatial/mapview",
+    "via": ["ruODK"],
+    "from": "ruODK"
   },
   {
     "package": "pkgcheck",

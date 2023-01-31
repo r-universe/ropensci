@@ -1842,9 +1842,19 @@
 	url = https://github.com/mangoTheCat/goodpractice
 	shallow = true
 	registered = false
+[submodule "leafem"]
+	path = leafem
+	url = https://github.com/r-spatial/leafem
+	shallow = true
+	registered = false
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
+	shallow = true
+	registered = false
+[submodule "mapview"]
+	path = mapview
+	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
 [submodule "treeman"]
