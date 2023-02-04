@@ -1,10 +1,1829 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ropensci/universe
+	url = https://github.com/ropensci/roregistry
 	shallow = true
 	branch = HEAD
+[submodule "BaseSet"]
+	path = BaseSet
+	url = https://github.com/ropensci/BaseSet
+	shallow = true
+	branch = master
+	registered = true
+[submodule "CoordinateCleaner"]
+	path = CoordinateCleaner
+	url = https://github.com/ropensci/CoordinateCleaner
+	shallow = true
+	branch = master
+	registered = true
+[submodule "DataPackageR"]
+	path = DataPackageR
+	url = https://github.com/ropensci/DataPackageR
+	shallow = true
+	branch = main
+	registered = true
+[submodule "DataSpaceR"]
+	path = DataSpaceR
+	url = https://github.com/ropensci/DataSpaceR
+	shallow = true
+	branch = main
+	registered = true
+[submodule "DoOR.data"]
+	path = DoOR.data
+	url = https://github.com/ropensci/DoOR.data
+	shallow = true
+	branch = master
+	registered = true
+[submodule "DoOR.functions"]
+	path = DoOR.functions
+	url = https://github.com/ropensci/DoOR.functions
+	shallow = true
+	branch = master
+	registered = true
+[submodule "EDIutils"]
+	path = EDIutils
+	url = https://github.com/ropensci/EDIutils
+	shallow = true
+	branch = main
+	registered = true
+[submodule "EML"]
+	path = EML
+	url = https://github.com/ropensci/EML
+	shallow = true
+	branch = master
+	registered = true
+[submodule "EndoMineR"]
+	path = EndoMineR
+	url = https://github.com/ropensci/EndoMineR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "FedData"]
+	path = FedData
+	url = https://github.com/ropensci/FedData
+	shallow = true
+	branch = master
+	registered = true
+[submodule "GSODR"]
+	path = GSODR
+	url = https://github.com/ropensci/GSODR
+	shallow = true
+	branch = main
+	registered = true
+[submodule "MODIStsp"]
+	path = MODIStsp
+	url = https://github.com/ropensci/MODIStsp
+	shallow = true
+	branch = master
+	registered = true
+[submodule "MtreeRing"]
+	path = MtreeRing
+	url = https://github.com/ropensci/MtreeRing
+	shallow = true
+	branch = master
+	registered = true
+[submodule "NLMR"]
+	path = NLMR
+	url = https://github.com/ropensci/NLMR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "PostcodesioR"]
+	path = PostcodesioR
+	url = https://github.com/ropensci/PostcodesioR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "RNeXML"]
+	path = RNeXML
+	url = https://github.com/ropensci/RNeXML
+	shallow = true
+	branch = master
+	registered = true
+[submodule "RSelenium"]
+	path = RSelenium
+	url = https://github.com/ropensci/RSelenium
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ReLTER"]
+	path = ReLTER
+	url = https://github.com/ropensci/ReLTER
+	shallow = true
+	branch = main
+	registered = true
+[submodule "RefManageR"]
+	path = RefManageR
+	url = https://github.com/ropensci/RefManageR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "Rpolyhedra"]
+	path = Rpolyhedra
+	url = https://github.com/ropensci/Rpolyhedra
+	shallow = true
+	branch = master
+	registered = true
+[submodule "SymbiotaR2"]
+	path = SymbiotaR2
+	url = https://github.com/ropensci/SymbiotaR2
+	shallow = true
+	branch = master
+	registered = true
+[submodule "UCSCXenaTools"]
+	path = UCSCXenaTools
+	url = https://github.com/ropensci/UCSCXenaTools
+	shallow = true
+	branch = master
+	registered = true
+[submodule "USAboundaries"]
+	path = USAboundaries
+	url = https://github.com/ropensci/USAboundaries
+	shallow = true
+	branch = main
+	registered = true
+[submodule "USAboundariesData"]
+	path = USAboundariesData
+	url = https://github.com/ropensci/USAboundariesData
+	shallow = true
+	branch = main
+	registered = true
+[submodule "aRxiv"]
+	path = aRxiv
+	url = https://github.com/ropensci/aRxiv
+	shallow = true
+	branch = master
+	registered = true
+[submodule "allcontributors"]
+	path = allcontributors
+	url = https://github.com/ropenscilabs/allcontributors
+	shallow = true
+	branch = main
+	registered = true
+[submodule "allodb"]
+	path = allodb
+	url = https://github.com/ropensci/allodb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "antanym"]
+	path = antanym
+	url = https://github.com/ropensci/antanym
+	shallow = true
+	branch = master
+	registered = true
+[submodule "antiword"]
+	path = antiword
+	url = https://github.com/ropensci/antiword
+	shallow = true
+	branch = master
+	registered = true
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/ropensci/aorsf
+	shallow = true
+	branch = main
+	registered = true
+[submodule "arkdb"]
+	path = arkdb
+	url = https://github.com/ropensci/arkdb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "assertr"]
+	path = assertr
+	url = https://github.com/ropensci/assertr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "auk"]
+	path = auk
+	url = https://github.com/CornellLabofOrnithology/auk
+	shallow = true
+	branch = main
+	registered = true
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/ropensci-review-tools/autotest
+	shallow = true
+	branch = main
+	registered = true
+[submodule "av"]
+	path = av
+	url = https://github.com/ropensci/av
+	shallow = true
+	branch = master
+	registered = true
+[submodule "awardFindR"]
+	path = awardFindR
+	url = https://github.com/ropensci/awardFindR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "baRcodeR"]
+	path = baRcodeR
+	url = https://github.com/ropensci/baRcodeR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "babette"]
+	path = babette
+	url = https://github.com/ropensci/babette
+	shallow = true
+	branch = master
+	registered = true
+[submodule "beastier"]
+	path = beastier
+	url = https://github.com/ropensci/beastier
+	shallow = true
+	branch = master
+	registered = true
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/ropensci/beautier
+	shallow = true
+	branch = master
+	registered = true
+[submodule "bib2df"]
+	path = bib2df
+	url = https://github.com/ropensci/bib2df
+	shallow = true
+	branch = master
+	registered = true
+[submodule "bibtex"]
+	path = bibtex
+	url = https://github.com/ropensci/bibtex
+	shallow = true
+	branch = master
+	registered = true
+[submodule "bikedata"]
+	path = bikedata
+	url = https://github.com/ropensci/bikedata
+	shallow = true
+	branch = main
+	registered = true
+[submodule "binman"]
+	path = binman
+	url = https://github.com/ropensci/binman
+	shallow = true
+	branch = master
+	registered = true
+[submodule "biomartr"]
+	path = biomartr
+	url = https://github.com/ropensci/biomartr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "bold"]
+	path = bold
+	url = https://github.com/ropensci/bold
+	shallow = true
+	branch = master
+	registered = true
+[submodule "bowerbird"]
+	path = bowerbird
+	url = https://github.com/ropensci/bowerbird
+	shallow = true
+	branch = master
+	registered = true
+[submodule "brranching"]
+	path = brranching
+	url = https://github.com/ropensci/brranching
+	shallow = true
+	branch = master
+	registered = true
+[submodule "c14bazAAR"]
+	path = c14bazAAR
+	url = https://github.com/ropensci/c14bazAAR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "cRegulome"]
+	path = cRegulome
+	url = https://github.com/ropensci/cRegulome
+	shallow = true
+	branch = master
+	registered = true
+[submodule "camsRad"]
+	path = camsRad
+	url = https://github.com/ropensci/camsRad
+	shallow = true
+	branch = master
+	registered = true
+[submodule "canaper"]
+	path = canaper
+	url = https://github.com/ropensci/canaper
+	shallow = true
+	branch = main
+	registered = true
+[submodule "cde"]
+	path = cde
+	url = https://github.com/ropensci/cde
+	shallow = true
+	branch = master
+	registered = true
+[submodule "censo2017"]
+	path = censo2017
+	url = https://github.com/ropensci/censo2017
+	shallow = true
+	branch = main
+	registered = true
+[submodule "cffr"]
+	path = cffr
+	url = https://github.com/ropensci/cffr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "charlatan"]
+	path = charlatan
+	url = https://github.com/ropensci/charlatan
+	shallow = true
+	branch = master
+	registered = true
+[submodule "chirps"]
+	path = chirps
+	url = https://github.com/ropensci/chirps
+	shallow = true
+	branch = master
+	registered = true
+[submodule "chlorpromazineR"]
+	path = chlorpromazineR
+	url = https://github.com/ropensci/chlorpromazineR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "chromer"]
+	path = chromer
+	url = https://github.com/ropensci/chromer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "circle"]
+	path = circle
+	url = https://github.com/ropensci/circle
+	shallow = true
+	branch = main
+	registered = true
+[submodule "citecorp"]
+	path = citecorp
+	url = https://github.com/ropensci/citecorp
+	shallow = true
+	branch = master
+	registered = true
+[submodule "citesdb"]
+	path = citesdb
+	url = https://github.com/ropensci/citesdb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ckanr"]
+	path = ckanr
+	url = https://github.com/ropensci/ckanr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "cld2"]
+	path = cld2
+	url = https://github.com/ropensci/cld2
+	shallow = true
+	branch = master
+	registered = true
+[submodule "cld3"]
+	path = cld3
+	url = https://github.com/ropensci/cld3
+	shallow = true
+	branch = master
+	registered = true
+[submodule "clifro"]
+	path = clifro
+	url = https://github.com/ropensci/clifro
+	shallow = true
+	branch = master
+	registered = true
+[submodule "codemetar"]
+	path = codemetar
+	url = https://github.com/ropensci/codemetar
+	shallow = true
+	branch = master
+	registered = true
+[submodule "coder"]
+	path = coder
+	url = https://github.com/ropensci/coder
+	shallow = true
+	branch = master
+	registered = true
+[submodule "colocr"]
+	path = colocr
+	url = https://github.com/ropensci/colocr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+	shallow = true
+	branch = main
+	registered = true
+[submodule "comtradr"]
+	path = comtradr
+	url = https://github.com/ropensci/comtradr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials
+	shallow = true
+	branch = main
+	registered = true
+[submodule "crul"]
+	path = crul
+	url = https://github.com/ropensci/crul
+	shallow = true
+	branch = main
+	registered = true
+[submodule "cyphr"]
+	path = cyphr
+	url = https://github.com/ropensci/cyphr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "daiquiri"]
+	path = daiquiri
+	url = https://github.com/ropensci/daiquiri
+	shallow = true
+	branch = master
+	registered = true
+[submodule "dataaimsr"]
+	path = dataaimsr
+	url = https://github.com/ropensci/dataaimsr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "datapack"]
+	path = datapack
+	url = https://github.com/ropensci/datapack
+	shallow = true
+	branch = main
+	registered = true
+[submodule "dataspice"]
+	path = dataspice
+	url = https://github.com/ropensci/dataspice
+	shallow = true
+	branch = main
+	registered = true
+[submodule "datefixR"]
+	path = datefixR
+	url = https://github.com/ropensci/datefixR
+	shallow = true
+	branch = main
+	registered = true
+[submodule "dbhydroR"]
+	path = dbhydroR
+	url = https://github.com/ropensci/dbhydroR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "dbparser"]
+	path = dbparser
+	url = https://github.com/ropensci/dbparser
+	shallow = true
+	branch = master
+	registered = true
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	shallow = true
+	branch = main
+	registered = true
+[submodule "dittodb"]
+	path = dittodb
+	url = https://github.com/ropensci/dittodb
+	shallow = true
+	branch = main
+	registered = true
+[submodule "drake"]
+	path = drake
+	url = https://github.com/ropensci/drake
+	shallow = true
+	branch = main
+	registered = true
+[submodule "dynamite"]
+	path = dynamite
+	url = https://github.com/ropensci/dynamite
+	shallow = true
+	branch = main
+	registered = true
+[submodule "eia"]
+	path = eia
+	url = https://github.com/ropensci/eia
+	shallow = true
+	branch = master
+	registered = true
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/ropensci/elastic
+	shallow = true
+	branch = master
+	registered = true
+[submodule "emld"]
+	path = emld
+	url = https://github.com/ropensci/emld
+	shallow = true
+	branch = master
+	registered = true
+[submodule "epair"]
+	path = epair
+	url = https://github.com/ropensci/epair
+	shallow = true
+	branch = master
+	registered = true
+[submodule "epubr"]
+	path = epubr
+	url = https://github.com/ropensci/epubr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "essurvey"]
+	path = essurvey
+	url = https://github.com/ropensci/essurvey
+	shallow = true
+	branch = master
+	registered = true
+[submodule "europepmc"]
+	path = europepmc
+	url = https://github.com/ropensci/europepmc
+	shallow = true
+	branch = main
+	registered = true
+[submodule "excluder"]
+	path = excluder
+	url = https://github.com/ropensci/excluder
+	shallow = true
+	branch = main
+	registered = true
+[submodule "exoplanets"]
+	path = exoplanets
+	url = https://github.com/ropensci/exoplanets
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ezknitr"]
+	path = ezknitr
+	url = https://github.com/ropensci/ezknitr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "fingertipsR"]
+	path = fingertipsR
+	url = https://github.com/ropensci/fingertipsR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "frictionless"]
+	path = frictionless
+	url = https://github.com/frictionlessdata/frictionless-r
+	shallow = true
+	branch = main
+	registered = true
+[submodule "gbifdb"]
+	path = gbifdb
+	url = https://github.com/ropensci/gbifdb
+	shallow = true
+	branch = main
+	registered = true
+[submodule "genbankr"]
+	path = genbankr
+	url = https://git.bioconductor.org/packages/genbankr
+	shallow = true
+	registered = true
+[submodule "gendercoder"]
+	path = gendercoder
+	url = https://github.com/ropensci/gendercoder
+	shallow = true
+	branch = master
+	registered = true
+[submodule "geojsonio"]
+	path = geojsonio
+	url = https://github.com/ropensci/geojsonio
+	shallow = true
+	branch = main
+	registered = true
+[submodule "geonames"]
+	path = geonames
+	url = https://github.com/ropensci/geonames
+	shallow = true
+	branch = master
+	registered = true
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+	shallow = true
+	branch = main
+	registered = true
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/ropensci/getCRUCLdata
+	shallow = true
+	branch = main
+	registered = true
+[submodule "ghql"]
+	path = ghql
+	url = https://github.com/ropensci/ghql
+	shallow = true
+	branch = master
+	registered = true
+[submodule "gistr"]
+	path = gistr
+	url = https://github.com/ropensci/gistr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "git2r"]
+	path = git2r
+	url = https://github.com/ropensci/git2r
+	shallow = true
+	branch = master
+	registered = true
+[submodule "git2rdata"]
+	path = git2rdata
+	url = https://github.com/ropensci/git2rdata
+	shallow = true
+	branch = main
+	registered = true
+[submodule "gitcellar"]
+	path = gitcellar
+	url = https://github.com/ropensci-org/gitcellar
+	shallow = true
+	branch = main
+	registered = true
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/ropensci/gitignore
+	shallow = true
+	branch = main
+	registered = true
+[submodule "gittargets"]
+	path = gittargets
+	url = https://github.com/ropensci/gittargets
+	shallow = true
+	branch = main
+	registered = true
+[submodule "googleLanguageR"]
+	path = googleLanguageR
+	url = https://github.com/ropensci/googleLanguageR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "grainchanger"]
+	path = grainchanger
+	url = https://github.com/ropensci/grainchanger
+	shallow = true
+	branch = master
+	registered = true
+[submodule "graphql"]
+	path = graphql
+	url = https://github.com/ropensci/graphql
+	shallow = true
+	branch = master
+	registered = true
+[submodule "gutenbergr"]
+	path = gutenbergr
+	url = https://github.com/ropensci/gutenbergr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "handlr"]
+	path = handlr
+	url = https://github.com/ropensci/handlr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "hddtools"]
+	path = hddtools
+	url = https://github.com/ropensci/hddtools
+	shallow = true
+	branch = master
+	registered = true
+[submodule "helminthR"]
+	path = helminthR
+	url = https://github.com/ropensci/helminthR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "historydata"]
+	path = historydata
+	url = https://github.com/ropensci/historydata
+	shallow = true
+	branch = master
+	registered = true
+[submodule "hoardr"]
+	path = hoardr
+	url = https://github.com/ropensci/hoardr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "hunspell"]
+	path = hunspell
+	url = https://github.com/ropensci/hunspell
+	shallow = true
+	branch = master
+	registered = true
+[submodule "hydroscoper"]
+	path = hydroscoper
+	url = https://github.com/ropensci/hydroscoper
+	shallow = true
+	branch = master
+	registered = true
+[submodule "icepalace"]
+	path = icepalace
+	url = https://github.com/ropenscilabs/icepalace
+	shallow = true
+	branch = main
+	registered = true
+[submodule "iheatmapr"]
+	path = iheatmapr
+	url = https://github.com/ropensci/iheatmapr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "ijtiff"]
+	path = ijtiff
+	url = https://github.com/ropensci/ijtiff
+	shallow = true
+	branch = master
+	registered = true
+[submodule "internetarchive"]
+	path = internetarchive
+	url = https://github.com/ropensci/internetarchive
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jagstargets"]
+	path = jagstargets
+	url = https://github.com/ropensci/jagstargets
+	shallow = true
+	branch = main
+	registered = true
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/ropensci/jenkins
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jqr"]
+	path = jqr
+	url = https://github.com/ropensci/jqr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jsonld"]
+	path = jsonld
+	url = https://github.com/ropensci/jsonld
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "jstor"]
+	path = jstor
+	url = https://github.com/ropensci/jstor
+	shallow = true
+	branch = master
+	registered = true
+[submodule "katex"]
+	path = katex
+	url = https://github.com/ropensci/katex
+	shallow = true
+	branch = master
+	registered = true
+[submodule "landscapetools"]
+	path = landscapetools
+	url = https://github.com/ropensci/landscapetools
+	shallow = true
+	branch = master
+	registered = true
+[submodule "lightr"]
+	path = lightr
+	url = https://github.com/ropensci/lightr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "lingtypology"]
+	path = lingtypology
+	url = https://github.com/ropensci/lingtypology
+	shallow = true
+	branch = master
+	registered = true
+[submodule "magick"]
+	path = magick
+	url = https://github.com/ropensci/magick
+	shallow = true
+	branch = master
+	registered = true
+[submodule "mapscanner"]
+	path = mapscanner
+	url = https://github.com/ropensci/mapscanner
+	shallow = true
+	branch = main
+	registered = true
+[submodule "mauricer"]
+	path = mauricer
+	url = https://github.com/ropensci/mauricer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "mcbette"]
+	path = mcbette
+	url = https://github.com/ropensci/mcbette
+	shallow = true
+	branch = master
+	registered = true
+[submodule "mctq"]
+	path = mctq
+	url = https://github.com/ropensci/mctq
+	shallow = true
+	branch = main
+	registered = true
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/ropensci/medrxivr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "melt"]
+	path = melt
+	url = https://github.com/ropensci/melt
+	shallow = true
+	branch = master
+	registered = true
+[submodule "mregions"]
+	path = mregions
+	url = https://github.com/ropensci/mregions
+	shallow = true
+	branch = master
+	registered = true
+[submodule "nasapower"]
+	path = nasapower
+	url = https://github.com/ropensci/nasapower
+	shallow = true
+	branch = main
+	registered = true
+[submodule "nbaR"]
+	path = nbaR
+	url = https://github.com/ropensci/nbaR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "neotoma"]
+	path = neotoma
+	url = https://github.com/ropensci/neotoma
+	shallow = true
+	branch = master
+	registered = true
+[submodule "nlrx"]
+	path = nlrx
+	url = https://github.com/ropensci/nlrx
+	shallow = true
+	branch = master
+	registered = true
+[submodule "nodbi"]
+	path = nodbi
+	url = https://github.com/ropensci/nodbi
+	shallow = true
+	branch = master
+	registered = true
+[submodule "nomisr"]
+	path = nomisr
+	url = https://github.com/ropensci/nomisr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "npi"]
+	path = npi
+	url = https://github.com/ropensci/npi
+	shallow = true
+	branch = master
+	registered = true
+[submodule "oai"]
+	path = oai
+	url = https://github.com/ropensci/oai
+	shallow = true
+	branch = master
+	registered = true
+[submodule "occCite"]
+	path = occCite
+	url = https://github.com/ropensci/occCite
+	shallow = true
+	branch = main
+	registered = true
+[submodule "onekp"]
+	path = onekp
+	url = https://github.com/ropensci/onekp
+	shallow = true
+	branch = master
+	registered = true
+[submodule "opencage"]
+	path = opencage
+	url = https://github.com/ropensci/opencage
+	shallow = true
+	branch = main
+	registered = true
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/ropensci/opencv
+	shallow = true
+	branch = master
+	registered = true
+[submodule "opentripplanner"]
+	path = opentripplanner
+	url = https://github.com/ropensci/opentripplanner
+	shallow = true
+	branch = master
+	registered = true
+[submodule "osfr"]
+	path = osfr
+	url = https://github.com/ropensci/osfr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "osmdata"]
+	path = osmdata
+	url = https://github.com/ropensci/osmdata
+	shallow = true
+	branch = main
+	registered = true
+[submodule "osmextract"]
+	path = osmextract
+	url = https://github.com/ropensci/osmextract
+	shallow = true
+	branch = master
+	registered = true
+[submodule "osmplotr"]
+	path = osmplotr
+	url = https://github.com/ropensci/osmplotr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "outcomerate"]
+	path = outcomerate
+	url = https://github.com/ropensci/outcomerate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "paleobioDB"]
+	path = paleobioDB
+	url = https://github.com/ropensci/paleobioDB
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pangaear"]
+	path = pangaear
+	url = https://github.com/ropensci/pangaear
+	shallow = true
+	branch = master
+	registered = true
+[submodule "parzer"]
+	path = parzer
+	url = https://github.com/ropensci/parzer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "patentsview"]
+	path = patentsview
+	url = https://github.com/ropensci/patentsview
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pathviewr"]
+	path = pathviewr
+	url = https://github.com/ropensci/pathviewr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
+	shallow = true
+	branch = master
+	registered = true
+[submodule "phonfieldwork"]
+	path = phonfieldwork
+	url = https://github.com/ropensci/phonfieldwork
+	shallow = true
+	branch = master
+	registered = true
+[submodule "photosearcher"]
+	path = photosearcher
+	url = https://github.com/ropensci/photosearcher
+	shallow = true
+	branch = master
+	registered = true
+[submodule "phruta"]
+	path = phruta
+	url = https://github.com/ropensci/phruta
+	shallow = true
+	branch = main
+	registered = true
+[submodule "phylocomr"]
+	path = phylocomr
+	url = https://github.com/ropensci/phylocomr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "phylogram"]
+	path = phylogram
+	url = https://github.com/ropensci/phylogram
+	shallow = true
+	branch = master
+	registered = true
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "piggyback"]
+	path = piggyback
+	url = https://github.com/ropensci/piggyback
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pixelclasser"]
+	path = pixelclasser
+	url = https://github.com/ropensci/pixelclasser
+	shallow = true
+	branch = main
+	registered = true
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/ropensci-review-tools/pkgcheck
+	shallow = true
+	branch = main
+	registered = true
+[submodule "pkgreviewr"]
+	path = pkgreviewr
+	url = https://github.com/ropensci-org/pkgreviewr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/ropensci-review-tools/pkgstats
+	shallow = true
+	branch = main
+	registered = true
+[submodule "plater"]
+	path = plater
+	url = https://github.com/ropensci/plater
+	shallow = true
+	branch = master
+	registered = true
+[submodule "popler"]
+	path = popler
+	url = https://github.com/ropensci/popler
+	shallow = true
+	branch = master
+	registered = true
+[submodule "postdoc"]
+	path = postdoc
+	url = https://github.com/ropensci/postdoc
+	shallow = true
+	branch = master
+	registered = true
+[submodule "prism"]
+	path = prism
+	url = https://github.com/ropensci/prism
+	shallow = true
+	branch = master
+	registered = true
+[submodule "prismjs"]
+	path = prismjs
+	url = https://github.com/ropensci/prismjs
+	shallow = true
+	branch = master
+	registered = true
+[submodule "qcoder"]
+	path = qcoder
+	url = https://github.com/ropenscilabs/qcoder
+	shallow = true
+	branch = master
+	registered = true
+[submodule "qpdf"]
+	path = qpdf
+	url = https://github.com/ropensci/qpdf
+	shallow = true
+	branch = master
+	registered = true
+[submodule "qualR"]
+	path = qualR
+	url = https://github.com/ropensci/qualR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "qualtRics"]
+	path = qualtRics
+	url = https://github.com/ropensci/qualtRics
+	shallow = true
+	branch = master
+	registered = true
+[submodule "r2readthedocs"]
+	path = r2readthedocs
+	url = https://github.com/ropenscilabs/r2readthedocs
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rWBclimate"]
+	path = rWBclimate
+	url = https://github.com/ropensci/rWBclimate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ramlegacy"]
+	path = ramlegacy
+	url = https://github.com/ropensci/ramlegacy
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rcites"]
+	path = rcites
+	url = https://github.com/ropensci/rcites
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rcrossref"]
+	path = rcrossref
+	url = https://github.com/ropensci/rcrossref
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rdatacite"]
+	path = rdatacite
+	url = https://github.com/ropensci/rdatacite
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rdataretriever"]
+	path = rdataretriever
+	url = https://github.com/ropensci/rdataretriever
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rdefra"]
+	path = rdefra
+	url = https://github.com/ropensci/rdefra
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rdflib"]
+	path = rdflib
+	url = https://github.com/ropensci/rdflib
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rdhs"]
+	path = rdhs
+	url = https://github.com/ropensci/rdhs
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rdryad"]
+	path = rdryad
+	url = https://github.com/ropensci/rdryad
+	shallow = true
+	branch = master
+	registered = true
+[submodule "readODS"]
+	path = readODS
+	url = https://github.com/ropensci/readODS
+	shallow = true
+	branch = v1.8
+	registered = true
+[submodule "rebird"]
+	path = rebird
+	url = https://github.com/ropensci/rebird
+	shallow = true
+	branch = master
+	registered = true
+[submodule "redland"]
+	path = redland
+	url = https://github.com/ropensci/redland-bindings
+	shallow = true
+	branch = master
+	subdir = R/redland
+	registered = true
+[submodule "refsplitr"]
+	path = refsplitr
+	url = https://github.com/ropensci/refsplitr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rentrez"]
+	path = rentrez
+	url = https://github.com/ropensci/rentrez
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rerddap"]
+	path = rerddap
+	url = https://github.com/ropensci/rerddap
+	shallow = true
+	branch = master
+	registered = true
+[submodule "restez"]
+	path = restez
+	url = https://github.com/ropensci/restez
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rfema"]
+	path = rfema
+	url = https://github.com/ropensci/rfema
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rfisheries"]
+	path = rfisheries
+	url = https://github.com/ropensci/rfisheries
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rgbif"]
+	path = rgbif
+	url = https://github.com/ropensci/rgbif
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rglobi"]
+	path = rglobi
+	url = https://github.com/ropensci/rglobi
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rgnparser"]
+	path = rgnparser
+	url = https://github.com/ropensci/rgnparser
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rgpdd"]
+	path = rgpdd
+	url = https://github.com/ropensci/rgpdd
+	shallow = true
+	branch = master
+	registered = true
+[submodule "riem"]
+	path = riem
+	url = https://github.com/ropensci/riem
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rinat"]
+	path = rinat
+	url = https://github.com/ropensci/rinat
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ritis"]
+	path = ritis
+	url = https://github.com/ropensci/ritis
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rmangal"]
+	path = rmangal
+	url = https://github.com/ropensci/rmangal
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rnassqs"]
+	path = rnassqs
+	url = https://github.com/ropensci/rnassqs
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rnaturalearth"]
+	path = rnaturalearth
+	url = https://github.com/ropensci/rnaturalearth
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rnaturalearthdata"]
+	path = rnaturalearthdata
+	url = https://github.com/ropensci/rnaturalearthdata
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rnoaa"]
+	path = rnoaa
+	url = https://github.com/ropensci/rnoaa
+	shallow = true
+	branch = master
+	registered = true
+[submodule "roadoi"]
+	path = roadoi
+	url = https://github.com/ropensci/roadoi
+	shallow = true
+	branch = main
+	registered = true
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropensci-org/roblog
+	shallow = true
+	branch = main
+	registered = true
+[submodule "robotstxt"]
+	path = robotstxt
+	url = https://github.com/ropensci/robotstxt
+	shallow = true
+	branch = master
+	registered = true
+[submodule "roreviewapi"]
+	path = roreviewapi
+	url = https://github.com/ropensci-review-tools/roreviewapi
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rotemplate"]
+	path = rotemplate
+	url = https://github.com/ropensci-org/rotemplate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rotl"]
+	path = rotl
+	url = https://github.com/ropensci/rotl
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rperseus"]
+	path = rperseus
+	url = https://github.com/ropensci/rperseus
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rppo"]
+	path = rppo
+	url = https://github.com/ropensci/rppo
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rredlist"]
+	path = rredlist
+	url = https://github.com/ropensci/rredlist
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rrlite"]
+	path = rrlite
+	url = https://github.com/ropensci/rrlite
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rrricanes"]
+	path = rrricanes
+	url = https://github.com/ropensci/rrricanes
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rrricanesdata"]
+	path = rrricanesdata
+	url = https://github.com/ropensci/rrricanesdata
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rsat"]
+	path = rsat
+	url = https://github.com/ropensci/rsat
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rsnps"]
+	path = rsnps
+	url = https://github.com/ropensci/rsnps
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rsvg"]
+	path = rsvg
+	url = https://github.com/ropensci/rsvg
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rtika"]
+	path = rtika
+	url = https://github.com/ropensci/rtika
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rtweet"]
+	path = rtweet
+	url = https://github.com/ropensci/rtweet
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ruODK"]
+	path = ruODK
+	url = https://github.com/ropensci/ruODK
+	shallow = true
+	branch = main
+	registered = true
+[submodule "rusda"]
+	path = rusda
+	url = https://github.com/ropensci/rusda
+	shallow = true
+	branch = master
+	registered = true
+[submodule "rzmq"]
+	path = rzmq
+	url = https://github.com/ropensci/rzmq
+	shallow = true
+	branch = master
+	registered = true
+[submodule "skimr"]
+	path = skimr
+	url = https://github.com/ropensci/skimr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/ropensci/skynet
+	shallow = true
+	branch = master
+	registered = true
+[submodule "slopes"]
+	path = slopes
+	url = https://github.com/ropensci/slopes
+	shallow = true
+	branch = master
+	registered = true
+[submodule "smapr"]
+	path = smapr
+	url = https://github.com/ropensci/smapr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+	shallow = true
+	branch = main
+	registered = true
+[submodule "spatsoc"]
+	path = spatsoc
+	url = https://github.com/ropensci/spatsoc
+	shallow = true
+	branch = main
+	registered = true
+[submodule "spelling"]
+	path = spelling
+	url = https://github.com/ropensci/spelling
+	shallow = true
+	branch = master
+	registered = true
+[submodule "spiro"]
+	path = spiro
+	url = https://github.com/ropensci/spiro
+	shallow = true
+	branch = main
+	registered = true
+[submodule "spocc"]
+	path = spocc
+	url = https://github.com/ropensci/spocc
+	shallow = true
+	branch = master
+	registered = true
+[submodule "srr"]
+	path = srr
+	url = https://github.com/ropensci-review-tools/srr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/ropensci/ssh
+	shallow = true
+	branch = master
+	registered = true
+[submodule "stantargets"]
+	path = stantargets
+	url = https://github.com/ropensci/stantargets
+	shallow = true
+	branch = main
+	registered = true
+[submodule "stats19"]
+	path = stats19
+	url = https://github.com/ropensci/stats19
+	shallow = true
+	branch = master
+	registered = true
+[submodule "stplanr"]
+	path = stplanr
+	url = https://github.com/ropensci/stplanr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "suppdata"]
+	path = suppdata
+	url = https://github.com/ropensci/suppdata
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tabulizer"]
+	path = tabulizer
+	url = https://github.com/ropensci/tabulizer
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tacmagic"]
+	path = tacmagic
+	url = https://github.com/ropensci/tacmagic
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tarchetypes"]
+	path = tarchetypes
+	url = https://github.com/ropensci/tarchetypes
+	shallow = true
+	branch = main
+	registered = true
+[submodule "targets"]
+	path = targets
+	url = https://github.com/ropensci/targets
+	shallow = true
+	branch = main
+	registered = true
+[submodule "taxa"]
+	path = taxa
+	url = https://github.com/ropensci/taxa
+	shallow = true
+	branch = master
+	registered = true
+[submodule "taxadb"]
+	path = taxadb
+	url = https://github.com/ropensci/taxadb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/ropensci/taxize
+	shallow = true
+	branch = master
+	registered = true
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/ropensci/taxizedb
+	shallow = true
+	branch = master
+	registered = true
+[submodule "taxlist"]
+	path = taxlist
+	url = https://github.com/ropensci/taxlist
+	shallow = true
+	branch = master
+	registered = true
+[submodule "terrainr"]
+	path = terrainr
+	url = https://github.com/ropensci/terrainr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tesseract"]
+	path = tesseract
+	url = https://github.com/ropensci/tesseract
+	shallow = true
+	branch = master
+	registered = true
+[submodule "textreuse"]
+	path = textreuse
+	url = https://github.com/ropensci/textreuse
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tic"]
+	path = tic
+	url = https://github.com/ropensci/tic
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tidyhydat"]
+	path = tidyhydat
+	url = https://github.com/ropensci/tidyhydat
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tidync"]
+	path = tidync
+	url = https://github.com/ropensci/tidync
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tidypmc"]
+	path = tidypmc
+	url = https://github.com/ropensci/tidypmc
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tidyqpcr"]
+	path = tidyqpcr
+	url = https://github.com/ropensci/tidyqpcr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tidytags"]
+	path = tidytags
+	url = https://github.com/ropensci/tidytags
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tif"]
+	path = tif
+	url = https://github.com/ropenscilabs/tif
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tiler"]
+	path = tiler
+	url = https://github.com/ropensci/tiler
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/ropensci/tinkr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "tokenizers"]
+	path = tokenizers
+	url = https://github.com/ropensci/tokenizers
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tracerer"]
+	path = tracerer
+	url = https://github.com/ropensci/tracerer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tradestatistics"]
+	path = tradestatistics
+	url = https://github.com/ropensci/tradestatistics
+	shallow = true
+	branch = master
+	registered = true
+[submodule "traits"]
+	path = traits
+	url = https://github.com/ropensci/traits
+	shallow = true
+	branch = master
+	registered = true
+[submodule "treebase"]
+	path = treebase
+	url = https://github.com/ropensci/treebase
+	shallow = true
+	branch = master
+	registered = true
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/ropensci/treedata.table
+	shallow = true
+	branch = master
+	registered = true
+[submodule "treeio"]
+	path = treeio
+	url = https://github.com/YuLab-SMU/treeio
+	shallow = true
+	branch = master
+	registered = true
+[submodule "treestartr"]
+	path = treestartr
+	url = https://github.com/ropensci/treestartr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "unifir"]
+	path = unifir
+	url = https://github.com/ropensci/unifir
+	shallow = true
+	branch = main
+	registered = true
 [submodule "universe"]
 	path = universe
-	url = https://github.com/r-universe-org/universe
+	url = https://github.com/ropensci/universe
 	shallow = true
+	branch = master
+	registered = true
+[submodule "unrtf"]
+	path = unrtf
+	url = https://github.com/ropensci/unrtf
+	shallow = true
+	branch = main
+	registered = true
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
+	shallow = true
+	branch = main
+	registered = true
+[submodule "virtuoso"]
+	path = virtuoso
+	url = https://github.com/ropensci/virtuoso
+	shallow = true
+	branch = master
+	registered = true
+[submodule "visdat"]
+	path = visdat
+	url = https://github.com/ropensci/visdat
+	shallow = true
+	branch = master
+	registered = true
+[submodule "wateRinfo"]
+	path = wateRinfo
+	url = https://github.com/ropensci/wateRinfo
+	shallow = true
+	branch = main
+	registered = true
+[submodule "wdman"]
+	path = wdman
+	url = https://github.com/ropensci/wdman
+	shallow = true
+	branch = master
+	registered = true
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
+	shallow = true
+	branch = main
+	registered = true
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
+	shallow = true
+	branch = master
+	registered = true
+[submodule "webmockr"]
+	path = webmockr
+	url = https://github.com/ropensci/webmockr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "wellknown"]
+	path = wellknown
+	url = https://github.com/ropensci/wellknown
+	shallow = true
+	branch = master
+	registered = true
+[submodule "wikitaxa"]
+	path = wikitaxa
+	url = https://github.com/ropensci/wikitaxa
+	shallow = true
+	branch = master
+	registered = true
+[submodule "workloopR"]
+	path = workloopR
+	url = https://github.com/ropensci/workloopR
+	shallow = true
+	branch = master
+	registered = true
+[submodule "worrms"]
+	path = worrms
+	url = https://github.com/ropensci/worrms
+	shallow = true
+	branch = master
+	registered = true
+[submodule "writexl"]
+	path = writexl
+	url = https://github.com/ropensci/writexl
+	shallow = true
+	branch = master
+	registered = true
+[submodule "xslt"]
+	path = xslt
+	url = https://github.com/ropensci/xslt
+	shallow = true
+	branch = master
+	registered = true
+[submodule "yfR"]
+	path = yfR
+	url = https://github.com/ropensci/yfR
+	shallow = true
+	branch = main
 	registered = true
