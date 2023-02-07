@@ -1783,7 +1783,7 @@
 	path = webmockr
 	url = https://github.com/ropensci/webmockr
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "wellknown"]
 	path = wellknown
