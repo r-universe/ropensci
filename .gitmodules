@@ -1148,6 +1148,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rb3"]
+	path = rb3
+	url = https://github.com/ropensci/rb3
+	shallow = true
+	branch = main
+	registered = true
 [submodule "rcites"]
 	path = rcites
 	url = https://github.com/ropensci/rcites
