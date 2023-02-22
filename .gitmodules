@@ -225,6 +225,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "babeldown"]
+	path = babeldown
+	url = https://github.com/ropensci-review-tools/babeldown
+	shallow = true
+	branch = main
+	registered = true
 [submodule "babette"]
 	path = babette
 	url = https://github.com/ropensci/babette

@@ -136,6 +136,9 @@
     "oncran": true
   },
   {
+    "package": "babeldown"
+  },
+  {
     "package": "babette",
     "oncran": true
   },
