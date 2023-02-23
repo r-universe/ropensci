@@ -177,8 +177,7 @@
     "package": "bowerbird"
   },
   {
-    "package": "brranching",
-    "oncran": true
+    "package": "brranching"
   },
   {
     "package": "c14bazAAR"
@@ -648,8 +647,7 @@
     "package": "phruta"
   },
   {
-    "package": "phylocomr",
-    "oncran": true
+    "package": "phylocomr"
   },
   {
     "package": "phylogram",
