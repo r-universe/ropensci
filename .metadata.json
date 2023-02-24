@@ -582,6 +582,10 @@
     "package": "onekp"
   },
   {
+    "package": "openalexR",
+    "oncran": false
+  },
+  {
     "package": "opencage",
     "oncran": true
   },

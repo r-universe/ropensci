@@ -932,6 +932,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "openalexR"]
+	path = openalexR
+	url = https://github.com/ropensci/openalexR
+	shallow = true
+	branch = main
+	registered = true
 [submodule "opencage"]
 	path = opencage
 	url = https://github.com/ropensci/opencage
