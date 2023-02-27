@@ -1779,6 +1779,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "waywiser"]
+	path = waywiser
+	url = https://github.com/ropensci/waywiser
+	shallow = true
+	branch = main
+	registered = true
 [submodule "wdman"]
 	path = wdman
 	url = https://github.com/ropensci/wdman

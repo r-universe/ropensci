@@ -1109,6 +1109,10 @@
     "package": "wateRinfo"
   },
   {
+    "package": "waywiser",
+    "oncran": false
+  },
+  {
     "package": "wdman",
     "oncran": true
   },
