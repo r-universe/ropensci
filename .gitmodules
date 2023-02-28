@@ -1876,6 +1876,11 @@
 	url = https://github.com/mangoTheCat/goodpractice
 	shallow = true
 	registered = false
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/tidymodels/hardhat
+	shallow = true
+	registered = false
 [submodule "leafem"]
 	path = leafem
 	url = https://github.com/r-spatial/leafem
@@ -1899,5 +1904,10 @@
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman
+	shallow = true
+	registered = false
+[submodule "yardstick"]
+	path = yardstick
+	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = false

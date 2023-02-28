@@ -44,6 +44,12 @@
     "from": "pkgreviewr"
   },
   {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["waywiser", "yardstick"],
+    "from": "waywiser"
+  },
+  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
@@ -139,5 +145,11 @@
     "url": "https://github.com/dombennett/treeman",
     "via": ["phylotaR"],
     "from": "phylotaR"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["waywiser"],
+    "from": "waywiser"
   }
 ]
