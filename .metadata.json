@@ -1110,7 +1110,7 @@
   },
   {
     "package": "waywiser",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "wdman",
