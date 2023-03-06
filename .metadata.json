@@ -723,7 +723,7 @@
   },
   {
     "package": "rb3",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rcites",
