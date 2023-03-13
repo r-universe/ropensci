@@ -377,6 +377,10 @@
     "package": "gendercoder"
   },
   {
+    "package": "geojson",
+    "oncran": false
+  },
+  {
     "package": "geojsonio",
     "oncran": true
   },

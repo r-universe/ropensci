@@ -608,6 +608,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "geojson"]
+	path = geojson
+	url = https://github.com/ropensci/geojson
+	shallow = true
+	branch = master
+	registered = true
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/ropensci/geojsonio
