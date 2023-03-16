@@ -81,8 +81,7 @@
     "oncran": true
   },
   {
-    "package": "USAboundaries",
-    "oncran": true
+    "package": "USAboundaries"
   },
   {
     "package": "USAboundariesData"
@@ -197,8 +196,7 @@
     "package": "cde"
   },
   {
-    "package": "censo2017",
-    "oncran": true
+    "package": "censo2017"
   },
   {
     "package": "cffr",
