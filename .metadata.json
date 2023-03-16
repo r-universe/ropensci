@@ -912,7 +912,7 @@
   },
   {
     "package": "rusda",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rzmq",
