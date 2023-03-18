@@ -435,6 +435,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "concstats"]
+	path = concstats
+	url = https://github.com/ropensci/concstats
+	shallow = true
+	branch = master
+	registered = true
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
