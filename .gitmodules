@@ -1154,6 +1154,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "quartificate"]
+	path = quartificate
+	url = https://github.com/ropenscilabs/quartificate
+	shallow = true
+	branch = main
+	registered = true
 [submodule "r2readthedocs"]
 	path = r2readthedocs
 	url = https://github.com/ropenscilabs/r2readthedocs
