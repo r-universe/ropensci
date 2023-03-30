@@ -1118,6 +1118,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "predictNMB"]
+	path = predictNMB
+	url = https://github.com/ropensci/predictNMB
+	shallow = true
+	branch = master
+	registered = true
 [submodule "prism"]
 	path = prism
 	url = https://github.com/ropensci/prism
