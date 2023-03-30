@@ -1845,12 +1845,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "wellknown"]
-	path = wellknown
-	url = https://github.com/ropensci/wellknown
-	shallow = true
-	branch = master
-	registered = true
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/ropensci/wikitaxa
