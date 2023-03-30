@@ -1527,6 +1527,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "sofa"]
+	path = sofa
+	url = https://github.com/ropensci/sofa
+	shallow = true
+	branch = master
+	registered = true
 [submodule "spatsoc"]
 	path = spatsoc
 	url = https://github.com/ropensci/spatsoc
