@@ -1897,6 +1897,11 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
+[submodule "crew"]
+	path = crew
+	url = https://github.com/wlandau/crew
+	shallow = true
+	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
