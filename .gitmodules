@@ -9,6 +9,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "CRediTas"]
+	path = CRediTas
+	url = https://github.com/ropensci/CRediTas
+	shallow = true
+	branch = master
+	registered = true
 [submodule "CoordinateCleaner"]
 	path = CoordinateCleaner
 	url = https://github.com/ropensci/CoordinateCleaner
