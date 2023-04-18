@@ -1892,6 +1892,11 @@
 	url = https://github.com/hyunjimoon/SBC
 	shallow = true
 	registered = false
+[submodule "babelquarto"]
+	path = babelquarto
+	url = https://github.com/ropensci-review-tools/babelquarto
+	shallow = true
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr

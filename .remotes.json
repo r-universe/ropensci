@@ -20,6 +20,12 @@
     "from": "stantargets"
   },
   {
+    "package": "babelquarto",
+    "url": "https://github.com/ropensci-review-tools/babelquarto",
+    "via": ["babeldown"],
+    "from": "babeldown"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
