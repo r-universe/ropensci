@@ -237,6 +237,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "babelquarto"]
+	path = babelquarto
+	url = https://github.com/ropensci-review-tools/babelquarto
+	shallow = true
+	branch = main
+	registered = true
 [submodule "babette"]
 	path = babette
 	url = https://github.com/ropensci/babette
@@ -1890,11 +1896,6 @@
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
-	shallow = true
-	registered = false
-[submodule "babelquarto"]
-	path = babelquarto
-	url = https://github.com/ropensci-review-tools/babelquarto
 	shallow = true
 	registered = false
 [submodule "cmdstanr"]
