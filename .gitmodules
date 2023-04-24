@@ -1903,11 +1903,6 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = false
-[submodule "crew"]
-	path = crew
-	url = https://github.com/wlandau/crew
-	shallow = true
-	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
@@ -1936,11 +1931,6 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
-	shallow = true
-	registered = false
-[submodule "mirai"]
-	path = mirai
-	url = https://github.com/shikokuchuo/mirai
 	shallow = true
 	registered = false
 [submodule "tabulizerjars"]
