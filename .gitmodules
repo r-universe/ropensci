@@ -265,7 +265,7 @@
 	path = bib2df
 	url = https://github.com/ropensci/bib2df
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "bibtex"]
 	path = bibtex
