@@ -445,7 +445,7 @@
 	path = comtradr
 	url = https://github.com/ropensci/comtradr
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "concstats"]
 	path = concstats
