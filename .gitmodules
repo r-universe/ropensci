@@ -387,12 +387,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "citesdb"]
-	path = citesdb
-	url = https://github.com/ropensci/citesdb
-	shallow = true
-	branch = master
-	registered = true
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
