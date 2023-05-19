@@ -1932,6 +1932,11 @@
 	url = https://github.com/r-spatial/mapview
 	shallow = true
 	registered = false
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+	shallow = true
+	registered = false
 [submodule "tabulizerjars"]
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars

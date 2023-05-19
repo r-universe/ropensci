@@ -74,6 +74,12 @@
     "from": "ruODK"
   },
   {
+    "package": "mirai",
+    "url": "https://github.com/shikokuchuo/mirai",
+    "via": ["targets"],
+    "from": "targets"
+  },
+  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],
