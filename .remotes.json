@@ -32,12 +32,6 @@
     "from": "stantargets"
   },
   {
-    "package": "crew",
-    "url": "https://github.com/wlandau/crew",
-    "via": ["targets"],
-    "from": "targets"
-  },
-  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
@@ -72,12 +66,6 @@
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
     "from": "ruODK"
-  },
-  {
-    "package": "mirai",
-    "url": "https://github.com/shikokuchuo/mirai",
-    "via": ["targets"],
-    "from": "targets"
   },
   {
     "package": "pkgcheck",
