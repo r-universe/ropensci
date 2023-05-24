@@ -525,6 +525,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "dwctaxon"]
+	path = dwctaxon
+	url = https://github.com/ropensci/dwctaxon
+	shallow = true
+	branch = main
+	registered = true
 [submodule "dynamite"]
 	path = dynamite
 	url = https://github.com/ropensci/dynamite
