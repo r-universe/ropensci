@@ -1170,7 +1170,7 @@
 	path = qualtRics
 	url = https://github.com/ropensci/qualtRics
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "quartificate"]
 	path = quartificate
