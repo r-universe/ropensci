@@ -732,7 +732,7 @@
 	path = hddtools
 	url = https://github.com/ropensci/hddtools
 	shallow = true
-	branch = main
+	branch = master
 	registered = true
 [submodule "helminthR"]
 	path = helminthR
