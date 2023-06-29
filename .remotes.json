@@ -117,12 +117,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "srr",
-    "url": "https://github.com/ropensci-review-tools/srr",
-    "via": ["roreviewapi"],
-    "from": "roreviewapi"
-  },
-  {
     "package": "tabulizerjars",
     "url": "https://github.com/ropensci/tabulizerjars",
     "via": ["tabulizer"],
