@@ -133,11 +133,5 @@
     "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
-  },
-  {
-    "package": "treeman",
-    "url": "https://github.com/dombennett/treeman",
-    "via": ["phylotaR"],
-    "from": "phylotaR"
   }
 ]

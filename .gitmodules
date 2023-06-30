@@ -1298,7 +1298,3 @@
 	path = tabulizerjars
 	url = https://github.com/ropensci/tabulizerjars
 	registered = false
-[submodule "treeman"]
-	path = treeman
-	url = https://github.com/dombennett/treeman
-	registered = false
