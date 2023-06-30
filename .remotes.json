@@ -86,12 +86,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "restez",
-    "url": "https://github.com/ropensci/restez",
-    "via": ["phylotaR"],
-    "from": "phylotaR"
-  },
-  {
     "package": "rnaturalearth",
     "url": "https://github.com/ropensci/rnaturalearth",
     "via": ["CoordinateCleaner"],
