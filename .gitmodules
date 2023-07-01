@@ -1181,7 +1181,7 @@
 [submodule "treeio"]
 	path = treeio
 	url = https://github.com/YuLab-SMU/treeio
-	branch = master
+	branch = devel
 [submodule "treestartr"]
 	path = treestartr
 	url = https://github.com/ropensci/treestartr
