@@ -945,7 +945,7 @@
 [submodule "rotemplate"]
 	path = rotemplate
 	url = https://github.com/ropensci-org/rotemplate
-	branch = master
+	branch = main
 [submodule "rotl"]
 	path = rotl
 	url = https://github.com/ropensci/rotl
