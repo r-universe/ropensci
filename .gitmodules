@@ -420,7 +420,7 @@
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/ropensci/geojson
-	branch = master
+	branch = main
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/ropensci/geojsonio
