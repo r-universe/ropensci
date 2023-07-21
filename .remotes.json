@@ -32,6 +32,12 @@
     "from": "stantargets"
   },
   {
+    "package": "duckdbfs",
+    "url": "https://github.com/cboettig/duckdbfs",
+    "via": ["gbifdb"],
+    "from": "gbifdb"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],

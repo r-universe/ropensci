@@ -1270,6 +1270,10 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
+[submodule "duckdbfs"]
+	path = duckdbfs
+	url = https://github.com/cboettig/duckdbfs
+	registered = false
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
