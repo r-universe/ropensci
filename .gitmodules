@@ -548,7 +548,7 @@
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/ropensci/jstor
-	branch = master
+	branch = main
 [submodule "katex"]
 	path = katex
 	url = https://github.com/ropensci/katex
