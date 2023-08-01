@@ -86,6 +86,10 @@
 	path = Rpolyhedra
 	url = https://github.com/ropensci/Rpolyhedra
 	branch = master
+[submodule "SBC"]
+	path = SBC
+	url = https://github.com/hyunjimoon/SBC
+	registered = false
 [submodule "SymbiotaR2"]
 	path = SymbiotaR2
 	url = https://github.com/ropensci/SymbiotaR2
@@ -274,6 +278,10 @@
 	path = clifro
 	url = https://github.com/ropensci/clifro
 	branch = master
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	registered = false
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
@@ -350,6 +358,10 @@
 	path = drake
 	url = https://github.com/ropensci/drake
 	branch = main
+[submodule "duckdbfs"]
+	path = duckdbfs
+	url = https://github.com/cboettig/duckdbfs
+	registered = false
 [submodule "dwctaxon"]
 	path = dwctaxon
 	url = https://github.com/ropensci/dwctaxon
@@ -370,6 +382,10 @@
 	path = emld
 	url = https://github.com/ropensci/emld
 	branch = master
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	registered = false
 [submodule "epair"]
 	path = epair
 	url = https://github.com/ropensci/epair
@@ -437,6 +453,10 @@
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
 	branch = main
+[submodule "ggmap"]
+	path = ggmap
+	url = https://github.com/dkahle/ggmap
+	registered = false
 [submodule "ghql"]
 	path = ghql
 	url = https://github.com/ropensci/ghql
@@ -465,6 +485,10 @@
 	path = gittargets
 	url = https://github.com/ropensci/gittargets
 	branch = main
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangoTheCat/goodpractice
+	registered = false
 [submodule "googleLanguageR"]
 	path = googleLanguageR
 	url = https://github.com/ropensci/googleLanguageR
@@ -557,6 +581,10 @@
 	path = landscapetools
 	url = https://github.com/ropensci/landscapetools
 	branch = master
+[submodule "leafem"]
+	path = leafem
+	url = https://github.com/r-spatial/leafem
+	registered = false
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
@@ -565,6 +593,10 @@
 	path = lingtypology
 	url = https://github.com/ropensci/lingtypology
 	branch = master
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	registered = false
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
@@ -573,6 +605,10 @@
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
 	branch = main
+[submodule "mapview"]
+	path = mapview
+	url = https://github.com/r-spatial/mapview
+	registered = false
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
@@ -1074,6 +1110,10 @@
 	path = tabulizer
 	url = https://github.com/ropensci/tabulizer
 	branch = main
+[submodule "tabulizerjars"]
+	path = tabulizerjars
+	url = https://github.com/ropensci/tabulizerjars
+	registered = false
 [submodule "tacmagic"]
 	path = tacmagic
 	url = https://github.com/ropensci/tacmagic
@@ -1262,43 +1302,3 @@
 	path = yfR
 	url = https://github.com/ropensci/yfR
 	branch = main
-[submodule "SBC"]
-	path = SBC
-	url = https://github.com/hyunjimoon/SBC
-	registered = false
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
-[submodule "duckdbfs"]
-	path = duckdbfs
-	url = https://github.com/cboettig/duckdbfs
-	registered = false
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
-[submodule "ggmap"]
-	path = ggmap
-	url = https://github.com/dkahle/ggmap
-	registered = false
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/mangoTheCat/goodpractice
-	registered = false
-[submodule "leafem"]
-	path = leafem
-	url = https://github.com/r-spatial/leafem
-	registered = false
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
-	registered = false
-[submodule "mapview"]
-	path = mapview
-	url = https://github.com/r-spatial/mapview
-	registered = false
-[submodule "tabulizerjars"]
-	path = tabulizerjars
-	url = https://github.com/ropensci/tabulizerjars
-	registered = false
