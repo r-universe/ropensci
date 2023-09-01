@@ -945,7 +945,7 @@
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/ropensci/rnassqs
-	branch = master
+	branch = main
 [submodule "rnaturalearth"]
 	path = rnaturalearth
 	url = https://github.com/ropensci/rnaturalearth
