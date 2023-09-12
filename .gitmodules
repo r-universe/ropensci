@@ -637,6 +637,10 @@
 	path = nasapower
 	url = https://github.com/ropensci/nasapower
 	branch = main
+[submodule "natserv"]
+	path = natserv
+	url = https://github.com/ropensci/natserv
+	branch = master
 [submodule "nbaR"]
 	path = nbaR
 	url = https://github.com/ropensci/nbaR
