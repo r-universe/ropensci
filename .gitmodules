@@ -285,7 +285,7 @@
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
-	branch = master
+	branch = main
 [submodule "coder"]
 	path = coder
 	url = https://github.com/ropensci/coder
