@@ -673,6 +673,10 @@
 	path = occCite
 	url = https://github.com/ropensci/occCite
 	branch = main
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/ropensci/ohun
+	branch = master
 [submodule "onekp"]
 	path = onekp
 	url = https://github.com/ropensci/onekp
