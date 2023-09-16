@@ -390,6 +390,10 @@
 	path = epair
 	url = https://github.com/ropensci/epair
 	branch = master
+[submodule "eph"]
+	path = eph
+	url = https://github.com/ropensci/eph
+	branch = master
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/ropensci/epubr
