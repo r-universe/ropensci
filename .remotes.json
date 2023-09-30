@@ -92,12 +92,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "rnaturalearth",
-    "url": "https://github.com/ropensci/rnaturalearth",
-    "via": ["CoordinateCleaner"],
-    "from": "CoordinateCleaner"
-  },
-  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["rrricanesdata"],
