@@ -99,6 +99,12 @@
     "from": "rrricanesdata"
   },
   {
+    "package": "rsgeo",
+    "url": "https://github.com/JosiahParry/rsgeo",
+    "via": ["stplanr"],
+    "from": "stplanr"
+  },
+  {
     "package": "srr",
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],

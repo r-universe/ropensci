@@ -1026,6 +1026,10 @@
 	path = rsat
 	url = https://github.com/ropensci/rsat
 	branch = master
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/JosiahParry/rsgeo
+	registered = false
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
