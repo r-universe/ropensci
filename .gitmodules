@@ -45,7 +45,7 @@
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/ropensci/FedData
-	branch = master
+	branch = main
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/ropensci/GSODR
