@@ -876,7 +876,7 @@
 [submodule "rdhs"]
 	path = rdhs
 	url = https://github.com/ropensci/rdhs
-	branch = master
+	branch = main
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/ropensci/rdryad
