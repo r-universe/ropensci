@@ -358,10 +358,6 @@
 	path = drake
 	url = https://github.com/ropensci/drake
 	branch = main
-[submodule "duckdbfs"]
-	path = duckdbfs
-	url = https://github.com/cboettig/duckdbfs
-	registered = false
 [submodule "dwctaxon"]
 	path = dwctaxon
 	url = https://github.com/ropensci/dwctaxon
