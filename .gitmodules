@@ -414,6 +414,10 @@
 	path = ezknitr
 	url = https://github.com/ropensci/ezknitr
 	branch = master
+[submodule "fastMatMR"]
+	path = fastMatMR
+	url = https://github.com/ropensci/fastMatMR
+	branch = main
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
