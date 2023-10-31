@@ -10,9 +10,6 @@ on:
       package:
         description: Which package or commit to build (default is HEAD commit)
         required: false
-      author:
-        description: Email address of author of the package (default uses HEAD commit)
-        required: false
 
 name: Build package
 run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs.package) }}
@@ -23,5 +20,4 @@ jobs:
     uses: r-universe/workflows/.github/workflows/build.yml@v1
     with:
       package: ${{inputs.package}}
-      author: ${{inputs.author}}
     secrets: inherit
