@@ -645,10 +645,6 @@
 	path = natserv
 	url = https://github.com/ropensci/natserv
 	branch = master
-[submodule "nbaR"]
-	path = nbaR
-	url = https://github.com/ropensci/nbaR
-	branch = master
 [submodule "neotoma"]
 	path = neotoma
 	url = https://github.com/ropensci/neotoma
