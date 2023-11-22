@@ -185,7 +185,7 @@
 [submodule "bibtex"]
 	path = bibtex
 	url = https://github.com/ropensci/bibtex
-	branch = master
+	branch = main
 [submodule "bikedata"]
 	path = bikedata
 	url = https://github.com/ropensci/bikedata
