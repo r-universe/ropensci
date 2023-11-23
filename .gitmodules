@@ -430,9 +430,6 @@
 	path = gbifdb
 	url = https://github.com/ropensci/gbifdb
 	branch = main
-[submodule "genbankr"]
-	path = genbankr
-	url = https://git.bioconductor.org/packages/genbankr
 [submodule "gendercoder"]
 	path = gendercoder
 	url = https://github.com/ropensci/gendercoder
