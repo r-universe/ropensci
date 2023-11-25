@@ -469,7 +469,7 @@
 [submodule "git2r"]
 	path = git2r
 	url = https://github.com/ropensci/git2r
-	branch = master
+	branch = main
 [submodule "git2rdata"]
 	path = git2rdata
 	url = https://github.com/ropensci/git2rdata
