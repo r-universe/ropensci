@@ -634,6 +634,10 @@
 	path = mregions
 	url = https://github.com/ropensci/mregions
 	branch = master
+[submodule "naijR"]
+	path = naijR
+	url = https://github.com/ropensci/naijR
+	branch = master
 [submodule "nasapower"]
 	path = nasapower
 	url = https://github.com/ropensci/nasapower
