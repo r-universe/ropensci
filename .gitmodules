@@ -1295,6 +1295,10 @@
 	path = wikitaxa
 	url = https://github.com/ropensci/wikitaxa
 	branch = master
+[submodule "wmm"]
+	path = wmm
+	url = https://github.com/wfrierson/wmm
+	branch = main
 [submodule "workloopR"]
 	path = workloopR
 	url = https://github.com/ropensci/workloopR
