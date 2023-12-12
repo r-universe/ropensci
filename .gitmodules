@@ -198,6 +198,10 @@
 	path = biomartr
 	url = https://github.com/ropensci/biomartr
 	branch = master
+[submodule "birdsize"]
+	path = birdsize
+	url = https://github.com/ropensci/birdsize
+	branch = main
 [submodule "bold"]
 	path = bold
 	url = https://github.com/ropensci/bold
