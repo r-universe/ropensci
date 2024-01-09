@@ -46,6 +46,10 @@
 	path = FedData
 	url = https://github.com/ropensci/FedData
 	branch = main
+[submodule "GLMMcosinor"]
+	path = GLMMcosinor
+	url = https://github.com/ropensci/GLMMcosinor
+	branch = main
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/ropensci/GSODR
