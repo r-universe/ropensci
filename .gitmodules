@@ -850,6 +850,10 @@
 	path = ramlegacy
 	url = https://github.com/ropensci/ramlegacy
 	branch = master
+[submodule "rangr"]
+	path = rangr
+	url = https://github.com/ropensci/rangr
+	branch = main
 [submodule "rb3"]
 	path = rb3
 	url = https://github.com/ropensci/rb3
