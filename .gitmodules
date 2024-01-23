@@ -1203,10 +1203,6 @@
 	path = tidyqpcr
 	url = https://github.com/ropensci/tidyqpcr
 	branch = main
-[submodule "tidytags"]
-	path = tidytags
-	url = https://github.com/ropensci/tidytags
-	branch = main
 [submodule "tif"]
 	path = tif
 	url = https://github.com/ropenscilabs/tif
