@@ -318,6 +318,10 @@
 	path = credentials
 	url = https://github.com/r-lib/credentials
 	branch = main
+[submodule "crew"]
+	path = crew
+	url = https://github.com/wlandau/crew
+	registered = false
 [submodule "crul"]
 	path = crul
 	url = https://github.com/ropensci/crul

@@ -32,6 +32,12 @@
     "from": "stantargets"
   },
   {
+    "package": "crew",
+    "url": "https://github.com/wlandau/crew",
+    "via": ["targets"],
+    "from": "targets"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
