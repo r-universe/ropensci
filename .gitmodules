@@ -350,10 +350,6 @@
 	path = datefixR
 	url = https://github.com/ropensci/datefixR
 	branch = main
-[submodule "dbhydroR"]
-	path = dbhydroR
-	url = https://github.com/ropensci/dbhydroR
-	branch = master
 [submodule "dbparser"]
 	path = dbparser
 	url = https://github.com/ropensci/dbparser
