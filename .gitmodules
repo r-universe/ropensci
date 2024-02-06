@@ -140,7 +140,7 @@
 	branch = master
 [submodule "assertr"]
 	path = assertr
-	url = https://github.com/ropensci/assertr
+	url = https://github.com/tonyfischetti/assertr
 	branch = master
 [submodule "auk"]
 	path = auk
