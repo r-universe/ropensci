@@ -20,6 +20,18 @@
     "from": "stantargets"
   },
   {
+    "package": "arcgislayers",
+    "url": "https://github.com/R-ArcGIS/arcgislayers",
+    "via": ["FedData"],
+    "from": "FedData"
+  },
+  {
+    "package": "arcgisutils",
+    "url": "https://github.com/R-ArcGIS/arcgisutils",
+    "via": ["FedData", "arcgislayers"],
+    "from": "FedData"
+  },
+  {
     "package": "babelquarto",
     "url": "https://github.com/ropensci-review-tools/babelquarto",
     "via": ["babeldown"],
