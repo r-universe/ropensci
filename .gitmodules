@@ -1178,7 +1178,7 @@
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/ropensci/taxlist
-	branch = master
+	branch = main
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/ropensci/terrainr
