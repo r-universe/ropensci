@@ -434,6 +434,10 @@
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
 	branch = master
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = https://github.com/ropensci/fluidsynth
+	branch = main
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r
