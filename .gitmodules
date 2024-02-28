@@ -134,14 +134,6 @@
 	path = aorsf
 	url = https://github.com/ropensci/aorsf
 	branch = main
-[submodule "arcgislayers"]
-	path = arcgislayers
-	url = https://github.com/R-ArcGIS/arcgislayers
-	registered = false
-[submodule "arcgisutils"]
-	path = arcgisutils
-	url = https://github.com/R-ArcGIS/arcgisutils
-	registered = false
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/ropensci/arkdb
