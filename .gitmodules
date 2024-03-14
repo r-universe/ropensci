@@ -674,6 +674,10 @@
 	path = npi
 	url = https://github.com/ropensci/npi
 	branch = master
+[submodule "nuts"]
+	path = nuts
+	url = https://github.com/ropensci/nuts
+	branch = main
 [submodule "oai"]
 	path = oai
 	url = https://github.com/ropensci/oai
