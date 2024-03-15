@@ -830,6 +830,10 @@
 	path = qpdf
 	url = https://github.com/ropensci/qpdf
 	branch = master
+[submodule "quadkeyr"]
+	path = quadkeyr
+	url = https://github.com/ropensci/quadkeyr
+	branch = main
 [submodule "qualR"]
 	path = qualR
 	url = https://github.com/ropensci/qualR
