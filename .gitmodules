@@ -162,6 +162,10 @@
 	path = baRcodeR
 	url = https://github.com/ropensci/baRcodeR
 	branch = master
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/ropensci/baRulho
+	branch = master
 [submodule "babeldown"]
 	path = babeldown
 	url = https://github.com/ropensci-review-tools/babeldown
