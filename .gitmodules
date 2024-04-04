@@ -606,10 +606,6 @@
 	path = lingtypology
 	url = https://github.com/ropensci/lingtypology
 	branch = master
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
-	registered = false
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick

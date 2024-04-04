@@ -56,12 +56,6 @@
     "from": "ruODK"
   },
   {
-    "package": "lubridate",
-    "url": "https://github.com/tidyverse/lubridate",
-    "via": ["riem"],
-    "from": "riem"
-  },
-  {
     "package": "mapview",
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
