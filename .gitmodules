@@ -962,7 +962,7 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
-	branch = master
+	branch = main
 [submodule "rinat"]
 	path = rinat
 	url = https://github.com/ropensci/rinat
