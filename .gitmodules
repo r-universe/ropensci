@@ -1143,9 +1143,9 @@
 	path = suppdata
 	url = https://github.com/ropensci/suppdata
 	branch = master
-[submodule "tabulizer"]
-	path = tabulizer
-	url = https://github.com/ropensci/tabulizer
+[submodule "tabulapdf"]
+	path = tabulapdf
+	url = https://github.com/ropensci/tabulapdf
 	branch = main
 [submodule "tabulizerjars"]
 	path = tabulizerjars
