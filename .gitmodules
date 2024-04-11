@@ -1147,10 +1147,6 @@
 	path = tabulapdf
 	url = https://github.com/ropensci/tabulapdf
 	branch = main
-[submodule "tabulizerjars"]
-	path = tabulizerjars
-	url = https://github.com/ropensci/tabulizerjars
-	registered = false
 [submodule "tacmagic"]
 	path = tacmagic
 	url = https://github.com/ropensci/tacmagic
