@@ -426,6 +426,10 @@
 	path = fastMatMR
 	url = https://github.com/ropensci/fastMatMR
 	branch = main
+[submodule "fellingdater"]
+	path = fellingdater
+	url = https://github.com/ropensci/fellingdater
+	branch = main
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
