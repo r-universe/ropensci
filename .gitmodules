@@ -354,6 +354,10 @@
 	path = dbparser
 	url = https://github.com/ropensci/dbparser
 	branch = master
+[submodule "dendroNetwork"]
+	path = dendroNetwork
+	url = https://github.com/ropensci/dendroNetwork
+	branch = main
 [submodule "deposits"]
 	path = deposits
 	url = https://github.com/ropenscilabs/deposits
