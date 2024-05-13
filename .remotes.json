@@ -56,6 +56,12 @@
     "from": "pkgreviewr"
   },
   {
+    "package": "goodpractice",
+    "url": "https://github.com/mangothecat/goodpractice",
+    "via": ["roreviewapi", "pkgcheck"],
+    "from": "roreviewapi"
+  },
+  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
