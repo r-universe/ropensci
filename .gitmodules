@@ -508,7 +508,7 @@
 	branch = main
 [submodule "goodpractice"]
 	path = goodpractice
-	url = https://github.com/mangoTheCat/goodpractice
+	url = https://github.com/mangothecat/goodpractice
 	registered = false
 [submodule "googleLanguageR"]
 	path = googleLanguageR

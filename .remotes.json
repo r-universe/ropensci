@@ -45,6 +45,12 @@
   },
   {
     "package": "goodpractice",
+    "url": "https://github.com/mangothecat/goodpractice",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
+    "package": "goodpractice",
     "url": "https://github.com/mangoTheCat/goodpractice",
     "via": ["pkgreviewr"],
     "from": "pkgreviewr"
