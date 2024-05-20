@@ -1078,7 +1078,7 @@
 [submodule "rvertnet"]
 	path = rvertnet
 	url = https://github.com/ropensci/rvertnet
-	branch = master
+	branch = main
 [submodule "rzmq"]
 	path = rzmq
 	url = https://github.com/ropensci/rzmq
