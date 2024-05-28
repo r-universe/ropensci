@@ -508,8 +508,8 @@
 	branch = main
 [submodule "goodpractice"]
 	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
-	registered = false
+	url = https://github.com/ropensci-review-tools/goodpractice
+	branch = main
 [submodule "googleLanguageR"]
 	path = googleLanguageR
 	url = https://github.com/ropensci/googleLanguageR
