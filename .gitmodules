@@ -858,6 +858,10 @@
 	path = r2readthedocs
 	url = https://github.com/ropenscilabs/r2readthedocs
 	branch = main
+[submodule "rOPTRAM"]
+	path = rOPTRAM
+	url = https://github.com/ropensci/rOPTRAM
+	branch = main
 [submodule "rWBclimate"]
 	path = rWBclimate
 	url = https://github.com/ropensci/rWBclimate
