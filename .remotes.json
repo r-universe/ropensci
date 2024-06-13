@@ -14,6 +14,12 @@
     "from": "DoOR.data"
   },
   {
+    "package": "Rd2md",
+    "url": "https://github.com/quantsch/Rd2md",
+    "via": ["r2readthedocs"],
+    "from": "r2readthedocs"
+  },
+  {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
     "via": ["stantargets"],
