@@ -654,6 +654,10 @@
 	path = mregions
 	url = https://github.com/ropensci/mregions
 	branch = master
+[submodule "mregions2"]
+	path = mregions2
+	url = https://github.com/ropensci/mregions2
+	branch = main
 [submodule "naijR"]
 	path = naijR
 	url = https://github.com/ropensci/naijR
