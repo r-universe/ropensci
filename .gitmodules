@@ -78,10 +78,6 @@
 	path = RSelenium
 	url = https://github.com/ropensci/RSelenium
 	branch = master
-[submodule "Rd2md"]
-	path = Rd2md
-	url = https://github.com/quantsch/Rd2md
-	registered = false
 [submodule "ReLTER"]
 	path = ReLTER
 	url = https://github.com/ropensci/ReLTER
