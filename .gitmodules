@@ -726,6 +726,10 @@
 	path = osfr
 	url = https://github.com/ropensci/osfr
 	branch = master
+[submodule "osmapiR"]
+	path = osmapiR
+	url = https://github.com/ropensci/osmapiR
+	branch = main
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/ropensci/osmdata
