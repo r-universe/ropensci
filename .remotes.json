@@ -86,12 +86,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "pkgdown",
-    "url": "https://github.com/r-lib/pkgdown",
-    "via": ["rotemplate"],
-    "from": "rotemplate"
-  },
-  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],

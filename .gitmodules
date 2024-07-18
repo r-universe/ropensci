@@ -810,10 +810,6 @@
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck
 	branch = main
-[submodule "pkgdown"]
-	path = pkgdown
-	url = https://github.com/r-lib/pkgdown
-	registered = false
 [submodule "pkgreviewr"]
 	path = pkgreviewr
 	url = https://github.com/ropensci-org/pkgreviewr
