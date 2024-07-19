@@ -132,7 +132,6 @@
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
     "via": ["vcr"],
-    "branch": "httr2",
     "from": "vcr"
   }
 ]
