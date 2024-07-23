@@ -127,11 +127,5 @@
     "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
-  },
-  {
-    "package": "webmockr",
-    "url": "https://github.com/ropensci/webmockr",
-    "via": ["vcr"],
-    "from": "vcr"
   }
 ]
