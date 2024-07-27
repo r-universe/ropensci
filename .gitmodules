@@ -598,6 +598,10 @@
 	path = jstor
 	url = https://github.com/ropensci/jstor
 	branch = main
+[submodule "karel"]
+	path = karel
+	url = https://github.com/ropensci/karel
+	branch = master
 [submodule "katex"]
 	path = katex
 	url = https://github.com/ropensci/katex
