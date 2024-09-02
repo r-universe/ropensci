@@ -1026,7 +1026,7 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/ropensci/robotstxt
-	branch = master
+	branch = main
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi
