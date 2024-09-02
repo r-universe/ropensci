@@ -878,10 +878,6 @@
 	path = rOPTRAM
 	url = https://github.com/ropensci/rOPTRAM
 	branch = main
-[submodule "rWBclimate"]
-	path = rWBclimate
-	url = https://github.com/ropensci/rWBclimate
-	branch = master
 [submodule "ramlegacy"]
 	path = ramlegacy
 	url = https://github.com/ropensci/ramlegacy
