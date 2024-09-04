@@ -654,10 +654,6 @@
 	path = melt
 	url = https://github.com/ropensci/melt
 	branch = main
-[submodule "mregions"]
-	path = mregions
-	url = https://github.com/ropensci/mregions
-	branch = master
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/ropensci/mregions2
