@@ -378,6 +378,10 @@
 	path = dynamite
 	url = https://github.com/ropensci/dynamite
 	branch = main
+[submodule "eDNAjoint"]
+	path = eDNAjoint
+	url = https://github.com/ropensci/eDNAjoint
+	branch = master
 [submodule "eia"]
 	path = eia
 	url = https://github.com/ropensci/eia
