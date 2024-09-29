@@ -68,12 +68,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "katex",
-    "url": "https://github.com/ropensci/katex",
-    "via": ["postdoc"],
-    "from": "postdoc"
-  },
-  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
