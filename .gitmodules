@@ -1075,6 +1075,10 @@
 	path = rsgeo
 	url = https://github.com/JosiahParry/rsgeo
 	registered = false
+[submodule "rsi"]
+	path = rsi
+	url = https://github.com/Permian-Global-Research/rsi
+	branch = main
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
