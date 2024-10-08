@@ -1163,6 +1163,10 @@
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
 	branch = main
+[submodule "starchart"]
+	path = starchart
+	url = https://github.com/ropenscilabs/starchart
+	branch = main
 [submodule "stats19"]
 	path = stats19
 	url = https://github.com/ropensci/stats19
