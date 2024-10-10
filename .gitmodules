@@ -814,6 +814,10 @@
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck
 	branch = main
+[submodule "pkgmatch"]
+	path = pkgmatch
+	url = https://github.com/ropensci-review-tools/pkgmatch
+	branch = main
 [submodule "pkgreviewr"]
 	path = pkgreviewr
 	url = https://github.com/ropensci-org/pkgreviewr
