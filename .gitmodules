@@ -262,6 +262,10 @@
 	path = chlorpromazineR
 	url = https://github.com/ropensci/chlorpromazineR
 	branch = master
+[submodule "chopin"]
+	path = chopin
+	url = https://github.com/ropensci/chopin
+	branch = main
 [submodule "chromer"]
 	path = chromer
 	url = https://github.com/ropensci/chromer
