@@ -1306,7 +1306,7 @@
 [submodule "universe"]
 	path = universe
 	url = https://github.com/ropensci/universe
-	branch = master
+	branch = main
 [submodule "unrtf"]
 	path = unrtf
 	url = https://github.com/ropensci/unrtf
