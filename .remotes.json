@@ -123,6 +123,12 @@
     "from": "roreviewapi"
   },
   {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["occCite"],
+    "from": "occCite"
+  },
+  {
     "package": "taxizedb",
     "url": "https://github.com/ropensci/taxizedb",
     "via": ["onekp"],
