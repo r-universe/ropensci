@@ -26,13 +26,6 @@
     "from": "babeldown"
   },
   {
-    "package": "bold",
-    "url": "https://github.com/ropensci/bold",
-    "via": ["occCite"],
-    "branch": "v1.3.0",
-    "from": "occCite"
-  },
-  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
@@ -128,13 +121,6 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
-  },
-  {
-    "package": "taxize",
-    "url": "https://github.com/ropensci/taxize",
-    "via": ["occCite"],
-    "branch": "v0.9.99",
-    "from": "occCite"
   },
   {
     "package": "taxizedb",
