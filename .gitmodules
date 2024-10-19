@@ -937,7 +937,7 @@
 [submodule "rebird"]
 	path = rebird
 	url = https://github.com/ropensci/rebird
-	branch = master
+	branch = main
 [submodule "redland"]
 	path = redland
 	url = https://github.com/ropensci/redland-bindings
