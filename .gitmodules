@@ -150,6 +150,10 @@
 	path = auk
 	url = https://github.com/CornellLabofOrnithology/auk
 	branch = main
+[submodule "autometric"]
+	path = autometric
+	url = https://github.com/wlandau/autometric
+	registered = false
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
