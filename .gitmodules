@@ -430,10 +430,6 @@
 	path = europepmc
 	url = https://github.com/ropensci/europepmc
 	branch = main
-[submodule "evaluate"]
-	path = evaluate
-	url = https://github.com/r-lib/evaluate
-	registered = false
 [submodule "excluder"]
 	path = excluder
 	url = https://github.com/ropensci/excluder

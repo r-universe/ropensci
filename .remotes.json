@@ -50,12 +50,6 @@
     "from": "pkgreviewr"
   },
   {
-    "package": "evaluate",
-    "url": "https://github.com/r-lib/evaluate",
-    "via": ["osmextract"],
-    "from": "osmextract"
-  },
-  {
     "package": "ggmap",
     "url": "https://github.com/dkahle/ggmap",
     "via": ["refsplitr"],
