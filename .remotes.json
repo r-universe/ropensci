@@ -26,12 +26,6 @@
     "from": "stantargets"
   },
   {
-    "package": "autometric",
-    "url": "https://github.com/wlandau/autometric",
-    "via": ["targets"],
-    "from": "targets"
-  },
-  {
     "package": "babelquarto",
     "url": "https://github.com/ropensci-review-tools/babelquarto",
     "via": ["babeldown"],
