@@ -74,10 +74,6 @@
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
 	branch = master
-[submodule "RSQLite"]
-	path = RSQLite
-	url = https://github.com/r-dbi/RSQLite
-	registered = false
 [submodule "RSelenium"]
 	path = RSelenium
 	url = https://github.com/ropensci/RSelenium

@@ -14,12 +14,6 @@
     "from": "DoOR.data"
   },
   {
-    "package": "RSQLite",
-    "url": "https://github.com/r-dbi/RSQLite",
-    "via": ["nodbi"],
-    "from": "nodbi"
-  },
-  {
     "package": "SBC",
     "url": "https://github.com/hyunjimoon/SBC",
     "via": ["stantargets"],
