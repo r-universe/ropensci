@@ -1099,10 +1099,6 @@
 	path = rtika
 	url = https://github.com/ropensci/rtika
 	branch = master
-[submodule "rtweet"]
-	path = rtweet
-	url = https://github.com/ropensci/rtweet
-	branch = master
 [submodule "ruODK"]
 	path = ruODK
 	url = https://github.com/ropensci/ruODK
