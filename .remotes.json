@@ -57,7 +57,7 @@
   },
   {
     "package": "goodpractice",
-    "url": "https://github.com/mangothecat/goodpractice",
+    "url": "https://github.com/ropensci-review-tools/goodpractice",
     "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
   },
