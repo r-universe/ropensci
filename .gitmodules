@@ -1058,7 +1058,7 @@
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
-	branch = master
+	branch = main
 [submodule "rrlite"]
 	path = rrlite
 	url = https://github.com/ropensci/rrlite
