@@ -114,6 +114,10 @@
 	path = aRxiv
 	url = https://github.com/ropensci/aRxiv
 	branch = master
+[submodule "aeolus"]
+	path = aeolus
+	url = https://github.com/ropenscilabs/aeolus
+	branch = main
 [submodule "agroclimatico"]
 	path = agroclimatico
 	url = https://github.com/ropensci/agroclimatico
