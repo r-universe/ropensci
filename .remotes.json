@@ -74,6 +74,12 @@
     "from": "ruODK"
   },
   {
+    "package": "ows4R",
+    "url": "https://github.com/eblondel/ows4R",
+    "via": ["emodnet.wfs"],
+    "from": "emodnet.wfs"
+  },
+  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],
