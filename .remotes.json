@@ -125,6 +125,12 @@
   {
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
+    "via": ["aeolus"],
+    "from": "aeolus"
+  },
+  {
+    "package": "tinkr",
+    "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
   }
