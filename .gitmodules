@@ -498,6 +498,10 @@
 	path = ghql
 	url = https://github.com/ropensci/ghql
 	branch = master
+[submodule "gigs"]
+	path = gigs
+	url = https://github.com/ropensci/gigs
+	branch = master
 [submodule "gistr"]
 	path = gistr
 	url = https://github.com/ropensci/gistr
