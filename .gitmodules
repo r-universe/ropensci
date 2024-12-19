@@ -922,10 +922,6 @@
 	path = rdataretriever
 	url = https://github.com/ropensci/rdataretriever
 	branch = main
-[submodule "rdefra"]
-	path = rdefra
-	url = https://github.com/ropensci/rdefra
-	branch = master
 [submodule "rdflib"]
 	path = rdflib
 	url = https://github.com/ropensci/rdflib
