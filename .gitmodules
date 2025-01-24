@@ -410,6 +410,10 @@
 	path = emo
 	url = https://github.com/hadley/emo
 	registered = false
+[submodule "emodnet.wfs"]
+	path = emodnet.wfs
+	url = https://github.com/EMODnet/emodnet.wfs
+	branch = main
 [submodule "epair"]
 	path = epair
 	url = https://github.com/ropensci/epair
