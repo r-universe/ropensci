@@ -193,7 +193,7 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
-	branch = master
+	branch = main
 [submodule "bib2df"]
 	path = bib2df
 	url = https://github.com/ropensci/bib2df
