@@ -26,6 +26,12 @@
     "from": "babeldown"
   },
   {
+    "package": "bold",
+    "url": "https://github.com/ropensci/bold",
+    "via": ["taxizedb"],
+    "from": "taxizedb"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["stantargets"],
@@ -121,6 +127,12 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
+  },
+  {
+    "package": "taxize",
+    "url": "https://github.com/ropensci/taxize",
+    "via": ["taxizedb"],
+    "from": "taxizedb"
   },
   {
     "package": "taxizedb",
