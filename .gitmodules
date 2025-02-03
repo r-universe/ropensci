@@ -70,6 +70,10 @@
 	path = PostcodesioR
 	url = https://github.com/ropensci/PostcodesioR
 	branch = master
+[submodule "QuadratiK-package"]
+	path = QuadratiK-package
+	url = https://github.com/ropensci/QuadratiK-package
+	branch = master
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
