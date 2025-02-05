@@ -73,7 +73,7 @@
 [submodule "QuadratiK"]
 	path = QuadratiK
 	url = https://github.com/ropensci/QuadratiK
-	branch = master
+	branch = main
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
