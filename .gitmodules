@@ -302,10 +302,6 @@
 	path = cld3
 	url = https://github.com/ropensci/cld3
 	branch = master
-[submodule "clifro"]
-	path = clifro
-	url = https://github.com/ropensci/clifro
-	branch = master
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
