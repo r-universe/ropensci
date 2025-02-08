@@ -151,5 +151,12 @@
     "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
+  },
+  {
+    "package": "units",
+    "url": "https://github.com/r-quantities/units",
+    "via": ["spatsoc"],
+    "branch": "8dae070bc7e15a1a11f21c67ac3757e73bf6735c",
+    "from": "spatsoc"
   }
 ]
