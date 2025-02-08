@@ -1311,11 +1311,6 @@
 	path = unifir
 	url = https://github.com/ropensci/unifir
 	branch = main
-[submodule "units"]
-	path = units
-	url = https://github.com/r-quantities/units
-	branch = 889cf39
-	registered = false
 [submodule "universe"]
 	path = universe
 	url = https://github.com/ropensci/universe
