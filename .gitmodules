@@ -5,7 +5,7 @@
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/ropensci/BaseSet
-	branch = master
+	branch = main
 [submodule "CRediTas"]
 	path = CRediTas
 	url = https://github.com/ropensci/CRediTas
