@@ -322,6 +322,10 @@
 	path = commonmark
 	url = https://github.com/r-lib/commonmark
 	branch = main
+[submodule "commonmetar"]
+	path = commonmetar
+	url = https://github.com/ropensci-org/commonmetar
+	branch = main
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/ropensci/comtradr
