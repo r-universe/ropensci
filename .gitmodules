@@ -845,7 +845,7 @@
 [submodule "pkgreviewr"]
 	path = pkgreviewr
 	url = https://github.com/ropensci-org/pkgreviewr
-	branch = master
+	branch = main
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
