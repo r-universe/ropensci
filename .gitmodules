@@ -189,11 +189,11 @@
 [submodule "babette"]
 	path = babette
 	url = https://github.com/ropensci/babette
-	branch = master
+	branch = main
 [submodule "beastier"]
 	path = beastier
 	url = https://github.com/ropensci/beastier
-	branch = master
+	branch = main
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
@@ -661,7 +661,7 @@
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
-	branch = master
+	branch = main
 [submodule "mcbette"]
 	path = mcbette
 	url = https://github.com/ropensci/mcbette
@@ -1282,7 +1282,7 @@
 [submodule "tracerer"]
 	path = tracerer
 	url = https://github.com/ropensci/tracerer
-	branch = master
+	branch = main
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/ropensci/tradestatistics
