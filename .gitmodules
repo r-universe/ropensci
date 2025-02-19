@@ -967,6 +967,10 @@
 	path = rentrez
 	url = https://github.com/ropensci/rentrez
 	branch = master
+[submodule "repometrics"]
+	path = repometrics
+	url = https://github.com/ropensci-review-tools/repometrics
+	branch = main
 [submodule "rerddap"]
 	path = rerddap
 	url = https://github.com/ropensci/rerddap
