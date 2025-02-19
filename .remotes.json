@@ -74,10 +74,22 @@
     "from": "roreviewapi"
   },
   {
+    "package": "pkgmatch",
+    "url": "https://github.com/ropensci-review-tools/pkgmatch",
+    "via": ["repometrics"],
+    "from": "repometrics"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["repometrics"],
+    "from": "repometrics"
   },
   {
     "package": "pkgstats",
