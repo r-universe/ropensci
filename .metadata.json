@@ -924,6 +924,18 @@
     }
   },
   {
+    "package": "fireexposuR",
+    "metadata": {
+      "review": {
+        "id": 659,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/659"
+      }
+    }
+  },
+  {
     "package": "frictionless",
     "metadata": {
       "review": {

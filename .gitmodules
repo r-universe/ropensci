@@ -462,6 +462,10 @@
 	path = fingertipsR
 	url = https://github.com/ropensci/fingertipsR
 	branch = master
+[submodule "fireexposuR"]
+	path = fireexposuR
+	url = https://github.com/ropensci/fireexposuR
+	branch = main
 [submodule "fluidsynth"]
 	path = fluidsynth
 	url = https://github.com/ropensci/fluidsynth
