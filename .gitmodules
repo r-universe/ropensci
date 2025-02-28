@@ -1038,15 +1038,15 @@
 [submodule "rnaturalearth"]
 	path = rnaturalearth
 	url = https://github.com/ropensci/rnaturalearth
-	branch = master
+	branch = main
 [submodule "rnaturalearthdata"]
 	path = rnaturalearthdata
 	url = https://github.com/ropensci/rnaturalearthdata
-	branch = master
+	branch = main
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
-	branch = master
+	branch = main
 [submodule "rnoaa"]
 	path = rnoaa
 	url = https://github.com/ropensci/rnoaa
