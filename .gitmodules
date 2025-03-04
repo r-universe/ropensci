@@ -670,6 +670,10 @@
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
 	branch = main
+[submodule "mbquartR"]
+	path = mbquartR
+	url = https://github.com/ropensci/mbquartR
+	branch = main
 [submodule "mcbette"]
 	path = mcbette
 	url = https://github.com/ropensci/mcbette
