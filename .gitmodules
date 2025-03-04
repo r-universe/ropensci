@@ -654,6 +654,10 @@
 	path = magick
 	url = https://github.com/ropensci/magick
 	branch = master
+[submodule "mapmetadata"]
+	path = mapmetadata
+	url = https://github.com/ropensci/mapmetadata
+	branch = main
 [submodule "mapscanner"]
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
