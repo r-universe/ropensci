@@ -1488,6 +1488,18 @@
     }
   },
   {
+    "package": "pangoling",
+    "metadata": {
+      "review": {
+        "id": 575,
+        "status": "reviewed",
+        "version": "0.0.0.9005",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/575"
+      }
+    }
+  },
+  {
     "package": "parzer",
     "metadata": {
       "review": {

@@ -798,6 +798,10 @@
 	path = pangaear
 	url = https://github.com/ropensci/pangaear
 	branch = master
+[submodule "pangoling"]
+	path = pangoling
+	url = https://github.com/ropensci/pangoling
+	branch = main
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/ropensci/parzer
