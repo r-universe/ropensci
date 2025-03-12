@@ -494,6 +494,10 @@
 	path = geonames
 	url = https://github.com/ropensci/geonames
 	branch = master
+[submodule "geotargets"]
+	path = geotargets
+	url = https://github.com/ropensci/geotargets
+	branch = master
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert

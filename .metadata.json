@@ -972,6 +972,18 @@
     }
   },
   {
+    "package": "geotargets",
+    "metadata": {
+      "review": {
+        "id": 675,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/675"
+      }
+    }
+  },
+  {
     "package": "getCRUCLdata",
     "metadata": {
       "review": {
