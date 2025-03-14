@@ -1155,6 +1155,10 @@
 	path = rzmq
 	url = https://github.com/ropensci/rzmq
 	branch = master
+[submodule "saperlipopette"]
+	path = saperlipopette
+	url = https://github.com/ropensci-training/saperlipopette
+	branch = main
 [submodule "skimr"]
 	path = skimr
 	url = https://github.com/ropensci/skimr
