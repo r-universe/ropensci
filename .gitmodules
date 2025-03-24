@@ -234,6 +234,10 @@
 	path = brranching
 	url = https://github.com/ropensci/brranching
 	branch = master
+[submodule "butterfly"]
+	path = butterfly
+	url = https://github.com/ropensci/butterfly
+	branch = main
 [submodule "c14bazAAR"]
 	path = c14bazAAR
 	url = https://github.com/ropensci/c14bazAAR
