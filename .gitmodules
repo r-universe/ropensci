@@ -1356,6 +1356,10 @@
 	path = universe
 	url = https://github.com/ropensci/universe
 	branch = main
+[submodule "unrtf"]
+	path = unrtf
+	url = https://github.com/ropensci/unrtf
+	branch = main
 [submodule "vcr"]
 	path = vcr
 	url = https://github.com/ropensci/vcr
