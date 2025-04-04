@@ -17,7 +17,12 @@ run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs
 jobs:
   build:
     name: Build and deploy
-    uses: r-universe/workflows/.github/workflows/build.yml@v1
+    uses: r-universe-org/workflows/.github/workflows/build.yml@v1
     with:
       package: ${{inputs.package}}
-    secrets: inherit
+    secrets:
+      DUMMY_SESSION: ${{ secrets.DUMMY_SESSION }}
+      CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+      GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
+      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      BOT_TOKEN: ${{ secrets.GHPAT }}
