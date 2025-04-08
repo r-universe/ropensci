@@ -17,7 +17,7 @@ run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs
 jobs:
   build:
     name: Build and deploy
-    uses: r-universe-org/workflows/.github/workflows/build.yml@v1
+    uses: r-universe-org/workflows/.github/workflows/build.yml@v2
     with:
       package: ${{inputs.package}}
     secrets:
