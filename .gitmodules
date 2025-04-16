@@ -562,6 +562,10 @@
 	path = graphql
 	url = https://github.com/ropensci/graphql
 	branch = master
+[submodule "gtexr"]
+	path = gtexr
+	url = https://github.com/ropensci/gtexr
+	branch = main
 [submodule "gutenbergr"]
 	path = gutenbergr
 	url = https://github.com/ropensci/gutenbergr
