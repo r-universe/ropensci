@@ -480,6 +480,18 @@
     }
   },
   {
+    "package": "c3dr",
+    "metadata": {
+      "review": {
+        "id": 686,
+        "status": "pending",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/686"
+      }
+    }
+  },
+  {
     "package": "cRegulome",
     "metadata": {
       "review": {

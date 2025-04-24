@@ -242,6 +242,10 @@
 	path = c14bazAAR
 	url = https://github.com/ropensci/c14bazAAR
 	branch = master
+[submodule "c3dr"]
+	path = c3dr
+	url = https://github.com/ropensci/c3dr
+	branch = main
 [submodule "cRegulome"]
 	path = cRegulome
 	url = https://github.com/ropensci/cRegulome
