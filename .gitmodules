@@ -125,7 +125,7 @@
 [submodule "agroclimatico"]
 	path = agroclimatico
 	url = https://github.com/ropensci/agroclimatico
-	branch = master
+	branch = main
 [submodule "allcontributors"]
 	path = allcontributors
 	url = https://github.com/ropensci/allcontributors
