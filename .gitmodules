@@ -478,6 +478,10 @@
 	path = fluidsynth
 	url = https://github.com/ropensci/fluidsynth
 	branch = main
+[submodule "forcis"]
+	path = forcis
+	url = https://github.com/ropensci/forcis
+	branch = main
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r

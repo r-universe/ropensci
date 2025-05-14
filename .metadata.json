@@ -972,6 +972,18 @@
     }
   },
   {
+    "package": "forcis",
+    "metadata": {
+      "review": {
+        "id": 660,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/660"
+      }
+    }
+  },
+  {
     "package": "frictionless",
     "metadata": {
       "review": {
