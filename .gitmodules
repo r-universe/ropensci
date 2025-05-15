@@ -825,7 +825,7 @@
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/ropensci/parzer
-	branch = master
+	branch = main
 [submodule "patentsview"]
 	path = patentsview
 	url = https://github.com/ropensci/patentsview
