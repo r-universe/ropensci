@@ -57,7 +57,7 @@
 [submodule "MODIStsp"]
 	path = MODIStsp
 	url = https://github.com/ropensci/MODIStsp
-	branch = master
+	branch = main
 [submodule "MtreeRing"]
 	path = MtreeRing
 	url = https://github.com/ropensci/MtreeRing
