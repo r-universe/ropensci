@@ -910,6 +910,10 @@
 	path = prismjs
 	url = https://github.com/ropensci/prismjs
 	branch = master
+[submodule "promoutils"]
+	path = promoutils
+	url = https://github.com/ropensci-org/promoutils
+	branch = main
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
