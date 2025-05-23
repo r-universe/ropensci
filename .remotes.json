@@ -70,6 +70,12 @@
   {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
+    "via": ["repometrics"],
+    "from": "repometrics"
+  },
+  {
+    "package": "pkgcheck",
+    "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],
     "from": "roreviewapi"
   },
@@ -88,7 +94,7 @@
   {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
-    "via": ["repometrics"],
+    "via": ["repometrics", "pkgcheck"],
     "from": "repometrics"
   },
   {
@@ -115,6 +121,12 @@
     "url": "https://github.com/ropensci-review-tools/srr",
     "via": ["pkgcheck"],
     "from": "pkgcheck"
+  },
+  {
+    "package": "srr",
+    "url": "https://github.com/ropensci-review-tools/srr",
+    "via": ["repometrics", "pkgcheck"],
+    "from": "repometrics"
   },
   {
     "package": "srr",
