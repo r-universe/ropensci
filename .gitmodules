@@ -301,7 +301,7 @@
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
-	branch = master
+	branch = main
 [submodule "cld2"]
 	path = cld2
 	url = https://github.com/ropensci/cld2
