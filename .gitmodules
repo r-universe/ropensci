@@ -66,6 +66,10 @@
 	path = NLMR
 	url = https://github.com/ropensci/NLMR
 	branch = master
+[submodule "PFW"]
+	path = PFW
+	url = https://github.com/ropensci/PFW
+	branch = main
 [submodule "PostcodesioR"]
 	path = PostcodesioR
 	url = https://github.com/ropensci/PostcodesioR
