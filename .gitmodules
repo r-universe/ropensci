@@ -810,10 +810,6 @@
 	path = outcomerate
 	url = https://github.com/ropensci/outcomerate
 	branch = master
-[submodule "ows4R"]
-	path = ows4R
-	url = https://github.com/eblondel/ows4R
-	registered = false
 [submodule "paleobioDB"]
 	path = paleobioDB
 	url = https://github.com/ropensci/paleobioDB
