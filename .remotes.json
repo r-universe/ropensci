@@ -35,7 +35,6 @@
     "package": "crul",
     "url": "https://github.com/ropensci/crul",
     "via": ["vcr"],
-    "branch": "change-mocking",
     "from": "vcr"
   },
   {
@@ -177,7 +176,6 @@
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
     "via": ["vcr", "crul"],
-    "branch": "mocking-change",
     "from": "vcr"
   }
 ]
