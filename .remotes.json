@@ -146,5 +146,12 @@
     "via": ["spatsoc"],
     "branch": "8dae070bc7e15a1a11f21c67ac3757e73bf6735c",
     "from": "spatsoc"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["crul"],
+    "branch": "mocking-change",
+    "from": "crul"
   }
 ]
