@@ -39,6 +39,13 @@
     "from": "vcr"
   },
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["webmockr"],
+    "branch": "change-mocking",
+    "from": "webmockr"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
