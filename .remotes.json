@@ -32,6 +32,13 @@
     "from": "stantargets"
   },
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["vcr"],
+    "branch": "change-mocking",
+    "from": "vcr"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
@@ -42,6 +49,12 @@
     "url": "https://github.com/dkahle/ggmap",
     "via": ["refsplitr"],
     "from": "refsplitr"
+  },
+  {
+    "package": "httr2",
+    "url": "https://github.com/r-lib/httr2",
+    "via": ["vcr"],
+    "from": "vcr"
   },
   {
     "package": "leafem",
@@ -153,5 +166,12 @@
     "via": ["crul"],
     "branch": "mocking-change",
     "from": "crul"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["vcr", "crul"],
+    "branch": "mocking-change",
+    "from": "vcr"
   }
 ]
