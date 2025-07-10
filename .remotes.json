@@ -171,7 +171,6 @@
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
     "via": ["crul"],
-    "branch": "mocking-change",
     "from": "crul"
   },
   {
