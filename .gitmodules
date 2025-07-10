@@ -602,10 +602,6 @@
 	path = hoardr
 	url = https://github.com/ropensci/hoardr
 	branch = master
-[submodule "httr2"]
-	path = httr2
-	url = https://github.com/r-lib/httr2
-	registered = false
 [submodule "hunspell"]
 	path = hunspell
 	url = https://github.com/ropensci/hunspell

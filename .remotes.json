@@ -56,12 +56,6 @@
     "from": "refsplitr"
   },
   {
-    "package": "httr2",
-    "url": "https://github.com/r-lib/httr2",
-    "via": ["vcr"],
-    "from": "vcr"
-  },
-  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
