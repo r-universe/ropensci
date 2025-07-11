@@ -345,7 +345,7 @@
 [submodule "concstats"]
 	path = concstats
 	url = https://github.com/ropensci/concstats
-	branch = master
+	branch = main
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
