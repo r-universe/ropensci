@@ -38,12 +38,6 @@
     "from": "vcr"
   },
   {
-    "package": "crul",
-    "url": "https://github.com/ropensci/crul",
-    "via": ["webmockr"],
-    "from": "webmockr"
-  },
-  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
