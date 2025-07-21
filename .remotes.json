@@ -32,12 +32,6 @@
     "from": "stantargets"
   },
   {
-    "package": "crul",
-    "url": "https://github.com/ropensci/crul",
-    "via": ["vcr"],
-    "from": "vcr"
-  },
-  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
@@ -145,11 +139,5 @@
     "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
-  },
-  {
-    "package": "webmockr",
-    "url": "https://github.com/ropensci/webmockr",
-    "via": ["vcr", "crul"],
-    "from": "vcr"
   }
 ]
