@@ -2100,6 +2100,18 @@
     }
   },
   {
+    "package": "sits",
+    "metadata": {
+      "review": {
+        "id": 596,
+        "status": "reviewed",
+        "version": "1.5.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/596"
+      }
+    }
+  },
+  {
     "package": "skimr",
     "metadata": {
       "review": {
