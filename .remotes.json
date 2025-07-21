@@ -156,12 +156,6 @@
   {
     "package": "webmockr",
     "url": "https://github.com/ropensci/webmockr",
-    "via": ["crul"],
-    "from": "crul"
-  },
-  {
-    "package": "webmockr",
-    "url": "https://github.com/ropensci/webmockr",
     "via": ["vcr", "crul"],
     "from": "vcr"
   }
