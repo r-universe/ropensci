@@ -32,6 +32,12 @@
     "from": "stantargets"
   },
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["vcr"],
+    "from": "vcr"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
