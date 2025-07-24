@@ -38,6 +38,12 @@
     "from": "vcr"
   },
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["wikitaxa", "vcr"],
+    "from": "wikitaxa"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
@@ -145,5 +151,11 @@
     "url": "https://github.com/ropensci/tinkr",
     "via": ["babeldown"],
     "from": "babeldown"
+  },
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["wikitaxa"],
+    "from": "wikitaxa"
   }
 ]
