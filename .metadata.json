@@ -2100,6 +2100,18 @@
     }
   },
   {
+    "package": "sasquatch",
+    "metadata": {
+      "review": {
+        "id": 673,
+        "status": "reviewed",
+        "version": "0.0.0.9004",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/673"
+      }
+    }
+  },
+  {
     "package": "sits",
     "metadata": {
       "review": {

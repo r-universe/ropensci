@@ -1175,6 +1175,10 @@
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
 	branch = main
+[submodule "sasquatch"]
+	path = sasquatch
+	url = https://github.com/ropensci/sasquatch
+	branch = main
 [submodule "sits"]
 	path = sits
 	url = https://github.com/e-sensing/sits
