@@ -1,5 +1,11 @@
 [
   {
+    "package": "CopernicusMarine",
+    "url": "https://github.com/pepijn-devries/CopernicusMarine",
+    "via": ["bowerbird"],
+    "from": "bowerbird"
+  },
+  {
     "package": "DoOR.data",
     "url": "https://github.com/Dahaniel/DoOR.data",
     "via": ["DoOR.functions"],
@@ -18,6 +24,12 @@
     "url": "https://github.com/hyunjimoon/SBC",
     "via": ["stantargets"],
     "from": "stantargets"
+  },
+  {
+    "package": "aws.s3",
+    "url": "https://github.com/cloudyr/aws.s3",
+    "via": ["bowerbird"],
+    "from": "bowerbird"
   },
   {
     "package": "babelquarto",

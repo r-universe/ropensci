@@ -14,6 +14,10 @@
 	path = CoordinateCleaner
 	url = https://github.com/ropensci/CoordinateCleaner
 	branch = master
+[submodule "CopernicusMarine"]
+	path = CopernicusMarine
+	url = https://github.com/pepijn-devries/CopernicusMarine
+	registered = false
 [submodule "DataPackageR"]
 	path = DataPackageR
 	url = https://github.com/ropensci/DataPackageR
@@ -174,6 +178,10 @@
 	path = awardFindR
 	url = https://github.com/ropensci/awardFindR
 	branch = master
+[submodule "aws.s3"]
+	path = aws.s3
+	url = https://github.com/cloudyr/aws.s3
+	registered = false
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/ropensci/baRcodeR
