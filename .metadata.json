@@ -396,6 +396,18 @@
     }
   },
   {
+    "package": "babelquarto",
+    "metadata": {
+      "review": {
+        "id": 720,
+        "status": "unknown",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/720"
+      }
+    }
+  },
+  {
     "package": "babette",
     "metadata": {
       "review": {
