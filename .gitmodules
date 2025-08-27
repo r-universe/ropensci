@@ -378,6 +378,10 @@
 	path = datapack
 	url = https://github.com/ropensci/datapack
 	branch = main
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/ropensci/dataset
+	branch = main
 [submodule "dataspice"]
 	path = dataspice
 	url = https://github.com/ropensci/dataspice

@@ -744,6 +744,18 @@
     }
   },
   {
+    "package": "dataset",
+    "metadata": {
+      "review": {
+        "id": 681,
+        "status": "reviewed",
+        "version": "0.3.4002",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/681"
+      }
+    }
+  },
+  {
     "package": "dataspice",
     "metadata": {
       "review": {
