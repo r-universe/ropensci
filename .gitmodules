@@ -546,10 +546,6 @@
 	path = gigs
 	url = https://github.com/ropensci/gigs
 	branch = main
-[submodule "gistr"]
-	path = gistr
-	url = https://github.com/ropensci/gistr
-	branch = master
 [submodule "git2r"]
 	path = git2r
 	url = https://github.com/ropensci/git2r
