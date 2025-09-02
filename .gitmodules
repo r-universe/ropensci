@@ -574,6 +574,10 @@
 	path = googleLanguageR
 	url = https://github.com/ropensci/googleLanguageR
 	branch = master
+[submodule "gpg"]
+	path = gpg
+	url = https://github.com/ropensci/gpg
+	branch = master
 [submodule "grainchanger"]
 	path = grainchanger
 	url = https://github.com/ropensci/grainchanger
