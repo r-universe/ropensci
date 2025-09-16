@@ -1075,6 +1075,10 @@
 	path = rix
 	url = https://github.com/ropensci/rix
 	branch = main
+[submodule "rixpress"]
+	path = rixpress
+	url = https://github.com/ropensci/rixpress
+	branch = main
 [submodule "rmangal"]
 	path = rmangal
 	url = https://github.com/ropensci/rmangal
