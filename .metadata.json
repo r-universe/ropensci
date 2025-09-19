@@ -1176,6 +1176,18 @@
     }
   },
   {
+    "package": "hdcuremodels",
+    "metadata": {
+      "review": {
+        "id": 692,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/692"
+      }
+    }
+  },
+  {
     "package": "hddtools",
     "metadata": {
       "review": {
