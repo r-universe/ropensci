@@ -1247,6 +1247,10 @@
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
 	branch = main
+[submodule "ssarp"]
+	path = ssarp
+	url = https://github.com/ropensci/ssarp
+	branch = main
 [submodule "ssh"]
 	path = ssh
 	url = https://github.com/ropensci/ssh
