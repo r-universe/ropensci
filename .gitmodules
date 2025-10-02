@@ -690,6 +690,10 @@
 	path = lingtypology
 	url = https://github.com/ropensci/lingtypology
 	branch = master
+[submodule "lwgeom"]
+	path = lwgeom
+	url = https://github.com/r-spatial/lwgeom
+	registered = false
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick

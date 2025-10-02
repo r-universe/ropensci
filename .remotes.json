@@ -74,6 +74,12 @@
     "from": "ruODK"
   },
   {
+    "package": "lwgeom",
+    "url": "https://github.com/r-spatial/lwgeom",
+    "via": ["spatsoc"],
+    "from": "spatsoc"
+  },
+  {
     "package": "mapview",
     "url": "https://github.com/r-spatial/mapview",
     "via": ["ruODK"],
