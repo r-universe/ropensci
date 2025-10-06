@@ -936,6 +936,30 @@
     }
   },
   {
+    "package": "essurvey",
+    "metadata": {
+      "review": {
+        "id": 201,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/201"
+      }
+    }
+  },
+  {
+    "package": "europepmc",
+    "metadata": {
+      "review": {
+        "id": 29,
+        "status": "reviewed",
+        "version": "0.0.999",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/29"
+      }
+    }
+  },
+  {
     "package": "excluder",
     "metadata": {
       "review": {
@@ -980,6 +1004,18 @@
         "version": "1.0.0.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/606"
+      }
+    }
+  },
+  {
+    "package": "fellingdater",
+    "metadata": {
+      "review": {
+        "id": 618,
+        "status": "reviewed",
+        "version": "0.0.0.9003",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/618"
       }
     }
   },
@@ -1644,6 +1680,18 @@
     }
   },
   {
+    "package": "pathviewr",
+    "metadata": {
+      "review": {
+        "id": 409,
+        "status": "reviewed",
+        "version": "0.9.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/409"
+      }
+    }
+  },
+  {
     "package": "phonfieldwork",
     "metadata": {
       "review": {
@@ -1736,6 +1784,18 @@
         "version": "0.4.2",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/671"
+      }
+    }
+  },
+  {
+    "package": "plater",
+    "metadata": {
+      "review": {
+        "id": 60,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/60"
       }
     }
   },
@@ -1892,6 +1952,18 @@
         "version": "1.7.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/386"
+      }
+    }
+  },
+  {
+    "package": "refsplitr",
+    "metadata": {
+      "review": {
+        "id": 256,
+        "status": "reviewed",
+        "version": "0.6",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/256"
       }
     }
   },
@@ -2244,6 +2316,18 @@
     }
   },
   {
+    "package": "ssarp",
+    "metadata": {
+      "review": {
+        "id": 685,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/685"
+      }
+    }
+  },
+  {
     "package": "stantargets",
     "metadata": {
       "review": {
@@ -2288,6 +2372,18 @@
         "version": "0.9-0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/195"
+      }
+    }
+  },
+  {
+    "package": "tabulapdf",
+    "metadata": {
+      "review": {
+        "id": 42,
+        "status": "reviewed",
+        "version": "0.1.11",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/42"
       }
     }
   },
