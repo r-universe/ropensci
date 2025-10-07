@@ -842,6 +842,10 @@
 	path = pangoling
 	url = https://github.com/ropensci/pangoling
 	branch = main
+[submodule "partialling.out"]
+	path = partialling.out
+	url = https://github.com/ropensci/partialling.out
+	branch = main
 [submodule "parzer"]
 	path = parzer
 	url = https://github.com/ropensci/parzer

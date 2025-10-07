@@ -1656,6 +1656,18 @@
     }
   },
   {
+    "package": "partialling.out",
+    "metadata": {
+      "review": {
+        "id": 703,
+        "status": "pending",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/703"
+      }
+    }
+  },
+  {
     "package": "parzer",
     "metadata": {
       "review": {
