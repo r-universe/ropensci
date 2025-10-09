@@ -40,7 +40,8 @@ jobs:
       cancel-in-progress: true
     uses: r-universe-org/workflows/.github/workflows/build.yml@v2
     with:
-      package: ${{inputs.package}}
+      package: ${{ inputs.package }}
+      universe: ${{ github.event.repository.name }}
     secrets:
       DUMMY_SESSION: ${{ secrets.DUMMY_SESSION }}
       CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
