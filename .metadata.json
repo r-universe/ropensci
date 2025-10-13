@@ -2136,18 +2136,6 @@
     }
   },
   {
-    "package": "rppo",
-    "metadata": {
-      "review": {
-        "id": 207,
-        "status": "reviewed",
-        "version": "1.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/207"
-      }
-    }
-  },
-  {
     "package": "rredlist",
     "metadata": {
       "review": {

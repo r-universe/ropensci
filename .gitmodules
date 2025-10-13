@@ -1143,10 +1143,6 @@
 	path = rperseus
 	url = https://github.com/ropensci/rperseus
 	branch = master
-[submodule "rppo"]
-	path = rppo
-	url = https://github.com/ropensci/rppo
-	branch = master
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
