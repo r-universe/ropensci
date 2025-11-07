@@ -786,10 +786,6 @@
 	path = ohun
 	url = https://github.com/ropensci/ohun
 	branch = master
-[submodule "onekp"]
-	path = onekp
-	url = https://github.com/ropensci/onekp
-	branch = master
 [submodule "openalexR"]
 	path = openalexR
 	url = https://github.com/ropensci/openalexR
