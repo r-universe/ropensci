@@ -165,12 +165,6 @@
     "from": "roreviewapi"
   },
   {
-    "package": "taxizedb",
-    "url": "https://github.com/ropensci/taxizedb",
-    "via": ["onekp"],
-    "from": "onekp"
-  },
-  {
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
     "via": ["aeolus"],
