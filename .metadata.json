@@ -804,6 +804,18 @@
     }
   },
   {
+    "package": "distionary",
+    "metadata": {
+      "review": {
+        "id": 688,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/688"
+      }
+    }
+  },
+  {
     "package": "dittodb",
     "metadata": {
       "review": {

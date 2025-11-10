@@ -402,6 +402,10 @@
 	path = deposits
 	url = https://github.com/ropenscilabs/deposits
 	branch = main
+[submodule "distionary"]
+	path = distionary
+	url = https://github.com/probaverse/distionary
+	branch = main
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/ropensci/dittodb
