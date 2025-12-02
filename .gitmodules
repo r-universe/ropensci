@@ -430,10 +430,6 @@
 	path = eia
 	url = https://github.com/ropensci/eia
 	branch = master
-[submodule "elastic"]
-	path = elastic
-	url = https://github.com/ropensci/elastic
-	branch = master
 [submodule "emld"]
 	path = emld
 	url = https://github.com/ropensci/emld
