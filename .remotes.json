@@ -52,12 +52,6 @@
   {
     "package": "crul",
     "url": "https://github.com/ropensci/crul",
-    "via": ["vcr"],
-    "from": "vcr"
-  },
-  {
-    "package": "crul",
-    "url": "https://github.com/ropensci/crul",
     "via": ["wikitaxa", "vcr"],
     "from": "wikitaxa"
   },
