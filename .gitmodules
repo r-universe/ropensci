@@ -698,6 +698,10 @@
 	path = magick
 	url = https://github.com/ropensci/magick
 	branch = master
+[submodule "mantis"]
+	path = mantis
+	url = https://github.com/ropensci/mantis
+	branch = main
 [submodule "mapmetadata"]
 	path = mapmetadata
 	url = https://github.com/ropensci/mapmetadata
