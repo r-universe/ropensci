@@ -248,15 +248,21 @@
   },
   {
     "package": "RNeXML",
-    "metadata": "data-publication"
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
   },
   {
     "package": "RSelenium",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "ReLTER",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "RefManageR",
@@ -312,19 +318,27 @@
   },
   {
     "package": "USAboundaries",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "USAboundariesData",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "aRxiv",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "aeolus",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "agroclimatico",
@@ -341,7 +355,9 @@
   },
   {
     "package": "allcontributors",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "allodb",
@@ -371,7 +387,9 @@
   },
   {
     "package": "antiword",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "aorsf",
@@ -427,11 +445,15 @@
   },
   {
     "package": "autotest",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "av",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "awardFindR",
@@ -474,7 +496,9 @@
   },
   {
     "package": "babeldown",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "babelquarto",
@@ -504,11 +528,15 @@
   },
   {
     "package": "beastier",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "beautier",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "bib2df",
@@ -525,7 +553,9 @@
   },
   {
     "package": "bibtex",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "bikedata",
@@ -542,7 +572,9 @@
   },
   {
     "package": "binman",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "biomartr",
@@ -572,7 +604,9 @@
   },
   {
     "package": "bold",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "bowerbird",
@@ -589,7 +623,9 @@
   },
   {
     "package": "brranching",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "butterfly",
@@ -762,7 +798,9 @@
   },
   {
     "package": "chromer",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "circle",
@@ -779,19 +817,27 @@
   },
   {
     "package": "citecorp",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "ckanr",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "cld2",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "cld3",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "codemetar",
@@ -834,11 +880,15 @@
   },
   {
     "package": "commonmark",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "commonmetar",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "comtradr",
@@ -868,11 +918,15 @@
   },
   {
     "package": "credentials",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "crul",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "cyphr",
@@ -915,7 +969,9 @@
   },
   {
     "package": "datapack",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "dataset",
@@ -984,7 +1040,9 @@
   },
   {
     "package": "deposits",
-    "metadata": "data-publication"
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
   },
   {
     "package": "distionary",
@@ -1261,7 +1319,9 @@
   },
   {
     "package": "fluidsynth",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "forcis",
@@ -1317,15 +1377,21 @@
   },
   {
     "package": "geojson",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geojsonio",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geonames",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "geotargets",
@@ -1342,7 +1408,9 @@
   },
   {
     "package": "gert",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "getCRUCLdata",
@@ -1359,7 +1427,9 @@
   },
   {
     "package": "ghql",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "gigs",
@@ -1376,7 +1446,9 @@
   },
   {
     "package": "git2r",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "git2rdata",
@@ -1393,7 +1465,9 @@
   },
   {
     "package": "gitcellar",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "gitignore",
@@ -1423,7 +1497,9 @@
   },
   {
     "package": "goodpractice",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "googleLanguageR",
@@ -1440,7 +1516,9 @@
   },
   {
     "package": "gpg",
-    "metadata": "security"
+    "metadata": {
+      "ropensci_category": "security"
+    }
   },
   {
     "package": "grainchanger",
@@ -1457,7 +1535,9 @@
   },
   {
     "package": "graphql",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "gtexr",
@@ -1487,7 +1567,9 @@
   },
   {
     "package": "handlr",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "hdcuremodels",
@@ -1517,19 +1599,27 @@
   },
   {
     "package": "helminthR",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "historydata",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "hoardr",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "hunspell",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "hydroscoper",
@@ -1546,7 +1636,9 @@
   },
   {
     "package": "icepalace",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "iheatmapr",
@@ -1576,7 +1668,9 @@
   },
   {
     "package": "internetarchive",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "jagstargets",
@@ -1593,19 +1687,27 @@
   },
   {
     "package": "jenkins",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "jqr",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "jsonld",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "jsonvalidate",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "jstor",
@@ -1635,11 +1737,15 @@
   },
   {
     "package": "katex",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "landscapetools",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "lightr",
@@ -1669,7 +1775,9 @@
   },
   {
     "package": "magick",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "mantis",
@@ -1711,7 +1819,9 @@
   },
   {
     "package": "mauricer",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "mbquartR",
@@ -1819,11 +1929,15 @@
   },
   {
     "package": "natserv",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "neotoma",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "nlrx",
@@ -1840,7 +1954,9 @@
   },
   {
     "package": "nodbi",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "nomisr",
@@ -1948,7 +2064,9 @@
   },
   {
     "package": "opencv",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "opentripplanner",
@@ -2043,11 +2161,15 @@
   },
   {
     "package": "paleobioDB",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "pangaear",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "pangoling",
@@ -2116,7 +2238,9 @@
   },
   {
     "package": "pdftools",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "phonfieldwork",
@@ -2159,7 +2283,9 @@
   },
   {
     "package": "phylocomr",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "phylogram",
@@ -2215,7 +2341,9 @@
   },
   {
     "package": "pkgcheck",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "pkgmatch",
@@ -2232,11 +2360,15 @@
   },
   {
     "package": "pkgreviewr",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "pkgstats",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "plater",
@@ -2266,7 +2398,9 @@
   },
   {
     "package": "postdoc",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "predictNMB",
@@ -2283,23 +2417,33 @@
   },
   {
     "package": "prism",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "prismjs",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "promoutils",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "qcoder",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "qpdf",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "quadkeyr",
@@ -2342,11 +2486,15 @@
   },
   {
     "package": "quartificate",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "r2readthedocs",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rOPTRAM",
@@ -2415,15 +2563,21 @@
   },
   {
     "package": "rcrossref",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "rdatacite",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "rdataretriever",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rdflib",
@@ -2453,7 +2607,9 @@
   },
   {
     "package": "rdryad",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "readODS",
@@ -2470,11 +2626,15 @@
   },
   {
     "package": "rebird",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "redland",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "refsplitr",
@@ -2491,15 +2651,21 @@
   },
   {
     "package": "rentrez",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "repometrics",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rerddap",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "restez",
@@ -2542,23 +2708,33 @@
   },
   {
     "package": "rfisheries",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rgbif",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rglobi",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rgnparser",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "rgpdd",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "riem",
@@ -2575,11 +2751,15 @@
   },
   {
     "package": "rinat",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "ritis",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "rix",
@@ -2648,15 +2828,21 @@
   },
   {
     "package": "rnaturalearthdata",
-    "metadata": "geospatial"
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
   },
   {
     "package": "rnaturalearthhires",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rnoaa",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "roadoi",
@@ -2673,7 +2859,9 @@
   },
   {
     "package": "roblog",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "robotstxt",
@@ -2690,11 +2878,15 @@
   },
   {
     "package": "roreviewapi",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rotemplate",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "rotl",
@@ -2750,7 +2942,9 @@
   },
   {
     "package": "rrricanesdata",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rsat",
@@ -2780,11 +2974,15 @@
   },
   {
     "package": "rsnps",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rsvg",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "rtika",
@@ -2827,15 +3025,21 @@
   },
   {
     "package": "rvertnet",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "rzmq",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "saperlipopette",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "sasquatch",
@@ -2917,11 +3121,15 @@
   },
   {
     "package": "sodium",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "sofa",
-    "metadata": "databases"
+    "metadata": {
+      "ropensci_category": "databases"
+    }
   },
   {
     "package": "spatsoc",
@@ -2938,7 +3146,9 @@
   },
   {
     "package": "spelling",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "spiro",
@@ -2955,11 +3165,15 @@
   },
   {
     "package": "spocc",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "srr",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "ssarp",
@@ -2976,7 +3190,9 @@
   },
   {
     "package": "ssh",
-    "metadata": "security"
+    "metadata": {
+      "ropensci_category": "security"
+    }
   },
   {
     "package": "stantargets",
@@ -3058,7 +3274,9 @@
   },
   {
     "package": "tarchetypes",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "targets",
@@ -3075,7 +3293,9 @@
   },
   {
     "package": "taxa",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxadb",
@@ -3092,11 +3312,15 @@
   },
   {
     "package": "taxize",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxizedb",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "taxlist",
@@ -3126,7 +3350,9 @@
   },
   {
     "package": "tesseract",
-    "metadata": "image-processing"
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
   },
   {
     "package": "textreuse",
@@ -3208,7 +3434,9 @@
   },
   {
     "package": "tif",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "tiler",
@@ -3225,7 +3453,9 @@
   },
   {
     "package": "tinkr",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "tokenizers",
@@ -3242,7 +3472,9 @@
   },
   {
     "package": "tracerer",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "tradestatistics",
@@ -3259,11 +3491,15 @@
   },
   {
     "package": "traits",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "treebase",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "treedata.table",
@@ -3345,15 +3581,21 @@
   },
   {
     "package": "universe",
-    "metadata": "scalereprod"
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
   },
   {
     "package": "unrtf",
-    "metadata": "literature"
+    "metadata": {
+      "ropensci_category": "literature"
+    }
   },
   {
     "package": "vcr",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "virtuoso",
@@ -3409,7 +3651,9 @@
   },
   {
     "package": "wdman",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "weatherOz",
@@ -3439,15 +3683,21 @@
   },
   {
     "package": "webchem",
-    "metadata": "data-access"
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
   },
   {
     "package": "webmockr",
-    "metadata": "http-tools"
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
   },
   {
     "package": "wikitaxa",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "wmm",
@@ -3477,15 +3727,21 @@
   },
   {
     "package": "worrms",
-    "metadata": "taxonomy"
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
   },
   {
     "package": "writexl",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "xslt",
-    "metadata": "data-extraction"
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
   },
   {
     "package": "yfR",
