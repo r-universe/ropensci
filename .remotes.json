@@ -175,5 +175,11 @@
     "url": "https://github.com/ropensci/vcr",
     "via": ["wikitaxa"],
     "from": "wikitaxa"
+  },
+  {
+    "package": "waffle",
+    "url": "https://github.com/hrbrmstr/waffle",
+    "via": ["ReLTER"],
+    "from": "ReLTER"
   }
 ]

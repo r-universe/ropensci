@@ -1419,6 +1419,10 @@
 	path = visdat
 	url = https://github.com/ropensci/visdat
 	branch = master
+[submodule "waffle"]
+	path = waffle
+	url = https://github.com/hrbrmstr/waffle
+	registered = false
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
