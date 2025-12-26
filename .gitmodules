@@ -393,7 +393,7 @@
 [submodule "dbparser"]
 	path = dbparser
 	url = https://github.com/ropensci/dbparser
-	branch = master
+	branch = dev
 [submodule "dendroNetwork"]
 	path = dendroNetwork
 	url = https://github.com/ropensci/dendroNetwork
