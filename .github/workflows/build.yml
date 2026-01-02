@@ -17,7 +17,7 @@ run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs
 jobs:
   prepare:
     if: "!contains(github.event.head_commit.message, 'Deleting packages')"
-    name: Prepare
+    name: Setup
     runs-on: ubuntu-latest
     outputs:
       package: ${{ steps.lookup.outputs.package }}
@@ -32,16 +32,15 @@ jobs:
           fi
           echo "package=$package" >> $GITHUB_OUTPUT
 
-  build:
+  deploy:
     needs: prepare
-    name: Build and deploy
+    name: Deploy to R-universe
     concurrency:
-      group: ${{ needs.prepare.outputs.package }}
+      group: deploy-${{ needs.prepare.outputs.package }}
       cancel-in-progress: true
-    uses: r-universe-org/workflows/.github/workflows/build.yml@v2
+    uses: r-universe-org/workflows/.github/workflows/deploy.yml@v3
     with:
       package: ${{ inputs.package }}
-      universe: ${{ github.event.repository.name }}
     secrets:
       DUMMY_SESSION: ${{ secrets.DUMMY_SESSION }}
       CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}

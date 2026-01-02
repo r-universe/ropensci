@@ -11,7 +11,7 @@ name: Cleanup package server
 jobs:
   update:
     name: Delete removed packages
-    uses: r-universe-org/workflows/.github/workflows/cleanup.yml@v2
+    uses: r-universe-org/workflows/.github/workflows/cleanup.yml@v3
     secrets:
       CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
       BOT_TOKEN: ${{ secrets.GHPAT }}
