@@ -941,7 +941,7 @@
 [submodule "qcoder"]
 	path = qcoder
 	url = https://github.com/ropenscilabs/qcoder
-	branch = master
+	branch = main
 [submodule "qpdf"]
 	path = qpdf
 	url = https://github.com/ropensci/qpdf
