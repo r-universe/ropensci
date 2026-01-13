@@ -1010,6 +1010,10 @@
 	path = rdryad
 	url = https://github.com/ropensci/rdryad
 	branch = master
+[submodule "read.abares"]
+	path = read.abares
+	url = https://github.com/ropensci/read.abares
+	branch = main
 [submodule "readODS"]
 	path = readODS
 	url = https://github.com/ropensci/readODS
