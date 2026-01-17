@@ -56,6 +56,12 @@
     "from": "wikitaxa"
   },
   {
+    "package": "elastic",
+    "url": "https://github.com/ropensci-archive/elastic",
+    "via": ["nodbi"],
+    "from": "nodbi"
+  },
+  {
     "package": "emo",
     "url": "https://github.com/hadley/emo",
     "via": ["pkgreviewr"],
