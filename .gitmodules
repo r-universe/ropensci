@@ -642,6 +642,10 @@
 	path = internetarchive
 	url = https://github.com/ropensci/internetarchive
 	branch = master
+[submodule "ips"]
+	path = ips
+	url = https://github.com/cran/ips
+	registered = false
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets

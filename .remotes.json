@@ -68,6 +68,12 @@
     "from": "refsplitr"
   },
   {
+    "package": "ips",
+    "url": "https://github.com/cran/ips",
+    "via": ["phruta"],
+    "from": "phruta"
+  },
+  {
     "package": "leafem",
     "url": "https://github.com/r-spatial/leafem",
     "via": ["ruODK"],
