@@ -122,6 +122,12 @@
     "from": "roreviewapi"
   },
   {
+    "package": "reutils",
+    "url": "https://github.com/cran/reutils",
+    "via": ["phruta"],
+    "from": "phruta"
+  },
+  {
     "package": "rrricanes",
     "url": "https://github.com/ropensci/rrricanes",
     "via": ["rrricanesdata"],

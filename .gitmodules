@@ -1047,6 +1047,10 @@
 	path = restez
 	url = https://github.com/ropensci/restez
 	branch = main
+[submodule "reutils"]
+	path = reutils
+	url = https://github.com/cran/reutils
+	registered = false
 [submodule "rfema"]
 	path = rfema
 	url = https://github.com/ropensci/rfema
