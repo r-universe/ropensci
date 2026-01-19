@@ -26,12 +26,6 @@
     "from": "stantargets"
   },
   {
-    "package": "USAboundariesData",
-    "url": "https://github.com/ropensci/USAboundariesData",
-    "via": ["USAboundaries"],
-    "from": "USAboundaries"
-  },
-  {
     "package": "aws.s3",
     "url": "https://github.com/cloudyr/aws.s3",
     "via": ["bowerbird"],
