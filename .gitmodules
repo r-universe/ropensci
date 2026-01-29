@@ -14,10 +14,6 @@
 	path = CoordinateCleaner
 	url = https://github.com/ropensci/CoordinateCleaner
 	branch = master
-[submodule "CopernicusMarine"]
-	path = CopernicusMarine
-	url = https://github.com/pepijn-devries/CopernicusMarine
-	registered = false
 [submodule "DataPackageR"]
 	path = DataPackageR
 	url = https://github.com/ropensci/DataPackageR
@@ -102,10 +98,6 @@
 	path = Rpolyhedra
 	url = https://github.com/ropensci/Rpolyhedra
 	branch = master
-[submodule "SBC"]
-	path = SBC
-	url = https://github.com/hyunjimoon/SBC
-	registered = false
 [submodule "SymbiotaR2"]
 	path = SymbiotaR2
 	url = https://github.com/ropensci/SymbiotaR2
@@ -178,10 +170,6 @@
 	path = awardFindR
 	url = https://github.com/ropensci/awardFindR
 	branch = master
-[submodule "aws.s3"]
-	path = aws.s3
-	url = https://github.com/cloudyr/aws.s3
-	registered = false
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/ropensci/baRcodeR
@@ -322,10 +310,6 @@
 	path = cld3
 	url = https://github.com/ropensci/cld3
 	branch = master
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "codemetar"]
 	path = codemetar
 	url = https://github.com/ropensci/codemetar
@@ -434,18 +418,10 @@
 	path = eia
 	url = https://github.com/ropensci/eia
 	branch = master
-[submodule "elastic"]
-	path = elastic
-	url = https://github.com/ropensci-archive/elastic
-	registered = false
 [submodule "emld"]
 	path = emld
 	url = https://github.com/ropensci/emld
 	branch = master
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
 [submodule "emodnet.wfs"]
 	path = emodnet.wfs
 	url = https://github.com/EMODnet/emodnet.wfs
@@ -542,10 +518,6 @@
 	path = getCRUCLdata
 	url = https://github.com/ropensci/getCRUCLdata
 	branch = main
-[submodule "ggmap"]
-	path = ggmap
-	url = https://github.com/dkahle/ggmap
-	registered = false
 [submodule "ghql"]
 	path = ghql
 	url = https://github.com/ropensci/ghql
@@ -650,10 +622,6 @@
 	path = internetarchive
 	url = https://github.com/ropensci/internetarchive
 	branch = master
-[submodule "ips"]
-	path = ips
-	url = https://github.com/cran/ips
-	registered = false
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
@@ -690,10 +658,6 @@
 	path = landscapetools
 	url = https://github.com/ropensci/landscapetools
 	branch = master
-[submodule "leafem"]
-	path = leafem
-	url = https://github.com/r-spatial/leafem
-	registered = false
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
@@ -702,10 +666,6 @@
 	path = lingtypology
 	url = https://github.com/ropensci/lingtypology
 	branch = master
-[submodule "lwgeom"]
-	path = lwgeom
-	url = https://github.com/r-spatial/lwgeom
-	registered = false
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
@@ -722,10 +682,6 @@
 	path = mapscanner
 	url = https://github.com/ropensci/mapscanner
 	branch = main
-[submodule "mapview"]
-	path = mapview
-	url = https://github.com/r-spatial/mapview
-	registered = false
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/ropensci/mauricer
@@ -1059,10 +1015,6 @@
 	path = restez
 	url = https://github.com/ropensci/restez
 	branch = main
-[submodule "reutils"]
-	path = reutils
-	url = https://github.com/cran/reutils
-	registered = false
 [submodule "rfema"]
 	path = rfema
 	url = https://github.com/ropensci/rfema
@@ -1179,10 +1131,6 @@
 	path = rsat
 	url = https://github.com/ropensci/rsat
 	branch = master
-[submodule "rsgeo"]
-	path = rsgeo
-	url = https://github.com/JosiahParry/rsgeo
-	registered = false
 [submodule "rsi"]
 	path = rsi
 	url = https://github.com/Permian-Global-Research/rsi
@@ -1439,10 +1387,6 @@
 	path = visdat
 	url = https://github.com/ropensci/visdat
 	branch = master
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/hrbrmstr/waffle
-	registered = false
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
