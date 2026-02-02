@@ -882,10 +882,6 @@
 	path = plater
 	url = https://github.com/ropensci/plater
 	branch = master
-[submodule "popler"]
-	path = popler
-	url = https://github.com/ropensci/popler
-	branch = master
 [submodule "postdoc"]
 	path = postdoc
 	url = https://github.com/ropensci/postdoc

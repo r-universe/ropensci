@@ -2396,19 +2396,6 @@
     }
   },
   {
-    "package": "popler",
-    "metadata": {
-      "review": {
-        "id": 254,
-        "status": "reviewed",
-        "version": "0.0.0.9001",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/254"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "postdoc",
     "metadata": {
       "ropensci_category": "scalereprod"
