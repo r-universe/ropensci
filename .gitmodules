@@ -922,10 +922,6 @@
 	path = quartificate
 	url = https://github.com/ropenscilabs/quartificate
 	branch = main
-[submodule "r2readthedocs"]
-	path = r2readthedocs
-	url = https://github.com/ropenscilabs/r2readthedocs
-	branch = main
 [submodule "rOPTRAM"]
 	path = rOPTRAM
 	url = https://github.com/ropensci/rOPTRAM

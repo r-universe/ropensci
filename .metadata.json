@@ -2477,12 +2477,6 @@
     }
   },
   {
-    "package": "r2readthedocs",
-    "metadata": {
-      "ropensci_category": "scalereprod"
-    }
-  },
-  {
     "package": "rOPTRAM",
     "metadata": {
       "review": {
