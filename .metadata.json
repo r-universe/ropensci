@@ -667,19 +667,6 @@
     }
   },
   {
-    "package": "cRegulome",
-    "metadata": {
-      "review": {
-        "id": 149,
-        "status": "reviewed",
-        "version": "0.99.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/149"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "camsRad",
     "metadata": {
       "review": {

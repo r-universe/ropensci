@@ -246,10 +246,6 @@
 	path = c3dr
 	url = https://github.com/ropensci/c3dr
 	branch = main
-[submodule "cRegulome"]
-	path = cRegulome
-	url = https://github.com/ropensci/cRegulome
-	branch = master
 [submodule "camsRad"]
 	path = camsRad
 	url = https://github.com/ropensci/camsRad
