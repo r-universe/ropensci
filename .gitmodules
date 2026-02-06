@@ -770,6 +770,10 @@
 	path = opentripplanner
 	url = https://github.com/ropensci/opentripplanner
 	branch = master
+[submodule "orgmetrics"]
+	path = orgmetrics
+	url = https://github.com/ropensci-review-tools/orgmetrics
+	branch = main
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/ropensci/osfr
