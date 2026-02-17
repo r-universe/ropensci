@@ -1040,7 +1040,8 @@
         "version": "0.1.2",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/556"
-      }
+      },
+      "ropensci_category": "stat"
     }
   },
   {
@@ -1787,7 +1788,8 @@
         "version": "0.3.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/710"
-      }
+      },
+      "ropensci_category": "data-extraction"
     }
   },
   {
@@ -2078,6 +2080,12 @@
         "url": "https://github.com/ropensci/software-review/issues/295"
       },
       "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "orgmetrics",
+    "metadata": {
+      "ropensci_category": "scalereprod"
     }
   },
   {
@@ -2600,7 +2608,8 @@
         "version": "0.1.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/667"
-      }
+      },
+      "ropensci_category": "data-access"
     }
   },
   {
