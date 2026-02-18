@@ -517,7 +517,7 @@
 [submodule "ghql"]
 	path = ghql
 	url = https://github.com/ropensci/ghql
-	branch = master
+	branch = main
 [submodule "gigs"]
 	path = gigs
 	url = https://github.com/ropensci/gigs
