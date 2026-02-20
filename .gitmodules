@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/ropensci/roregistry
 	branch = HEAD
+[submodule "Athlytics"]
+	path = Athlytics
+	url = https://github.com/ropensci/Athlytics
+	branch = main
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/ropensci/BaseSet
