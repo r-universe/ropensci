@@ -838,10 +838,6 @@
 	path = phonfieldwork
 	url = https://github.com/ropensci/phonfieldwork
 	branch = master
-[submodule "photosearcher"]
-	path = photosearcher
-	url = https://github.com/ropensci/photosearcher
-	branch = master
 [submodule "phruta"]
 	path = phruta
 	url = https://github.com/ropensci/phruta

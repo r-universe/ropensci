@@ -2275,19 +2275,6 @@
     }
   },
   {
-    "package": "photosearcher",
-    "metadata": {
-      "review": {
-        "id": 325,
-        "status": "reviewed",
-        "version": "1.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/325"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "phruta",
     "metadata": {
       "review": {
