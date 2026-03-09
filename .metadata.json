@@ -3011,19 +3011,6 @@
     }
   },
   {
-    "package": "rusda",
-    "metadata": {
-      "review": {
-        "id": 18,
-        "status": "reviewed",
-        "version": "1.0",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/18"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "rvertnet",
     "metadata": {
       "ropensci_category": "data-access"

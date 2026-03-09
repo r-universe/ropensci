@@ -1143,10 +1143,6 @@
 	path = ruODK
 	url = https://github.com/ropensci/ruODK
 	branch = main
-[submodule "rusda"]
-	path = rusda
-	url = https://github.com/ropensci/rusda
-	branch = master
 [submodule "rvertnet"]
 	path = rvertnet
 	url = https://github.com/ropensci/rvertnet
