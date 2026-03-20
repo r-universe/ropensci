@@ -1231,6 +1231,10 @@
 	path = suppdata
 	url = https://github.com/ropensci/suppdata
 	branch = master
+[submodule "suwo"]
+	path = suwo
+	url = https://github.com/ropensci/suwo
+	branch = main
 [submodule "tabulapdf"]
 	path = tabulapdf
 	url = https://github.com/ropensci/tabulapdf
