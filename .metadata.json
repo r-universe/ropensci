@@ -1723,19 +1723,6 @@
     }
   },
   {
-    "package": "jstor",
-    "metadata": {
-      "review": {
-        "id": 189,
-        "status": "reviewed",
-        "version": "0.2.6",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/189"
-      },
-      "ropensci_category": "literature"
-    }
-  },
-  {
     "package": "karel",
     "metadata": {
       "review": {
