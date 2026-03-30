@@ -3237,7 +3237,8 @@
         "version": "0.1.0",
         "organization": "rOpenSci Software Review",
         "url": "https://github.com/ropensci/software-review/issues/729"
-      }
+      },
+      "ropensci_category": "data-access"
     }
   },
   {
