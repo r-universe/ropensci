@@ -1003,6 +1003,10 @@
 	path = restez
 	url = https://github.com/ropensci/restez
 	branch = main
+[submodule "reviser"]
+	path = reviser
+	url = https://github.com/ropensci/reviser
+	branch = main
 [submodule "rfema"]
 	path = rfema
 	url = https://github.com/ropensci/rfema
