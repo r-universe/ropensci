@@ -69,7 +69,7 @@
 [submodule "NLMR"]
 	path = NLMR
 	url = https://github.com/ropensci/NLMR
-	branch = master
+	branch = main
 [submodule "PFW"]
 	path = PFW
 	url = https://github.com/ropensci/PFW
