@@ -438,6 +438,10 @@
 	path = epubr
 	url = https://github.com/ropensci/epubr
 	branch = master
+[submodule "ernest"]
+	path = ernest
+	url = https://github.com/ropensci/ernest
+	branch = main
 [submodule "essurvey"]
 	path = essurvey
 	url = https://github.com/ropensci/essurvey
