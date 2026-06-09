@@ -1,0 +1,18 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - '.gitmodules'
+
+name: Cleanup package server
+
+jobs:
+  update:
+    name: Delete removed packages
+    uses: r-universe-org/workflows/.github/workflows/cleanup.yml@v3
+    secrets:
+      CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+      BOT_TOKEN: ${{ secrets.GHPAT }}
+

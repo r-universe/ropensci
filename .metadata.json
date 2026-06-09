@@ -1,0 +1,3778 @@
+[
+  {
+    "package": "Athlytics",
+    "metadata": {
+      "review": {
+        "id": 728,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/728"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "BaseSet",
+    "metadata": {
+      "review": {
+        "id": 359,
+        "status": "reviewed",
+        "version": "0.0.10",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/359"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "CRediTas",
+    "metadata": {
+      "review": {
+        "id": 576,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/576"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "CoordinateCleaner",
+    "metadata": {
+      "review": {
+        "id": 210,
+        "status": "reviewed",
+        "version": "1.1-0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/210"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "DataPackageR",
+    "metadata": {
+      "review": {
+        "id": 230,
+        "status": "reviewed",
+        "version": "0.13.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/230"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "DataSpaceR",
+    "metadata": {
+      "review": {
+        "id": 261,
+        "status": "reviewed",
+        "version": "0.5.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/261"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "DoOR.data",
+    "metadata": {
+      "review": {
+        "id": 35,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/35"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "DoOR.functions",
+    "metadata": {
+      "review": {
+        "id": 34,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/34"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "EDIutils",
+    "metadata": {
+      "review": {
+        "id": 498,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/498"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "EML",
+    "metadata": {
+      "review": {
+        "id": 80,
+        "status": "pending",
+        "version": "1.0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/80"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "EndoMineR",
+    "metadata": {
+      "review": {
+        "id": 153,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/153"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "FedData",
+    "metadata": {
+      "review": {
+        "id": 13,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/13"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "GLMMcosinor",
+    "metadata": {
+      "review": {
+        "id": 603,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/603"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "GSODR",
+    "metadata": {
+      "review": {
+        "id": 79,
+        "status": "reviewed",
+        "version": "0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/79"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "MODIStsp",
+    "metadata": {
+      "review": {
+        "id": 184,
+        "status": "reviewed",
+        "version": "1.3.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/184"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "MtreeRing",
+    "metadata": {
+      "review": {
+        "id": 287,
+        "status": "reviewed",
+        "version": "1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/287"
+      },
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "NLMR",
+    "metadata": {
+      "review": {
+        "id": 188,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/188"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "PFW",
+    "metadata": {
+      "review": {
+        "id": 698,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/698"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "PostcodesioR",
+    "metadata": {
+      "review": {
+        "id": 176,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/176"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "QuadratiK",
+    "metadata": {
+      "review": {
+        "id": 632,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/632"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "RNeXML",
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "RSelenium",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "ReLTER",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "RefManageR",
+    "metadata": {
+      "review": {
+        "id": 119,
+        "status": "reviewed",
+        "version": "0.14.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/119"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "Rpolyhedra",
+    "metadata": {
+      "review": {
+        "id": 157,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/157"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "SymbiotaR2",
+    "metadata": {
+      "review": {
+        "id": 373,
+        "status": "reviewed",
+        "version": "0.0-1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/373"
+      },
+      "ropensci_category": "SymbiotaR2"
+    }
+  },
+  {
+    "package": "UCSCXenaTools",
+    "metadata": {
+      "review": {
+        "id": 315,
+        "status": "reviewed",
+        "version": "1.2.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/315"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "USAboundaries",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "USAboundariesData",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "aRxiv",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "aeolus",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "agroclimatico",
+    "metadata": {
+      "review": {
+        "id": 599,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/599"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "allcontributors",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "allodb",
+    "metadata": {
+      "review": {
+        "id": 436,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/436"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "antanym",
+    "metadata": {
+      "review": {
+        "id": 198,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/198"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "antiword",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "aorsf",
+    "metadata": {
+      "review": {
+        "id": 532,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/532"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "arkdb",
+    "metadata": {
+      "review": {
+        "id": 224,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/224"
+      },
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "assertr",
+    "metadata": {
+      "review": {
+        "id": 23,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/23"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "auk",
+    "metadata": {
+      "review": {
+        "id": 136,
+        "status": "reviewed",
+        "version": "0.0.2.900",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/136"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "autotest",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "av",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "awardFindR",
+    "metadata": {
+      "review": {
+        "id": 432,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/432"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "baRcodeR",
+    "metadata": {
+      "review": {
+        "id": 338,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/338"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "baRulho",
+    "metadata": {
+      "review": {
+        "id": 609,
+        "status": "reviewed",
+        "version": "2.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/609"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "babeldown",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "babelquarto",
+    "metadata": {
+      "review": {
+        "id": 720,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/720"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "babette",
+    "metadata": {
+      "review": {
+        "id": 209,
+        "status": "reviewed",
+        "version": "1.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/209"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "beastier",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "beautier",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "bib2df",
+    "metadata": {
+      "review": {
+        "id": 124,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/124"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "bibtex",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "bikedata",
+    "metadata": {
+      "review": {
+        "id": 116,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/116"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "binman",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "biomartr",
+    "metadata": {
+      "review": {
+        "id": 93,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/93"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "birdsize",
+    "metadata": {
+      "review": {
+        "id": 577,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/577"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "bold",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "bowerbird",
+    "metadata": {
+      "review": {
+        "id": 139,
+        "status": "reviewed",
+        "version": "0.3.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/139"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "brranching",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "butterfly",
+    "metadata": {
+      "review": {
+        "id": 676,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/676"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "c14bazAAR",
+    "metadata": {
+      "review": {
+        "id": 333,
+        "status": "reviewed",
+        "version": "1.0.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/333"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "c3dr",
+    "metadata": {
+      "review": {
+        "id": 686,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/686"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "camsRad",
+    "metadata": {
+      "review": {
+        "id": 72,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/72"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "canaper",
+    "metadata": {
+      "review": {
+        "id": 475,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/475"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "cde",
+    "metadata": {
+      "review": {
+        "id": 284,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/284"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "censo2017",
+    "metadata": {
+      "review": {
+        "id": 414,
+        "status": "reviewed",
+        "version": "0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/414"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "cffr",
+    "metadata": {
+      "review": {
+        "id": 463,
+        "status": "reviewed",
+        "version": "0.0.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/463"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "charlatan",
+    "metadata": {
+      "review": {
+        "id": 94,
+        "status": "reviewed",
+        "version": "0.0.6.9560",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/94"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "chirps",
+    "metadata": {
+      "review": {
+        "id": 357,
+        "status": "reviewed",
+        "version": "0.0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/357"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "chlorpromazineR",
+    "metadata": {
+      "review": {
+        "id": 307,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/307"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "chopin",
+    "metadata": {
+      "review": {
+        "id": 638,
+        "status": "reviewed",
+        "version": "0.6.2.20240423",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/638"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "chromer",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "circle",
+    "metadata": {
+      "review": {
+        "id": 356,
+        "status": "reviewed",
+        "version": "0.7.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/356"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "citecorp",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "ckanr",
+    "metadata": {
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "cld2",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "cld3",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "codemetar",
+    "metadata": {
+      "review": {
+        "id": 130,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/130"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "coder",
+    "metadata": {
+      "review": {
+        "id": 381,
+        "status": "reviewed",
+        "version": "0.11.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/381"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "colocr",
+    "metadata": {
+      "review": {
+        "id": 243,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/243"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "commonmark",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "commonmetar",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "comtradr",
+    "metadata": {
+      "review": {
+        "id": 613,
+        "status": "reviewed",
+        "version": "0.4.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/613"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "concstats",
+    "metadata": {
+      "review": {
+        "id": 559,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/559"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "credentials",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "crul",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "cyphr",
+    "metadata": {
+      "review": {
+        "id": 114,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/114"
+      },
+      "ropensci_category": "security"
+    }
+  },
+  {
+    "package": "daiquiri",
+    "metadata": {
+      "review": {
+        "id": 535,
+        "status": "reviewed",
+        "version": "0.7.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/535"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "dataaimsr",
+    "metadata": {
+      "review": {
+        "id": 428,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/428"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "datapack",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "dataset",
+    "metadata": {
+      "review": {
+        "id": 681,
+        "status": "reviewed",
+        "version": "0.3.4002",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/681"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "dataspice",
+    "metadata": {
+      "review": {
+        "id": 426,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/426"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "datefixR",
+    "metadata": {
+      "review": {
+        "id": 533,
+        "status": "reviewed",
+        "version": "0.1.4.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/533"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "dbparser",
+    "metadata": {
+      "review": {
+        "id": 347,
+        "status": "reviewed",
+        "version": "1.0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/347"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "dendroNetwork",
+    "metadata": {
+      "review": {
+        "id": 627,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/627"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "deposits",
+    "metadata": {
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "dfms",
+    "metadata": {
+      "review": {
+        "id": 556,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/556"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "distionary",
+    "metadata": {
+      "review": {
+        "id": 688,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/688"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "dittodb",
+    "metadata": {
+      "review": {
+        "id": 366,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/366"
+      },
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "drake",
+    "metadata": {
+      "review": {
+        "id": 156,
+        "status": "reviewed",
+        "version": "4.4.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/156"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "dwctaxon",
+    "metadata": {
+      "review": {
+        "id": 574,
+        "status": "reviewed",
+        "version": "1.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/574"
+      },
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "dynamite",
+    "metadata": {
+      "review": {
+        "id": 554,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/554"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "eDNAjoint",
+    "metadata": {
+      "review": {
+        "id": 642,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/642"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "eia",
+    "metadata": {
+      "review": {
+        "id": 342,
+        "status": "reviewed",
+        "version": "0.3.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/342"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "emld",
+    "metadata": {
+      "review": {
+        "id": 269,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/269"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "emodnet.wfs",
+    "metadata": {
+      "review": {
+        "id": 653,
+        "status": "reviewed",
+        "version": "2.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/653"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "epair",
+    "metadata": {
+      "review": {
+        "id": 418,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/418"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "eph",
+    "metadata": {
+      "review": {
+        "id": 593,
+        "status": "reviewed",
+        "version": "0.6.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/593"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "epubr",
+    "metadata": {
+      "review": {
+        "id": 222,
+        "status": "reviewed",
+        "version": "0.4.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/222"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "ernest",
+    "metadata": {
+      "review": {
+        "id": 730,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/730"
+      }
+    }
+  },
+  {
+    "package": "essurvey",
+    "metadata": {
+      "review": {
+        "id": 201,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/201"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "europepmc",
+    "metadata": {
+      "review": {
+        "id": 29,
+        "status": "reviewed",
+        "version": "0.0.999",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/29"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "excluder",
+    "metadata": {
+      "review": {
+        "id": 455,
+        "status": "reviewed",
+        "version": "0.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/455"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "exoplanets",
+    "metadata": {
+      "review": {
+        "id": 309,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/309"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "ezknitr",
+    "metadata": {
+      "review": {
+        "id": 56,
+        "status": "reviewed",
+        "version": "0.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/56"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "fastMatMR",
+    "metadata": {
+      "review": {
+        "id": 606,
+        "status": "reviewed",
+        "version": "1.0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/606"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "fellingdater",
+    "metadata": {
+      "review": {
+        "id": 618,
+        "status": "reviewed",
+        "version": "0.0.0.9003",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/618"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "fingertipsR",
+    "metadata": {
+      "review": {
+        "id": 168,
+        "status": "reviewed",
+        "version": "0.1.3.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/168"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "fireexposuR",
+    "metadata": {
+      "review": {
+        "id": 659,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/659"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "fluidsynth",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "forcis",
+    "metadata": {
+      "review": {
+        "id": 660,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/660"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "frictionless",
+    "metadata": {
+      "review": {
+        "id": 495,
+        "status": "reviewed",
+        "version": "0.9.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/495"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "gbifdb",
+    "metadata": {
+      "review": {
+        "id": 492,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/492"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "gendercoder",
+    "metadata": {
+      "review": {
+        "id": 435,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/435"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "geojson",
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "geojsonio",
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "geonames",
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "geotargets",
+    "metadata": {
+      "review": {
+        "id": 675,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/675"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "gert",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "getCRUCLdata",
+    "metadata": {
+      "review": {
+        "id": 96,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/96"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "ghql",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "gigs",
+    "metadata": {
+      "review": {
+        "id": 626,
+        "status": "reviewed",
+        "version": "0.4.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/626"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "git2r",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "git2rdata",
+    "metadata": {
+      "review": {
+        "id": 263,
+        "status": "reviewed",
+        "version": "0.0.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/263"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "gitcellar",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "gitignore",
+    "metadata": {
+      "review": {
+        "id": 303,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/303"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "gittargets",
+    "metadata": {
+      "review": {
+        "id": 486,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/486"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "goodpractice",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "googleLanguageR",
+    "metadata": {
+      "review": {
+        "id": 127,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/127"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "gpg",
+    "metadata": {
+      "ropensci_category": "security"
+    }
+  },
+  {
+    "package": "grainchanger",
+    "metadata": {
+      "review": {
+        "id": 289,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/289"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "graphql",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "gtexr",
+    "metadata": {
+      "review": {
+        "id": 684,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/684"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "gutenbergr",
+    "metadata": {
+      "review": {
+        "id": 41,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/41"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "handlr",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "hdcuremodels",
+    "metadata": {
+      "review": {
+        "id": 692,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/692"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "hddtools",
+    "metadata": {
+      "review": {
+        "id": 73,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/73"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "helminthR",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "historydata",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "hoardr",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "hunspell",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "hydroscoper",
+    "metadata": {
+      "review": {
+        "id": 185,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/185"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "icepalace",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "iheatmapr",
+    "metadata": {
+      "review": {
+        "id": 107,
+        "status": "reviewed",
+        "version": "0.2.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/107"
+      },
+      "ropensci_category": "data-visualization"
+    }
+  },
+  {
+    "package": "ijtiff",
+    "metadata": {
+      "review": {
+        "id": 164,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/164"
+      },
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "internetarchive",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "jagstargets",
+    "metadata": {
+      "review": {
+        "id": 425,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/425"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "jenkins",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "jqr",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "jsonld",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "jsonvalidate",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "karel",
+    "metadata": {
+      "review": {
+        "id": 620,
+        "status": "reviewed",
+        "version": "0.1.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/620"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "katex",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "landscapetools",
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "lightr",
+    "metadata": {
+      "review": {
+        "id": 267,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/267"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "lingtypology",
+    "metadata": {
+      "review": {
+        "id": 95,
+        "status": "reviewed",
+        "version": "1.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/95"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "magick",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "mantis",
+    "metadata": {
+      "review": {
+        "id": 710,
+        "status": "reviewed",
+        "version": "0.3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/710"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "mapmetadata",
+    "metadata": {
+      "review": {
+        "id": 674,
+        "status": "reviewed",
+        "version": "3.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/674"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "mapscanner",
+    "metadata": {
+      "review": {
+        "id": 330,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/330"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "mauricer",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "mbquartR",
+    "metadata": {
+      "review": {
+        "id": 658,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/658"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "mcbette",
+    "metadata": {
+      "review": {
+        "id": 360,
+        "status": "reviewed",
+        "version": "1.8.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/360"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "mctq",
+    "metadata": {
+      "review": {
+        "id": 434,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/434"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "medrxivr",
+    "metadata": {
+      "review": {
+        "id": 380,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/380"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "melt",
+    "metadata": {
+      "review": {
+        "id": 550,
+        "status": "reviewed",
+        "version": "1.6.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/550"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "mregions2",
+    "metadata": {
+      "review": {
+        "id": 590,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/590"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "naijR",
+    "metadata": {
+      "review": {
+        "id": 600,
+        "status": "reviewed",
+        "version": "0.6.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/600"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "nasapower",
+    "metadata": {
+      "review": {
+        "id": 155,
+        "status": "reviewed",
+        "version": "1.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/155"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "natserv",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "neotoma",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "nlrx",
+    "metadata": {
+      "review": {
+        "id": 262,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/262"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "nodbi",
+    "metadata": {
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "nomisr",
+    "metadata": {
+      "review": {
+        "id": 190,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/190"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "npi",
+    "metadata": {
+      "review": {
+        "id": 505,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/505"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "nuts",
+    "metadata": {
+      "review": {
+        "id": 623,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/623"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "oai",
+    "metadata": {
+      "review": {
+        "id": 19,
+        "status": "reviewed",
+        "version": "0.0.5.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/19"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "occCite",
+    "metadata": {
+      "review": {
+        "id": 407,
+        "status": "reviewed",
+        "version": "0.4.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/407"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "ohun",
+    "metadata": {
+      "review": {
+        "id": 568,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/568"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "openalexR",
+    "metadata": {
+      "review": {
+        "id": 560,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/560"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "opencage",
+    "metadata": {
+      "review": {
+        "id": 36,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/36"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "opencv",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "opentripplanner",
+    "metadata": {
+      "review": {
+        "id": 295,
+        "status": "reviewed",
+        "version": "0.1.0.0000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/295"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "orgmetrics",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "osfr",
+    "metadata": {
+      "review": {
+        "id": 279,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/279"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "osmapiR",
+    "metadata": {
+      "review": {
+        "id": 633,
+        "status": "reviewed",
+        "version": "0.0.0.22",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/633"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "osmdata",
+    "metadata": {
+      "review": {
+        "id": 103,
+        "status": "reviewed",
+        "version": "0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/103"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "osmextract",
+    "metadata": {
+      "review": {
+        "id": 395,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/395"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "osmplotr",
+    "metadata": {
+      "review": {
+        "id": 27,
+        "status": "reviewed",
+        "version": "0.1-2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/27"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "outcomerate",
+    "metadata": {
+      "review": {
+        "id": 213,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/213"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "paleobioDB",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "pangaear",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "pangoling",
+    "metadata": {
+      "review": {
+        "id": 575,
+        "status": "reviewed",
+        "version": "0.0.0.9005",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/575"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "partialling.out",
+    "metadata": {
+      "review": {
+        "id": 703,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/703"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "parzer",
+    "metadata": {
+      "review": {
+        "id": 341,
+        "status": "reviewed",
+        "version": "0.0.4.9110",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/341"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "patentsview",
+    "metadata": {
+      "review": {
+        "id": 112,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/112"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "pathviewr",
+    "metadata": {
+      "review": {
+        "id": 409,
+        "status": "reviewed",
+        "version": "0.9.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/409"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "pdftools",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "phonfieldwork",
+    "metadata": {
+      "review": {
+        "id": 385,
+        "status": "reviewed",
+        "version": "0.0.8",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/385"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "phruta",
+    "metadata": {
+      "review": {
+        "id": 458,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/458"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "phylocomr",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "phylogram",
+    "metadata": {
+      "review": {
+        "id": 212,
+        "status": "reviewed",
+        "version": "2.0.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/212"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "phylotaR",
+    "metadata": {
+      "review": {
+        "id": 187,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/187"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "piggyback",
+    "metadata": {
+      "review": {
+        "id": 220,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/220"
+      },
+      "ropensci_category": "data-publication"
+    }
+  },
+  {
+    "package": "pixelclasser",
+    "metadata": {
+      "review": {
+        "id": 406,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/406"
+      },
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "pkgcheck",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "pkgmatch",
+    "metadata": {
+      "review": {
+        "id": 671,
+        "status": "pending",
+        "version": "0.4.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/671"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "pkgreviewr",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "pkgstats",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "plater",
+    "metadata": {
+      "review": {
+        "id": 60,
+        "status": "reviewed",
+        "version": "0.2.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/60"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "postdoc",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "predictNMB",
+    "metadata": {
+      "review": {
+        "id": 566,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/566"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "prism",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "prismjs",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "promoutils",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "qcoder",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "qpdf",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "quadkeyr",
+    "metadata": {
+      "review": {
+        "id": 619,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/619"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "qualR",
+    "metadata": {
+      "review": {
+        "id": 474,
+        "status": "reviewed",
+        "version": "0.9.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/474"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "qualtRics",
+    "metadata": {
+      "review": {
+        "id": 192,
+        "status": "reviewed",
+        "version": "3.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/192"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "quartificate",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rOPTRAM",
+    "metadata": {
+      "review": {
+        "id": 612,
+        "status": "reviewed",
+        "version": "0.0.1.000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/612"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "ramlegacy",
+    "metadata": {
+      "review": {
+        "id": 264,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/264"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rangr",
+    "metadata": {
+      "review": {
+        "id": 595,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/595"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "rb3",
+    "metadata": {
+      "review": {
+        "id": 534,
+        "status": "reviewed",
+        "version": "0.0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/534"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rcites",
+    "metadata": {
+      "review": {
+        "id": 244,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/244"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rcrossref",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "rdatacite",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "rdataretriever",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rdflib",
+    "metadata": {
+      "review": {
+        "id": 169,
+        "status": "reviewed",
+        "version": "0.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/169"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "rdhs",
+    "metadata": {
+      "review": {
+        "id": 238,
+        "status": "reviewed",
+        "version": "0.5.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/238"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rdryad",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "read.abares",
+    "metadata": {
+      "review": {
+        "id": 667,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/667"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "readODS",
+    "metadata": {
+      "review": {
+        "id": 386,
+        "status": "reviewed",
+        "version": "1.7.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/386"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "rebird",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "redland",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "refsplitr",
+    "metadata": {
+      "review": {
+        "id": 256,
+        "status": "reviewed",
+        "version": "0.6",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/256"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "rentrez",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "repometrics",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rerddap",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "restez",
+    "metadata": {
+      "review": {
+        "id": 232,
+        "status": "reviewed",
+        "version": "0.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/232"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "reviser",
+    "metadata": {
+      "review": {
+        "id": 709,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/709"
+      }
+    }
+  },
+  {
+    "package": "rfema",
+    "metadata": {
+      "review": {
+        "id": 484,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/484"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rfishbase",
+    "metadata": {
+      "review": {
+        "id": 137,
+        "status": "reviewed",
+        "version": "2.1.2.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/137"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rfisheries",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rgbif",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rglobi",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rgnparser",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "rgpdd",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "riem",
+    "metadata": {
+      "review": {
+        "id": 39,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/39"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rinat",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "ritis",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "rix",
+    "metadata": {
+      "review": {
+        "id": 625,
+        "status": "reviewed",
+        "version": "0.6.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/625"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rixpress",
+    "metadata": {
+      "review": {
+        "id": 706,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/706"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rmangal",
+    "metadata": {
+      "review": {
+        "id": 332,
+        "status": "reviewed",
+        "version": "1.9.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/332"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rnassqs",
+    "metadata": {
+      "review": {
+        "id": 298,
+        "status": "reviewed",
+        "version": "0.4.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/298"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rnaturalearth",
+    "metadata": {
+      "review": {
+        "id": 22,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/22"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "rnaturalearthdata",
+    "metadata": {
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "rnaturalearthhires",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rnoaa",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "roadoi",
+    "metadata": {
+      "review": {
+        "id": 115,
+        "status": "reviewed",
+        "version": "0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/115"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "roblog",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "robotstxt",
+    "metadata": {
+      "review": {
+        "id": 25,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/25"
+      },
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "roreviewapi",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rotemplate",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rotl",
+    "metadata": {
+      "review": {
+        "id": 17,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/17"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rperseus",
+    "metadata": {
+      "review": {
+        "id": 145,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/145"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rredlist",
+    "metadata": {
+      "review": {
+        "id": 663,
+        "status": "reviewed",
+        "version": "0.7.1.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/663"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rrricanes",
+    "metadata": {
+      "review": {
+        "id": 118,
+        "status": "reviewed",
+        "version": "0.1.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/118"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rrricanesdata",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rsat",
+    "metadata": {
+      "review": {
+        "id": 437,
+        "status": "reviewed",
+        "version": "0.1.14",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/437"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "rsi",
+    "metadata": {
+      "review": {
+        "id": 636,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/636"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "rsnps",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rsvg",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "rtika",
+    "metadata": {
+      "review": {
+        "id": 191,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/191"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "ruODK",
+    "metadata": {
+      "review": {
+        "id": 335,
+        "status": "reviewed",
+        "version": "0.6.6.9025",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/335"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "rvertnet",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "rzmq",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "saperlipopette",
+    "metadata": {
+      "review": {
+        "id": 754,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/754"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "sasquatch",
+    "metadata": {
+      "review": {
+        "id": 673,
+        "status": "reviewed",
+        "version": "0.0.0.9004",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/673"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "sits",
+    "metadata": {
+      "review": {
+        "id": 596,
+        "status": "reviewed",
+        "version": "1.5.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/596"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "skimr",
+    "metadata": {
+      "review": {
+        "id": 175,
+        "status": "reviewed",
+        "version": "0.9.92",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/175"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "skynet",
+    "metadata": {
+      "review": {
+        "id": 214,
+        "status": "reviewed",
+        "version": "1.0.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/214"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "slopes",
+    "metadata": {
+      "review": {
+        "id": 420,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/420"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "smapr",
+    "metadata": {
+      "review": {
+        "id": 231,
+        "status": "reviewed",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/231"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "sodium",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "sofa",
+    "metadata": {
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "spatsoc",
+    "metadata": {
+      "review": {
+        "id": 237,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/237"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "spelling",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "spiro",
+    "metadata": {
+      "review": {
+        "id": 541,
+        "status": "reviewed",
+        "version": "0.0.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/541"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "spocc",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "srr",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "ssarp",
+    "metadata": {
+      "review": {
+        "id": 685,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/685"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "ssh",
+    "metadata": {
+      "ropensci_category": "security"
+    }
+  },
+  {
+    "package": "stantargets",
+    "metadata": {
+      "review": {
+        "id": 430,
+        "status": "reviewed",
+        "version": "0.0.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/430"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "stats19",
+    "metadata": {
+      "review": {
+        "id": 266,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/266"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "stplanr",
+    "metadata": {
+      "review": {
+        "id": 10,
+        "status": "reviewed",
+        "version": "0.0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/10"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "suppdata",
+    "metadata": {
+      "review": {
+        "id": 195,
+        "status": "reviewed",
+        "version": "0.9-0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/195"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "suwo",
+    "metadata": {
+      "review": {
+        "id": 729,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/729"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "tabulapdf",
+    "metadata": {
+      "review": {
+        "id": 42,
+        "status": "reviewed",
+        "version": "0.1.11",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/42"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "tacmagic",
+    "metadata": {
+      "review": {
+        "id": 280,
+        "status": "reviewed",
+        "version": "0.1.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/280"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "tarchetypes",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "targets",
+    "metadata": {
+      "review": {
+        "id": 401,
+        "status": "reviewed",
+        "version": "0.0.0.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/401"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "taxa",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "taxadb",
+    "metadata": {
+      "review": {
+        "id": 344,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/344"
+      },
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "taxize",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "taxizedb",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "taxlist",
+    "metadata": {
+      "review": {
+        "id": 233,
+        "status": "reviewed",
+        "version": "0.1.5",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/233"
+      },
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "terrainr",
+    "metadata": {
+      "review": {
+        "id": 416,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/416"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "tesseract",
+    "metadata": {
+      "ropensci_category": "image-processing"
+    }
+  },
+  {
+    "package": "textreuse",
+    "metadata": {
+      "review": {
+        "id": 20,
+        "status": "reviewed",
+        "version": "0.0.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/20"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "tic",
+    "metadata": {
+      "review": {
+        "id": 305,
+        "status": "reviewed",
+        "version": "0.2.13.9016",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/305"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "tidyhydat",
+    "metadata": {
+      "review": {
+        "id": 152,
+        "status": "reviewed",
+        "version": "0.2.9",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/152"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "tidync",
+    "metadata": {
+      "review": {
+        "id": 174,
+        "status": "reviewed",
+        "version": "0.0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/174"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "tidypmc",
+    "metadata": {
+      "review": {
+        "id": 290,
+        "status": "reviewed",
+        "version": "1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/290"
+      },
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "tidyqpcr",
+    "metadata": {
+      "review": {
+        "id": 470,
+        "status": "reviewed",
+        "version": "0.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/470"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "tif",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "tiler",
+    "metadata": {
+      "review": {
+        "id": 226,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/226"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "tinkr",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "tokenizers",
+    "metadata": {
+      "review": {
+        "id": 33,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/33"
+      },
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "tracerer",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "tradestatistics",
+    "metadata": {
+      "review": {
+        "id": 274,
+        "status": "reviewed",
+        "version": "0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/274"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "traits",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "treebase",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "treedata.table",
+    "metadata": {
+      "review": {
+        "id": 367,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/367"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "treeio",
+    "metadata": {
+      "review": {
+        "id": 179,
+        "status": "reviewed",
+        "version": "1.3.10",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/179"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "treestartr",
+    "metadata": {
+      "review": {
+        "id": 239,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/239"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "trud",
+    "metadata": {
+      "review": {
+        "id": 705,
+        "status": "reviewed",
+        "version": "0.1.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/705"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "tsbox",
+    "metadata": {
+      "review": {
+        "id": 464,
+        "status": "reviewed",
+        "version": "0.3.1.9001",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/464"
+      },
+      "ropensci_category": "stat"
+    }
+  },
+  {
+    "package": "unifir",
+    "metadata": {
+      "review": {
+        "id": 521,
+        "status": "reviewed",
+        "version": "0.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/521"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "universe",
+    "metadata": {
+      "ropensci_category": "scalereprod"
+    }
+  },
+  {
+    "package": "unrtf",
+    "metadata": {
+      "ropensci_category": "literature"
+    }
+  },
+  {
+    "package": "vcr",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "virtuoso",
+    "metadata": {
+      "review": {
+        "id": 271,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/271"
+      },
+      "ropensci_category": "databases"
+    }
+  },
+  {
+    "package": "visdat",
+    "metadata": {
+      "review": {
+        "id": 87,
+        "status": "reviewed",
+        "version": "0.0.5.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/87"
+      },
+      "ropensci_category": "data-visualization"
+    }
+  },
+  {
+    "package": "wateRinfo",
+    "metadata": {
+      "review": {
+        "id": 255,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/255"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "waywiser",
+    "metadata": {
+      "review": {
+        "id": 571,
+        "status": "reviewed",
+        "version": "0.2.0.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/571"
+      },
+      "ropensci_category": "geospatial"
+    }
+  },
+  {
+    "package": "wdman",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "weatherOz",
+    "metadata": {
+      "review": {
+        "id": 598,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/598"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "weathercan",
+    "metadata": {
+      "review": {
+        "id": 160,
+        "status": "reviewed",
+        "version": "0.2.2.9000",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/160"
+      },
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "webchem",
+    "metadata": {
+      "ropensci_category": "data-access"
+    }
+  },
+  {
+    "package": "webmockr",
+    "metadata": {
+      "ropensci_category": "http-tools"
+    }
+  },
+  {
+    "package": "wikitaxa",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "wmm",
+    "metadata": {
+      "review": {
+        "id": 522,
+        "status": "reviewed",
+        "version": "1.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/522"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "workloopR",
+    "metadata": {
+      "review": {
+        "id": 326,
+        "status": "reviewed",
+        "version": "1.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/326"
+      },
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "worrms",
+    "metadata": {
+      "ropensci_category": "taxonomy"
+    }
+  },
+  {
+    "package": "writexl",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "xslt",
+    "metadata": {
+      "ropensci_category": "data-extraction"
+    }
+  },
+  {
+    "package": "yfR",
+    "metadata": {
+      "review": {
+        "id": 523,
+        "status": "reviewed",
+        "version": "0.0.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/523"
+      },
+      "ropensci_category": "data-access"
+    }
+  }
+]

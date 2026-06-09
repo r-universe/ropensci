@@ -1,0 +1,49 @@
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.*'
+      - '.*/**'
+  workflow_dispatch:
+    inputs:
+      package:
+        description: Which package or commit to build (default is HEAD commit)
+        required: false
+
+name: Build package
+run-name: ${{ github.event.head_commit.message || format('{0} (rebuild)', inputs.package) }}
+
+jobs:
+  prepare:
+    if: "!contains(github.event.head_commit.message, 'Deleting packages')"
+    name: Setup
+    runs-on: ubuntu-latest
+    outputs:
+      package: ${{ steps.lookup.outputs.package }}
+    steps:
+      - name: Determine package name
+        id: lookup
+        run: |
+          if [ "${{inputs.package}}" ]; then
+          package="${{inputs.package}}"
+          else
+          package=$(echo "${{github.event.head_commit.message}}" | cut -d " " -f1)
+          fi
+          echo "package=$package" >> $GITHUB_OUTPUT
+
+  deploy:
+    needs: prepare
+    name: Deploy to R-universe
+    concurrency:
+      group: deploy-${{ needs.prepare.outputs.package }}
+      cancel-in-progress: true
+    uses: r-universe-org/workflows/.github/workflows/deploy.yml@v3
+    with:
+      package: ${{ inputs.package }}
+    secrets:
+      DUMMY_SESSION: ${{ secrets.DUMMY_SESSION }}
+      CRANLIKEPWD: ${{ secrets.CRANLIKEPWD }}
+      GH_APP_KEY: ${{ secrets.GH_APP_KEY }}
+      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      BOT_TOKEN: ${{ secrets.GHPAT }}
