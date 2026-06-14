@@ -2427,6 +2427,18 @@
     }
   },
   {
+    "package": "pvEBayes",
+    "metadata": {
+      "review": {
+        "id": 760,
+        "status": "reviewed",
+        "version": "0.2.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/760"
+      }
+    }
+  },
+  {
     "package": "qcoder",
     "metadata": {
       "ropensci_category": "data-extraction"
