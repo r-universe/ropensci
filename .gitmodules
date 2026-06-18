@@ -101,7 +101,7 @@
 [submodule "Rpolyhedra"]
 	path = Rpolyhedra
 	url = https://github.com/ropensci/Rpolyhedra
-	branch = master
+	branch = main
 [submodule "SymbiotaR2"]
 	path = SymbiotaR2
 	url = https://github.com/ropensci/SymbiotaR2
