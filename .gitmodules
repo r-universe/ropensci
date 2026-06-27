@@ -746,6 +746,10 @@
 	path = nuts
 	url = https://github.com/ropensci/nuts
 	branch = main
+[submodule "nycOpenData"]
+	path = nycOpenData
+	url = https://github.com/ropensci/nycOpenData
+	branch = main
 [submodule "oai"]
 	path = oai
 	url = https://github.com/ropensci/oai
