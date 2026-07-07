@@ -586,10 +586,6 @@
 	path = hdcuremodels
 	url = https://github.com/ropensci/hdcuremodels
 	branch = main
-[submodule "hddtools"]
-	path = hddtools
-	url = https://github.com/ropensci/hddtools
-	branch = master
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/ropensci/helminthR
