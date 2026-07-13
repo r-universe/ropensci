@@ -584,7 +584,7 @@
 	branch = master
 [submodule "hdcuremodels"]
 	path = hdcuremodels
-	url = https://github.com/ropensci/hdcuremodels
+	url = https://github.com/kelliejarcher/hdcuremodels
 	branch = main
 [submodule "helminthR"]
 	path = helminthR
