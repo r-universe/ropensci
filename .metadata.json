@@ -1735,6 +1735,18 @@
     }
   },
   {
+    "package": "lakefetch",
+    "metadata": {
+      "review": {
+        "id": 762,
+        "status": "reviewed",
+        "version": "0.1.3",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/762"
+      }
+    }
+  },
+  {
     "package": "landscapetools",
     "metadata": {
       "ropensci_category": "geospatial"
