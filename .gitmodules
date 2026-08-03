@@ -486,6 +486,10 @@
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r
 	branch = main
+[submodule "galamm"]
+	path = galamm
+	url = https://github.com/ropensci/galamm
+	branch = main
 [submodule "gbifdb"]
 	path = gbifdb
 	url = https://github.com/ropensci/gbifdb
