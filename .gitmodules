@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ropensci/roregistry
+	url = https://github.com/ropensci/ropensci.r-universe.dev
 	branch = HEAD
 [submodule "Athlytics"]
 	path = Athlytics
