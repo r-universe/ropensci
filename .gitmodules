@@ -706,6 +706,10 @@
 	path = melt
 	url = https://github.com/ropensci/melt
 	branch = main
+[submodule "monarch"]
+	path = monarch
+	url = https://github.com/ropensci-org/monarch
+	branch = main
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/ropensci/mregions2
@@ -1390,7 +1394,7 @@
 [submodule "visdat"]
 	path = visdat
 	url = https://github.com/ropensci/visdat
-	branch = master
+	branch = main
 [submodule "wateRinfo"]
 	path = wateRinfo
 	url = https://github.com/ropensci/wateRinfo
