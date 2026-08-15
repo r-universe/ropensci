@@ -46,6 +46,10 @@
 	path = EndoMineR
 	url = https://github.com/ropensci/EndoMineR
 	branch = master
+[submodule "EpiStrainDynamics"]
+	path = EpiStrainDynamics
+	url = https://github.com/ropensci/EpiStrainDynamics
+	branch = main
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/ropensci/FedData
