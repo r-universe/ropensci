@@ -489,7 +489,7 @@
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/frictionlessdata/frictionless-r
-	branch = main
+	branch = v2
 [submodule "galamm"]
 	path = galamm
 	url = https://github.com/ropensci/galamm
