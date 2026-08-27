@@ -272,6 +272,18 @@
     }
   },
   {
+    "package": "RAMEN",
+    "metadata": {
+      "review": {
+        "id": 743,
+        "status": "reviewed",
+        "version": "2.0.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/743"
+      }
+    }
+  },
+  {
     "package": "RNeXML",
     "metadata": {
       "ropensci_category": "data-publication"
