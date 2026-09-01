@@ -817,7 +817,7 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/ropensci/outcomerate
-	branch = master
+	branch = main
 [submodule "paleobioDB"]
 	path = paleobioDB
 	url = https://github.com/ropensci/paleobioDB
