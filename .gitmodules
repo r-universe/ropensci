@@ -294,6 +294,10 @@
 	path = chromer
 	url = https://github.com/ropensci/chromer
 	branch = master
+[submodule "ciecl"]
+	path = ciecl
+	url = https://github.com/ropensci/ciecl
+	branch = main
 [submodule "circle"]
 	path = circle
 	url = https://github.com/ropensci/circle

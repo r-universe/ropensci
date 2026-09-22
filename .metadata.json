@@ -821,6 +821,18 @@
     }
   },
   {
+    "package": "ciecl",
+    "metadata": {
+      "review": {
+        "id": 765,
+        "status": "pending",
+        "version": "0.9.6",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/765"
+      }
+    }
+  },
+  {
     "package": "circle",
     "metadata": {
       "review": {
