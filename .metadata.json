@@ -1606,19 +1606,6 @@
     }
   },
   {
-    "package": "grainchanger",
-    "metadata": {
-      "review": {
-        "id": 289,
-        "status": "reviewed",
-        "version": "0.1.0.9000",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/289"
-      },
-      "ropensci_category": "geospatial"
-    }
-  },
-  {
     "package": "graphql",
     "metadata": {
       "ropensci_category": "http-tools"

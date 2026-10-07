@@ -578,10 +578,6 @@
 	path = gpg
 	url = https://github.com/ropensci/gpg
 	branch = master
-[submodule "grainchanger"]
-	path = grainchanger
-	url = https://github.com/ropensci/grainchanger
-	branch = master
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/ropensci/graphql
