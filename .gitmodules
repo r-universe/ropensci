@@ -1131,10 +1131,6 @@
 	path = rotl
 	url = https://github.com/ropensci/rotl
 	branch = master
-[submodule "rperseus"]
-	path = rperseus
-	url = https://github.com/ropensci/rperseus
-	branch = master
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist

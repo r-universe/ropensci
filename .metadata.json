@@ -2994,19 +2994,6 @@
     }
   },
   {
-    "package": "rperseus",
-    "metadata": {
-      "review": {
-        "id": 145,
-        "status": "reviewed",
-        "version": "0.0.0.9000",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/145"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "rredlist",
     "metadata": {
       "review": {
