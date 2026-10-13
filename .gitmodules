@@ -618,6 +618,10 @@
 	path = hydroscoper
 	url = https://github.com/ropensci/hydroscoper
 	branch = master
+[submodule "ibger"]
+	path = ibger
+	url = https://github.com/ropensci/ibger
+	branch = main
 [submodule "icepalace"]
 	path = icepalace
 	url = https://github.com/ropenscilabs/icepalace

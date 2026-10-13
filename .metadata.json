@@ -1694,6 +1694,18 @@
     }
   },
   {
+    "package": "ibger",
+    "metadata": {
+      "review": {
+        "id": 787,
+        "status": "reviewed",
+        "version": "0.2.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/787"
+      }
+    }
+  },
+  {
     "package": "icepalace",
     "metadata": {
       "ropensci_category": "scalereprod"
