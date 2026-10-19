@@ -912,6 +912,18 @@
     }
   },
   {
+    "package": "coevolve",
+    "metadata": {
+      "review": {
+        "id": 717,
+        "status": "reviewed",
+        "version": "0.1.0.9005",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/717"
+      }
+    }
+  },
+  {
     "package": "colocr",
     "metadata": {
       "review": {

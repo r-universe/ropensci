@@ -330,6 +330,10 @@
 	path = coder
 	url = https://github.com/ropensci/coder
 	branch = master
+[submodule "coevolve"]
+	path = coevolve
+	url = https://github.com/ropensci/coevolve
+	branch = main
 [submodule "colocr"]
 	path = colocr
 	url = https://github.com/ropensci/colocr
