@@ -2652,6 +2652,18 @@
     }
   },
   {
+    "package": "rcrisp",
+    "metadata": {
+      "review": {
+        "id": 718,
+        "status": "reviewed",
+        "version": "0.1.4",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/718"
+      }
+    }
+  },
+  {
     "package": "rcrossref",
     "metadata": {
       "ropensci_category": "literature"
