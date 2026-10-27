@@ -130,19 +130,6 @@
     }
   },
   {
-    "package": "EndoMineR",
-    "metadata": {
-      "review": {
-        "id": 153,
-        "status": "reviewed",
-        "version": "0.0.0.9000",
-        "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/153"
-      },
-      "ropensci_category": "data-access"
-    }
-  },
-  {
     "package": "EpiStrainDynamics",
     "metadata": {
       "review": {

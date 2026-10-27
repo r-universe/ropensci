@@ -42,10 +42,6 @@
 	path = EML
 	url = https://github.com/ropensci/EML
 	branch = master
-[submodule "EndoMineR"]
-	path = EndoMineR
-	url = https://github.com/ropensci/EndoMineR
-	branch = master
 [submodule "EpiStrainDynamics"]
 	path = EpiStrainDynamics
 	url = https://github.com/ropensci/EpiStrainDynamics
