@@ -560,6 +560,9 @@
 [submodule "neotoma"]
 	path = neotoma
 	url = https://github.com/ropensci/neotoma
+[submodule "nert"]
+	path = nert
+	url = https://github.com/ropensci/nert
 [submodule "nlrx"]
 	path = nlrx
 	url = https://github.com/ropensci/nlrx

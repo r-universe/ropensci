@@ -2019,6 +2019,18 @@
     }
   },
   {
+    "package": "nert",
+    "metadata": {
+      "review": {
+        "id": 785,
+        "status": "reviewed",
+        "version": "1.1.0",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/785"
+      }
+    }
+  },
+  {
     "package": "nlrx",
     "metadata": {
       "review": {
