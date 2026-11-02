@@ -95,6 +95,9 @@
 [submodule "aRxiv"]
 	path = aRxiv
 	url = https://github.com/ropensci/aRxiv
+[submodule "abitools"]
+	path = abitools
+	url = https://github.com/r-universe-org/abitools
 [submodule "agroclimatico"]
 	path = agroclimatico
 	url = https://github.com/ropensci/agroclimatico
