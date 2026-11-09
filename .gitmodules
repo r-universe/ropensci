@@ -197,6 +197,9 @@
 [submodule "camsRad"]
 	path = camsRad
 	url = https://github.com/ropensci/camsRad
+[submodule "camtrapReport"]
+	path = camtrapReport
+	url = https://github.com/spatialecology/camtrapReport
 [submodule "canaper"]
 	path = canaper
 	url = https://github.com/ropensci/canaper
