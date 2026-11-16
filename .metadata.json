@@ -462,15 +462,6 @@
     }
   },
   {
-    "package": "abitools",
-    "metadata": {
-      "ropensci_category": "scalereprod",
-      "ropensci_categories": [
-        "scalereprod"
-      ]
-    }
-  },
-  {
     "package": "agroclimatico",
     "metadata": {
       "review": {
